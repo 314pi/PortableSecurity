@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<title>Emsisoft Emergency Kit Portable Help</title>
+<link rel="shortcut icon" href="Other/Help/favicon.ico">
+<link rel="stylesheet" href="Other/Help/app.css" lazyload="1">
+</head>
+
+<body>
+<section class="Section is-marked EEK__how">
+	<div class="container">
+	<h2 class="Section__heading">How it works</h2>
+	<p class="Section__subheading">The Emsisoft Emergency Kit contains a collection of programs that can be used without software installation to scan for malware and clean infected computers: Emsisoft Emergency Kit Scanner and Emsisoft Commandline Scanner.</p>
+	<h3 class="Page__h3 mb1">Emsisoft Emergency Kit Scanner</h3>
+	<p class="mb2">The Emsisoft Emergency Kit Scanner includes the powerful Emsisoft Scanner complete with graphical user interface. Scan the infected PC for Viruses, Trojans, Spyware, Adware, Worms, Dialers, Keyloggers and other malicious programs.</p>
+	<h3 class="Page__h3 mb1">Emsisoft Commandline Scanner</h3>
+	<p>
+	This scanner contains the same functionality as the Emergency Kit Scanner but without a graphical user interface. The commandline tool is made for professional users and is perfect for batch jobs.<br>
+	<br>
+	To <strong>run</strong> the Emsisoft Commandline Scanner, perform the following actions:<br>
+	<br>
+	- Open a command prompt window (Run: cmd.exe)<br>
+	- Switch to the drive of the USB Stick (e.g.: f:), then to the folder of the executable files (e.g.: cd run)<br>
+	- Run the scanner by typing: a2cmd.exe<br>
+	<br>
+	<strong>Next</strong> you will see a help page describing all available parameters.<br>
+	<br>
+	The following parameter is an example of scanning drive c:\ with Memory, Traces (Registry) scan enabled, and archive support active. Detected Malware is moved to quarantine.<br><br>
+	<code>a2cmd.exe /f="c:\" /m /t /a /q="c:\quarantine\"</code>
+	</p>
+	</div>
+</section>	
+</body>
+</html>

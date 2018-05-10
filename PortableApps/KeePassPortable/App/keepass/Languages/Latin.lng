@@ -1,0 +1,898 @@
+﻿|~LANGUAGENAME|                |Latina|
+|~LANGUAGEVERSION|             |1.30|
+|~LANGUAGEAUTHOR|              |akkadites|
+|~LANGUAGEAUTHOREMAIL|         |quotcumque@gmail.com|
+
+|&OK|           |&Ita|
+|&Cancel|       |&Abrogare|
+|&Close|        |&Claudere|
+
+|&Generate Random Password|    |Ex&cogitatio tesserae casualis|
+
+|General|       |Generales|
+|Windows|       |SO|
+|Network|       |Rete|
+|Internet|      |Interrete|
+|eMail|         |e-Cursus|
+|Homebanking|   |Rationes|
+
+|Entry|         |Ratio|
+
+|&Title|          |&Titulus|
+|User &Name|      |&Nomen utentis|
+|&URL|            |In&scriptio|
+|&Password|       |Te&ssera|
+|N&otes|          |&Commentarius|
+|&Case sensitive| |&Registrum discernere|
+|Search in|       |Quaerere inter|
+|Find what:|      |Quaerere litteras:|
+|Find|            |Quaerere|
+|&Find|           |&Quaere|
+|Find a string in the password list.| |Inquirere inter tesseras.|
+
+|About KeePass| |De KeePass|
+
+|Password Groups|  |Collectanea tesserarum|
+|Title|            |Titulus|
+|User Name|        |Nomen utentis|
+|URL|              |Inscriptio|
+|Password|         |Tessera|
+|Notes|            |Commentarii|
+
+|Ready.|           |Factum.|
+
+|Enter the composite master key.| |Induc tesseram compositam.|
+|Enter Password:|  |Induc tesseram:|
+
+|Create New Password Database| |Producere novum repositorium tesserarum|
+|Set Composite Master Key|     |Institutio tesserae prncipalis compositae|
+|Specify the composite master key.|
+    |Constitue  tesseram principalem.|
+|Repeat Master Password|       |Itera tesseram principalem|
+|Repeat the master password for the new database.|
+    |Itera tesseram principalem ad repositorium novum.|
+|Open Database|                |Apertura repositorii|
+|Master Password:|             |Tessera principalis:|
+|Enter Composite Master Key|   |Induc tesseram compositam|
+|Key File|                     |Plica clavis|
+|(No key file selected)|       |<Plica clavis non indicata>|
+
+|Password Generator|              |Generator tesserarum|
+|Here you can generate a random password.|
+    |Hic tessera fortuita excogirari potest.|
+|(Automatically generated passwords for new entries)|
+    |(Tesserae sponte excogitatae ad novas rationes)|
+|(Custom)|                        |(Peculiaris)|
+|Save current settings as a profile.|
+    |Servare parametra praesentia ut descriptionem.|
+|Delete currently selected profile.| |Delere formam nunc selectam.|
+|Current settings|                |Parametra praesentia|
+|Generate using character set:|   |Uti collectione litterarum:|
+|Length of generated password:|   |Longitudo tesserae producendae:|
+|Generate using pattern:|         |Ad formulam:|
+|Exclude look-alike characters|   |Excludere characteres similes|
+|Options|                         |Optiones|
+|Also include the following characters:|
+    |Etiam usurpare illos characteres:|
+|Collect additional &entropy|     |Colligere &entropiam additionalem|
+|Generated password|              |Tessera excogitata|
+|&Generate|                       |&Fingere|
+|&Accept|                         |&Acceptare|
+|Upper-case (A, B, C, ...)|       |Majusculae (A, B, C, ...)|
+|Lower-case (a, b, c, ...)|       |Minusculae (a, b, c, ...)|
+|Digits (0, 1, 2, ...)|           |Numeri (0, 1, 2, ...)|
+|Underline (_)|                   |Sublineatura (_)|
+|Minus (-)|                       |Signum negativum (-)|
+|Space ( )|                       |Lacuna ( )|
+|Special|                         |Specifici|
+|High ANSI characters|            |ANSI-characteres superiores|
+|Brackets ([, ], {, }, (, ), <, >)|
+    |Parentheses ([, ], {, }, (, ), <, >)|
+|There are too few characters in the character set to build up a password matching the specified rules|
+    |Deficiunt characteres ut tessera producatur ad formulam constitutam|
+
+|Group:|     |Fasciculus:|
+|Title:|     |Titulus:|
+|User name:| |Nomen:|
+|URL:|       |Inscriptio:|
+|Icon:|      |Icon:|
+|Password:|  |Tessera:|
+|Repeat:|    |Iterato:|
+|Notes:|     |Annotationes:|
+|***|        |***|
+
+|Add Entry|                    |Addere schedulam|
+|Create a new password entry.| |Creare novam schedulam cum tessera.|
+|Edit Entry|                   |Modificare schedulam|
+|Modify existing password entry.| |Modificare schedulam cum tessera.|
+
+|Group name:|                  |Nomen fasciculi:|
+
+|Add Group|                    |Addere fasciculum|
+|Create a new password group.| |Creare novum fasciculum tesserarum.|
+|Edit Group|                   |Mutare fasciculum|
+|Modify existing password group.| |Mutare fasciculum tesserarum.|
+
+|Random mouse input|           |Motus muris accidentalis|
+|Click to begin:|              |Coepi:|
+|Use &Mouse as Random Source|  |&Mus usui est ut fons motûs|
+|Move the mouse in the field above until this is full:|
+    |Move murem donec area supra implebitur:|
+|Hint: It is best to use both mouse and keyboard random sources.|
+    |Admonitio: utere mure et claviaturâ simul.|
+|Random keyboard input|        |Inductio accidentalis e claviaturâ|
+|Just hack some random keys into the edit box above.|
+    |Modo aliquot charateres cujuslibet generis supra induc.|
+|You don't have to remember the keys you type in. They are used to generate a random value.|
+    |Memoriâ tenere characteres inductos nullum opus est. Illi solum ad producendum numerum accidentalem adhibentur.|
+|So, the more the better. The different, the better.|
+    |Ergo quo plures et magis varii eo melius.|
+|The random the better.|
+    |Etiam quo minus praevisibiles, eo melius.|
+|Get Random|                   |Accidentalia percipiuntur|
+|Get Random Data for Key Generation| |Accidentalia ad tesseram confingendam percipiuntur|
+|Move the mouse and type some random text to generate random values.|
+    |Move murem textumque proscribe ut valores accidentales producantur.|
+
+|Choose an icon.|        |Elige iconem.|
+|Pick an Icon|           |Icon seligitur|
+|Choose an icon from the list of available entry and group icons.|
+|Elige iconem e catalogo iconum praesentium ad schedulam et fasciculum.|
+
+|&File|                  |&Plica|
+|&Edit|                  |A&ctiones|
+|&View|                  |&Facies|
+|&?|                     |&?|
+
+|&New...|                |&Nova...|
+|&Open...|               |&Aperire...|
+|&Save|                  |&Servare|
+|Save &As...|            |Servare &ut...|
+|Change &Master Key...|  |&Mutare tesseram principalem...|
+|&Print...|              |Im&pressio...|
+|&Export|             |&Exportare in|
+|&Lock Workspace|        |Ob&sidere spatium|
+|&Unlock Workspace|      |T&ollere obsessionem|
+|E&xit|                  |E&xire|
+
+|&Lock/Unlock Workspace| |Ob&sidere/Resolvere spatium|
+
+|&Options...|      |&Parametra...|
+|Add &Group...|    |Addere &fasciculum...|
+|Add Su&bgroup...| |Addere &sectionem...|
+|Ed&it Group...|   |R&edigere fasciculum...|
+|&Delete Group...| |&Delere fasciculum...|
+|Pr&int Group...|  |Im&primere fasciculum...|
+|&Export Group| |&Exportare fasciculum in|
+|Copy User &Name|  |Copiare &nomen utentis|
+|Copy &Password|   |Copiare &tesseram|
+|Open &URL(s)|     |Aperire &inscriptione(m/s)|
+|&Find in Database...|         |&Quaerere in repositorio tesserarum...|
+|Find in t&his Group...|       |Quaerere in hoc &fasciculo...|
+|&Add Entry...|                |&Addere schedulam...|
+|&Edit/View Entry...|          |Pro&palare schedulam...|
+|&Delete Entry|                |&Delere schedulam|
+|Dupli&cate Entry|             |D&uplicare schedulam|
+|Move Entry to &Top|           |Movere in api&cem|
+|Move Entry &One Up|           |Movere sursum|
+|Mo&ve Entry One Down|         |Movere deorsum|
+|Move Entry to &Bottom|        |Movere in imum|
+
+|Move Group to &Top|           |Movere fasciculum in api&cem|
+|Move Group One &Up|           |Movere fasciculum &sursum|
+|Move Group &One Down|         |Movere fasciculum &deorsum|
+|Move Group to &Bottom|        |Movere fasciculum in &imum|
+
+|Change &Language...|          |&Linguam commutare...|
+|User &name|                   |&Nomen|
+|&Always on Top|               |Semper a fronte|
+|Hide &Passwords Behind Asterisks (***)|       |Monstrare (***) &pro tessera|
+
+|Password &Generator...|       |&Generator tesserarum...|
+
+|KeePass &Website|             |&Situs KeePass|
+|&About KeePass...|            |&De programmate...|
+
+|&Database Settings...|        |Parametra &repositorii...|
+
+|&Tray/Untray|
+    |Educere sustentaculo/Devolvere in sustentaculum|
+
+|Version|                     |Versio|
+
+|Password and repeated password aren't identical!|
+    |Tesserae inter se differunt!|
+
+|Stop|                         |Siste|
+
+|Enter a group name!|          |Da nomen fasciculo!|
+|You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
+    |Debes numeros improvisos generare adhibens motum muris vel claves primens antequam dialogus intereat.|
+|No random input|              |Deest inductio temeraria|
+|EITHER enter a master password OR select a key file.|
+    |Induc tesseram aut selige plicam clavis.|
+|The password must consist of at least one character!|
+    |Tessera minime ex una littera consistere debet!|
+|Select at least one of the options in the list above!|
+    |Signa saltem unum electum supra!|
+
+|The following self-tests failed:|
+    |Sequentes verificationes corruerunt:|
+|- SHA 32-bit variables|       |- SHA 32-bit|
+|- SHA 64-bit variables|       |- SHA 64-bit|
+|- SHA-256 test vector(s)|     |- SHA-256 vector periclitativus|
+|- SHA-512 test vector(s)|     |- SHA-512 vector periclitativus|
+|- Rijndael encryption|        |- Clandestnatio Rijndael|
+|- Rijndael decryption|        |- Declandestinatio Rijndael|
+|- Arcfour crypto routine|     |- Adductio ad clandestinum Arcfour|
+|- Twofish algorithm|          |- Algorithmus Twofish|
+
+|The program will exit now.|   |Modo programma terminabitur.|
+|Self-Test(s) Failed|          |Autoverificatio corruit|
+
+|Clipboard cleared.|           |Receptaculum excambii depurgatum.|
+|Field copied to clipboard. Clipboard will be cleared in %d seconds.|
+    |Campus in receptaculo translatus est. Receptaculum depost %d secundas purgabitur.|
+
+|Failed to set the master key!|
+    |Non provenit tesseram principalem constituere!|
+|File cannot be opened!|
+    |Non potui plicam aperire!|
+|File cannot be saved!|
+    |Plica servari non potest!|
+
+|KeePass Password Safe Files|  |Plicae tesserarum KeePass|
+|All Files|                    |Universae plicae|
+
+|The current database file has been modified|
+    |Hoc repositorium tesserarum mutatum est.|
+|Do you want to save the changes before closing?|
+    |Vin' mutationes in eo servare?|
+
+|Deleting a group will delete all items and subgroups in that group, too.|
+    |Si fasciculus deleatur, cunctas schedulas sectionesque intra se deleri faciet simul.|
+|Are you sure you want to delete this group?|
+    |An vere vis delere hoc fasciculum?|
+|Delete Group Confirmation|
+    |Confirmatio fasciculum delendi|
+
+|Cannot open temporary file for printing!|
+    |Non possum plicam temporariam ad imprimendum aperire!|
+
+|Load Language File|           |Plica lingualis percipitur|
+|Load a Language File|         |Plicam linguae percipere|
+|Select one of the languages in the list below.|
+    |Selige unam linguarum ex tabula infra.|
+|Available Languages|          |Linguae praesentes|
+
+|Open &Help File|              |Aperire &informatorium|
+|Open &License File|           |Ostendere &licentiam|
+
+|Newline sequence:|            |Characteres lineae novae:|
+|Windows newline sequence (\r\n)|              |Characteres ut in Windows (\r\n)|
+|Unix newline sequence (\n)|   |Characteres ut in Unix (\n)|
+|Clipboard auto-clear time (seconds):|   |Tempus tenendi in receptaculo (secundae):|
+|Settings|                     |Parametra|
+|Here you can configure KeePass.|              |Optiones KeePass.|
+|Automatically open last used database on startup|
+    |Admittendo ultimum repositorium qui in usu erat aperire|
+|Automatically save when closing/locking the database|
+    |In modum automaticum repositorium servetur cum clauditur/obsidetur|
+|Display images on buttons|
+    |Icones supra botones monstrare|
+|Show grid lines in password entry list|
+    |Monstrare lineas inter schedulas in catalogo|
+|Workspace is locked.|
+    |Repositorium tesserarum obsessum est.|
+|Workspace locked|
+    |Repositorium obsesum|
+
+|Loading error|                |Lapsus onerandi|
+|Language file cannot be opened!|
+    |Plica linguae aperiri non potest!|
+|Language file cannot be registered!|
+    |Non possum plicam linguae registrare!|
+|The language file has been installed.|
+    |Plica linguae instituta est.|
+|You must restart KeePass in order to use the new language.|
+    |Necesse est readmittere KeePass ad linguam novam adhibendam.|
+|Do you wish to restart KeePass now?|
+    |An nunc KeePass readmittere vis?|
+|Restart KeePass?|
+    |Readmitterene KeePass?|
+|Application cannot be restarted automatically!|
+    |Applicatio in modo automatico redinitiari non potest!|
+|Please restart KeePass manually.|
+    |Sodes, readmitte KeePass per manus.|
+
+|CSV Files|                    |Plicae CSV|
+|Text Files|                   |Plicae textuales|
+|An error occurred while importing the file. File cannot be imported.|
+    |Importus plicae corruit. Plica importari non potest.|
+|&CSV File...|                 |Plica &CSV...|
+|&PwSafe v2 TXT File...|       |TXT-plica &PwSafe v2...|
+|Select &Font|                 |Electus &litterarum|
+|Select a new font for the list controls:|     |Selige novas litteras ad rationem objectorum:|
+|Select &Password Font| |Selige litteras &tesserarum|
+|Code&Wallet TXT File...|      |Code&Wallet TXT plica...|
+|&TXT File...|                 |&TXT plica...|
+|&HTML File...|                |&HTML plica...|
+|&XML File...|                 |&XML plica...|
+|&CSV File...|                 |&CSV plica...|
+|&Import|                 |&Importare de|
+
+|&Get more languages...|       |Plures &linguae...|
+|Start and exit|               |Initiatio et exitus|
+|Interface (GUI)|              |Interfacies|
+|Files|                        |Plicae|
+|Memory|                       |Memoria|
+|Lock workspace when minimizing the main window|
+    |Obsidere repositorium quando fenestra principalis devolvetur|
+|Minimize to tray instead of taskbar|
+    |Devolvere in sustentaculum systematis pro pensorum sustentaculo|
+
+|Encryption algorithm to use (for this database):| |Algorithmus ad clandestinum adducendi (ad hoc repositorium):|
+|Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
+    |Advanced Encryption Standard (AES) (128-bitorum cifratura trochlearis, adhibens clavem 256-bitorum)|
+|Twofish (128-bit block cipher using 256-bit key)|
+    |Twofish (128-bitorum cifratura trochlearis, adhibens clavem 256-bitorum)|
+|Security|                     |Securitas|
+|KeePass is OSI Certified Open Source Software.|
+    |KeePass - applicatio ab OSI probata est cum codice propalato.|
+|Lock workspace after the following idle time (seconds):|
+    |Obsidere spatium depost tempus inertiae (secundarum):|
+|&Group name|                  |Nomina &fasciculorum|
+|Every second row has a different background color. Use this color:|
+    |Lineae alternâ vice colore differunt. Uti illo colore:|
+|Default|                      |Ut praefinitum|
+|More Colors...|               |Plures colores...|
+|Search Results|               |Summa quaesitionis|
+
+|Creation Time|     |Creata|
+|Last Modification| |Mutata|
+|Last Access|       |Inspecta|
+|Expires|           |Exit|
+|UUID|              |Identificator|
+
+|&Creation Time|          |Tempus &creationis|
+|Last &Modification Time| |Tempus &mutationis|
+|&Last Access Time|       |Tempus ultimi &accessûs|
+|&Expiration Time|        |&Valet usque ad|
+|UU&ID|                   |&Identificator|
+
+|Show &Toolbar|              |Proferre tabulam in&strumentorum|
+|KeePass Website|            |Situs KeePass|
+|Field copied to clipboard.| |Campus in receptaculum translatus est.|
+
+|A key file already exists on this drive. Do you want to overwrite or reuse it?|
+    |Plica cum clave jam exsistit. Vin' rescribere illam an iterum usurpare?|
+|Overwrite?|                   |Rescriberene?|
+|Expires:|                     |Excedit:|
+|Change group:|                |Fasciculum cambiare:|
+|Change entry icon:|           |Iconem schedulae commutare:|
+|Change expiration time:|      |Diem agendi immutare:|
+|Mass Modify|                  |Mutare catervatim|
+|Change fields of all selected entries|        |Mutare campos in cunctis selectis|
+|Show &Columns|                |Monstrare &columnas|
+|Show &Entry View|             |Monstrare aream inspiciendi &schedulae|
+
+|Automatically resize table columns when resizing the main window|
+    |Sponte redimetiri latitudinem columnarum dimensionibus fenestrae mutantibus|
+|&Copy|                        |&Copiare|
+|Copy &All|                    |Copiare &omnes|
+|&Undo|                        |Infectum &reddere|
+|&Paste|                       |Im&ponere|
+|Cu&t|                         |Ex&cîdere|
+|&Select All|                  |&Seligere omnes|
+|&Delete|                      |&Delere|
+|&TAN Wizard...|               |&TAN artifex...|
+|TAN Wizard|                   |TAN artifex|
+|&Modify All Selected...| |&Mutare omnes selectas...|
+
+|Using this wizard you can easily add TAN entries.|
+    |Hic artifex adjuvabit te TAN schedulas addere.|
+
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
+    |Impone TANos tuos in area scribendi infra. Litterae, quae distincte non indicantur ut TAN litterae, separatrices habentur. Tantum sublinea ex TAN litteris consistentes, addentur ut TAN schedulae.|
+
+|<TAN>|                        |<TAN>|
+|Print Pre&view...|            |&Praespectus...|
+
+|About &Translation...|        |De &versione in linguam...|
+|Translation information|      |Notitiae de versione|
+|Currently Used Language|      |Nunc in usu|
+|Language File Version|        |Nota plicae linguae|
+|Author|                       |Auctor|
+|Translation Author Contact|   |Inscriptio traductoris|
+|&Rearrange|                   |&Ordinare|
+|&Sort Group List|             |Ordinare collectanea &fasciculorum|
+|Sort List by &Title|          |Ordinare &nominatim|
+|Sort List by User &Name|      |Ordinare ad nomen &utentis|
+|Sort List by &URL|            |Ordinare ad &URL|
+|Sort List by &Password|       |Ordinare ad &tesseram|
+|Sort List by Note&s|          |Ordinare ad &annotationes|
+|Sort List by &Creation Time|  |Ordinare ad tempus &creationis|
+|Sort List by Last &Modify Time|               |Ordinare ad tempus ultimae &mutationis|
+|Sort List by Last &Access Time|               |Ordinare ad tempus ultimi acce&ssûs|
+|Sort List by &Expiration Time|                |Ordinare ad tempus &valendi|
+|Move Group One &Left|         |Movere in gradum s&uperiorem|
+|Move Group One &Right|        |Movere in gradum in&feriorem|
+
+|Hide &User Names Behind Asterisks (***)|  |&Obscurare nomen utentis asteriscis (***)|
+|Attachment:| |Plica affixa:|
+|Attachment|  |Plica affixa|
+|&Attachment| |Plicae af&fixae|
+
+|Generate a random password...|           |Confingere tesseram temerariam...|
+|Open file and set as attachment...|      |Aperire plicamque applicare...|
+|Save attached file to disk...|           |Servare plicam applicatam in disco...|
+
+|There already is a file attached with this entry.|           |Voci jam applicata est plica quaedam.|
+|Do you want to overwrite the current attachment?|            |Vin' illam rescribere?|
+|&Save Attached File To...|    |Servare plicam applicatam &in ...|
+|There is no file attached with this entry.|                  |Huic voci abest ulla plica applicata.|
+|Remove the currently attached file|      |Removere plicam nunc applicatam|
+
+|Close button [X] minimizes the main window instead of terminating the application|
+    |Devertere fenestram pulsando super [X] pro applicatione terminanda|
+
+|KeePass Password Database|               |Repositorium tesserarum KeePass|
+|&Open with KeePass|                      |&Aperire in KeePass|
+|Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
+    |Adjungere .kdb plicas KeePass-o (ergo KeePass plicam aperiet duplici crepitu super hanc):|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|
+    |KeePass nunc adjunctum est .kdb plicis! Crepitus duplex super .kdb plicam admittet KeePass in modum automaticum.|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
+    |Adjunctio plicarum .kdb KeePass-o abolita est! Amodo KeePass non admittetur cum bis super .kdb plicam crepabis.|
+|Create &Association|                     |&Associare|
+|&Remove Association|                     |&Rumpere associationem|
+|Setup|                                   |Temperatio|
+|Password List|                           |Ratio tesserarum|
+|Exit?|                                   |Exirene?|
+|The file couldn't be saved.|             |Plica servari non potest.|
+|Maybe it's read-only or the storage media has been removed.|
+    |Fortasse modo legi potest vel discus ubi perscribatur sublatus est.|
+|If you exit now, all changes to the current database will be lost.|
+    |Si nunc exeas, repositorium currens perdetur.|
+|Would you like to exit anyway?|          |An utique vis exire?|
+|Cannot access the selected drive.|       |Non possum ad discum selectum accedere.|
+|Make sure a writable medium is inserted.||Recense, si in disco perscribere potest.|
+|Not enough free disk space!|             |Deficit spatium liberum!|
+|Disable unsafe (security-critical) operations like exports, etc.|
+    |Vetare operationes intutas sicut exportationem etc.|
+|Unsafe operations are disabled.|         |Actiones intutae interdictae sunt.|
+|To execute this operation you must enable unsafe operations in the options dialog.|
+    |Ad hanc operationem perficiendam operationes intutae permittendae sunt inter optiones.|
+|You have changed an option that requires restarting KeePass to get active.|
+    |Parametrum commutatum est, quod ut valeat KeePass necesse est readmittere.|
+|Expired Entries|                         |Schedulae, quae tempus excesserunt|
+|This is a list of all expired entries|   |Cunctae schedulae, quae tempus excesserunt|
+|Show &Expired Entries|                   |Monstrare schedulas, quae &excesserunt|
+|Click on an entry to jump to it.|        |Crepa super schedulam ut salias ad eam.|
+|Quality:|                                |Firmitas:|
+|Database Settings|                       |Optiones repositorii|
+|Here you can configure the current database.| |Hic potes repositorium currentem temperare.|
+|Database Summary|                        |Summa repositorii|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
+    |Vestra clavis primaria aliquot vicibus cifratur donec clavis finalis ad clandestinum adducendi eveniet. Id augurationibus obstat impetibusque ad dictionarium.|
+|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
+   |Quanto major est hic numerus, tanto difficilius est urgere ad dictionarium. At quanto major est hic numerus, tanto diutius percipitur atque servatur repositorium.|
+|Number of key encryption rounds:|        |Numerus cyclorum cifrandi:|
+|bits|                                    |bitorum|
+|Personal &Vault TXT File...|             |Personal &Vault TXT plica...|
+|Imported from Password Safe|             |Importatum e Password Safe|
+|Remember last opened file|               |Recordari ultimae plicae apertae|
+|Total number of groups / entries|        |Cuncti fasciculi / schedulae|
+|Total: %u groups / %u entries|           |Summa: %u fasciculi, %u schedulae|
+|%u of %u selected|                       |%u ex %u selectae|
+|Number of selected entries (number of entries in the list)| |Quantitas schedularum selectarum (schedularum in fasciculo)|
+|Status|                                  |Status|
+|The database file has been modified!|    |Plica repositorii mutata est!|
+|Most probably someone has changed the file while you were editing it.| |Causa probabilissima est, quod quisquam mutaverit illam eodem tempore cum ipsam redigeres.|
+|Do you want to overwrite it?|            |An rescribere eam?|
+|The group you selected cannot store entries. Please select a different group.|
+    |Non potest in sectione selecta schedulas servare. Sodes, locum alium selige.|
+|This will remove all selected entries unrecoverably!|
+    |Omnes schedulae delendae irrecuperabiles fient!|
+|Are you sure you want to delete all selected entries?|
+    |En' certus(a) delendarum cunctarum vocum selectarum?|
+|Delete Entries Confirmation|             |Confirmatio delendi vocum|
+|Use PuTTY for ssh: and telnet: URLs|     |Uti PuTTY pro ssh: et telnet: pro nexibus|
+|Mark database as modified on last-access time change|
+    |Designare repositorium discoopertum ut modificatum|
+|Se&lect All|                             |&Seligere cunctas|
+|Auto-&Sort Password List|                |Ordinare s&ponte tesseras|
+|N&o Auto-Sort|                           |Non ordinare spo&nte|
+|Auto-sorting of the password list is enabled, you cannot move entries manually.|
+    |Ordinatio tesserarum valet - ergo ad libitum schedulas movere non potes.|
+|Perform Auto-&Type|                      |Inducere automatice|
+|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
+    |Ordinatio indicis tesserarum automatica valet - per manus non est index ordinandus.|
+|Select key file manually...|             |Elige plicam clavis...|
+|Save key file manually to...|            |Servare plicam cum clave ut...|
+|Enter the new composite master key.|     |Induc tesseram compositam novam.|
+|Repeat the new master password for this database.|
+    |Induc iterato novam tesseram primariam ad hoc repositorium.|
+|Change Composite Master Key|             |Mutatio tesserae compositae primariae|
+
+|&Disable|             |Co&hibere|
+|&Enable|              |In &usum inducere|
+|&Plugins...|          |&Apposita...|
+|About &Plugin...|     |De ap&posito...|
+|An error occurred|    |Error evênit|
+|Auto-Type|            |Scriptio automatica|
+|Clipboard behavior:|  |Mos receptaculi excambii:|
+|Enabled, loaded|      |In usu, oneratum.|
+|Encryption/decryption error|     |Lapsus cifrandi/decifrandi|
+|Enhanced: allow pasting only once and protect against clipboard spies|
+    |Extensus: sinit semel tantum imponere, et a programmatibus introspicientibus in receptaculum protegit|
+|Error code|           |Index erroris|
+|Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
+    |Impossibile associationem .kdb plicarum instituere. Verifica, si jura in registro perscribere tibi sunt.|
+|File access error: failed to open file in read mode|   |Error accedendi ad plicam: plica ad legendum aperiri non potest|
+|File access error: failed to open file in write mode|  |Error accedendi ad plicam: plica ad scribendum aperiri non potest|
+|File error: error while reading from the file|         |Error plicaris: lapsus e plica legendi|
+|File error: error while writing to the file|           |Error plicaris: lapsus in plica scribendi|
+|Get more plugins...|  |Accipere plura apposita...|
+|Global auto-type hot key combination:|                 |Clavis autoscribendi exciens globalis:|
+|Help:|                |Informatorium:|
+|Here you can configure all installed KeePass plugins.| |Hic omnia apposita ad  KeePass instituta aptare potes.|
+|If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
+    |Si quam molestiam patieris, adhibito denuo methodum purgandi temporalem.|
+|Internal error|       |Error internus|
+|Invalid parameter|    |Parametrum incorrectum|
+|Invalid random source||Fons casualitatum non validus est|
+|Invalid/corrupted file structure| |Structura plicae perversa/corrupta|
+|Invalid/wrong key|    |Clavis invalida/incorrecta|
+|KeePass - Save Before Close/Lock?| |KeePass - servare priusquam claudatur/obsideatur?|
+|Most probably another application has reserved this hot key already.|
+    |Certo certius aliud programma istam clavem excientem jam praeservavit.|
+|Never expires|        |Nunquam tempus excedet|
+|Number the TANs consecutively, starting from this value| |Numerare TANos consequenter, ab hoc valore incipiendo|
+|Plugin|               |Appositum|
+|Plugins|              |Apposita|
+|Success|              |Prospere|
+|Timed: copy data to the clipboard and clear it automatically after some seconds|
+    |Temporalis: automatice purgat receptaculum paucis secundis interpositis|
+|Too little memory (RAM) available|    |Memoria deficit (RAM)|
+|Cannot register the global hot key.| |Nequeo clavem excientem globalem registrare.|
+|Unknown error|        |Error ignotus|
+|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
+    |Cautio! In his conditionibus programma operari haud rite potest, praesertim si receptaculum extendir per alia programmata.|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
+    |Potes aliam clavem excientem constituere in 'Instrumenta' - 'Parametra' - 'Extensa' - 'Scriptio automatica'.|
+|You've selected the AND key mode, so you must enter a password AND select a key file.|
+    |Mos "ATQUE" elegisti ad tesseram inducendam, ideo tesseram inducere debes ATQUE plicam clavis seligere.|
+|&Use master password and key file| |&Uti tesserâ atque plicâ clavis|
+
+|Advanced| |Extensa...|
+|Backup|   |Reservatio|
+|Click [Cancel] to abort changing the key.| |Preme [Abrogare] ad mutationem clavis terminandam.|
+|Click [No] to reuse the selected key file for this database.|
+    |Preme [Non] ad usum iteratum plicae clavis selectae ad hoc repositorium.|
+|Click [Yes] to overwrite the key file.|    |Preme [Ita] ut plica clavis rescribatur.|
+|Failed to create backup of this entry!|    |Exemplum duplicatum hujus schedulae creari non potuit!|
+|Immediately after opening a database|      |Statim postquam repositorium aperitur|
+|Integration| |Associatio|
+|Start minimized and locked| |Initiari devolutum in statu obsesso|
+|Save backups of modified entries into the 'Backup' group| |Servare exempla duplicata in sectione "Reservatio"|
+|Show entries that will expire soon (if any)| |Monstrare schedulas, quae mox tempus constitutum excedent (si praesunt)|
+|Show expired entries (if any)| |Monstrare schedulas, quae tempus excesserunt (si praesunt)|
+|Start KeePass at Windows startup (for current user)| |Admittere KeePass depost sytematis initiationem (ad hunc usorem)|
+|Unable to create/remove the auto-start key of KeePass in the Windows registry!|
+    |Non possum perscriptionem in registro systematis infigere/removere, ut KeePass in modum automaticum admittatur!|
+
+|&Get More Import Plugins...| |&Plura apposita importûs recipere...|
+|Encode/replace newline characters by '\n'|  |Supponere signum lineae novae signo '\n'|
+|Export Options|   |Parametra exportûs|
+|Export backup entries (entries in the 'Backup' group)| |Exportare schedulas reservatas (ex sectione "Reservatio")|
+|Fields to export| |Campi exportandi|
+|Group Tree|       |Arbor fasciculorum|
+|Here you can customize the exported files.| |Hic plicas exportandas temperare potes.|
+|Icon|             |Icon|
+|The composite master key has been changed!|
+    |Tessera composita mutata est!|
+|Save the database now in order to get the new key applied.|
+    |Reconserva repositorium illico, ut nova ressera valeat.|
+
+|1 Month|  |1 mensis|
+|1 Week|   |1 septimana|
+|2 Weeks|  |2 septimanae|
+|3 Months| |3 menses|
+|By default, new entries expire in the following number of days:|
+    |Ex praefinito schedulae novae valent (dies):|
+|Calculate rounds for a 1-second delay on this computer|
+    |Calculare numerum circuituum in intervallo inter 1 secundam in isto computatro|
+|Click to expire the entry in %u days|
+    |Facere invalidam post %u dies|
+|Exclude entries in the '&Backup' group|
+    |Excludere schedulas ex sectione 'Re&servatio'|
+|Field has been pasted.|     |Campus insertus est.|
+|Limit to single instance|   |Unum exemplum tantum|
+|Paste operation completed.| |Insertio completa est.|
+|Single left click instead of double-click for default tray icon action|
+    |Crepitus singulus muris pro duplici super iconem ad actionem praefinitam|
+|The program is distributed under the terms of the GNU General Public License v2 or later.|
+    |Hoc programma ex formula GNU General Public License v2 superque divulgatur.|
+|Use more secure password edit controls|
+    |Uti areis inducendi tutioribus|
+|Waiting for paste command.| |Insertio exspectatur.|
+
+|&Donate...| |Con&tribuere...|
+|1 Year|     |1 annus|
+|6 Months|   |Semestris|
+|Include backup entries in quick searches|
+    |Quaerere rapide etiam inter schedulas reservatas|
+
+|&Repair Database File...| |&Resarcire repositorium tesserarum...|
+|Delete all backup entries before saving the database| |Ejicere schedulas reservatas priusquam servetur|
+|Press Shift-Home or Shift-End to clear this edit control| |Preme Shift-Home aut Shift-End ad campum purgandum|
+|Use alternative auto-type method (minimize window)| |Uti modo inducendi automatici altero|
+
+|&KeePass Database...| |Repositorium &KeePass...|
+|Acknowledgements| |Gratias agimus|
+|Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
+    |Decerne: debetne KeePass usurpare tesseram primariam hujus repositorii an electum proponere novae tesserae ad plicam exportandam.|
+|Click [Yes] to use the same key as the currently opened database.| |Pulsa [Ita], ut eadem tessera in usu sit, quae repositorio currenti applicata.|
+|Click [No] to set a new key for the exported file.|                |Pulsa [Non], ut novam tesseram constituas plicae exportandae .|
+|Reuse the current key/password?| |An tesseram currentem etiam usurpare?|
+|Show full path in the title bar (instead of file name only)| |Monstrare viam plenam in linea tituli (pro solo nomine plicae)|
+|The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
+    |Forma plicae importandae identificatores ad fasciculos/schedulas suscipit. Elige modum importandi.|
+|Create new IDs|     |Creare identificatores novos|
+|If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
+    |Si hanc optionem elegeris, KeePass creabit identificatores novos ad omnes fasciculos et schedulas. Eo omnes fasciculi et schedulae in repositorio aperto mutationes non subibunt.|
+|Overwrite|          |Rescribere|
+|KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
+    |KeePass supponet omnes fasciculos et schedulas novis e plica importanda, siquidem eosdem identificatores habebunt.|
+|Overwrite if newer| |Rescribere si recentiores|
+|KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
+    |KeePass comparabit tempus mutationis schedularum supponetque eas tantum, quae prisciores sunt importandis.|
+
+|Copy &URL to Clipboard| |Immittere &URL in receptacuum|
+|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
+    |Immittere nexus in receptaculum pro ipsis aperiendis (excepto cmd://)|
+|Enable auto-type features| |Accendere scriptionem automaticam|
+
+|&Help| |In&formatorium|
+|&Help Contents| |Index &articulorum|
+|&Tools| |&Instrumenta|
+|Auto-Type Entry Selection| |Selectio schedulae, quae automatice scribatur|
+|Click [No] to open the file in normal writing mode.| |Pulsa [Non], ut plica aperiatur in statu, in quo rescribi potest.|
+|Click [Yes] to open the file in read-only mode.| |Pulsa [Ita], ut plica aperiatur in statu solum ad legendum.|
+|Click on an entry to auto-type it.| |Crepa supra schedulam ut scribatur in modum automaticum.|
+|Exit program instead of locking the workspace after the specified time| |Terminare programma pro spatio operario obsidendo depost tempus constitutum|
+|Multiple entries exist for the current window. Please select the entry to auto-type.| |Currenti fenestrae aliquot schedulae aptae sunt. Sodes, selige schedulam ad scriptionem automaticam.|
+|Now| |Nunc|
+|Open the file in read-only mode?| |An plicam aperire solum ad legendum?|
+|Show TAN &Indices in Entry Titles| |Monstrare TAN &indices in capitulo schedulae|
+|TAN View &Options| |&Visus TANorum|
+|The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
+    |Plicam, quam aperire vis, obsessa est ab alio programmate, quo mutari potest.|
+|Use &Simple List View for TAN-Only Groups| |Uti simplici &formâ catalogi fasciculorum, qui modo TANos continent|
+
+|'Keyfile' or 'preselect' option is already specified| |Optio 'Keyfile' vel 'preselect' jam data est|
+|'Pw' option is already specified| |Optio 'Pw' jam data est|
+|Check For Updates| |Sciscitari innovationes|
+|Check for updates at KeePass startup| |In initio innovationes sciscitari a KeePass|
+|Command line argument| |Argumentum lineae jussûs|
+|Connect failed, cannot check for updates.| |Coonexio abest, quam ob rem innovationes percipere nequeo.|
+|Database is already specified| |Repositorium tesserarum jam indicatum est|
+|Disable 'Save' button if the database hasn't been modified| |Torpidum facere botonem 'Servare' nisi repositorium mutatum fuerit|
+|Use local date/time format instead of ISO notation| |Uti formâ dati/horae ingenuâ pro ISO|
+|Filename not found| |Plica non reperta|
+|It contains an unmatched quote| |Virgulae impares insunt|
+|KeePass Initialization| |Initiatio KeePass|
+|New version available.| |Versio nova exorta est.|
+|Option not recognized| |Optio ignota est|
+|Password is empty| |Tessera vacua est|
+|Path is invalid| |Via prava|
+|Reason| |Causa|
+|You have the latest version.| |Versio recentissima jam instituta.|
+|ignored| |neglectum|
+
+|&Deny| |De&nega|
+|&Full| |Acessus &plenus|
+|&Read-Only| |Solummodo &legere|
+|An application requests access through inter-process communication|
+    |Alia applicatio communicationem interprocessualem (IPC) petit|
+|An entry already exists for the current URL.|
+    |Vox cum tali URL jam adest.|
+|Application| |Applicatio|
+|Do you grant the application access to your KeePass database?|
+    |An applicationi accessum permittere ad repositorium KeePass?|
+|Fields to remember| |Campi ad memorandum|
+|Incoming IPC Request| |Rogatio IPC iniens|
+|Lock workspace when locking Windows, switching user or sleeping|
+    |Obsidere spatium Windows obsidendo, usorem commutando seu dormitum abeundo|
+|Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
+    |Nota, quod nomen applicationis ab ea ipsa ostendatur ideoque perversum esse possit (ergo programma malitiosum accedere ad repositorium temptare possit).|
+|Select the fields KeePass should remember| |Selige campos, quos KeePass memoriâ tenere debet|
+|The following application requests access to your currently opened KeePass database:|
+    |Illa applicatio accessum ad repositorium Keepassi nunc apertum petivit:|
+|Unknown| |Ignotum|
+|Value| |Valor|
+|Enable remote control (allow applications to communicate with KeePass)|
+    |Permittere rectionem remotam (alias applicationes cum  KeePass communicare)|
+
+|Attachment Description| |Descriptio plicae applicatae|
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
+    |Persuade tibi, exceptorium plicae clavis insertum esse et KeePass accedere ad illam posse (recense permissiones accessûs ad plicam, si ab alio programmate obsideatur...).|
+
+|Arguments| |Argumenta|
+|Check for Updates| |Sciscitari de innovationibus|
+|Failed to save the configuration.| |Error servandi parametra.|
+|Hide passwords behind asterisks (***).| |Obscurare tesseram sub asteriscis (***)|
+|Locked| |Obsessum|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
+    |Sodes, appella descriptionem generatoris tesserarum seu jam exsistentem selige, ut ipsam rescribas:|
+|Profile| |Descriptio|
+|Randomly permute characters of password| |Miscere litteras fortuito|
+|Save as Profile| |Servare ut descriptionem|
+|Save current settings as password generator profile.| |Servare parametra praesentia ut descriptionem.|
+|TANs consist of the following characters:| |TANi his ex characteribus consistunt:|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?|
+    |Auxilium informationem verbosiorem de forma inducendi continet. Vin' id aperire?|
+
+|Advanced Password Generator Options| |Plures optiones generandi tesseras|
+|Clear Search History| |Purgare rationem quaerendi|
+|Default user name for new entries:| |Nomen praefinitum ad novas schedulas:|
+|Exclude the following characters:| |Excludere hos characteres:|
+|Fields to print| |Campi ad imprimendum|
+|Here you can customize the printed sheet.| |Hic paginam ad imprimendum configurare potes.|
+|Each character must occur at most once| |Unusquisque character semel tantum incìdere debet|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
+    |Optiones/regulae, asterisco signatae, fiduciam tesserarum producendarum minuunt. Applica illas, dummodo si applicatio, cujus usui sit tessera, talem poscit.|
+|Print Options| |Optiones impressionis|
+|Print backup entries (entries in the 'Backup' group)| |Imprimere schedulas reservatas (ex sectione 'Reservatio')|
+|Provider| |Praebitor|
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
+    |Constituere combinationem clavium Ctrl-Alt-K (quae KeePassi fenestram protrahat)|
+|Regular expression| |Sententia regularis|
+|Search...| |Quaere...|
+|TANs are imported into the currently selected group| |TANi in fasciculum selectum importati sunt|
+|The key provider plugin did not supply a valid key| |Appositum praebitoris clavis non procuravit clavem validam|
+|Type to search the database| |Induc quod velis quaeri in repositorio|
+|in "Minimal functionality" mode| |in conditionibus "paucissimarum functionum"|
+
+|Abort specifying a new key for the current database.| |Sistere commutationem clavis repositorii currentis.|
+|Abort the current operation.| |Sistere operationem currentem.|
+|Always grant full access through remote control (not recommended)| |Semper accessum plenum praebere (minime commendatum)|
+|Auto-Type: Help| |Scriptio automatica: Auxilium|
+|Auto-Type: Select Target Window...| |Scriptio automatica: Selectio fenestrae destinationis...|
+|Cancel| |Abrogare|
+|Copy [of an item]| |Exemplum [vocis]|
+|Discard all changes made to the database and close the file.| |Abolere universas mutationes factas et repositorium claudere.|
+|Discard all changes made to the database and exit KeePass.| |Abolere universas mutationes factas et KeePasso exire.|
+|Discard all changes made to the database and lock the KeePass workspace.| |Abolere universas mutationes factas et obsidere KeePassum.|
+|&Discard changes| |&Abole mutationes|
+|Focus entry list after a successful quick search|
+    |Focum supra rationem vocum ponere quaesitione rapida successa|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
+    |Novam clavem generare plicamque exsistentem rescribere. Clavis currens periet.|
+|KeePass will not be closed.| |KeePass non claudetur.|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|
+    |Onerare plicam clavis exsistentem et usurpare eam ut clavem repositorii currentis. Plica clavis non mutabitur.|
+|Overwrite existing key file?| |An plicam clavis exsistentem rescribere?|
+|Reuse| |Iterato|
+|Save| |Servare|
+|Save all changes made to the database and close the file.| |Conservare universas mutationes factas et claudere repositorium.|
+|Save all changes made to the database and exit KeePass.| |Conservare universas mutationes factas et KeePasso exire.|
+|Save all changes made to the database and lock the KeePass workspace.| |Conservare universas mutationes factas et obsidere KeePassum.|
+|Save database changes before closing the file?| |Conservarene mutationes antequam plica claudatur?|
+|Save database changes before exiting KeePass?| |Conservarene mutationes antequam KeePasso exeas?|
+|Save database changes before locking the workspace?| |Conservarene mutationes antequam spatium operarium obsideatur?|
+|Select the target window for the current entry.| |Selige fenestram destinationis ad schedulam currentem.|
+|The KeePass workspace will not be locked.| |KeePass non obsidebitur.|
+|The estimated quality of the master password must be at least %u bits!|
+    |Constantia tesserae principalis opinata non minor ac %u bitorum esse debet!|
+|The file will not be closed.| |Plica non claudetur.|
+|The master password must be at least %u characters long!| |Tessera principalis %u litteras excedere debet!|
+|The selected key file already exists| |Plica clavis selecta jam exsistit|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
+    |Ut fenestram destinatam seligas, istam e ratione fenestrarum apertarum selige, aut titulum fenestrae induc:|
+|URL Field: Help| |URL campus: Auxilium|
+|URL Field: Insert Placeholder| |URL campus: Formulam inserere|
+|URL Field: Select Application...| |URL campus: Applicationem seligere...|
+|URL Field: Select Document...| |URL campus: Documentum seligere...|
+
+|Default auto-type sequence for standard entries:| |Series clavium pressarum pro scriptione automatica ex praefinito:|
+|Drop to background when copying data to the clipboard| |Datis copiandis in receptaculum se abscondere|
+|Field to reference| |Campus ad ligamen|
+|Here you can configure auto-type.| |Hic scriptionem automaticam temperare potes.|
+|Identify source entry by| |Dignoscere schedulam fontis qua re|
+|In Notes Field| |In campo Annotationes|
+|In Password Field| |In campo Tessera|
+|In Title Field| |In campo Titulus|
+|In URL Field| |In campo URL|
+|In User Name Field| |In campo Nomen|
+|Insert Field Reference| |Imponere ligamen ad campum|
+|Multiple entries match the specified identifying field.| |Complures schedulae eundem valorem habent in campo dato.|
+|Prepend special initialization sequence for Internet Explorer windows|
+    |Praeponere seriem initialem ad Internet Explorer|
+|Source field to reference| |Campus ad ligamen|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
+    |Campus schedulam ut fontem determinans characteres pravos continet ('{', '}', signum lineae novae, ...).|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
+    |Plica videtur corrupta esse. Sodes, serva iterum. Nisi succedet, servato repositorium in alio loco.|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
+    |Ad ambiguitatem vitandam melius est schedulam per ipsius identificatorem unicum detegi.|
+
+|Auto-Type: Customize Sequence| |Scriptio automatica: moderari|
+|Clear clipboard when closing/locking the database| |Depurgare receptaculum quando repositorium conluditur/obsidetur|
+|Exclude &expired entries| |E&xcludere schedulas tempus excedentes|
+|Include expired entries in quick searches| |Includere schedulas excedentes tempus in summam quaesitionis|
+|Normal| |Normalis|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.|
+    |Aperire plicam solum ad legendum. Mutationes in alia plica servari poterunt.|
+|Read-only| |Solummodo lectio|
+|Sort items in the auto-type entry selection dialog| |Ordinare schedulas in fenestrella selectionis schedularum ad scriptionem automaticam|
+|Take ownership of the file and open it in normal writing mode.| |Prehendere plicam ad usum proprium et aperire in modum scribendi solitum.|
+
+|Choose between local help and online help center.| |Selige informatorium locale seu in situ.|
+|Help &Source...| |&Fons auxilii...|
+|Help Source| |Fons auxilii|
+|Local help file| |Plica informativa localis|
+|Online help center| |Informatorium in situ|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
+    |Plica informativa localis - status est documentationis ad tempus emissionis programmatis. Illa automatice non renovatur.|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|
+    |Officium auxiliare in situ semper informationem recentissimam continet. Tum connexio cum interreti activa necessa est.|
+|This option is disabled, because local help is not installed.| |Haec facultas congelata est, quoniam informatorium locale non est institutum.|
+|Use the following help source when a "Help" button within KeePass is clicked:| |Pulsando clavem "Auxilium" uti eo fonte:|
+
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)| |Usurpare protectionem memoriae progressivam (DPAPI, solummodo in Vista et superioribus)|
+
+|%u updates are available!| |%u innovationes patent!|
+|1 update is available!| |1 innovatio patet!|
+|Available| |Patet|
+|Component| |Componens|
+|Delete TAN entries immediately after using them| |Delere TAN schedulas statim depost usum |
+|Installed| |Institutum|
+|KeePass 1.x cannot open KDBX files.| |KeePass 1.x. plicas KBDX aperire nequit|
+|No updates available.| |Innovationes absunt.|
+|Please choose a different name.| |Sodes, impone aliud nomen.|
+|Plugin unknown.| |Appositum ignotum.|
+|Pre-release version.| |Versio praefinalis.|
+|The specified name is reserved.| |Datum nomen praeservatum est.|
+|Up to date.| |Hodiernum.|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)| |Usurpare CNG/BCrypt ad transformationem clavis (Windows Vista et superiores)|
+|Use the KeePass 2.x 'Export' feature to migrate this file| |Tempta hanc plicam e KeePasso 2.x exportare|
+|see the <A HREF="h">help manual</A> for details.| |singula vide <A HREF="h">in informatorio</A>.|
+
+|Ctrl| |Ctrl|
+|Use file transactions for writing databases| |Usurpare transactiones plicares ad repositorium servandum|
+
+|Remember key sources (key file paths, provider names, ...)| |Memoriâ tenere fontes clavium (vias ad plicas clavium, nomina praebitorum, ...)|
+
+|&No| |&Non|
+|&Yes| |&Ita|
+|Custom database color:| |Color repositorii peculiaris:|
+|Minimize main window after locking the workspace| |Devolvere fenestram principalem quando spatium operativum obsidetur|
+
+|Ensure same keyboard layouts during auto-type| |Fac te certum schema claviaturae in tempore scriptionis automaticae idem esse|
+|Select &Notes Font| |Litterae &annotationum|
+
+|{PARAM} more entries| |et plures {PARAM}|
+
+|The database is empty| |Repositorium vacuum est|
+
+|Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
+|Rogatio innovationum automatica in modum occultum geritur. Notificatio apparet solum cum innovatio patet. Applicatio innovata sponte non deonerabitur neque instituetur|
+|Database files cannot be used as key files.| |Nefas est plicis repositorii tesserarum ut clave uti.|
+|Enable automatic update check?| |Accenderene rogationem innovationum spontaneam?|
+|KeePass can automatically check for updates on each program start.| |KeePass sponte de innovationibus sciscitari quit in initiatione sua.|
+|No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.|
+|KeePass nullas notitias de persona in stationem mittit. KeePass plicam exiguam prehendit ut versiones comparet, qua uteris, cum recentissima.|
+|Quick search (toolbar)| |Quaesitio rapida (tabula instrumentorum)|
+|Show tray icon only if main window has been sent to tray| |Monstrare iconem in sustentaculo systematis siquidem fenestra deversa sit|
+|recommended| |commendatum|
+
+|Are you sure you want to attempt to repair a database file?|
+|En certus(a), quod plicam repositorii reparare velis?|
+|In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.|
+|In reparatione patranda integritas datorum non verificatur (ad quam plurima data recuperanda). Quam ob rem data corrupta in repositorium penetrare possint.|
+|Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
+|Idcirco facultatem reparandi capta si nihil melius habes quod facias. Reparatione completa necesse est, ut totum repositorium recenseatur, nisi quae data corrupta fuerint.|
+|Warning| |Attentio|
+|Delete &attachments| |Delere &applicationes|

@@ -1,0 +1,960 @@
+﻿[LANGUAGENAME]
+Chinese-Simplified
+
+[LANGUAGEVERSION]
+2.8.0
+
+[LANGUAGEAUTHOR]
+老王
+
+[LANGUAGEHELPFILE]
+manual.pdf
+
+Info
+信息
+
+Warning
+警告
+
+Question
+问题
+
+Error
+错误
+
+Settings
+设置
+
+Include Characters (Pass*words*)
+包含字符 （生成字符密码）
+
+Length:
+长度:
+
+Character Set:
+字符集:
+
+Show details
+显示细节
+
+Include Words (Pass*phrases*)
+包括单词 （生成密码短语）
+
+Number:
+数字：
+
+Word List File:
+单词表（文件名）：
+
+Browse
+浏览
+
+Combine Words with Characters
+用字符连接单词
+
+Format password:
+密码格式：
+
+Multiple passwords:
+密码组数量：
+
+Generate
+生成
+
+Generate password list to file
+生成密码文件
+
+Advanced
+高级
+
+Generated Password
+生成密码
+
+Click on "Generate"
+点击“生成”
+
+Hide/show password
+隐藏/显示 密码
+
+Hold left mouse button to drag & drop password
+按住鼠标左键可以拖拽密码
+
+Random Pool
+随机池
+
+Entropy Bits:
+熵值：
+
+File
+文件
+
+Profile
+配置
+
+Profile Editor...
+配置编辑器
+
+Exit
+退出
+
+Tools
+工具
+
+Clear Clipboard
+清空剪贴板
+
+Encrypt Clipboard...
+加密剪贴板
+
+Decrypt Clipboard...
+解密剪贴板
+
+Create Random Data File...
+创建随机数据文件
+
+Create Trigram File...
+创建三元文件
+
+MP Password Generator...
+主密码生成器
+
+Deterministic Random Generator
+固定随机生成器
+
+Reset
+重置
+
+Deactivate
+关闭
+
+Provide Additional Entropy
+提供额外熵值
+
+As Text...
+从文本
+
+From File...
+从文件
+
+Options
+选项
+
+Configuration...
+设置
+
+Language
+语言
+
+Always on Top
+总在最上
+
+Save Settings on Exit
+退出时保存设置
+
+Save Settings Now
+保存设置
+
+Help
+帮助
+
+Open Manual
+打开帮助文件
+
+Visit Website
+访问官网
+
+Donate...
+资助本软件
+
+Check for Updates
+检查更新
+
+Timer Info...
+计时器信息
+
+About %s...
+关于 %s...
+
+Restore PWGen
+重置PWGen
+
+Generate Password
+生成密码
+
+Generate and Show Password...
+生成并显示密码
+
+Open user manual
+打开用户帮助文档
+
+Hide/show entropy progress
+隐藏/显示 熵积累
+
+Clear clipboard (text contents only)
+清空剪贴板（仅文字）
+
+Clipboard text encryption (left-click) or decryption (right-click)
+加密剪贴板（鼠标左键）/解密（鼠标右键）
+
+Load, create or delete profiles
+加载,创建或删除配置文件
+
+Generate passwords based on a master password
+用主密码生成密码
+
+Change main configuration of the program
+修改程序主要配置
+
+Reset Counters
+重置计数器
+
+All files (*.*)|*.*|Text files (*.txt)|*.txt|Trigram files (*.tgm)|*.tgm
+所有文件 (*.*)|*.*|文本文件 (*.txt)|*.txt|三元文件 (*.tgm)|*.tgm
+
+Undo
+撤销
+
+Cut
+剪切
+
+Copy
+复制
+
+Encrypt && Copy
+加密并复制
+
+Paste
+粘贴
+
+Delete
+删除
+
+Select All
+全选
+
+Clear List
+清除列表
+
+Editable
+编辑
+
+Enable Password Testing
+开启密码测试
+
+Change Font...
+改变字体
+
+Select high-entropy file
+选择高熵文件
+
+Could not read random seed file\n\"%s\".
+无法读取随机种子文件：\n\"%s\".
+
+Could not write to random seed file\n\"%s\".
+无法写入随机种子文件\n\"%s\".
+
+Unknown command line switch(es):\n%s
+未知命令：\n%s
+
+Error while loading word list file\n\"%s\".
+载入单词表文件时发生错误\n\"%s\".
+
+PWGen encountered %d error(s) during startup:
+启动PWGen时产生 %d 个错误：
+
+Character set \"%s\" is invalid.
+字符集 \"%s\" 无效.
+
+Error while writing to configuration file:\n%s.
+写入配置文件产生错误：\n%s.
+
+%d characters / %.1f bits per character
+%d 字符 / 每一字元 %.1f Bits
+
+%d words / %.1f bits per word
+%d 单词 / 每一字组 %.1f Bits
+
+Could not open trigram file.
+无法打开三元文件。
+
+Invalid trigram file.
+无效的三元文件。
+
+Text successfully encrypted.
+文本加密成功。
+
+Text successfully decrypted.
+文本解密成功。
+
+Could not open clipboard.
+无法打开剪贴板。
+
+The text to be encrypted is too long.
+待加密文本过长。
+
+No text available to process.
+没有可处理文本。
+
+Not enough memory available to perform\nthe operation. Try to use a shorter text.
+没有足够内存执行操作。\n请使用较短文本。
+
+Decryption failed. This may be attributed\nto the following reasons:
+解密时产生错误，原因可能如下：\n
+
+- You entered a wrong password.
+- 您输入了错误的密码。
+
+- The text is corrupted.\n- The text is not encrypted.
+- 文本被修改。\n-文本没有被加密。
+
+This should not have happened:\nDecryption successful, but decompression\nfailed.
+这不应发生\n解密成功，但\n解压缩失败。
+
+Could not register hot key %s.\nPlease try another key combination.
+无法注册快捷键 %s。\n 请使用其他按键组合
+
+The selected file already exists. Do you\nwant to append passwords to this file\n(existing passwords will be preserved),\nor do you want to completely overwrite it?\n\nYes\t-> append passwords,\nNo\t-> overwrite file,\nCancel\t-> cancel process.
+所选择文件已经存在。\n您想附加密码到这个文件吗？（现有密码将被保留），\n还是想要完全覆盖？\ n\n是\ t->附加密码,\ n否\ t->覆盖文件，\ n取消\t->取消进程。
+
+If the option \"Each character must occur\nonly once\" is activated, the password length\nis limited to the size of the character set (%d).
+如果/“每个字母只能出现一次”选项被激活，\n则密码长度会被限制在字符集(%d)大小内。
+
+If the option \"Each word must occur only\nonce\" is activated, the number of words\nis limited to the size of the word list (%d).
+如果/“每个单词只能出现一次”选项被激活，\n则单词数量会被限制在单词表(%d)范围内。
+
+Creating password list ...
+正在创建密码表……
+
+%d of %d passwords generated.
+%d 的 %d 密码被生成。
+
+Format string produces empty password
+格式化字符串生成了空密码
+
+\"%P\" is not specified.
+\"%P\" 没有定义
+
+Password not available.
+密码不可用。
+
+Password too long.
+密码过长。
+
+Invalid format specifier \"%%%s\".
+无效的格式说明符 \"%%%s\"。
+
+The estimated list size will probably exceed\nthe internal memory limit.\nPlease reduce the number of passwords
+预计列表大小将超过\n内存限制。\n请减少密码数量。
+
+The memory limit of the password list has\nbeen reached.\n\nThe number of passwords has been\nreduced to %d.
+密码表已达内存上限。密码数量减少到 ％d。
+
+%d passwords generated.
+%d 的密码被生成
+
+Copying password list ...
+正在复制密码列表……
+
+%d passwords generated.\r\nSecurity of each password: %d bits.\r\nMaximum security of the entire list: %d bits.
+%d 个密码被生成。\r\n每个密码的安全性：%d 比特。\r\n整体密码表最大安全性：%d 比特。
+
+File \"%s\" successfully created.\n\n%d passwords written.
+文件 \"%s\" 创建成功。\n\n%d 密码被写入。
+
+An error has occurred during password generation:\n%s.
+密码生成过程中产生：\n%s错误。
+
+%d passwords written to file \"%s\".
+%d 密码写入 \"%s\" 文件。
+
+%d bits / %d characters
+%d 比特 / %d 字符
+
+Passwords: %d
+密码:：%d
+
+Invalid character set.
+无效的字符集……
+
+default (English) trigrams
+默认（英文）三元组
+
+File \"%s\"
+文件 \"%s\"
+
+(phonetic, based on trigram frequencies\nfrom the following source:\n<%s>)
+（拼音，基于以下源的三元组频率：\n<%s>）
+
+The character set you entered is invalid.\nIt must contain at least 2 different characters.
+您输入的字符集无效.\n它必须包含两个不同的字符。
+
+Currently loaded character set:
+当前加载的字符集：
+
+Could not open file.
+无法打开文件
+
+Not enough valid words.
+没有足够的有效单词
+
+Select word list file
+选择单词文件
+
+Error while loading the file\n\"%s\":\n%s
+加载文件\n\"%s\"时发生错误：\n%s
+
+default (English) word list
+默认（英文）单词表
+
+Currently loaded word list:
+当前加载的单词表
+
+First word:
+第一个单词：
+
+Random word:
+随机单词：
+
+Last word:
+最后一个单词
+
+The version of this language (%s) is not\ncompatible with this program version.\nThis version of PWGen requires a language\nversion of at least %s.\n\nDo you want to use it anyway?
+该语言文件(%s)同您的程序版本不兼容。\n该版本PWGen至少需要%S \n\n是否坚持使用此文件？
+
+The version of this language (%s) is higher\nthan the version of this program (%s).\nTherefore, version incompatibilities may occur.\n\nDo you want to use it anyway?
+该语言文件比当前程序版本更新。\n可能存在不兼容的情况。\n\n是否坚持使用此文件？
+
+The language file will be loaded when you\nrestart the program.\n\nDo you want to save the settings and\nrestart the program now?
+语言文件将在重启程序后加载。\n\n你想要保存配置并重启程序吗？
+
+Password is too long to show it in a\nmessage box like this.\n\nIt has been copied to the clipboard.
+密码过长，不能显示在文本框内。\n\n它已经被复制到剪贴板中。
+
+The generated password is:\n\n%s\n\nThe estimated security is %d bits.\n\nYes\t-> copy password to clipboard,\nNo\t-> generate new password,\nCancel\t-> cancel process.
+生成的密码是：\n\n%s\n\n安全性预计有 %d  比特。\n\n是\t-> 密码被复制到剪贴板，\n否\t-> 生成新密码\n取消\t-> 取消操作。
+
+All entries will be removed from the list.\nAre you sure?
+移除全部列表内密码。\n您确定吗？
+
+Total entropy bits: %d
+总熵值 %d
+
+High-resolution timer used:\n%s\n\nCurrent value: %s.
+使用的高分辨率定时器：\n%s\n\n当前值： %s.
+
+Could not download version file
+无法下载版本文件
+
+URL not found, or unknown format of version file
+找不到URL，或未知版本格式文件
+
+A new version (%s) of PWGen is available!\nDo you want to visit the download page now?
+新版本 （%s） 的PWGen已经发布！\n您要访问下载页面吗？
+
+(NOTE: %s)
+（注意：%s）
+
+Your version of PWGen is up-to-date.
+您的PWGen是最新版。
+
+Error while checking for updates:\n%s.
+检查更新时发生错误\n%s。
+
+WARNING: Random generator is deterministic (press F7 to deactivate)!
+警告：随机生成器存在确定性。（按F7禁用）！
+
+Clipboard cleared.
+已经清空剪贴板。
+
+Profile \"%s\" activated.
+已经激活 \"%s\" 配置文件。
+
+Deterministic random generator has been ACTIVATED.
+确定性随机密码生成器已经激活。
+
+Deterministic random generator has been RESET.
+确定性随机密码生成器已经重置。
+
+Deterministic random generator has been DEACTIVATED.
+禁用确定性随机密码生成器。
+
+Configuration
+设置
+
+General
+基本
+
+Hot Key
+快捷键
+
+Files
+文件
+
+Updates
+升级
+
+Change font for the GUI controls:
+修改图形界面字体：
+
+Select font
+选择字体
+
+Clear clipboard automatically after the following time (seconds):
+在如下时间（秒）后自动清空剪贴板：
+
+Show system tray icon constantly
+运行期间显示状态栏图标
+
+Minimize program to system tray
+最小化至系统状态栏
+
+Automatic check for updates:
+自动检查更新：
+
+Daily
+每天
+
+Weekly
+每周
+
+Monthly
+每月
+
+Disabled
+禁用
+
+Associate the following hot key with PWGen:
+将以下热键关联到PWGen：
+
+Actions
+执行
+
+Show/restore main window
+显示/恢复主界面
+
+No further action
+没有下一步操作
+
+Generate single password in main window
+在主界面产生一个密码
+
+Generate multiple passwords
+产生多个密码
+
+Generate password and copy it to the clipboard
+产生密码并复制到剪切板
+
+Generate password and show it in a message box
+产生密码并在对话框中显示
+
+Open MP password generator
+打开主密码生成器
+
+Please select a hot key action.
+请选择一个快捷键动作。
+
+Character encoding of text files:
+文本文件的字符编码：
+
+Enter password:
+输入密码：
+
+Confirm password:
+确认密码：
+
+Display password
+显示密码
+
+OK
+确定
+
+Cancel
+取消
+
+Passwords are not identical.
+密码不同。
+
+Encrypt
+加密
+
+Decrypt
+解密
+
+Password List
+密码列表
+
+Save As File...
+另存为文件
+
+Save password list
+存储密码列表
+
+Error while creating file\n\"%s\":\n%s.
+创建\n\"%s\":\n%文件时产生错误。
+
+File \"%s\" successfully created.
+成功创建"\%s\" 文件。
+
+Advanced Password Options
+高级密码选项
+
+Exclude ambiguous characters
+排除易混淆字符
+
+First character must not be a lower-case letter
+密码第一个字符不能是小写字母
+
+Don't separate words by a space
+不能使用空格分隔单词
+
+Don't separate words and characters by a '-' character
+不能使用"-" 分隔字符
+
+Reverse default order of character/word combinations
+反转默认的字符/单词组合顺序
+
+Include at least one upper-case letter (A-Z)
+至少包含一个大写字母（A-Z）
+
+Include at least one lower-case letter (a-z)
+至少包含一个小写字母（a-z）
+
+Include at least one digit (0-9)
+至少包含一个数字（0-9）
+
+Include at least one special symbol (!"#$%...)
+至少包含一个特殊符号（!"#$%……）
+
+Only include characters from custom character set
+仅包含客户自定义字符集
+
+Exclude repeating consecutive characters (e.g. aa, 11)
+排除重复字符（aa，11）
+
+Exclude duplicate entries in password lists
+排除密码列表中重复项
+
+Convert all words in word lists to lower-case
+将单词表中所有单词转换为小写
+
+Each character must occur only once
+每个字符只能出现一次
+
+Each word must occur only once
+每个单词只能出现一次
+
+Redefine ambiguous characters:
+重新定义易混淆字符：
+
+Redefine special symbols:
+重新定义特殊字符：
+
+Maximum length of words in word lists (except default word list):
+最大单词表单词数量（非默认单词表）
+
+Trigram file for generating phonetic (pronounceable) passwords:
+用于产生拼音（可读）密码的三元文件：
+
+Applies to pass_words_.
+适用于多密码。
+
+Applies to pass_phrases_.
+适用于多口令。
+
+Applies to formatted passwords.
+适用于格式化密码。
+
+Applies to phonetic passwords.
+适用于拼音密码。
+
+Selecting one of these options might reduce the security of generated passwords.
+若选择其中的选项则会降低产生密码的安全强度。
+
+These options also apply to formatted passwords.
+这些选项也适用于格式化密码。
+
+Deselect All
+取消全选
+
+Invert Selection
+反向选择
+
+Create Random Data File
+创建随机数据文件
+
+File name:
+文件名：
+
+File size:
+文件大小：
+
+Bytes
+B
+
+Kilobytes
+KB
+
+Megabytes
+MB
+
+Close
+关闭
+
+Create file
+创建文件
+
+Invalid file size.
+无效的文件大小
+
+Not enough free disk space available\nto create the file.
+没有足够的磁盘空间\n来创建文件
+
+Creating random data file ...
+随机数据文件创建中……
+
+%d of %d KB written.
+%d 的 %d KB 被写入。
+
+File \"%s\" successfully created.\n\n%d bytes written.
+文件 \"%s\" 成功创建。\n\n%d 字节 被写入。
+
+Error while creating file\n\"%s\":\n%s.\n\n%d bytes written.
+创建文件\"%s\":\n%s产生错误。\n\n%d 字节 被写入。
+
+Profile Editor
+配置编辑器
+
+Load
+加载
+
+Confirm
+确认
+
+Profile name:
+配置文件名：
+
+Add
+新增
+
+Save "advanced password options" for this profile
+存储“高级密码选项”配置文件
+
+Are you sure you want to delete %d profile(s)?
+您确定要删除%d 配置文件吗？
+
+Maximum number of profiles (%d) reached.\nPlease delete or overwrite profiles.
+配置文件数量已达上限(%d) 。\n请删除或覆盖现有配置文件。
+
+A profile with the name \"%s\" already exists.\nDo you want to overwrite it?
+配置文件 \"%s\" 已经存在。\n您要覆盖吗？
+
+Create Trigram File
+创建三元文件
+
+Source file (e.g., dictionary, word list):
+源文件（例如，字典、单词表）
+
+Destination file (trigram file):
+目标文件（三元文件）
+
+Trigram file \"%s\" successfully created.\n\n%d trigrams evaluated.\n%1.2f bits of entropy per letter.
+三元文件 \"%s\" 成功创建。\n\n%d 该文件预计将有.\n%1.2f  个熵比特。
+
+Process was cancelled by the user
+用户中断进程
+
+About %s
+关于 %s
+
+Current language: %s\nTranslator: %s
+当前语言： %s\n翻译人员：%s
+
+This program is distributed under the terms and conditions of the GNU General Public License (GPL).
+该程序是在GNU通用公共许可（GPL）的条款和条件下发布
+
+View license
+查看授权
+
+Quick help
+快速帮助
+
+Position Automatically
+自动位置
+
+You can use the following placeholders:
+您可以使用如下占位符：
+
+without ambiguous characters
+无易混淆字符
+
+special symbols
+特殊符号
+
+brackets
+括号
+
+punctuation marks
+标点符号
+
+higher ANSI characters
+大写的ANSI字符
+
+generate phonetic password (only lower-case letters)
+生成拼音密码（仅小写）
+
+generate phonetic password (mixed-case letters)
+生成拼音密码（混合大小写）
+
+Comments may be provided in square brackets \"[...]\"\nat the beginning of the sequence.
+注解可以位于中括号中\“[...]\”\但需设置在序列的开头。
+
+Format specifiers have the form \"%[*][N]x\" or \"%[*][M-N]x\", where the\noptional argument \"N\" specifies the number of repetitions (between 1 and\n99999), \"M-N\" specifies a random number of repetitions in the range\nfrom M to N, and \"x\" is the actual format specifier/placeholder. The\noptional asterisk (*) means that each character must occur only once in\nthe sequence. Example: \"%16u\" means \"Insert 16 random upper-case letters\ninto the password\".
+格式说明符的格式为 \"%[*][N]x\" 或 \"%[*][M-N]x\"，其中可选参数 \"N\" \n指定的重复次数 (1到99999之间)， \"M-N\" 指定了一个随机的\n在 M 到 N之间的一个重复次数，并且\"x\" 是实际的格式说明符/占位符。\n可选的星号 (*) 表示每一个字符在序列中\n只出现一次。例如： \"%16u\" 表示 \"插入 16 个随机的大写字母\n到密码里\"。
+
+List of placeholders with optional argument \"N\":
+占位符可选参数\“N\”列表：
+
+custom character set
+用户自定义字符集
+
+vowels, lower-case
+元音字母，小写
+
+vowels, mixed-case
+元音字母，混合大小写
+
+vowels, upper-case
+元音字母，大写
+
+consonants, lower-case
+辅音字母，小写
+
+consonants, mixed-case
+辅音字母，混合大小写
+
+consonants, upper-case
+辅音字母，大写
+
+List of special format specifiers\n(possible usage of argument \"N\" is indicated by \"{N}\"):
+特殊格式说明符列表\n（参数的用途 \"N\" 通过\"{N}\"指定）：
+
+insert password generated via \"Include characters/words\"
+插入通过 \"包含字符/单词\"生成的密码
+
+words from word list, multiple words are separated by spaces
+单词表中的单词，多个单词用空格分隔
+
+words, multiple words are not separated at all
+单词，多个单词不分隔
+
+repeat input sequence in brackets N times
+重复输入括号内的序列N次
+
+randomly permute formatted sequence in brackets, keep N characters
+将括号内的序列随机重排，保留N个字符
+
+treat sequence as character set and insert N characters
+把序列作为字符集并插入N个字符
+
+Additional notes:
+附加信息：
+
+Use the sequence \"%%\" to insert a percent sign.
+使用序列\"％％\"来插入百分号。
+
+MP Password Generator
+主密码生成器
+
+Master password
+主密码
+
+Enter password...
+输入密码
+
+Clear
+清空
+
+Status:
+状态：
+
+Expiry countdown:
+超时倒数：
+
+Ask for password confirmation
+要求密码确认
+
+Show 16-bit hash value of password
+显示16比特的密码哈希值
+
+Key expires after the following time (seconds):
+密钥将在如下时间（秒）后过期：
+
+Provide compatibility with "Hashapass"
+提供同“哈希密码”的兼容性
+
+Password generator
+密码生成器
+
+Parameter:
+参数：
+
+%d ch. / %.1f bits per ch.
+%d 字符 / %.1f 比特/字符
+
+Resulting password:
+推导出的密码：
+
+Use as default random generator
+用作默认随机生成器
+
+Alphanumeric
+字母与数字
+
+Hexadecimal
+16进制
+
+Key has expired.
+密钥已经过期。
+
+Key has been cleared.
+密钥已经被清除。
+
+New key generated.
+新密钥已经生成。
+
+Enter or paste some text into the box below, press mouse buttons, or move your mouse within the window.
+在输入框中输入或粘贴一些文本，点击鼠标按键或在窗口内移动鼠标。
+
+%d bits of entropy have been added to the random pool.
+%d比特熵已经被加入随机池
+
+Error while formatting string
+格式化字符串时发生错误
+
+Invalid UTF-16 character encoding
+无效的UTF-16字符编码
+
+Error while converting string to UTF-8
+字符串转换成UTF-8时出错
+
+Error while decoding UTF-8 string
+UTF-8字符串解码错误
+
+Unicode string too long
+Unicode字符串太长
+
+Invalid ANSI or UTF-8 character encoding, or Unicode string too long
+无效的ASNI或UTF-8字符编码，或Unicode字符串太长
+
+Error while encoding Unicode string
+Unicode字符串编码错误
+
+Out of disk space
+磁盘空间不足
+
+Could not open file/execute operation\n\"%s\".
+无法打开文件或执行操作\n\"%s\"。
+
+Source file does not contain enough trigrams
+源文件中没有包含足够的三元组
+

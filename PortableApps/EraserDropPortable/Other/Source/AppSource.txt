@@ -1,0 +1,4 @@
+EraserDrop source is available in the Source directory.
+
+Eraser source is available from:
+http://sourceforge.net/projects/eraser/

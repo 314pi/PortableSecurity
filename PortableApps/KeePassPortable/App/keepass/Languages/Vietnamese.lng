@@ -1,0 +1,1378 @@
+﻿|~LANGUAGENAME|
+|Viet Nam|
+|~LANGUAGEVERSION|
+|1.0|
+|~LANGUAGEAUTHOR|
+|Tran Minh Phuong|
+|~LANGUAGEAUTHOREMAIL|
+|de_men_nau@yahoo.com.vn|
+|OK|
+|Xac nhan|
+|Cancel|
+|Huy bo|
+|&OK|
+|Xac nhan|
+|&Cancel|
+|Huy bo|
+|&Close|
+|Dong lai|
+|&Generate Random Password|
+|Tao Mat khau ngau nhien|
+|General|
+|Tong hop|
+|Windows|
+|May tinh|
+|Network|
+|Mang|
+|Internet|
+|Internet|
+|eMail|
+|Thu dien tu|
+|Homebanking|
+|Ngan hang|
+|Entry|
+|Muc|
+|&Title|
+|Tieu de|
+|User &Name|
+|Ten|
+|User &name|
+|Ten|
+|&URL|
+|Dia chi URL|
+|&Password|
+|Mat khau|
+|N&otes|
+|Ghi chu|
+|&Case sensitive|
+|Ben ngoai chinh xac|
+|Search in|
+|Tim kiem trong|
+|Find|
+|Tim|
+|&Find|
+|Tim|
+|About KeePass...|
+|Thong tin ve KeePass|
+|Password Groups|
+|Nhom|
+|Title|
+|Tieu de|
+|User Name|
+|Ten dang nhap|
+|URL|
+|Dia chi URL|
+|Password|
+|Mat khau|
+|Database...|
+|Co so Du lieu|
+|Help &Source...|
+|Huong dan|
+|Help Source|
+|Huong dan|
+|Choose between local help and online help center.|
+|Chon Huong dan cuc bo hay Ho tro truc tuyen|
+|Use the following help source when a "Help" button within KeePass is clicked:|
+|Su dung cac nguon huong dan sau khi chon 'Huong dan' cua KeePass:|
+|Local help file|
+|Ho so huong dan|
+|Online help center|
+|Ho tro truc tuyen|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
+|Ho so huong dan cuc bo la mot tai lieu huong dan so luoc ve pham mem tai thoi diem phat hanh.No khong the tu dong cap nhat.|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|
+|Trung tam ho tro truc tuyen luon co nhung tu lieu moi nhat ve san pham de huong dan cho Ban va yeu cau duy nhat la may cua Ban phai ket noi mang !|
+|Notes|
+|Ghi chu|
+|Ready.|
+|San sang!|
+|Options|
+|Tuy chon|
+|&Generate|
+|Tao|
+|&Accept|
+|Chap nhan|
+|Group:|
+|Nhom:|
+|Title:|
+|Tieu de:|
+|User name:|
+|Ten dang nhap:|
+|URL:|
+|Dia chi URL:|
+|Icon:|
+|Bieu tuong:|
+|Password:|
+|Mat khau:|
+|Notes:|
+|Ghi chu:|
+|***|
+|***|
+|Add Entry|
+|Them Muc|
+|&Delete Group...|
+|Xoa Nhom |
+|Edit Entry|
+|Chinh sua Muc|
+|Group name:|
+|Ten Nhom:|
+|Add Group|
+|Them Nhom|
+|Add &Group...|
+|Them Nhom |
+|Add Su&bgroup...|
+|Them Nhom con |
+|Edit Group|
+|Chinh sua Nhom|
+|Ed&it Group...|
+|Chinh sua Nhom |
+|Edit Su&bgroup|
+|Chinh sua Nhom con|
+|Edit &Group...|
+|Chinh sua Nhom |
+|Random mouse input|
+|Tin hieu ngau nhien tu con tro|
+|Click to begin:|
+|Nhap chon de bat dau:|
+|Use &Mouse as Random Source|
+|Su dung con tro lam nguon ngau nhien|
+|Move the mouse in the field above until this is full:|
+|Di chuyen con tro lien tuc trong khung hinh tren cho den khi ket thuc|
+|Hint: It is best to use both mouse and keyboard random sources.|
+|De nghi: Tot nhat nen su dung ca con tro va ban phim lam nguon ngau nhien.|
+|Last &Modification Time|
+|Lan thay doi gan nhat|
+|Random keyboard input|
+|Tin hieu ngau nhien tu ban phim|
+|Just hack some random keys into the edit box above.|
+|Hay nhap vai tu khoa ngau nhien vao hop thoai phia tren|
+|You don't have to remember the keys you type in. They are used to generate a random value.|
+|Khong can nho nhung ki tu nhap vao, chung duoc su dung de tao ra mot gia tri ngau nhien|
+|So, the more the better. The different, the better.|
+|Vi the,cac tu khoa cang khac biet cang tot|
+|Modify existing password entry.|
+|Thiet lap thong tin cho Muc:|
+|Modify existing password group.|
+|Thiet lap thong tin cho Nhom|
+|The random the better.|
+|Nhung gia tri ngau nhien se tao ra Mat ma bao mat tot hon !|
+|Get Random|
+|Tao gia tri ngau nhien|
+|Get Random Data for Key Generation|
+|Tao Mat khau ngau nhien|
+|Move the mouse and type some random text to generate random values.|
+|Tao gia tri ngau nhien bang cach nhap vai ki tu va di chuyen con tro|
+|Pick an Icon|
+|Chon Bieu tuong|
+|&File|
+|Ho so|
+|&Edit|
+|Chinh sua|
+|&View|
+|Xem|
+|E&xtras|
+|Them|
+|&?|
+|?|
+|&New...|
+|Tao Ho so moi|
+|&Open...|
+|Mo Ho so|
+|&Save|
+|Luu lai|
+|Save &As...|
+|Luu mot ban khac|
+|Change &Master Key...|
+|Doi Mat ma chinh|
+|&Export To|
+|Xuat sang|
+|&Lock Workspace|
+|Khoa Co so Du lieu |
+|&Unlock Workspace|
+|Mo khoa Co so Du lieu|
+|E&xit|
+|Thoat|
+|&Lock/Unlock Workspace|
+|Khoa / Mo khoa Co so Du lieu|
+|&Options...|
+|Tuy chon|
+|Add Password &Group...|
+|Them Nhom|
+|Find what:|
+|Ban muon tim:|
+|Add Password Su&bgroup...|
+|Them Nhom con|
+|Modif&y Password Group...|
+|Chinh sua Nhom|
+|&Delete Password Group...|
+|Xoa Nhom|
+|Failed to save the configuration.|
+|Khong the luu cau hinh !|
+|Find a string in the password list.|
+|Tim trong Danh sach|
+|Copy User &Name to Clipboard|
+|Sao chep Ten vao Bo nho may tinh|
+|Copy User &Name|
+|Sao chep Ten|
+|Copy &Password to Clipboard|
+|Sao chep Mat khau vao Bo nho may tinh|
+|Copy &Password|
+|Sao chep Mat khau|
+|Open &URL(s)|
+|Mo Dia chi URL|
+|&Find in Database...|
+|Tim trong Co so Du lieu|
+|Find in t&his Group...|
+|Tim trong Nhom|
+|&Add Entry...|
+|Them Muc|
+|&Edit/View Entry...|
+|Chinh sua / Xem Muc|
+|Locked|
+|Da khoa|
+|&Delete Entry|
+|Xoa Muc|
+|Dupli&cate Entry|
+|Tao Muc sao chep|
+|Move Entry to &Top|
+|Di chuyen Muc len tren cung|
+|Move Entry &One Up|
+|Di chuyen Muc len tren|
+|Mo&ve Entry One Down|
+|Di chuyen Muc xuong|
+|Move Entry to &Bottom|
+|Di chuyen Muc xuong duoi cung|
+|Move Group to &Top|
+|Di chuyen Nhom len tren cung|
+|Move Group One &Up|
+|Di chuyen Nhom len tren|
+|Move Group &One Down|
+|Di chuyen Nhom xuong|
+|Move Group to &Bottom|
+|Di chuyen Nhom xuong duoi cung|
+|Change &Language...|
+|Doi ngon ngu|
+|&Always on Top|
+|Luon luon o phia tren|
+|Hide &Passwords Behind Asterisks (***)|
+|Giau Mat khau sau dau Sao ( * )|
+|Password &Generator...|
+|Tao Mat khau|
+|Visit &KeePass Homepage|
+|Trang chu KeePass|
+|&About KeePass...|
+|Thong tin ve KeePass|
+|&Database Settings...|
+|Cau hinh cho Co So Du lieu|
+|&Tray/Untray|
+|Khay he thong / Khong su dung Khay he thong|
+|Version|
+|Phien ban|
+|Password and repeated password aren't identical!|
+|Mat khau lap lai khong trung khop voi Mat khau truoc!|
+|Stop|
+|Ngung lai|
+|Enter a group name!|
+|Nhap ten Nhom.|
+|You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
+|Ban phai tao ra vai gia tri ngau nhien bang cach su dung 'Con tro' hoac chinh sua lai Thong tin truoc khi dong Hop thoai nay.|
+|No random input|
+|Khong co tin hieu Ngau nhien vao|
+|The password must consist of at least one character!|
+|Mat khau phai chua toi thieu mot ki tu !|
+|Select at least one of the options in the list above!|
+|Chon it nhat mot tuy chon trong Danh sach tren.|
+|The following self-tests failed:|
+|Cac qua trinh Tu kiem tra sau da that bai:|
+|- SHA 32-bit variables|
+|- SHA 32-bit Bien doi|
+|- SHA 64-bit variables|
+|- SHA 64-bit Bien doi|
+|- SHA-256 test vector(s)|
+|- SHA-256 Vecto kiem tra|
+|- SHA-512 test vector(s)|
+|- SHA-512 Vecto kiem tra|
+|- Rijndael encryption|
+|- Ma hoa Rijndael|
+|- Rijndael decryption|
+|- Giai ma Rijndael|
+|- Arcfour crypto routine|
+|- Chuong trinh bao mat Arcfour|
+|- Twofish algorithm|
+|- Thuat toan Twofish|
+|The program will exit now.|
+|Chuong trinh se Thoat ngay!|
+|Self-Test(s) Failed|
+|Qua trinh Tu kiem tra that bai|
+|Clipboard cleared.|
+|Da lam sach Bo nho May tinh.|
+|Field copied to clipboard. Clipboard will be cleared in %d seconds.|
+|Thong tin da sao chep vao Bo nho may tinh va tu xoa sau %d giay.|
+|Profile|
+|Kieu mau|
+|Repeat:|
+|Nhap lai:|
+|Failed to set the master key!|
+|Viec thiet lap Mat ma chinh da that bai!|
+|File cannot be opened!|
+|Khong mo duoc!|
+|File cannot be saved!|
+|Khong luu duoc!|
+|Save as Profile|
+|Luu Profile|
+|Do you want to save the changes before closing?|
+|Co Luu truoc khi Dong lai khong?|
+|KeePass - Save Before Close/Lock?|
+|KeePass - Luu truoc khi Dong lai / Khoa khong?|
+|Deleting a group will delete all items and subgroups in that group, too.|
+|Xoa Nhom se xoa tat ca cac 'Nhom con' ben trong !|
+|Are you sure you want to delete this group?|
+|Ban co muon xoa Nhom nay khong ?|
+|Delete Group Confirmation|
+|Xac nhan xoa Nhom|
+|Cannot open temporary file for printing!|
+|Tam thoi khong the mo tai lieu vi dang In!|
+|Load Language File|
+|Ngon ngu|
+|Load a Language File|
+|Viet Nam|
+|Select one of the languages in the list below.|
+|Chon Ngon ngu hien thi|
+|Available Languages|
+|Ngon ngu:|
+|Open &Help File|
+|Mo Huong dan|
+|Open &License File|
+|Mo Ban quyen|
+|Newline sequence:|
+|Day ki tu dau dong:|
+|Windows newline sequence (\r\n)|
+|Day ki tu dau dong kieu Windows (\r\n)|
+|Unix newline sequence (\n)|
+|Day ki tu dau dong kieu Unix (\n)|
+|Clipboard auto-clear time (seconds):|
+|Thoi gian Bo nho may tinh tu dong xoa [giay]:|
+|Settings|
+|Cai dat|
+|Here you can configure KeePass.|
+|Khu vuc Cau hinh cho KeePass|
+|Automatically open last used database on startup|
+|Mo Co so Du lieu su dung gan nhat khi khoi dong chuong trinh|
+|Automatically save when closing/locking the database|
+|Tu dong luu khi dong / khoa Co so Du lieu|
+|Display images on buttons|
+|Hien thi hinh anh tren nut|
+|Show grid lines in password entry list|
+|Hien thi luoi trong Danh sach.|
+|Workspace cannot be unlocked!|
+|Khong the mo Co so Du lieu!|
+|Workspace locked|
+|Co so Du lieu da bi Khoa|
+|Show &Expired Entries|
+|Hien thi Muc mat hieu luc|
+|Loading error|
+|Loi trong khi tai du lieu|
+|Language file cannot be opened!|
+|Khong the mo Ngon ngu!|
+|Language file cannot be registered!|
+|khong the dang ki Ngon ngu !|
+|The language file has been installed.|
+|Ngon ngu da duoc cai dat xong!|
+|You must restart KeePass in order to use the new language.|
+|Ban phai khoi dong lai KeePass de su dung Ngon ngu moi.|
+|Do you wish to restart KeePass now?|
+|Ban co muon khoi dong lai KeePass ngay bay gio khong ?|
+|Restart KeePass?|
+|Khoi dong lai KeePass ?|
+|Application cannot be restarted automatically!|
+|Chuong trinh khong the Tu khoi dong lai!|
+|Please restart KeePass manually.|
+|Vui long Khoi dong lai Keepass bang tay.|
+|&CSV File...|
+|Ho so CSV |
+|&PwSafe v2 TXT File...|
+|Ho so van ban PwSafe v2 |
+|Select &Font|
+|Kieu chu|
+|Select a new font for the list controls:|
+|Chon Kieu chu:|
+|Save current settings as password generator profile.|
+|Luu nhung thiet lap hien thoi.|
+|Code&Wallet TXT File...|
+|Ho so van ban Code Wallet |
+|&TXT File...|
+|Ho so van ban |
+|&HTML File...|
+|Ho so HTML |
+|&XML File...|
+|Ho so XML |
+|&CSV File...|
+|Ho so CSV |
+|CSV Files|
+|Ho so &CSV|
+|&Import From|
+|Nhap vao tu|
+|&Get more languages...|
+|Them Ngon ngu|
+|Start and exit|
+|Khoi dong va Thoat:|
+|Interface (GUI)|
+|Giao dien|
+|Files|
+|Ho so|
+|Show full path in the title bar (instead of file name only)|
+|Hien thi duong dan tren thanh Tieu de (Thay vi chi co Ten thoi)|
+|Memory|
+|Bo nho|
+|Lock workspace when minimizing the main window|
+|Khoa Co so Du lieu khi thu nho.|
+|Minimize to tray instead of taskbar|
+|Thu nho xuong Khay he thong|
+|Encryption algorithm to use (for this database):|
+|Su dung Thuat toan ma hoa cho Co so Du lieu:|
+|Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
+|Ma hoa Nang cao tieu chuan (AES) (Khoi mat ma 128 bit su dung 256 bit tu khoa)|
+|Twofish (128-bit block cipher using 256-bit key)|
+|Twofish (Khoi mat ma 128 bit su dung 256 bit tu khoa)|
+|Security|
+|Bao mat|
+|KeePass is OSI Certified Open Source Software.|
+|KeePass la phan mem Ma nguon mo tieu chuan OSI|
+|Automatically lock workspace after the following number of seconds:|
+|Tu dong khoa Co so Du lieu sau mot thoi gian an dinh [giay]:|
+|&Group name|
+|Ten nhom|
+|Every second row has a different background color. Use this color:|
+|Mau nen cho hai hang lien nhau:|
+|Start KeePass at Windows startup (for current user)|
+|Khoi dong KeePass cung luc voi May tinh|
+|Special|
+|Dac biet|
+|Default|
+|Mac dinh|
+|More Colors...|
+|Them mau|
+|Search Results|
+|Ket qua tim kiem:|
+|&Creation Time|
+|Thoi gian tao Ho so|
+|Creation Time|
+|Thoi gian tao Ho so|
+|Last Modification|
+|Lan chinh sua gan nhat|
+|Last Access|
+|Lan truy cap gan nhat|
+|&Last Access Time|
+|Thoi gian truy cap gan nhat|
+|Expires|
+|Het hieu luc|
+|&Expiration Time|
+|Thoi gian Het hieu luc|
+|UU&ID|
+|UU&ID|
+|UUID|
+|UUID|
+|Show &Toolbar|
+|Hien thi thanh Cong cu|
+|Visit KeePass Homepage|
+|Trang chu KeePass|
+|Field copied to clipboard.|
+|Da sao chep vao Bo nho may tinh.|
+|Overwrite?|
+|Overwrite-Ghi de len ?|
+|Expires:|
+|Hieu luc den:|
+|Change group:|
+|Thay doi Nhom:|
+|Change entry icon:|
+|Thay doi bieu tuong Muc:|
+|Change expiration time:|
+|Thay doi thoi han Het hieu luc|
+|Mass Modify|
+|Sua doi hang loat|
+|Change fields of all selected entries|
+|Thay doi du lieu cua tat ca cac Muc dang duoc chon|
+|Show &Columns|
+|Hien thi cot|
+|Show &Entry View|
+|Hien thi cac lua chon hien thi cua Muc|
+|Automatically resize table columns when resizing the main window|
+|Tu dong tinh chinh kich thuoc Cot khi thay doi kich thuoc Cua so chuong trinh.|
+|&Copy|
+|Sao chep|
+|Copy &All|
+|Sao chep tat ca|
+|&Undo|
+|Phuc hoi lai|
+|Undo|
+|Phuc hoi lai|
+|&Paste|
+|Dan|
+|Paste|
+|Dan|
+|Cu&t|
+|Cat|
+|Cut|
+|Cat|
+|&Select All|
+|Chon tat ca|
+|Select All|
+|Chon tat ca|
+|Delete|
+|Xoa|
+|&Delete|
+|Xoa|
+|&TAN Wizard...|
+|Thuat si TAN|
+|TAN Wizard|
+|Thuat si TAN|
+|Using this wizard you can easily add TAN entries.|
+|Su dung trinh Thuat si se giup them TAN vao cac Muc de dang hon !|
+|<TAN>|
+|<TAN>|
+|&Print...|
+|In|
+|Print Pre&view...|
+|Xem truoc khi In|
+|About &Translation...|
+|Tim hieu Ban dich|
+|Translation information|
+|Thong tin ve ban dich|
+|Language File Version|
+|Phien ban|
+|Author|
+|Tac gia |
+|Translation Author Contact|
+|Lien lac|
+|&Rearrange|
+|Sap xep lai|
+|&Sort Group List|
+|Phan loai theo Nhom|
+|Sort List By &Title|
+|Phan loai theo Tieu de|
+|Sort List By User &Name|
+|Phan loai theo Ten|
+|Sort List By &URL|
+|Phan loai theo Dia chi URL|
+|Sort List By &Password|
+|Phan loai theo Mat khau|
+|Sort List By Note&s|
+|Phan loai theo Ghi chu|
+|Sort List By &Creation Time|
+|Phan loai theo Thoi gia tao|
+|Sort List By Last &Modify Time|
+|Phan loai theo Thoi gia sua doi gan nhat|
+|Sort List By Last &Access Time|
+|Phan loai theo lan truy cap gan nhat|
+|Sort List By &Expiration Time|
+|Phan loai theo thoi gian ket thuc|
+|Move Group One &Left|
+|Di chuyen Nhom sang trai|
+|Move Group One &Right|
+|Di chuyen Nhom sang phai|
+|Hide &User Names Behind Asterisks (***)|
+|Giau Ten sau dau Sao ( * )|
+|Attachment|
+|Dinh kem|
+|Attachment:|
+|Dinh kem:|
+|&Attachment|
+|Dinh kem|
+|Generate a random password...|
+|Tao Mat khau ngau nhien|
+|Open file and set as attachment...|
+|Chon Ho so dinh kem|
+|Save attached file to disk...|
+|Luu Ho so dinh kem vao Dia|
+|There already is a file attached with this entry.|
+|Da co Ho so dinh kem !|
+|Do you want to overwrite the current attachment?|
+|Ban co muon ghi de len Ho so dinh ken hien thoi ?|
+|&Save Attached File To...|
+|Luu Ho so dinh kem vao|
+|There is no file attached with this entry.|
+|Chua co Ho so dinh kem !|
+|Remove the currently attached file|
+|Xoa Ho so dinh kem|
+|Close button [X] minimizes the main window instead of terminating the application|
+|Khi nhap chon vao nut [X] chi thu nho cua so thay vi Thoat chuong trinh.|
+|KeePass Password Database|
+|Co so Du lieu|
+|&Open with KeePass|
+|&Mo voi KeePass|
+|Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
+|Ket noi Co so Du lieu voi KeePass:|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
+|Ket noi thanh cong! Nhap dup Co so Du lieu de khoi dong KeePass ngay !|
+|Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!|
+|Go bo ket noi voi Co so Du lieu thanh cong !|
+|Create &Association|
+|Tao ket noi|
+|&Remove Association|
+|Go bo ket noi|
+|Setup|
+|Thiet lap|
+|Password List|
+|Danh sach|
+|The file couldn't be saved.|
+|Khong the luu Ho so.|
+|Maybe it's read-only or the storage media has been removed.|
+|Co the USB da bi rut hoac o che do Khong cho phep ghi.|
+|If you exit now, all changes to the current database will be lost.|
+|Neu Ban thoat ngay, moi thay doi hien thoi trong Co so Du lieu se bi mat!|
+|Would you like to exit anyway?|
+|Ban co muon thoat ngay khong ?|
+|Cannot access the selected drive.|
+|Khong the truy cap vao o dia chi dinh !|
+|Make sure a writable medium is inserted.|
+|Ban co chat rang USB cho phep ghi da duoc cam vao may ?!|
+|Not enough free disk space!|
+|Khong du bo nho de ghi!|
+|Disable unsafe (security-critical) operations like exports, etc.|
+|Ngan cam cac hoat dong khong an toan.|
+|Unsafe operations are disabled.|
+|Cac hoat dong khong an toan da bi cam !|
+|To execute this operation you must enable unsafe operations in the options dialog.|
+|De thuc hien lenh nay Ban phai kich hoat tuy chon cho phep thuc hien cac hoat dong khong an toan|
+|You have changed an option that requires restarting KeePass to get active.|
+|Ban vua thay doi mot tuy chon doi hoi KeePass phai khoi dong lai de kich hoat.|
+|Expired Entries|
+|Muc het hieu luc|
+|This is a list of all expired entries|
+|Danh sach Muc het hieu luc|
+|Show All &Expired Entries|
+|Hien thi tat ca cac Muc het hieu luc|
+|Click on an entry to jump to it.|
+|Ban co the nhap chon vao Muc de xem|
+|Quality:|
+|Chat luong:|
+|Database Settings|
+|Lap cau hinh cho Co so Du lieu|
+|Here you can configure the current database.|
+|Thiet lap cau hinh cho Co so Du lieu |
+|Database Summary|
+|Tom luot Co so Du lieu|
+|Number of key encryption rounds:|
+|So vong ma hoa :|
+|bits|
+|bit|
+|Personal &Vault TXT File...|
+|Ho so van ban rieng|
+|Imported from Password Safe|
+|Trich nhap tu Password Safe|
+|Remember last opened file|
+|Ghi nho Ho so vua mo|
+|Total number of groups / entries|
+|Tong so Nhom / Muc|
+|Total: %u groups / %u entries|
+|Tong cong: %u Nhom> %u Muc|
+|%u of %u selected|
+|Dang chon %u trong so %u|
+|Number of selected entries (number of entries in the list)|
+|So Muc duoc chon (trong danh sach)|
+|Status|
+|Trang thai|
+|The database file has been modified!|
+|Co so Du lieu da duoc sua doi hoan tat !|
+|Most probably someone has changed the file while you were editing it.|
+|Chat chan rang moi thu da duoc thay doi khi Ban da chinh sua chung.|
+|Do you want to overwrite it?|
+|Ban co chat chan la muon ghi de no khong ?|
+|Are you sure you want to delete all selected entries?|
+|Ban co chat chan muon xoa toan bo cac Muc duoc chon khong ?|
+|Delete Entries Confirmation|
+|Xac nhan xoa Muc|
+|Mark database as modified on last-access time change|
+|Danh dau Co so Du lieu chinh sua o lan truy cap gan nhat|
+|Se&lect All|
+|Chon tat ca|
+|This will remove all selected entries unrecoverably!|
+|Cac Muc se bi xoa o muc khong the phuc hoi !|
+|Use PuTTY for ssh: and telnet: URLs|
+|Su dung PuTTY va Telnet.|
+|N&o Auto-Sort|
+|Khong tu dong sap xep|
+|Auto-&Sort Password List|
+|Tu dong sap xep Danh sach|
+|Auto-sorting of the password list is enabled, you cannot move entries manually.|
+|Che do tu dong sap xep Danh sach da duoc kich hoat, Ban khong the sap xep chung bang tay!|
+|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
+|Che do tu dong sap xep Danh sach da duoc kich hoat, bay gio Ban khong the sap xep chung bang tay!|
+|Perform Auto-&Type|
+|Thuc hien nhap thong tin Tu dong|
+|&Disable|
+|Da bi cam|
+|&Enable|
+|Co the|
+|&Plugins...|
+|Quan li Plugin|
+|About &Plugin...|
+|Tim hieu &plugin|
+|Application version:|
+|Phien ban Ung dung:|
+|Auto-Type|
+|Nhap tu dong|
+|Clipboard behavior:|
+|Hoat dong cua Bo nho may tinh:|
+|Disabled, not loaded|
+|Da bi cam, khong the tai xuong|
+|Do you want to load the plugin?|
+|Ban co muon tai plugin xuong ?|
+|Enabled, loaded|
+|Co the, tai xuong|
+|Encryption/decryption error|
+|Loi Ma hoa / Giai ma|
+|Enhanced: allow pasting only once and protect against clipboard spies|
+|Nang cao: Chi dan mot lan duy nhat va bao ve khoi Gian diep Clipboard|
+|Error code|
+|Loi bo ma|
+|Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
+|Khong the thay doi ket noi Du lieu ! Hay chat chan rang Ban da lam dung tao tac ghi vao Registry va thay doi ket noi Ho so !|
+|File access error: failed to open file in read mode|
+|Loi ket noi: That bai khi mo Ho so o che do doc !|
+|File access error: failed to open file in write mode|
+|Loi ket noi: That bai khi mo Ho so o che do ghi !|
+|File error: error while reading from the file|
+|Loi ho so: Loi trong khi doc Ho so !|
+|File error: error while writing to the file|
+|Loi Ho so: Loi trong khi ghi Ho so !|
+|Get more plugins...|
+|Them Plugins|
+|Global auto-type hot key combination:|
+|Ket hop to hop phim nhap tu dong:|
+|Help:|
+|Huong dan:|
+|Here you can configure all installed KeePass plugins.|
+|Khu vuc thiet lap cau hinh cho Plugin|
+|Internal error|
+|Loi ben trong|
+|Invalid parameter|
+|Thong so khong hop le|
+|Invalid random source|
+|Nguon ngau nhien khong hop le|
+|Invalid/corrupted file structure|
+|Cau truc Ho so khong hop le / Tep da hu hong|
+|Invalid/wrong key|
+|Tu khoa sai / khong hop le|
+|It is possible that the plugin is compatible, but it's also possible that it will crash KeePass.|
+|Plugin co the tuong thich nhung cung co the lam hu hong KeePass.|
+|Never expires|
+|Khong bao gio Het hieu luc|
+|Number the TANs consecutively, starting from this value|
+|So luong TANs lien tiep, bat dau tu gia tri nay|
+|Plugins|
+|Cac Plugin|
+|Plugin|
+|Plugin|
+|Plugin has been designed for:|
+|Plugin duoc thiet ke cho:|
+|Success|
+|Thanh cong|
+|Therefore save all data before you continue.|
+|Vay thi luu tat ca Du lieu lai truoc khi Ban tiep tuc.|
+|This plugin has been designed for a different application version and may be incompatible with this one.|
+|Plugin nay chi danh cho phien ban khac va khong tuong thich voi phien ban nay.|
+|This plugin will be disabled after you restart KeePass.|
+|Plugin nay se bi khoa sau khi Ban khoi dong lai KeePass.|
+|This plugin will be enabled after you restart KeePass.|
+|Plugin nay se duoc kich hoat sau khi Ban khoi dong lai KeePass.|
+|Timed: copy data to the clipboard and clear it automatically after some seconds|
+|Dinh thoi: Sao chep Du lieu vao Bo nho may tinh va tu dong xoa chung sau vai giay.|
+|Too few memory (RAM) available|
+|Bo nho(RAM) con trong qua it|
+|Unknown error|
+|Loi chua biet|
+|cannot be loaded!|
+|Khong the tai xuong !|
+|Exit?|
+|Thoat ?|
+|Advanced|
+|Mo rong:|
+|Backup|
+|Sao luu|
+|Click [Cancel] to abort changing the key.|
+|Nhap chon [ Thoi] de bo su thay doi.|
+|Failed to create backup of this entry!|
+|Sao luu that bai !.|
+|Immediately after opening a database|
+|Khi mo Co so Du lieu:|
+|Integration|
+|Tich hop:|
+|Start minimized and locked|
+|Khoi dong o che do thu nho va khoa lai|
+|Save backups of modified entries into the 'Backup' group|
+|Sao luu du phong nhung Muc bi thay doi vao nhom Du phong|
+|Show entries that will expire soon (if any)|
+|Hien thi nhung Muc sap mat hieu luc (neu it)|
+|Show expired entries (if any)|
+|Hien thi nhung Muc mat hieu luc (neu it)|
+|Unable to create/remove the auto-start key of KeePass in the Windows registry!|
+|Khong the tao / xoa khoa tu khoi dong cua KeePass trong registry cua Windows !|
+|&Get More Import Plugins...|
+|Them Plugin trich nhap|
+|Encode/replace newline characters by '\n'|
+|Ma hoa / thay the nhung ki tu sang dong moi boi '\n'|
+|Export Options|
+|Tuy chon trich xuat|
+|Export backup entries (entries in the 'Backup' group)|
+|Trich xuat nhung Muc sao luu du phong|
+|Fields to export|
+|Du lieu trich xuat|
+|Group Tree|
+|Cay thu muc cua Nhom|
+|Here you can customize the exported files.|
+|Kuu vuc tuy chinh trich xuat du lieu:|
+|Icon|
+|Bieu tuong|
+|Save the database now in order to get the new key applied.|
+|Luu Du lieu ngay khi co mot khoa moi duoc chap nhan.|
+|1 Month|
+|1 thang|
+|1 Week|
+|1 tuan|
+|2 Weeks|
+|2 tuan|
+|3 Months|
+|3 thang|
+|By default, new entries expire in the following number of days:|
+|Hieu luc cua nhung Muc moi [ngay]:|
+|Calculate rounds for a 1-second delay on this computer|
+|Tinh vong cho moi giay tre trong may tinh nay|
+|Cannot register the global hot key.|
+|Khong the dang ki phim nong!|
+|Click to expire the entry in %u days|
+|Nhap chuot de dinh han cua Muc trong %u ngay|
+|Exclude entries in the '&Backup' group|
+|Ngoai tru nhung Muc trong Nhom 'Du phong'|
+|Field has been pasted.|
+|Da Dan xong!|
+|Limit to single instance|
+|Gioi han cho doi tuong don|
+|Most probably another application has reserved this hot key already.|
+|Co le tu khoa nay da dc su dung trong ung dung khac!|
+|Paste operation completed.|
+|Da Dan xong !|
+|Pr&int Group...|
+|In Nhom|
+|Single left click instead of double-click for default tray icon action|
+|'Nhap chuot don' thay the 'nhap dup' trong Khay he thong|
+|The program is distributed under the terms of the GNU General Public License v2 or later.|
+|Chuong trinh nay duoc phan phoi duoi nhung dieu kien ban quyen cua GNU phien ban v2 hoac sau nua.|
+|Use more secure password edit controls|
+|Su dung them Bo dieu chinh Mat khau.|
+|Waiting for paste command.|
+|Doi trong khi dan|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
+|Ma hoa nhieu vong se tao ra Co so Du lieu ma hoa co do bao mat cao|
+|&Donate...|
+|Dong gop|
+|1 Year|
+|1 nam|
+|6 Months|
+|6 thang|
+|Include backup entries in quick searches (toolbar)|
+|Bao gom cac Muc sao luu trong Tim kiem nhanh|
+|&Repair KeePass Database File...|
+|Sua chua Co so Du lieu|
+|Automatically save database on exit and workspace locking|
+|Tu dong luu Du lieu khi thoat va thoa Co so Du lieu|
+|Delete all backup entries before saving the database|
+|Xoa het moi sao luu du phong truoc khi luu vao Co so Du lieu|
+|Press Shift-Home or Shift-End to clear this edit control|
+|Nhan to hop phim Shift-Home hoac Shift-End de xoa|
+|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
+|So vong cang lon thi do bao mat cang cao,nhung Co so Du lieu se cham hon!|
+|Use alternative auto-type method (minimize window)|
+|Su dung nhung phuong phap nhap tu dong khac|
+|&KeePass Database...|
+|Co so Du lieu|
+|Acknowledgements|
+|Cac bao nhan|
+|Create a new password entry.|
+|Tao mot Muc moi|
+|Create a new password group.|
+|Tao mot Nhom moi|
+|Click [No] to set a new key for the exported file.|
+|Nhap chon [Khong] de tao mot Ma khoa moi cho Ho so duoc xuat|
+|Click [Yes] to use the same key as the currently opened database.|
+|Nhap chon [Co] de su dung cung Ma khoa voi Co so Du lieu goc|
+|Copy &URL to Clipboard|
+|Sao chep &Dia chi URL vao Bo nho may tinh|
+|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
+|Sao chep URLs vao Bo nho may tinh thay vi khoi dong chung (ngoai tru:cmd:// URLs)|
+|Create new IDs|
+|Tao IDs moi|
+|If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
+|Neu Ban chon tuy chon nay, KeePass se tao mot IDs moi cho tat ca cac Nhom va Muc.Vay thi khong Nhom hay Muc nao cua Co so Du lieu bi thay doi hay ghi de. |
+|KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
+|KeePass se so sanh thoi diem thay doi gan nhat cua Nhom / Muc va thay the neu mot trong so chung trich nhap du lieu moi.|
+|KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
+|KeePass se thay the tat ca cac Nhom va Muc trong mot lan trich nhap duy nhat neu chung co ID giong nhau.|
+|Overwrite|
+|Ghi de|
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)|
+|Su dung bo nho bao ve (DPAPI, chi co trong HDH Vista va cao hon)|
+|Overwrite if newer|
+|Ghi de neu moi hon|
+|Choose an icon from the list of available entry and group icons.|
+|Chon mot bieu tuong trong danh sach ben duoi:|
+|Choose an icon.|
+|Chon bieu tuong|
+|Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
+|Vui long chon neu KeePass su dung Key cua Co so Du lieu hoac yeu cau Ban xac dinh ma khoa moi de ma hoa du lieu trich nhap.|
+|Reuse the current key/password?|
+|Su dung lai Ma khoa / Mat khau hien hanh ?|
+|The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
+|Dinh dang du lieu ma Ban chon trich nhap ho tro Nhom va / hoac IDs.Vui long chon mot che do trich nhap.|
+|&Help|
+|Huong dan|
+|&Help Contents|
+|Noi dung Huong dan|
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
+|Dan TANs vao hop chinh sua ben duoi.Tat ca ki tu khong duoc dinh ro nhu cac ki tu cua TAN se duoc xu li nhu dau cach, va chi gom nhung chuoi con cua cac ki tu TAN duoc them vao Muc.|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?|
+|Ho so Huong dan chua thong tin chi tiet ve dinh dang dau vao thich hop.Ban co muon xem Ho so Huong dan khong ? |
+|&Tools|
+|Cong cu|
+|Auto-Type Entry Selection|
+|Lua chon nhap tu dong du lieu cua Muc|
+|Click [No] to open the file in normal writing mode.|
+|Nhap chon [Khong] de mo Ho so o che do ghi.|
+|Click [Yes] to open the file in read-only mode.|
+|Nhap chon [Co] de mo Ho so o che do chi doc.|
+|Click on an entry to auto-type it.|
+|Nhap cho mot Muc de nhap tu dong du lieu cho no.|
+|Exit program instead of locking the workspace after the specified time|
+|Thoat chuong trinh thay vi khoa Du lieu sau mot thoi gian nhat dinh|
+|Multiple entries exist for the current window. Please select the entry to auto-type.|
+|Nhieu Muc ton tai cho cua so hien hanh. Vui long chon Muc de Nhap tu dong du lieu vao.|
+|TANs consist of the following characters:|
+|Thanh phan TANs gom cac ki tu sau:|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
+|Vui long nhap ten cho mau moi hoac chon mot mau da co de ghi de len no:|
+|Now|
+|Ngay bay gio|
+|Open the file in read-only mode?|
+|Mo Ho so trong che do chi doc ?|
+|Show TAN &Indices in Entry Titles|
+|Hien thi chi so TAN trong Tieu de cua Muc|
+|TAN View &Options|
+|Tuy chon Hien thi cua TAN|
+|The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
+|Ho so Ban muon mo da bi khoa.|
+|Use &Simple List View for TAN-Only Groups|
+|Su dung danh sach xem don gian cho TAN - Chi rieng Nhom|
+|'Keyfile' or 'preselect' option is already specified|
+|'Ho so ma khoa' hoac tuy cho truoc da duoc thiet lap roi.|
+|'Pw' option is already specified|
+|Tuy chon 'Pw' da duoc thiet lap roi|
+|Cache error (cannot open cached file).|
+|Loi bo nho dem (Khong the mo chung).|
+|Check For Update|
+|Cap nhat phien ban moi|
+|Check for Update|
+|Cap nhat phien ban moi|
+|Check for update at KeePass startup|
+|Cap nhat phien ban moi luc khoi dong KeePass|
+|Command line argument|
+|Doi so dong lenh|
+|Arguments|
+|Doi so|
+|Currently Used Language|
+|Ngon ngu hien thi|
+|Connect failed, cannot check for update.|
+|Khong the ket noi!|
+|Database is already specified|
+|Co so Du lieu da duoc xac lap|
+|Disable 'Save' button if the database hasn't been modified|
+|Giau nut 'Luu' neu Co so Du lieu chua duoc xac lap xong |
+|Do you want to visit the KeePass homepage now?|
+|Ban co muon den trang chu KeePass nagy bay gio khong ?|
+|Filename not found|
+|Khong tim thay ten Ho so|
+|It contains an unmatched quote|
+|Dau nhay khong doi xung|
+|KeePass Initialization|
+|Khoi tao KeePass|
+|New KeePass version available!|
+|KeePass co phien ban moi!|
+|Option not recognized|
+|Khong the nhan dang tuy chon|
+|Password is empty|
+|Chua co Mat khau !|
+|Path is invalid|
+|Duong dan khong hop le|
+|Reason|
+|Ly do|
+|ignored|
+|Bo qua|
+|&Deny|
+|Tu choi|
+|&Full|
+|Day|
+|&Read-Only|
+|Chi doc|
+|An application requests access through inter-process communication|
+|Mot ung dung doi hoi cho phep truyen thong giua cac qua trinh|
+|An entry already exists for the current URL.|
+|Mot Muc san co cho Dia chi URL hien hanh.|
+|Application|
+|Ung dung|
+|Do you grant the application access to your KeePass database?|
+|Ban muon trao quyen truy nhap ung dung cho Co so Du lieu ?|
+|Enable remote control (allow applications to communicate with KeePass)|
+|Cho phep dieu khien tu xa (cho phep ket noi thong tin voi KeePass)|
+|Fields to remember|
+|Vung ghi nho|
+|Incoming IPC Request|
+|Yeu cau IPC den|
+|Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
+|Luu y rang Tieu de cua Ung dung vua duoc cung cap boi yeu cau cua Ung dung va co the khong dung (mot chuong trinh nguy hiem co the truy cap vao Co so Du lieu cua Ban).|
+|Select the fields KeePass should remember|
+|Chon truong KeePass se ghi nho|
+|The following application requests access to your currently opened KeePass database:|
+|Ung dung sau yeu cau truy cap vao Co so Du lieu cua Ban:|
+|The group you selected cannot store entries. Please select a different group.|
+|Nhom Ban chon khong the luu tru trong Muc. Vui long chon Nhom khac !|
+|Unknown|
+|Khong biet|
+|Value|
+|Gia tri|
+|You have the latest version!|
+|Ban dang su dung phien ban moi nhat!|
+|Brackets ([, ], {, }, (, ), <, >)|
+|Dau ngoac ([, ], {, }, (, ) <, >)|
+|Click [No] to reuse the selected key file for this database.|
+|Nhap cho [Khong] de su dung lai ma khoa cho Co so Du lieu.|
+|Enter Composite Master Key|
+|Nhap Ma khoa hon hop chinh|
+|&Use master password and key file|
+|Su dung Mat khau chinh va Ho so ma khoa|
+|Upper-case (A, B, C, ...)|
+|Chu in hoa (A, B, C, ...)|
+|Space ( )|
+|Khoang trang ( )|
+|Text Files|
+|Ho so van ban|
+|Underline (_)|
+|Gach duoi (_)|
+|Master Password:|
+|Mat khau chinh:|
+|Save current settings as a profile.|
+|Luu thiet lap hien hanh lam mau.|
+|Randomly permute characters of password|
+|Hoan vi mot cach ngau nhien cac ki tu trong Mat khau|
+|Minus (-)|
+|Am (-)|
+|Open Database|
+|Dang nhap Co so Du lieu|
+|(Custom)|
+|(Tuy bien)|
+|(No key file selected)|
+|(Chua co Ho so Ma khoa nao duoc chon)|
+|A key file already exists on this drive. Do you want to overwrite or reuse it?|
+|Ho so ma khoa da co trong dia. Ban muon ghi de hay su dung lai chung ?|
+|All Files|
+|Tat ca Ho so|
+|Generate using character set:|
+|Khoi tao tu cac ki tu:|
+|Generate using pattern:|
+|Khoi tao tu mau nen:|
+|Generated password|
+|Tao Mat khau|
+|Length of generated password:|
+|Chieu dai Mat khau:|
+|Lower-case (a, b, c, ...)|
+|Chu in thuong (a, b, c, ...)|
+|Password Generator|
+|Tao Mat khau|
+|Repeat Master Password|
+|Xac nhan lai Mat khau chinh|
+|Digits (0, 1, 2, ...)|
+|So (0, 1, 2, ...)|
+|EITHER enter a master password OR select a key file.|
+|Nhap Mat khau chinh hoac chon Ho so ma khoa.|
+|Enter Password:|
+|Noi nhap Mat khau|
+|Enter the composite master key.|
+|Nhap Mat ma to hop chinh:|
+|Enter the new composite master key.|
+|Nhap Mat ma to hop chinh|
+|Exclude look-alike characters|
+|Loai tru cac ki tu nhu|
+|(Automatically generated passwords for new entries)|
+|(Tu dong tao Mat khau cho Muc moi)|
+|Hide passwords behind asterisks (***).|
+|Giau Mat khau sau dau Sao ( * ).|
+|Also include the following characters:|
+|Su dung them cac ki tu sau:|
+|Attachment Description|
+|Mo ta ve Ho so dinh kem|
+|Collect additional &entropy|
+|Thu thap them cac Entropy|
+|Change Composite Master Key|
+|Doi ma khoa tong hop chinh|
+|Click [Yes] to overwrite the key file.|
+|Nhap chon [Co] de ghi de le Ho so ma khoa.|
+|Create New Password Database|
+|Tao Co so Du lieu moi|
+|Current settings|
+|Cac thiet lap hien hanh|
+|Delete currently selected profile.|
+|Xoa cac mau dang chon.|
+|Here you can generate a random password.|
+|Khu vuc tao Mat khau ngau nhien|
+|High ANSI characters|
+|Cac ki tu ANSI cao cap|
+|KeePass Password Safe Files|
+|Ho so Mat khau An toan KeePass|
+|KeePass Password Safe|
+|Mat khau An toan KeePass|
+|Repeat the master password for the new database.|
+|Xac nhan lai Mat khau chinh cho Co so Du lieu moi|
+|Repeat the new master password for this database.|
+|Xac nhan lai Mat khau chinh cho Co so Du lieu|
+|Save key file manually to...|
+|Luu Ho so ma khoa vao|
+|Select key file manually...|
+|Chon Ho so ma khoa|
+|Set Composite Master Key|
+|Lap Mat ma chinh|
+|Specify the composite master key.|
+|Cau hinh Mat ma chinh|
+|The composite master key has been changed!|
+|Mat ma chinh da thay doi xong!|
+|Use local date/time format instead of ISO notation|
+|Su dung dinh dang ngay / gio he thong thay vi theo chuan ISO.|
+|If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
+|Neu Ban chu thich mot so su co voi phuong phap tang cuong,chuyen tro lai cach lam sach Bo nho may tinh.|
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
+|Ban co chat la Ho so phim anh chua dung Ho so ma khoa da duoc chen vao va KeePass da chap nhan chung.|
+|There are too few characters in the character set to build up a password matching the specified rules|
+|Qua it ki tu cho Mat khau so voi chuan !|
+|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
+|Canh bao ! Co the tuy chon nay khong hoat dong chinh xac tren He thong cua Ban, nhat la neu Ban su dung cong cu Clipboard Nang cao hoac Clipboard du phong|
+|You've selected the AND key mode, so you must enter a password AND select a key file.|
+|Ban da chon che do ma khoa: [ "Mat khau" ket hop "Ho so ma khoa" ] vi the Ban phai nhap Mat khau va chon mot Ho so ma khoa !|
+|&Export Group To|
+|Trich xuat Ho so den|
+|Advanced Password Generator Options|
+|Tuy chon tao Mat khau nang cao|
+|Clear Search History|
+|Xoa thong tin Tim kiem |
+|Default user name for new entries:|
+|Ten mac dinh cho Muc moi|
+|Exclude the following characters:|
+|Lai tru nhung ki tu sau:|
+|Fields to print|
+|Noi dung In|
+|Here you can customize the printed sheet.|
+|Khu vuc tuy chinh ban in|
+|Key File|
+|Ho so ma khoa|
+|No repeating characters|
+|Khong lap lai cac ki tu|
+|Print Options|
+|Tuy chon In|
+|Print backup entries (entries in the 'Backup' group)|
+|In Muc sao lu du phong (cac Muc trong nhom 'Sao luu du phong')|
+|Provider|
+|Nha cung cap|
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
+|Dang ki phim nong Ctrl-Alt-K (mang cua so KeePass len phia truoc)|
+|Regular expression|
+|Dien dat thong thuong|
+|Search...|
+|Tim kiem...|
+|TANs are imported into the currently selected group|
+|TANs se trich nhap vao Nhom duoc chon|
+|The key provider plugin did not supply a valid key|
+|Plugin cap ma da khong cung cap mot ma khoa co hop le!|
+|Type to search the database|
+|Nhap thong tin de tim Co so Du lieu|
+|in "Minimal functionality" mode|
+|trong che do thu nho |
+|Abort specifying a new key for the current database.|
+|Bo qua nhung chi dinh cu the cua ma khoa moi cho Co so Du lieu.|
+|Abort the current operation.|
+|Bo qua nhung hoat dong hien hanh.|
+|Always grant full access through remote control (not recommended)|
+|Trao toan quyen truy cap cho Ban dieu khien tu xa (khong de nghi)|
+|An error occurred|
+|Xuat hien mot loi|
+|An error occurred while importing the file. File cannot be imported.|
+|Xuat hien mot loi trong khi trich nhap,Ho so khong the trich nhap duoc.|
+|Auto-Type: Help|
+|Nhap tu dong: Huong dan|
+|Auto-Type: Select Target Window...|
+|Nhap tu dong: Chon cua so dich|
+|Cancel|
+|Huy bo|
+|Copy [of an item]|
+|Sao chep|
+|Discard all changes made to the database and close the file.|
+|Huy bo tat ca cac thay doi cho Co so Du lieu va dong Ho so lai.|
+|Discard all changes made to the database and exit KeePass.|
+|Huy bo tat ca cac thay doi cho Co so Du lieu va Thoat khoi KeePass.|
+|Discard all changes made to the database and lock the KeePass workspace.|
+|Huy bo tat ca cac thay doi cho Co so Du lieu va Khoa Co so Du lieu lai.|
+|Discard changes|
+|Huy bo tat ca cac thay doi|
+|Focus entry list after a successful quick search (toolbar)|
+|Gom cac Muc lai sau khi tim so luoc (thanh cong cu)|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
+|Tao mot ma khoa moi va ghi de len ma khoa cu (ma khoa cu se mat).|
+|KeePass will not be closed.|
+|Khong the dong KeePass.|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|
+|Tai ma khoa va su dung no lam ma khoa cho Co so Du lieu hien hanh.Ho so ma khoa nay se khong duoc thay doi.|
+|Lock workspace when locking Windows, switching user or sleeping|
+|Khoa Co so Du lieu khi Lock PC, Log off hay Sleeping.|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
+|Tuy chon / quy tac danh dau voi dau Sao se lam giam bao mat cua qua trinh tao mat khau. Chi kich hoat chung neu Ban buoc phai theo chuan cua trang Web, Ung dung hoac nguyen tac mat khau.|
+|Overwrite existing key file?|
+|Overwrite-Ghi de len Ho so ma khoa da co ?|
+|Reuse|
+|Su dung lai|
+|Save|
+|Luu|
+|Save all changes made to the database and close the file.|
+|Luu ca cac thay doi vao Co so Du lieu va dong Ho so lai.|
+|Save all changes made to the database and exit KeePass.|
+|Luu ca cac thay doi vao Co so Du lieu va thoat khoi KeePass.|
+|Save all changes made to the database and lock the KeePass workspace.|
+|Luu ca cac thay doi vao Co so Du lieu va khoa Co so Du lieu lai.|
+|Save database changes before closing the file?|
+|Luu nhung thay doi vao Co so Du lieu truoc khi dong Ho so ?|
+|Save database changes before exiting KeePass?|
+|Luu nhung thay doi vao Co so Du lieu truoc khi thoat khoi KeePass ?|
+|Save database changes before locking the workspace?|
+|Luu nhung thay doi vao Co so Du lieu truoc khi khoa Co so Du lieu ?|
+|Select the target window for the current entry.|
+|Chon cua so dich cho Muc hien hanh.|
+|The KeePass workspace will not be locked.|
+|Se khoa Co so Du lieu lai.|
+|The current database file has been modified|
+|Da thay doi Co so Du lieu hien hanh|
+|The estimated quality of the master password must be at least %u bits!|
+|Mot Mat khau chinh duoc xem la chat luong phai nhieu hon %u bit !|
+|The file will not be closed.|
+|Khong the dong Ho so.|
+|The master password must be at least %u characters long!|
+|Mat khau chinh phai dai tren %u ki tu !|
+|The selected key file already exists|
+|Chon Ho so ma khoa da co|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
+|Xac dinh cua so dich,chon cua so hien hanh - mo tu danh sach tha xuong hoac nhap ten cua so:|
+|URL Field: Help|
+|Dia chi URL: Huong dan|
+|URL Field: Insert Placeholder|
+|Dia chi URL: Chen vi tri|
+|URL Field: Select Application...|
+|Dia chi URL: Chon Ung dung|
+|URL Field: Select Document...|
+|Dia chi URL: Chon tai lieu|
+|Default auto-type sequence for standard entries:|
+|Thu tu nhap tu dong:|
+|Drop to background when copying data to the clipboard|
+|Tro lai man hinh khi sao chep du lieu vao Bo nho may tinh|
+|Enable auto-type features|
+|Cho phep nhap tu dong theo mau|
+|Field to reference|
+|Tham chieu vao mau|
+|Here you can configure auto-type.|
+|Noi cau hinh cho viec nhap tu dong.|
+|Identify source entry by|
+|Xac dinh Muc nguon boi|
+|In Notes Field|
+|Trong ghi chu|
+|In Password Field|
+|Trong Mat khau|
+|In Title Field|
+|Trong Chu de|
+|In URL Field|
+|Trong Dia chi URL|
+|In User Name Field|
+|Trong Ten|
+|Insert Field Reference|
+|Chen truong mau|
+|Multiple entries match the specified identifying field.|
+|Nhieu Muc buoc xac dinh ro dang truong.|
+|Prepend special initialization sequence for Internet Explorer windows|
+|Co khoi tao mot chuoi dac biet cho trinh duyet may tinh|
+|Source field to reference|
+|Nguon thanh mau|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
+|Ho so dich co the bi hu hong.Vui long luu lan nua va neu no van hong thi luu Co so Du lieu sang khu vuc khac.|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
+|De tranh mo ho, Muc co the xac dinh boi UUIDs duy nhat cua chung.|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
+|De chon truong, xac dinh Muc nguon chua nhung ki tu khong hop le (nhu '{','}',ki tu dau dong,...).|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
+|Ban co the chon mot bo phim nong khac trong 'Cong cu' - 'Tuy chon' - 'Mo rong' - 'Nhap tu dong'.|
+|&Modify All Selected...|
+|Sua doi tat ca nhung cai dang chon|
+|Auto-Type: Customize Sequence|
+|Nhap tu dong: Chuoi tuy chinh|
+|Clear clipboard when closing/locking the database|
+|Lam sach bo nho may tinh khi dong / khoa Co so Du lieu|
+|Exclude &expired entries|
+|Loai tru nhung Muc het hieu luc|
+|Include expired entries in quick searches (toolbar)|
+|Loai tru nhung Muc het hieu luc khi tim so luoc (thanh cong cu)|
+|Normal|
+|Binh thuong|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.|
+|Mo Ho so trong che do Chi doc.Moi Co so Du lieu thay doi co the luu thanh mot Ho so khac.|
+|Read-only|
+|Chi doc|
+|Sort items in the auto-type entry selection dialog|
+|Sap xep trong Hop thoai Muc nhap tu dong|
+|Take ownership of the file and open it in normal writing mode.|
+|Lay quyen so huu cua Ho so va mo no trong che do cho phep ghi.|
+|Caps Lock is On|
+|Phim In hoa dang bat!|
+|Having Caps Lock on may cause you to enter your password incorrectly.|
+|Phim In hoa co the la nguyen nhan khien Ban nhap sai Mat khau !|
+|You should press Caps Lock to turn it off before entering your password.|
+|Ban co the nhan phim Caps Lock de tat che do Viet hoa truoc khi nhap Mat khau|
+|Remove Duplicate Entries |
+|Xoa nhung Muc giong nhau|
+|Remove Empty Groups|
+|Xoa nhung Nhom khong co Muc|
+|No empty groups found!|
+|Khong co Nhom rong nao !|
+|No duplicate entries found!|
+|Khong co Muc giong nhau !|
+|This plugin doesn't have any options.|
+|Plugin nay khong co tuy chon nao!|
+|Copyright © 2003-2009 Dominik Reichl.|
+|Ban quyen © 2003-2009 Dominik Reichl.|
+| Right to left Reading order |
+|Doc tu phai sang trai|
+|Show Unicode control characters|
+|Hien thi ki tu Unicode|
+|Insert Unicode control characters|
+|Chen ki tu Unicode|
+|Open IME|
+|Mo IME|
+|Reconversion|
+|Dao nguoc lai|
+|All Files (*.*)|
+|Tat ca cac Ho so (*.*)|
+|Untitled|
+|Chua co Tieu de|
+|an unnamed file|
+|Ho so chua co ten|
+|&Hide|
+|An giau|
+|No error message is available.|
+|Khong co thong tin loi nao co gia tri|
+|An unsupported operation was attempted.|
+|Hoat dong khong tuong thich da duoc thu|
+|Out of memory.|
+|Vuot qua dung luong bo nho|
+|A required resource was unavailable.|
+|Nguon yeu cau khong co gia tri|
+|An unknown error has occurred.|
+|Da xay ra mot loi khong ro nguyen nhan|

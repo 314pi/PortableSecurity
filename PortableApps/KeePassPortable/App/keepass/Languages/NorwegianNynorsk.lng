@@ -1,0 +1,689 @@
+﻿|~LANGUAGENAME||Norsk (nynorsk)|
+|~LANGUAGEVERSION||1.35|
+|~LANGUAGEAUTHOR||Yngve Spjeld-Landro|
+|~LANGUAGEAUTHOREMAIL||l10n@landro.net|
+|~LANGISO6391CODE||nn|
+|&Close||L&ukk|
+|&Generate Random Password||&Lag tilfeldig passord|
+|General||Generelt|
+|Windows||Windows|
+|Network||Nettverk|
+|Internet||Internett|
+|eMail||E-post|
+|Homebanking||Nettbank|
+|Entry||Post|
+|&Title||&Tittel|
+|User &Name||&Brukarnamn|
+|&URL||&Adresse|
+|&Password||&Passord|
+|N&otes||&Merknader|
+|&Case sensitive||&Skil mellom store og små bokstavar|
+|Search in||Søk i|
+|Find what:||Søk etter:|
+|&Find||&Søk|
+|Find||Finn|
+|Title||Tittel|
+|User Name||Brukarnamn|
+|URL||Adresse|
+|Password||Passord|
+|Notes||Merknader|
+|Ready.||Klar.|
+|Enter Password:||Skriv passordet:|
+|Master Password:||Hovudpassord:|
+|Create New Password Database||Lag ny passorddatabase|
+|Set Composite Master Key||Lagra samansett hovudpassord|
+|Enter the composite master key.||Skriv inn det samansette hovudpassordet.|
+|Specify the composite master key.||Før opp det samansette hovudpassordet.|
+|Repeat the master password for the new database.||Skriv inn att hovudpassordet til den nye databasen.|
+|Open Database||Opna databasen|
+|Enter Composite Master Key||Skriv inn det samansette passordet|
+|(No key file selected)||(Inga nøkkelfil er vald)|
+|Password Generator||Passordlagar|
+|Here you can generate a random password.||Her kan du laga eit tilfeldig passord.|
+|Options||Val|
+|Current settings||Gjeldande innstillingar|
+|Generated password||Laga passord|
+|&Generate||&Lag|
+|&Accept||&Godta|
+|Upper-case (A, B, C, ...)||Store bokstavar (A, B, C, …)|
+|Lower-case (a, b, c, ...)||Små bokstavar (a, b, c, …)|
+|Digits (0, 1, 2, ...)||Tal (0, 1, 2, …)|
+|Underline (_)||Understrek (_)|
+|Minus (-)||Minus (-)|
+|Space ( )||Mellomrom ( )|
+|Special||Spesialteikn|
+|High ANSI characters||Høge ANSI-teikn|
+|Brackets ([, ], {, }, (, ), <, >)||Parentesar ([, ], {, }, (, ), <, >)|
+|Group:||Gruppe:|
+|Title:||Tittel:|
+|User name:||Brukarnamn:|
+|URL:||Adresse:|
+|Icon:||Ikon:|
+|Password:||Passord:|
+|Repeat:||På nytt:|
+|Notes:||Merknader:|
+|***||***|
+|Add Entry||Legg til post|
+|Create a new password entry.||Lag ein ny passordpost.|
+|Edit Entry||Endra post|
+|Modify existing password entry.||Endra passordposten.|
+|Group name:||Gruppenamn:|
+|Add Group||Legg til gruppe|
+|Create a new password group.||Lag ei ny passordgruppe.|
+|Edit Group||Endra gruppe|
+|Modify existing password group.||Endra passordgruppa.|
+|Random mouse input||Vilkårlege muserørsler|
+|Click to begin:||Klikk for å begynna:|
+|Use &Mouse as Random Source||&Bruk mus som tilfeldig kjelde|
+|Move the mouse in the field above until this is full:||Flytt musa i feltet over til det er fylt:|
+|Hint: It is best to use both mouse and keyboard random sources.||Tips: det er best å bruka både mus og tastatur for å laga tilfeldige verdiar.|
+|Random keyboard input||Tilfeldig tasteinnslag|
+|Just hack some random keys into the edit box above.||Slå berre inn nokre tilfeldige tastar i vindauget over.|
+|You don't have to remember the keys you type in. They are used to generate a random value.||Du treng ikkje hugsa tastetrykka. Dei blir berre brukte til å laga tilfeldige verdiar.|
+|So, the more the better. The different, the better.||Dess fleire, dess betre – dess forskjellige, dess betre.|
+|The random the better.||Dess meir tilfeldig, dess betre.|
+|Get Random||Få tilfeldige tal|
+|Get Random Data for Key Generation||Få tilfeldige data for nøkkellaging|
+|Move the mouse and type some random text to generate random values.||Flytt på musa og skriv noko tilfeldig for å få laga slumpverdiar.|
+|Pick an Icon||Vel eit ikon|
+|Choose an icon.||Vel eit ikon.|
+|Choose an icon from the list of available entry and group icons.||Vel eit ikon frå post- og gruppeikonlista.|
+|&File||&Fil|
+|&Edit||&Endra|
+|&View||&Vis|
+|&?||&Hjelp|
+|&New...||&Ny …|
+|&Open...||&Opna …|
+|&Save||La&gra|
+|Save &As...||Lagra &som …|
+|Change &Master Key...||Endra &hovudpassordet …|
+|&Print...||Skriv &ut …|
+|&Lock Workspace||Lås arbeids&flata|
+|&Unlock Workspace||&Opna arbeidsflata|
+|E&xit||Avsl&utt|
+|&Lock/Unlock Workspace||Lås/opna arbeids&flata|
+|&Options...||&Val …|
+|Pr&int Group...||&Skriv ut gruppa …|
+|Open &URL(s)||&Opna adresse(-r)|
+|&Find in Database...||S&øk i databasen …|
+|Find in t&his Group...||Søk i &denne gruppa …|
+|&Add Entry...||Legg til ny &post …|
+|&Edit/View Entry...||&Endra/sjå på posten …|
+|&Delete Entry||&Slett posten|
+|Dupli&cate Entry||&Dupliser posten|
+|Move Entry to &Top||Flytt posten til &toppen|
+|Move Entry &One Up||Flytt posten éin plass &opp|
+|Mo&ve Entry One Down||Flytt posten éin plass &ned|
+|Move Entry to &Bottom||Flytt posten til &botnen|
+|Move Group to &Top||Flytt gruppa til &toppen|
+|Move Group One &Up||Flytt gruppa éin plass &opp|
+|Move Group &One Down||Flytt gruppa éin plass &ned|
+|Move Group to &Bottom||Flytt gruppa til &botnen|
+|Change &Language...||Endra sp&råket …|
+|User &name||Brukar&namn|
+|&Always on Top||&Alltid øvst|
+|Hide &Passwords Behind Asterisks (***)||Gøym &passorda bak asteriskteikn (***)|
+|Hide passwords behind asterisks (***).||Gøym passorda bak asteriskteikn (***).|
+|Password &Generator...||Passord&lagar …|
+|&About KeePass...||&Om KeePass …|
+|&Database Settings...||&Databaseinnstillingane …|
+|&Tray/Untray||&Systemfelt/arbeidsflate|
+|Password and repeated password aren't identical!||Passorda er ikkje identiske|
+|Stop||Stopp|
+|Enter a group name!||Legg inn eit gruppenamn|
+|You must generate some random values using the random mouse input box or the edit field before you can close this dialog.||Du må laga tilfeldige verdiar ved hjelp av musa eller tekstfeltet før du kan lukka dette meldingsvindauget.|
+|No random input||Ingen tilfeldige teikn vart laga|
+|EITHER enter a master password OR select a key file.||Skriv ANTEN inn eit hovudpassord ELLER vel ei passordfil.|
+|The password must consist of at least one character!||Passordet må innehalda minst eitt teikn|
+|Select at least one of the options in the list above!||Vel minst eitt av vala i lista over|
+|The following self-tests failed:||Desse sjølvtestane feila:|
+|- SHA 32-bit variables||- SHA 32-bit-variablar|
+|- SHA 64-bit variables||- SHA 64-bit-variablar|
+|- SHA-256 test vector(s)||- SHA-256 testvektor(-ar)|
+|- SHA-512 test vector(s)||- SHA-512 testvektor(-ar)|
+|- Rijndael encryption||- Rijndael-kryptering|
+|- Rijndael decryption||- Rijndael-dekryptering|
+|- Arcfour crypto routine||- Arcfour-krypteringsrutine|
+|- Twofish algorithm||- Twofish-algoritme|
+|The program will exit now.||Programmet vil no verta avslutta.|
+|Self-Test(s) Failed||Sjølvtesten(-ane) feila|
+|Clipboard cleared.||Utklippstavla er tømt.|
+|Field copied to clipboard. Clipboard will be cleared in %d seconds.||Feltet er kopiert til utklippstavla. Ho blir tømt om %d sekund.|
+|Failed to set the master key!||Klarte ikkje å lagra hovudpassordet.|
+|File cannot be opened!||Klarer ikkje å opna fila.|
+|File cannot be saved!||Klarer ikkje å lagra fila.|
+|KeePass Password Safe Files||KeePass Password Safe-filer|
+|All Files||Alle filer|
+|Do you want to save the changes before closing?||Vil du lagra endringane før fila blir lukka?|
+|KeePass - Save Before Close/Lock?||KeePass - Vil du lagra før lukking/låsing?|
+|Deleting a group will delete all items and subgroups in that group, too.||Å sletta ei gruppe vil òg sletta alle postane og undergruppene i gruppa.|
+|Are you sure you want to delete this group?||Vil du verkeleg sletta denne gruppa?|
+|Delete Group Confirmation||Stadfesting av gruppesletting|
+|Cannot open temporary file for printing!||Klarer ikkje å opna mellombels fil for utskrift.|
+|&Help||&Hjelp|
+|&Help Contents||&Hjelpinnhald|
+|Open &Help File||Opna hjelpe&fila|
+|Open &License File||Opna &lisensfil|
+|Newline sequence:||Nylinjeskift:|
+|Windows newline sequence (\r\n)||Windows (\r\n)|
+|Unix newline sequence (\n)||Unix (\n)|
+|Clipboard auto-clear time (seconds):||Automatisk tømming av utklippstavla (sekund):|
+|Settings||Innstillingar|
+|Here you can configure KeePass.||Her kan endra innstillingane til KeePass.|
+|Automatically open last used database on startup||Opna automatisk den sist brukte databasen ved oppstart|
+|Display images on buttons||Vis bilete på knappane|
+|Workspace locked||Arbeidsflata er låst|
+|Loading error||Innlastingsfeil|
+|Language file cannot be opened!||Klarer ikkje å opna språkfila.|
+|Do you wish to restart KeePass now?||Vil du starta om att KeePass no?|
+|Restart KeePass?||Starta om att KeePass no?|
+|Application cannot be restarted automatically!||Programmet kan ikkje startast om att automatisk.|
+|Please restart KeePass manually.||Start om att KeePass manuelt.|
+|CSV Files||CSV-filer|
+|Text Files||Tekstfiler|
+|&CSV File...||&CSV-fil …|
+|&PwSafe v2 TXT File...||&PwSafe v2 TXT-fil …|
+|Select &Font||Vel skri&fttype|
+|Select a new font for the list controls:||Vel ny skrifttype for listeboksane:|
+|Code&Wallet TXT File...||Code&Wallet TXT-fil …|
+|&TXT File...||&TXT-fil …|
+|&HTML File...||&HTML-fil …|
+|&XML File...||&XML-fil …|
+|&CSV File...||&CSV-fil …|
+|Start and exit||Start og avslutning|
+|Interface (GUI)||(Grafisk) grensesnitt|
+|Files||Filer|
+|Memory||Minne|
+|Lock workspace when minimizing the main window||Lås arbeidsflata når hovudvindauget blir minimert|
+|Minimize to tray instead of taskbar||Minimer til systemfeltet i staden for oppgåvelinja|
+|Encryption algorithm to use (for this database):||Krypteringsalgoritme (for denne databasen):|
+|Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)||Avansert krypteringsstandard (AES) (128-bit blokkrypteringsmetode med 256bit nøkkel)|
+|Twofish (128-bit block cipher using 256-bit key)||Twofish (128-bit blokkrypteringsmetode med 256bit nøkkel)|
+|Security||Tryggleik|
+|KeePass is OSI Certified Open Source Software.||KeePass er eit OSI-sertifisert openkjeldeprogram.|
+|&Group name||&Gruppenamn|
+|Every second row has a different background color. Use this color:||Annakvar rad har ulik farge. Bruk denne fargen:|
+|Default||Standard|
+|More Colors...||Fleire fargar…|
+|Search Results||Søkeresultat|
+|Creation Time||Oppretta|
+|Last Modification||Sist endra|
+|Last Access||Sist brukt|
+|Expires||Gyldig til|
+|UUID||UUID|
+|&Creation Time||&Oppretta|
+|Last &Modification Time||Sist &endra|
+|&Last Access Time||Sist &brukt|
+|&Expiration Time||&Gyldig til|
+|UU&ID||UU&ID|
+|Show &Toolbar||Vis verktøy&linje|
+|Field copied to clipboard.||Felt kopiert til utklippstavla.|
+|A key file already exists on this drive. Do you want to overwrite or reuse it?||Ei nøkkelfil finst allereie på denne stasjonen. Vil du skriva over ho eller vil du bruka ho om att?|
+|Click [Yes] to overwrite the key file.||Klikk [Ja] for å skriva over nøkkelfila.|
+|Click [No] to reuse the selected key file for this database.||Klikk [Nei] for å bruka om att den valde nøkkelfila til denne databasen.|
+|Click [Cancel] to abort changing the key.||Klikk [Avbryt] for å avbryta nøkkelendringa.|
+|Overwrite?||Skriva over?|
+|Expires:||Gyldig til:|
+|Change group:||Endra gruppe:|
+|Change entry icon:||Endra postikon:|
+|Change expiration time:||Endra utløpsdato:|
+|Mass Modify||Endra alle|
+|Change fields of all selected entries||Endra felta til alle valde postar|
+|Show &Columns||Vis &kolonnar|
+|Show &Entry View||Post&vising|
+|Automatically resize table columns when resizing the main window||Automatisk tilpassa tabellkolonnar ved endring av hovudvindauget|
+|&Copy||&Kopier|
+|Copy &All||Kopier &alle|
+|&Undo||&Angra|
+|&Paste||&Lim inn|
+|Cu&t||&Klipp ut|
+|&Select All||Vel &alle|
+|&Delete||&Slett|
+|&TAN Wizard...||&TAN-rettleiar …|
+|TAN Wizard||TAN-rettleiar|
+|Using this wizard you can easily add TAN entries.||Med denne rettleiaren kan du lett leggja til TAN-postar.|
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.||Lim inn TAN-teikna (Transactional Access Numbers) i vindauget nedanfor. Teikn som ikkje eksplisitt er definerte som TAN-teikn blir rekna som skiljeteikn, og berre delstrengar som inneheld TAN-teikn blir lagde til som TAN-postar.|
+|TANs consist of the following characters:||TAN består av desse teikna:|
+|<TAN>||<TAN>|
+|Print Pre&view...||F&ørehandsvising …|
+|About &Translation...||Om o&msetjinga …|
+|Author||Forfattar|
+|&Rearrange||&Ordna på nytt|
+|&Sort Group List||&Sorter gruppelista|
+|Sort List by &Title||Sorter lista etter &tittel|
+|Sort List by User &Name||Sorter lista etter brukar&namn|
+|Sort List by &URL||Sorter lista etter &adresse|
+|Sort List by &Password||Sorter lista etter &passord|
+|Sort List by Note&s||Sorter lista etter &merknader|
+|Sort List by &Creation Time||Sorter lista etter når &oppretta|
+|Sort List by Last &Modify Time||Sorter lista etter sist &endra|
+|Sort List by Last &Access Time||Sorter lista etter sist &brukt|
+|Sort List by &Expiration Time||Sorter lista etter &gyldig til|
+|Move Group One &Left||Flytt gruppa éin til &venstre|
+|Move Group One &Right||Flytt gruppa éin til &høgre|
+|Hide &User Names Behind Asterisks (***)||Skjul &brukarnamn bak asteriskteikn (***)|
+|Attachment:||Vedlegg:|
+|Attachment||Vedlegg|
+|Attachment Description||Vedleggsskildring|
+|&Attachment||&Vedlegg|
+|Generate a random password...||Lag eit tilfeldig passord …|
+|Open file and set as attachment...||Opna fil og bruk som vedlegg …|
+|Save attached file to disk...||Lagra vedleggsfila til platelager …|
+|There already is a file attached with this entry.||Det finst allereie eit vedlegg til denne posten.|
+|Do you want to overwrite the current attachment?||Vil du skriva over det noverande vedlegget?|
+|&Save Attached File To...||&Lagra vedleggsfila i …|
+|There is no file attached with this entry.||Inga fil er knytt til denne posten.|
+|Remove the currently attached file||Fjern den tilknytta fila|
+|Close button [X] minimizes the main window instead of terminating the application||Avslutt-knappen [X] minimerer hovudvindauget i staden for å avslutta programmet|
+|KeePass Password Database||KeePass passorddatabase|
+|&Open with KeePass||&Opna med KeePass|
+|Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):||Her kan du knyta .kdb-filer til KeePass. Då vil Keepass opna fila når du dobbeltklikkar på henne:|
+|Create &Association||Lag &knyting|
+|&Remove Association||&Fjern knyting|
+|Setup||Innstillingar|
+|Exit?||Avslutta?|
+|The file couldn't be saved.||Klarte ikkje å lagra fila.|
+|Maybe it's read-only or the storage media has been removed.||Kanskje kan ein berre lesa fila, eller så kan lagringsmediet vera fjerna.|
+|If you exit now, all changes to the current database will be lost.||Om du avsluttar no vil ikkje endringar i databasen bli lagra.|
+|Would you like to exit anyway?||Vil du likevel avslutta?|
+|Cannot access the selected drive.||Får ikkje tilgang til den valde stasjonen.|
+|Make sure a writable medium is inserted.||Sjå til at eit skrivbart medium står i.|
+|Not enough free disk space!||Det er ikkje nok lagrinsgplass.|
+|Disable unsafe (security-critical) operations like exports, etc.||Slå av (tryggleikskritiske) usikre funksjonar som eksport og liknande.|
+|Unsafe operations are disabled.||Usikre funksjonar er slått av.|
+|To execute this operation you must enable unsafe operations in the options dialog.||For å utføra denne handlinga må du slå på bruk av usikre funksjoner i innstillingane.|
+|You have changed an option that requires restarting KeePass to get active.||Du har endra ei innstilling som krev omstart av KeePass for å bli teken i bruk.|
+|Expired Entries||Ugyldige postar|
+|This is a list of all expired entries||Dette er ei liste over alle ugyldige postar|
+|Click on an entry to jump to it.||Klikk på ein post for å gå til han.|
+|Quality:||Kvalitet:|
+|Database Settings||Databaseinnstillingar|
+|Here you can configure the current database.||Her kan du endra innstillingane til databasen som er i bruk.|
+|Database Summary||Databasesamandrag|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||Databasekrypteringsnøkkelen er kryptert fleire gongar. Dette legg til ein konstant tidsfaktor og gjer det mykje vanskelegare å gjetta passordet eller bruka ordboksoppslag.|
+|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.||Dess høgare dette talet er, dess vanskelegare blir eit ordboksoppslagangrep. Samstundes vil det ta lengre tid å lagra eller henta databasen.|
+|Number of key encryption rounds:||Tal rundar med kryptering:|
+|bits||bitar|
+|Personal &Vault TXT File...||Personal &Vault TXT-fil …|
+|Imported from Password Safe||Importert frå Password Safe|
+|Remember last opened file||Hugs siste opna fil|
+|Total number of groups / entries||Totalt tal grupper/postar|
+|Total: %u groups / %u entries||Totalt: %u grupper, %u postar|
+|%u of %u selected||%u av %u er vald(-e)|
+|Number of selected entries (number of entries in the list)||Tal valde postar (listepostar)|
+|Status||Status|
+|The database file has been modified!||Databasefil er blitt endra|
+|Most probably someone has changed the file while you were editing it.||Det kan henda at nokon andre har endra fila medan du arbeidde med ho.|
+|Do you want to overwrite it?||Vil du skriva over ho?|
+|The group you selected cannot store entries. Please select a different group.||Gruppa du valde kan ikkje lagra postar. Du må velja ei anna gruppe.|
+|This will remove all selected entries unrecoverably!||Dette vil fjerna alle valde postar for alltid.|
+|Are you sure you want to delete all selected entries?||Er du sikker på du vil sletta alle valde postar?|
+|Delete Entries Confirmation||Stadfest slettinga av postane|
+|Use PuTTY for ssh: and telnet: URLs||Bruk PuTTY for ssh:- og telnet:-adresser|
+|Se&lect All||Vel &alle|
+|N&o Auto-Sort||&Inga automatisk sortering|
+|Perform Auto-&Type||Bruk auto-&inntasting|
+|Select key file manually...||Vel nøkkelfil manuelt …|
+|Save key file manually to...||Lagra passordfila manuelt i …|
+|Enter the new composite master key.||Skriv inn den nye samansette hovudnøkkelen.|
+|Repeat Master Password||Skriv inn att hovudpassordet|
+|Repeat the new master password for this database.||Skriv inn att det nye hovedpassordet til denne passorddatasen.|
+|Change Composite Master Key||Endra den samansette hovednøkkelen|
+|Plugin||Programtillegg|
+|Plugins||Programtillegg|
+|&Plugins...||&Programtillegg …|
+|Here you can configure all installed KeePass plugins.||Her kan du endra innstillingane til alle installerte KeePass-tillegga.|
+|Enabled, loaded||I bruk, lasta|
+|&Enable||&Ta i bruk|
+|&Disable||&Slå av|
+|About &Plugin...||Om &programtillegg…|
+|Error code||Feilkode|
+|Unknown error||Ukjend feil|
+|Success||Vellykka|
+|Invalid parameter||Ugyldig parameter|
+|Invalid/wrong key||Ugyldig/feil nøkkel|
+|File access error: failed to open file in read mode||Filtilgangsfeil: klarte ikkje å opna fila i lesemodus|
+|File access error: failed to open file in write mode||Filtilgangsfeil: klarte ikkje å opna fila i skrivemodus|
+|File error: error while reading from the file||Filfeil: klarte ikkje å lesa frå fila|
+|File error: error while writing to the file||Filfeil: klarte ikkje å lagra fila|
+|Internal error||Intern feil|
+|Invalid random source||Ugyldig slumpkjelde|
+|Invalid/corrupted file structure||Ugyldig/øydelagt filstruktur|
+|Encryption/decryption error||Krypterings-/dekrypteringsfeil|
+|Global auto-type hot key combination:||Global tastatursnarveg for auto-inntasting:|
+|Cannot register the global hot key.||Klarer ikkje å registrera tastatursnarvegen.|
+|Most probably another application has reserved this hot key already.||Truleg nyttar eit anna program den same snarvegen.|
+|&Use master password and key file||&Bruk hovudpassord og nøkkelfil|
+|You've selected the AND key mode, so you must enter a password AND select a key file.||Du har vald AND-nøkkelmodus. Du må derfor skriva både eit passord OG velja ei passordfil.|
+|Timed: copy data to the clipboard and clear it automatically after some seconds||Tidsstyrt: kopierer data til utklippstavla og slettar dei automatisk etter nokre sekund|
+|Enhanced: allow pasting only once and protect against clipboard spies||Utvida: tillèt berre éi innliming og beskyttar mot utklippstjuvar|
+|Clipboard behavior:||Utklippstavleoppførsel:|
+|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.||Åtvaring: det kan vera at denne innstillinga ikkje vil verka på systemet ditt - spesielt dersom du nyttar eigne utklippsprogram.|
+|If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.||Om du får problem med den utvida utklippstavlemetoden, gå attende til tidsstyrt utklippstavletømming.|
+|Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.||Klarte ikkje å endra tilknytinga til .kdb-filer. Sjå til at du har nok rettar til systemregisteret og at du kan endra tilknytingar.|
+|Number the TANs consecutively, starting from this value||Nummerer TAN i rekkjefølgje frå denne verdien|
+|Never expires||Går aldri ut|
+|Auto-Type||Auto-inntast.|
+|Help:||Hjelp:|
+|Advanced||Avansert|
+|Start minimized and locked||Start programmet minimert og låst|
+|Immediately after opening a database||Med éin gong etter opning av databasen|
+|Show expired entries (if any)||Vis òg ugyldige|
+|Show entries that will expire soon (if any)||Vis òg postar som snart vil gå ut|
+|Integration||Integrasjon|
+|Start KeePass at Windows startup (for current user)||Start KeePass når Windows startar (for gjeldande brukar)|
+|Unable to create/remove the auto-start key of KeePass in the Windows registry!||Klarte ikkje å laga/fjerna auto-oppstart av KeePass i Windows-registeret.|
+|Backup||Tryggleikskopi|
+|Save backups of modified entries into the 'Backup' group||Lagra kopi av endra postar i 'Tryggleikskopi'-gruppa|
+|Failed to create backup of this entry!||Klarte ikkje å ta kopi av denne posten|
+|The composite master key has been changed!||Den samansette hovudnøkkelen er blitt endra|
+|Save the database now in order to get the new key applied.||Lagra databasen no slik at den nye nøkkelen blir teken i bruk.|
+|Fields to export||Felt som skal eksporterast|
+|Icon||Ikon|
+|Group Tree||Gruppetre|
+|Export Options||Eksportval|
+|Here you can customize the exported files.||Her kan du tilpassa dei eksporterte filene.|
+|Encode/replace newline characters by '\n'||Slå på / byt ut nylinjeteiknet med '\n'|
+|Export backup entries (entries in the 'Backup' group)||Eksporter kopipostar (postar i 'Tryggleikskopi'-gruppa)|
+|&Get More Import Plugins...||&Hent fleire importtillegg …|
+|Field has been pasted.||Feltet er limt inn.|
+|Waiting for paste command.||Ventar på innlimingskommandoen.|
+|Paste operation completed.||Innliminga er ferdig.|
+|Limit to single instance||Avgrens til eitt tilfelle|
+|Use more secure password edit controls||Bruk sikrare passordendringskontrollar|
+|Single left click instead of double-click for default tray icon action||Bruk enkeltklikk for å utføra standardhandlinga på systemfeltikon|
+|Exclude entries in the '&Backup' group||Ta ikkje med postar i &tryggleikskopigruppa|
+|By default, new entries expire in the following number of days:||Standardverdien er at nye postar går ut etter dette talet på dagar:|
+|Click to expire the entry in %u days||Klikk for at posten skal gå ut etter %u dagar|
+|Calculate rounds for a 1-second delay on this computer||Rekn ut rundar for ei 1s forseinking på denne maskina|
+|The program is distributed under the terms of the GNU General Public License v2 or later.||Programmet er utgjeve etter vilkåra i GNU General Public License v2 eller nyare.|
+|1 Week||1 veke|
+|2 Weeks||2 veker|
+|1 Month||1 månad|
+|3 Months||3 månader|
+|6 Months||6 månader|
+|1 Year||1 år|
+|&Donate...||&Doner …|
+|Use alternative auto-type method (minimize window)||Bruk alternativ auto-inntastingsmetode (minimer vindauge)|
+|Delete all backup entries before saving the database||Slett alle kopipostar før databaselagring|
+|The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.||Filformatet du har vald for import støttar gruppe- og/eller post-ID. Vel kva for eigenskap du vil nytta.|
+|Create new IDs||Lag nye ID-ar|
+|If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.||Dette valet gjer at KeePass lagar nye ID-ar for alle grupper og postar. Dermed vil ikkje eksisterande data bli overskrivne.|
+|Overwrite||Skriv over|
+|KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.||Dersom gruppene eller postane i importfila har lik ID med dei som allereie finst i Keepass, vil dei skriva over eksisterande data.|
+|Overwrite if newer||Skriv over om nyare|
+|KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.||KeePass vil berre skriva over eksisterande postar dersom postane i importfila er nyare.|
+|&KeePass Database...||&KeePass-database …|
+|Acknowledgements||Honnør til|
+|Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.||Vel om KeePass skal bruka nøkkelen til den noverande databasen eller om du skal kunna laga ein ny nøkkel for å kryptera den eksporterte fila.|
+|Click [Yes] to use the same key as the currently opened database.||Klikk [Ja] om du vil bruka den same nøkkelen.|
+|Click [No] to set a new key for the exported file.||Klikk [Nei] for å laga ein ny nøkkel til den eksporterte fila.|
+|Reuse the current key/password?||Bruka om att den noverande nøkkelen/passordet?|
+|Show full path in the title bar (instead of file name only)||Vis full filbane i tittelfeltet (ikkje berre filnamnet)|
+|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)||Kopier adresser til utklippstavla i staden for å kjøra dei (unntak er cmd://-adresser)|
+|Copy &URL to Clipboard||Kopier &adressa til utklippstavla|
+|Exit program instead of locking the workspace after the specified time||Avslutt programmet i staden for berre å låsa arbeidsflata når tida er ute|
+|Click on an entry to auto-type it.||Klikk på ein post for auto-inntasting.|
+|Auto-Type Entry Selection||Val auto-inntastingspost|
+|Multiple entries exist for the current window. Please select the entry to auto-type.||Det finst fleire postar i vindauget. Vel post for auto-inntasting.|
+|The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.||Fila du prøver å opna er låst - nokon andre har opna fila og bruker ho no.|
+|Open the file in read-only mode?||Vil du opna fila i lesemodus?|
+|Click [Yes] to open the file in read-only mode.||Klikk [Ja] for å opna fila i lesemodus.|
+|Click [No] to open the file in normal writing mode.||Klikk [Nei] for å opna fila i normal skrivemodus.|
+|Now||No|
+|&Tools||Ve&rktøy|
+|TAN View &Options||Visingsval &TAN|
+|Use &Simple List View for TAN-Only Groups||Bruk &enkel listevising for berre-TAN-grupper|
+|Show TAN &Indices in Entry Titles||Vis TAN-&indeksar i tittelfeltet til posten|
+|Disable 'Save' button if the database hasn't been modified||Slå av lagre-knappen om databasen ikkje er blitt endra|
+|You have the latest version.||Du har siste utgåve av KeePass.|
+|'Keyfile' or 'preselect' option is already specified||'Keyfile'- eller 'Preselect'-valet er allereie slått på|
+|Path is invalid||Filbana er ugyldig|
+|Filename not found||Fann ikkje filnamnet|
+|'Pw' option is already specified||'Pw'-valet er allereie slått på|
+|Password is empty||Passordet er tomt|
+|Option not recognized||Kjenner ikkje igjen innstillinga|
+|Database is already specified||Databasen er allerede oppgjeven|
+|It contains an unmatched quote||Innhaldet samsvarer ikkje|
+|Command line argument||Kommandolinjeargument|
+|ignored||ignorert|
+|Reason||Grunn|
+|KeePass Initialization||KeePass-initialisering|
+|Value||Verdi|
+|Select the fields KeePass should remember||Vel kva for felt KeePass skal hugsa|
+|Fields to remember||Felt å hugsa|
+|An entry already exists for the current URL.||Adressa har allereie ei oppføring.|
+|The following application requests access to your currently opened KeePass database:||Dette programmet ber om tilgang til den opna KeePass-databasen:|
+|Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).||Ver merksam på at applikasjonstittelen kjem frå programmet sjølv og kan vera falskt. Det kan henda at eit vondsinna program prøver å få tilgang til databasen.|
+|Do you grant the application access to your KeePass database?||Vil du at applikasjonen skal få tilgang til databasen?|
+|&Read-Only||&Skrivebeskytta|
+|&Full||&Full tilgang|
+|&Deny||&Avslå|
+|Incoming IPC Request||Innkomande IPC-førespurnad|
+|An application requests access through inter-process communication||Ein applikasjon ber om tilgang gjennom mellomprosesssamband|
+|Application||Applikasjon|
+|Unknown||Ukjent|
+|Enable remote control (allow applications to communicate with KeePass)||Slå på fjernkontroll (lèt applikasjonar kommunisera direkte med KeePass)|
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).||Sjå til at mediet som inneheld nøkkelfila er på plass og at KeePass har tilgangsrettane det treng (sjekk filtilgangsrettar, sjå til at ingen annan applikasjon blokkerer fila, …).|
+|There are too few characters in the character set to build up a password matching the specified rules||Det er for få teikn i teiknsettet til å laga eit passord som svarer til krava|
+|(Custom)||(Brukardefinert)|
+|Save current settings as a profile.||Lagra gjeldande innstillingar som ein profil.|
+|Delete currently selected profile.||Slett den valde profilen.|
+|(Automatically generated passwords for new entries)||(Automatisk laga passord for nye postar)|
+|Profile||Profil|
+|Length of generated password:||Lengd på laga passord:|
+|Generate using character set:||Lag ved å bruka teiknsettet:|
+|Generate using pattern:||Lag ved å bruka mønster:|
+|Also include the following characters:||Ta òg med følgjande teikn:|
+|Exclude look-alike characters||Bruk ikkje teikn som liknar|
+|Use local date/time format instead of ISO notation||Bruk lokalt tids- og datoformat i staden for ISO-forma|
+|Save as Profile||Lagra som profil|
+|Save current settings as password generator profile.||Lagra dei gjeldande innstillingane som passordlagingsprofil.|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:||Gje eit namn til den nye passordlagingsprofilen eller vel namnet til ein eksisterande profil (som vil bli overskriven):|
+|Randomly permute characters of password||Tilfeldig teiknbyte av passordet|
+|Locked||Låst|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?||Hjelpefila inneheld detaljerte opplysningar om inndataformatet ein ventar seg. Vil du opna ho?|
+|Failed to save the configuration.||Klarte ikkje å lagra innstillingane.|
+|Arguments||Argument|
+|Advanced Password Generator Options||Avanserte passordlagingsval|
+|Clear Search History||Tøm søkhistorikken|
+|Collect additional &entropy||Samla tilleggs&entropi|
+|Default user name for new entries:||Standard brukarnamn for nye postar:|
+|Exclude the following characters:||Ekskluder desse teikna:|
+|Fields to print||Felt å skriva ut|
+|Here you can customize the printed sheet.||Her kan du tilpassa utskrifta.|
+|Key File||Nøkkelfil|
+|Print Options||Utskriftsval|
+|Print backup entries (entries in the 'Backup' group)||Skriv ut kopipostar (postar i tryggleikskopigruppa)|
+|Provider||Tilbydar|
+|Regular expression||Regulære uttrykk|
+|Search...||Søk …|
+|TANs are imported into the currently selected group||TAN vert importerte til den gjeldande gruppa|
+|The key provider plugin did not supply a valid key||Nøkkeltilbydartillegget gav ikkje ein gyldig nøkkel|
+|Type to search the database||Skriv for å søkja i databasen|
+|in "Minimal functionality" mode||i "lågfunksjons"-modus|
+|Abort specifying a new key for the current database.||Avbryt laginga av ny nøkkel til den noverande databasen.|
+|Abort the current operation.||Avbryt handlinga.|
+|Always grant full access through remote control (not recommended)||Tillat alltid full tilgang gjennom fjernkontroll (ikkje tilrådd)|
+|An error occurred||Det oppstod ein feil|
+|An error occurred while importing the file. File cannot be imported.||Det oppstod ein feil under filimporten.|
+|Auto-Type: Help||Auto-inntasting: Hjelp|
+|Auto-Type: Select Target Window...||Auto-inntasting: Vel målvindauge …|
+|Cancel||Avbryt|
+|Copy [of an item]||(Element)kopi|
+|Discard all changes made to the database and close the file.||Forkast databaseendringane og lukk fila.|
+|Discard all changes made to the database and exit KeePass.||Forkast databaseendringane og avslutt KeePass.|
+|Discard all changes made to the database and lock the KeePass workspace.||Forkast databaseendringane og lås KeePass si arbeidsflate.|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.||Lag ein ny nøkkel og skriv over den eksisterande nøkkelfila. Den gamle nøkkelen vil forsvinna.|
+|KeePass will not be closed.||KeePass vil ikkje lukkast.|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.||Last inn den eksisterande nøkkelfila og bruk han for denne databasen. Nøkkelfila vil ikkje endrast.|
+|Lock workspace when locking Windows, switching user or sleeping||Lås arbeidsflata når Windows blir låst, ved brukarbyte eller ved dvaling.|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.||Val/reglar som er merka med ein asterisk vil minska tryggleiken til dei laga passorda. Slå dei berre på om du er nøydd til å følgja reglane til nettstaden, applikasjonen eller passordregimet.|
+|Overwrite existing key file?||Skriva over eksisterande nøkkelfil?|
+|Reuse||Bruk om att|
+|Save||Lagra|
+|Save all changes made to the database and close the file.||Lagra alle databaseendringane og lukk fila.|
+|Save all changes made to the database and exit KeePass.||Lagra alle databaseendringane og avslutt KeePass.|
+|Save all changes made to the database and lock the KeePass workspace.||Lagra alle databaseendringane og lås KeePass si arbeidsflate.|
+|Save database changes before closing the file?||Lagra databaseendringane før fila blir lukka?|
+|Save database changes before exiting KeePass?||Lagra databaseendringane før KeePass blir avslutta?|
+|Save database changes before locking the workspace?||Lagra databaseendringane før arbeidsflata blir låst?|
+|Select the target window for the current entry.||Vel målvindauge for denne oppføringa.|
+|The KeePass workspace will not be locked.||Arbeidsflata til KeePass vil ikkje låsast.|
+|The current database file has been modified||Databasefila er endra|
+|The estimated quality of the master password must be at least %u bits!||Den foreslåtte kvaliteten til hovudpassordet må minst vera %u bitar.|
+|The file will not be closed.||Fila vil ikkje bli lukka.|
+|The master password must be at least %u characters long!||Hovudpassordet må minst innehalda %u teikn.|
+|The selected key file already exists||Den valde nøkkelfila finst allereie.|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:||For å føra opp målvindauget må du anten velja eit vindauge frå nedtrekkslista, eller sjølv skriva inn vindaugsnamnet:|
+|URL Field: Help||Adressefelt: Hjelp|
+|URL Field: Insert Placeholder||Adressefelt: Set inn plasshaldar|
+|URL Field: Select Application...||Adressefelt: Vel applikasjon …|
+|URL Field: Select Document...||Adressefelt: Vel dokument …|
+|Default auto-type sequence for standard entries:||Standard auto-inntastingssekvens for standardpostar:|
+|Drop to background when copying data to the clipboard||Gå til bakgrunnen ved datakopiering til utklippstavla|
+|Enable auto-type features||Slå på auto-inntastingseigenskapar|
+|Field to reference||Referansefelt|
+|Here you can configure auto-type.||Her kan du endra auto-inntastingsvala.|
+|Identify source entry by||Identifiser kjeldeoppføring etter|
+|In Notes Field||I merknadsfeltet|
+|In Password Field||I passordfeltet|
+|In Title Field||I tittelfeltet|
+|In URL Field||I adressefeltet|
+|In User Name Field||I brukarnamnfeltet|
+|Insert Field Reference||Set inn feltreferanse|
+|Multiple entries match the specified identifying field.||Fleire postar samsvarer med søkefeltet.|
+|Prepend special initialization sequence for Internet Explorer windows||Føy til spesiell initialiseringssekvens for Internet Explorer-vindauge|
+|Source field to reference||Referansekjeldefelt|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.||Målfila kan vera øydelagd. Prøv å lagra på nytt. Dersom lagringa framleis feilar, lagra databasen ein annan stad.|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.||Ein sikrar at postar er eintydige om ein identifiserer dei ved hjelp av UUID-ane deira.|
+|&Modify All Selected...||&Endra alle valde …|
+|Auto-Type: Customize Sequence||Auto-inntasting: tilpass sekvens|
+|Clear clipboard when closing/locking the database||Tøm utklippstavla når databasen blir lukka/låst|
+|Exclude &expired entries||Sjå vekk frå &utgåtte postar|
+|Normal||Normal|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.||Opna fila i lesemodus. Databaseendringar kan lagrast i ei anna fil.|
+|Read-only||Berre lesing|
+|Sort items in the auto-type entry selection dialog||Sorter postane i auto-inntastingsvindauget|
+|Take ownership of the file and open it in normal writing mode.||Ta eigarskap til fila og opna ho i normal skrivemodus.|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).||Det valde feltet identifserer kjeldeposten. Det inneheld ulovlege teikn (slike som  '{', '}', nylinje-teikn, …).|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.||Du kan velja ein annan tastekombinasjon i 'Verktøy' - 'Val' - 'Avansert' - 'Auto-inntasting'.|
+|Automatically save when closing/locking the database||Lagra automatisk når databasen blir låst/lukka|
+|&Delete Group...||&Slett gruppe …|
+|Add &Group...||&Legg til gruppe …|
+|Add Su&bgroup...||Legg til &undergruppe …|
+|Choose between local help and online help center.||Vel mellom lokal hjelp og hjelpesenteret på nettet.|
+|Copy &Password||Kopier &passordet|
+|Copy User &Name||Kopier &brukarnamnet|
+|Ed&it Group...||Endra &gruppa …|
+|Get more plugins...||Hent fleire programtillegg …|
+|Help &Source...||Hjelpe&kjelde …|
+|Help Source||Hjelpekjelde|
+|Local help file||Lokal hjelpfil|
+|Online help center||Hjelp på nettet|
+|Show &Expired Entries||Vis &utgåtte postar|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.||Den lokale hjelpfila blei sist oppdatert då denne produktutgåva blei publisert. Ho blir ikkje automatisk oppdatert.|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.||Hjelpsenteret på nettet vil alltid innehalda den siste utgåva av produktdokumentasjonen. Internettilgang er påkravd.|
+|This option is disabled, because local help is not installed.||Dette valet er slått av sidan lokal hjelp ikkje er installert.|
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)||Bruk avansert minnevern (DPAPI - berre for Windows Vista og seinare utgåver)|
+|Use the following help source when a "Help" button within KeePass is clicked:||Bruk denne hjelpekjelda når ein klikkar ein hjelp-knapp i KeePass:|
+|%u updates are available!||%u oppdateringar er tilgjengelege|
+|1 update is available!||1 oppdatering er tilgjengeleg|
+|Available||Tilgjengeg|
+|Check For Updates||Oppdateringssjekk|
+|Check for Updates||Sj&å etter oppdateringar|
+|Check for updates at KeePass startup||Sjå etter oppdateringar når KeePass startar|
+|Component||Komponent|
+|Connect failed, cannot check for updates.||Klarte ikkje å kopla til - får ikkje sjå etter oppdateringar.|
+|Delete TAN entries immediately after using them||Slett TAN-postar med ein gong dei er brukte|
+|Installed| |Installert|
+|KeePass 1.x cannot open KDBX files.||KeePass 1.1 kan ikkje opna KDBX-filer.|
+|New version available.||Ny utgåve er tilgjengeleg.|
+|No updates available.||Ingen oppdateringar er tilgjengelege.|
+|Please choose a different name.||Vel eit anna namn.|
+|Plugin unknown.||Ukjend programtillegg.|
+|Pre-release version.||Testutgåve|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.||KeePass blei knytt til .kdb-filer. Når du dobbeltklikkar ei .kdb-fil vil KeePass starta automatisk.|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.||Filtilknytinga er fjerna. KeePass vil ikkje lenger opna .kdb-filer når du dobbeltklikkar dei.|
+|The specified name is reserved.||Namnet er reservert.|
+|Up to date.||Nyaste.|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)||Bruk CNG/BCrypt for nøkkelendringar (gjeld berre Windows Vista og seinare utgåver)|
+|Use the KeePass 2.x 'Export' feature to migrate this file||Bruk eksportfunksjonen til KeePass 2.x for å migrera denne fila.|
+|Version||Utgåve|
+|Workspace is locked.||Arbeidsføata er låst.|
+|see the <A HREF="h">help manual</A> for details.||sjå etter fleire opplysningar i <a href="h">rettleiinga</a>.|
+|Ctrl||Ctrl|
+|Lock workspace after the following idle time (seconds):||Lås arbeidsflata etter denne ventetida (sekund):|
+|Use file transactions for writing databases||Bruk filoverføringar til skriving av databasar|
+|&Discard changes||&Forkast endringane|
+|&No||&Nei|
+|&Yes||&Ja|
+|Custom database color:||Tilpassa database&farge:|
+|Each character must occur at most once||Høgst éin førekomst av kvart teikn|  
+|KeePass &Website||KeePass si heime&side|
+|KeePass Website||KeePass si heimeside|
+|Minimize main window after locking the workspace||Minimer hovudvindauget ved arbeidsområdelåsing|
+|Remember key sources (key file paths, provider names, ...)||Hugs nøkkelkjelder (nøkkelfilbaner, tilbydarnamn, …)|
+|Ensure same keyboard layouts during auto-type||Sjå til at tastaturutformingane er like ved auto-inntasting|
+|Select &Notes Font||Vel &merknadsskrifttype|
+|The database is empty||Databasen er tom|
+|{PARAM} more entries||{PARAM} fleire oppføringar|
+|Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.||Automatisk oppdateringssjekk køyrer i bakgrunnen. Det kjem varsel berre om det finst tilgjengeleg oppdatering. Du må sjølv lasta ned og installera oppdateringa.|
+|Database files cannot be used as key files.||Databasefiler kan ikkje nyttast som nøkkelfiler.|
+|Enable automatic update check?||Vil du slå på automatisk oppdateringskontroll?|
+|Focus entry list after a successful quick search||Fokuser på oppføringslista etter eit vellykka snøggsøk|
+|Include backup entries in quick searches||Ta med kopipostar i snøggsøka|
+|Include expired entries in quick searches||Ta med utgåtte oppføringar i snøggsøka|
+|KeePass can automatically check for updates on each program start.||KeePass kan automatisk sjå etter oppdateringar kvar gong programmet startar.|
+|No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.||Ingen personlege opplysningar vert sende til KeePass sin nettenar. KeePass lastar berre ned ei utgåveopplysningsfil og samanliknar den tilgjengeleg utgåva med ho som allereie er installerrt.|
+|Quick search (toolbar)||Snøggsøk (verktøylinje)|
+|Show tray icon only if main window has been sent to tray|| Syn systemfeltikonet berre når hovudvindauget er vorte sendt til systemfeltet|
+|recommended||tilrådd|
+|About KeePass||Om KeePass|
+|Are you sure you want to attempt to repair a database file?||Er du verkeleg sikker på at du vil prøva å reparera ei databasefil?|
+|In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.||For å kunna redda so mange data som råd er, vil ikkje datakonsistensen verta kontrollert i reparasjonsmodus. Når ingen integritetskontrollar vert utførte, kan øydelagte eller skadelege data verta tekne med i databasen din.|
+|Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.||Derfor bør du berre prøva å reparera når det ikkje finst andre løysingar. Etter ein reparasjon bør du sjå etter feil eller øydelagde data i heile databasen.|
+|Warning||Åtvaring|
+|&Export||&Eksporter|
+|&Export Group||Eksporter gr&uppa|
+|&Import||&Importer|
+|&Repair Database File...||&Reparer databasefila …|
+|Press Shift+Home or Shift+End to clear this edit control||Trykk Skift+Home eller Skift+End for å tømma denne endringskontrollen|
+|Saving database...||Lagrar databasen …|
+|ch.||teikn|
+|OK||OK|
+|Select &Password Font||Vel &passordskrifttype|
+|Accept this password?||Vil du godta passordet?|
+|Auto-&Sort Entry List||Auto-&sorter oppføringslista|
+|Auto-sorting of the entry list is enabled; you cannot move entries manually.||Auto-sortering er slått på; du kan ikkje flytta postar manuelt.|
+|Auto-sorting of the entry list is enabled; you cannot sort the list manually now.||Auto-sortering er slått på; du kan ikkje sortera postar manuelt lenger.|
+|Delete &attachments|| Slett &vedlegg|
+|Entry List||Oppføringslista|
+|Find a string in the entry list.||Finn tekst i oppføringslista.|
+|Group||Gruppe|
+|Mark database as modified on last access time change||Merk databasen som endra om han er vorten opna|
+|Show grid lines in the entry list||Syn rutenett i oppføringslista|
+|The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.||Det laga passordet inneheld ein plasshaldar. Når du nyttar dette passordet (ved t.d. å kopiera det eller bruka auto-inntasting), vil plasshaldaren verta bytt ut. Det kan bety at eit anna passord kan verta teke i bruk.|
+|The regular expression is invalid.||Det regulære uttrykket er ugyldig.|
+|Tray icon||Systemfeltikon|
+
+|Failed to attach file:||Klarte ikkje å leggja til fila:|
+
+|The attachment is too large||Vedlegget er for stort|
+|Built-in||Innebygd|
+|Contact||Kontakt|
+|Currently used language||Gjeldande språk|
+|Do you want to open the application directory (in order to move or delete language files)?||Vil du opna programkatalogen (for å flytta eller sletta språkfiler)?|
+|File||Fil|
+|Get More &Languages...||Hent fleire spr&åk …|
+|Here you can change the user interface language.||Her endrar du språket til brukargrensesnittet.|
+|Installed Languages||Installerte språk|
+|Language file cannot be activated!||Klarer ikkje å ta språket i bruk.|
+|Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.||Det er ikkje mogleg å lasta språkfiler frå rota av programkatalogen. Dei må i staden for lagrast i mappa 'Languages'.|
+|One or more language files have been found in the KeePass application directory.||Ei eller fleire språkfiler er funnen i KeePass sin programkatalog.|
+|Open &Folder||Opna &mappe|
+|Out of memory||For lite minne|
+|Register Ctrl+Alt+K hot key (brings the KeePass window to front)||Registrer snarvegen Ctrl+Alt+K (fører KeePass-vindauget fremst)|
+|Select Language||Vel språk|
+|The selected language has been activated. KeePass must be restarted in order to load the language.||Språket er valt, men KeePass må starta om att for å ta det i bruk.|
+|Translation Information||Omsetjingsopplysningar|

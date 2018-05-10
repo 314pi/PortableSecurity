@@ -1,0 +1,724 @@
+﻿|~LANGUAGENAME|                |Burmese (Myanmar)|
+|~LANGUAGEVERSION|             |1.23|
+|~LANGUAGEAUTHOR|              |Russell Kyaw|
+|~LANGUAGEAUTHOREMAIL|         |russellkyaw@gmail.com|
+
+|&OK|                          |​ကောင်းပြီ(&O)|
+|&Cancel|                      |ဖျက်သိမ်းရန်(&C)|
+
+|&Generate Random Password|    |ကျပန်း စကားဝှက် ထုတ်ရန်(&G)|
+|Choose an icon.|              |အိုင်ကွန်ပုံ ရွေးရန်|
+
+|General|                      |အထွေထွေ|
+|Windows|                      |၀င်းဒိုး|
+|Network|                      |ကွန်ရက်|
+|Internet|                     |အင်တာနက်|
+|eMail|                        |အီးမေးလ်|
+|Homebanking|                  |အိမ်တွင်း ဘဏ်လုပ်ငန်း|
+
+|Entry|                        |အ၀င်|
+
+|&Title|                       |ခေါင်းစဉ်(&T)|
+|User &Name|                   |သုံးစွဲသူ အမည်(&N)|
+|&URL|                         |ကွန်ရက် တည်နေရာ(&U)|
+|&Password|                    |စကားဝှက်(&P)|
+|N&otes|                       |မှတ်ချက်များ(&o)|
+|&Case sensitive|              |စာလုံး အမှားမခံ(&C)|
+|Search in|                    |​ရှာဖွေရန်|
+|Find what:|                   |ရှာဖွေမည့် အချက် -|
+|Find|                         |ရှာဖွေရန်|
+|&Find|                        |ရှာဖွေရန်(&F)|
+|Find a string in the password list.|  |စကားဝှက် စာရင်းထဲ၌ စာလုံးတွဲ တစ်ခု ရှာဖွေပါ။|
+
+|About KeePass...|             |KeePass အကြောင်း...|
+
+|Password Groups|              |စကားဝှက် အုပ်စု|
+|Title|                        |ခေါင်းစဉ်|
+|User Name|                    |သုံးစွဲသူ အမည်|
+|User &name|                   |သုံးစွဲသူ အမည်|
+|URL|                          |ကွန်ရက် တည်နေရာ|
+|Password|                     |စကားဝှက်|
+|Notes|                        |မှတ်ချက်များ|
+
+|Ready.|                       |အဆင်သင့်|
+
+|Enter Password:|              |စကားဝှက် ရေးထည့်ရန် -|
+|Master Password:|             |မာစတာ စကားဝှက် -|
+|Create New Password Database|    |စကားဝှက် ဒေတာဘေ့စ် အသစ် ဖန်တီးရန်|
+|Set Composite Master Key|     |စုပေါင်း မာစတာကီး သတ်မှတ်ရန်|
+|Specify the composite master key.|    |စုပေါင်း မာစတာကီး ရွေးချယ်ရန်|
+|Repeat Master Password|       |မာစတာကီး ထပ်ရေးရန်|
+|Repeat the master password for the new database.|    |ဒေတာဘေ့စ် အသစ်အတွက် မာစတာကီး ထပ်ရေးပါ။|
+|Open Database|                |ဒေတာဘေ့စ် ဖွင့်ရန်|
+|Enter Composite Master Key|   |စုပေါင်း မာစတာကီး ရေးထည့်ရန်|
+|Enter the composite master key.|    |စုပေါင်း မာစတာကီး ရေးထည့်ပါ။|
+|(No key file selected)|       |(ကီးဖိုင် ရွေးမထားပါ)|
+|Key File|                     |ကီး ဖိုင်|
+
+|Password Generator|           |စကားဝှက် ထုတ်လုပ်စနစ်|
+|Here you can generate a random password.|        |ကျပန်း စကားဝှက်ကို ဤနေရာမှ ထုတ်လုပ်နိုင်သည်။|
+|Options|                      |ရွေးစရာများ|
+|Current settings|             |လက်ရှိ ချိန်ညှိချက်များ|
+|Collect additional &entropy|  |အခြား &entropy ကို စု​ဆောင်းရန်|
+|Generated password|           |ထုတ်လုပ်ခဲ့သော စကားဝှက်|
+|&Generate|                    |ထုတ်လုပ်ရန်(&G)|
+|&Accept|                      |လက်ခံရန်(&A)|
+|Upper-case (A, B, C, ...)|    |စာလုံးကြီး (A, B, C, ...)|
+|Lower-case (a, b, c, ...)|    |စာလုံးသေး (a, b, c, ...)|
+|Digits (0, 1, 2, ...)|    |ဒစ်ဂျစ် (1, 2, 3, ...)|
+|Underline (_)|    |​အောက်မျဉ်းသားခြင်း (_)|
+|Minus (-)|    |အနှုတ် (-)|
+|Space ( )|    |ကွက်လပ် ( )|
+|Special|    |အထူး|
+|High ANSI characters|    |အဆင့်မြင့် ANSI အက္ခရာများ|
+|Brackets ([, ], {, }, (, ), <, >)|    |ကွင်းစ ကွင်းပိတ်များ ([, ], {, }, (, ), <, >)|
+
+|Group:|                       |အုပ်စု -|
+|Title:|                       |ခေါင်းစဉ် -|
+|User name:|                   |သုံးစွဲသူ အမည် -|
+|URL:|                         |ကွန်ရက် တည်နေရာ -|
+|Icon:|                        |အိုင်ကွန်ပုံ -|
+|Password:|                    |စကားဝှက် -|
+|Repeat:|                      |စကားဝှက် ထပ်ရေးရန် -|
+|Notes:|                       |မှတ်ချက်များ -|
+|***|                          |***|
+
+|Add Entry|                    |ရေးသွင်းချက် ထည့်ရန်|
+|Create a new password entry.| |စကားဝှက် အသစ် ဖန်တီးပါ။|
+|Edit Entry|                   |ရေးသွင်းချက် တည်းဖြတ်ရန်|
+|Modify existing password entry.| |လက်ရှိ စကားဝှက်ကို ပြုပြင်ပါ။|
+
+|Group name:|                  |အုပ်စု အမည် -|
+
+|Add Group|                    |အုပ်စု ဖန်တီးရန်|
+|Create a new password group.| |စကားဝှက် အုပ်စု အသစ် ဖန်တီးပါ။|
+|Edit Group|                   |အုပ်စု တည်းဖြတ်ရန်|
+|Modify existing password group.|  |လက်ရှိ စကားဝှက် အုပ်စုကို ပြုပြင်ပါ။|
+
+|Random mouse input|           |ကြွတ်ခလုတ် ကျပန်း နှိပ်ချက်|
+|Click to begin:|              |စတင်ရန် နှိပ်ပါ -|
+|Use &Mouse as Random Source|  |ကြွတ်ခလုတ်ကို ကျပန်း အရင်းအမြစ် အ​ဖြစ် သုံးစွဲရန်(&M)|
+|Move the mouse in the field above until this is full:|    |အထက်မှ နေရာလပ် ပြည့်သည်အထိ ကြွတ်ခလုတ်ကို ရွှေ့ပါ -|
+|Hint: It is best to use both mouse and keyboard random sources.|    |အရိပ်အမြွက် - ကြွတ်ခလုတ်နှင့် ကီးဘုတ်တို့၏ အရင်းအမြစ်များသည် သုံးစွဲရန် အကောင်းဆုံး ဖြစ်သည်။|
+|Random keyboard input|        |ကီးဘုတ် ကျပန်း ရိုက်သွင်းချက်|
+|Just hack some random keys into the edit box above.|    |အချို့ ကျပန်း ကီးများကို အထက်ပါ တည်းဖြတ်သည့် နေရာ၌ ရယူပါ။|
+|You don't have to remember the keys you type in. They are used to generate a random value.|    |သင် ရေးထည့်လိုက်သော ကီးများကို မှတ်သားရန် မလိုပါ။ ၄င်းတို့ကို ကျပန်း တန်ဖိုး ဖန်တီးရာတွင် အသုံးပြုသည်။|
+|So, the more the better. The different, the better.| \    |​စာလုံး များလေ ကောင်းလေ ဖြစ်သည်။ မတူလေ ကောင်းလေ ဖြစ်သည်။| \
+|The random the better.|       THIS ISN'T A ONE-TO-ONE TRANSLATION!    |ကျပန်း ဖြစ်လေ ပိုကောင်းလေ ဖြစ်သည်။| /
+|Get Random|                   |ကျပန်းဖြင့် ရယူရန်|
+|Get Random Data for Key Generation|           |ကီး ထုတ်လုပ်ရန် ကျပန်း ဒေတာများကို ရယူရန်|
+|Move the mouse and type some random text to generate random values.|    |ကျပန်း တန်ဖိုးများကို ထုတ်လုပ်ရန် ကြွတ်ခလုတ်ကို ရွှေ့ပြီး ကျပန်း စာသား အချို့ကို ရေးထည့်ပါ။|
+
+|Pick an Icon|                 |အိုင်ကွန်ပုံ ရွေးရန်|
+|Choose an icon from the list of available entry and group icons.|    |ရရှိနိုင်သော အုပ်စု အိုင်ကွန်ပုံများ စာရင်းမှ ပုံ တစ်ပုံကို ရွေးချယ်ပါ။|
+
+|&File|                        |ဖိုင်(&F)|
+|&Edit|                        |တည်းဖြတ်ရန်(&E)|
+|&View|                        |မြင်ကွင်း(&V)|
+|&?|                           |&?|
+
+|&New...|                      |ဖိုင်အသစ်...(&N)|
+|&Open...|                     |ဖိုင် ဖွင့်ရန်...(&O)|
+|&Close|                       |ပိတ်ရန်(&C)|
+|&Save|                        |သိမ်းဆည်းရန်(&S)|
+|Save &As...|                  |သိမ်းဆည်းမည့် ပုံစံ...(&A)|
+|Change &Master Key...|        |မာစတာကီး ပြောင်းရန်...(&M)|
+|&Print...|                    |ပရင့်ထုတ်ရန်...(&P)|
+|&Export To|                   |တင်ပို့မည့် နေရာ(&E)|
+|&Lock Workspace|              |Workspace သော့ခတ်ရန်(&L)|
+|&Unlock Workspace|            |Workspace သော့ဖွင့်ရန်(&U)|
+|E&xit|                        |ထွက်ရန်(&x)|
+
+|&Lock/Unlock Workspace|       |Workspace သော့ခတ်/သော့ဖွင့်ရန်(&L)|
+
+|&Options...|                  |&ရွေးစရာများ...(&O)|
+|Add &Group...|                |အုပ်စု ဖွင့်ရန်...(&G)|
+|Add Su&bgroup...|             |အုပ်စုငယ် ဖွင့်ရန်...(&b)|
+|Ed&it Group...|               |အုပ်စု တည်းဖြတ်ရန်...(&i)|
+|&Delete Group...|             |အုပ်စု ပယ်ဖျက်ရန်...(&D)|
+|Pr&int Group...|              |အုပ်စု ပရင့်ထုတ်ရန်...(&i)|
+|Copy User &Name|              |သုံးစွဲသူအမည် ကော်ပီကူးရန်(&N)|
+|Copy &Password|               |စကားဝှက် ကော်ပီကူးရန်(&P)|
+|Open &URL(s)|                 |ကွန်ရက် တည်နေရာ ဖွင့်ရန်(&U)|
+|&Find in Database...|         |ဒေတာဘေ့စ်ထဲ ရှာရန်...(&F)|
+|Find in t&his Group...|       |ဤအုပ်စုထဲ ရှာရန်...(&h)|
+|&Add Entry...|                |ရေးသွင်းချက် ထည့်ရန်...(&A)|
+|&Edit/View Entry...|          |ရေးသွင်းချက် တည်းဖြတ်/ကြည့်ရှုရန်...(&E)|
+|&Delete Entry|                |ရေးသွင်းချက် ပယ်ဖျက်ရန်(&D)|
+|Dupli&cate Entry|             |ရေးသွင်းချက် ပုံတူပွားရန်(&c)|
+|Move Entry to &Top|           |ရေးသွင်းချက် ထိပ်သို့ ရွှေ့ရန်(&T)|
+|Move Entry &One Up|           |ရေးသွင်းချက် အပေါ်သို့ ရွှေ့ရန်(&O)|
+|Mo&ve Entry One Down|         |ရေးသွင်းချက် အောက်သို့ ရွှေ့ရန်(&v)|
+|Move Entry to &Bottom|        |ရေးသွင်းချက် အောက်ခြေသို့ ရွှေ့ရန်(&B)|
+
+|Move Group to &Top|           |အုပ်စု ထိပ်သို့ ရွှေ့ရန်(&T)|
+|Move Group One &Up|           |အုပ်စုတစ်ခု အပေါ်သို့ ရွှေ့ရန်(&U)|
+|Move Group &One Down|         |အုပ်စုတစ်ခု အောက်သို့ ရွှေ့ရန်(&O)|
+|Move Group to &Bottom|        |အုပ်စု အောက်ခြေသို့ ရွှေ့ရန်(&B)|
+
+|Change &Language...|          |ဘာသာစကား ​ပြောင်းရန်...(&L)|
+|&Always on Top|               |ထိပ်သို့ အမြဲထားရန်(&A)|
+|Hide &Passwords Behind Asterisks (***)|       |စကားဝှက်များကို ​ခရေပွင့်များ (***) ​ဖြင့် ဖျောက်ရန်(&P)|
+|Hide passwords behind asterisks (***).|       |စကားဝှက်များကို ​ခရေပွင့်များ (***) ​ဖြင့် ဖျောက်ပါ။|
+
+|Password &Generator...|       |စကားဝှက် ထုတ်လုပ် စနစ်...(&G)|
+
+|KeePass &Website|             |KeePass-ကွန်ရက် စာမျက်နှာ(&W)|
+|&About KeePass...|            |KeePass အကြောင်း...(&A)|
+
+|&Database Settings...|        |ဒေတာဘေ့စ် ချိန်ညှိချက်များ...(&D)|
+
+|&Tray/Untray|                 |&Tray ဖြင့် ပြရန်/Tray ကို ဖြုတ်ရန်|
+
+|Version|                      |ဗားရှင်း|
+
+|Password and repeated password aren't identical!|    |စကားဝှက်နှင့် ထပ်​ရေးလိုက်သော စကားဝှက်တို့ မတူညီပါ!|
+
+|Stop|                         |ရပ်တန့်ရန်|
+
+|Enter a group name!|          |အုပ်စု အမည် ရေးထည့်ရန်!|
+|You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|    |ဤအညွှန်း စာမျက်နှာကို မပိတ်မီ ကျပန်း ကြွတ်ခလုတ် နှိပ်ချက် အကွက် (သို့) တည်းဖြတ် အကွက်ကို အသုံးပြုပြီး ကျပန်း တန်ဖိုး အချို့ကို ထုတ်လုပ်ပါ။|
+|No random input|              |ကျပန်း ထည့်သွင်းချက် မရှိပါ|
+|EITHER enter a master password OR select a key file.|    |မာစတာ စကားဝှက် ရေးထည့်ပါ (သို့) ကီးဖိုင် ရွေးချယ်ပါ။|
+|The password must consist of at least one character!|    |စကားဝှက်၌ အနည်းဆုံး အက္ခရာ စာလုံး တစ်လုံး ပါရမည်!|
+|Select at least one of the options in the list above!|    |အထက် ဖေါ်ပြပါ စာရင်းထဲမှ အနည်းဆုံး ရွေးစရာ တစ်ခုကို ရွေးပါ!|
+
+|The following self-tests failed:|    |အောက်ပါ ကိုယ်တိုင်-စမ်းသပ်ချက် မအောင်မြင်ပါ -|
+|- SHA 32-bit variables|       |- SHA 32-bit ကိန်းရှင်များ|
+|- SHA 64-bit variables|       |- SHA 64-bit ကိန်းရှင်များ|
+|- SHA-256 test vector(s)|     |- SHA-256 စမ်းသပ် vector(s)|
+|- SHA-512 test vector(s)|     |- SHA-512 စမ်းသပ် vector(s)|
+|- Rijndael encryption|        |- Rijndael-စာဝှက်စနစ်|
+|- Rijndael decryption|        |- Rijndael-စာဝှက်ဖြည်စနစ်|
+|- Arcfour crypto routine|     |- Arcfour-စာဝှက် လုပ်ငန်းစဉ်|
+|- Twofish algorithm|          |- Twofish-အယ်လဂိုရီသမ်|
+
+|The program will exit now.|   |ဤပရိုဂရမ်ကို ယခု ထွက်တော့မည်။|
+|Self-Test(s) Failed|          |ကိုယ်တိုင်-စမ်းသပ်ချက်(များ) မအောင်မြင်ပါ|
+
+|Clipboard cleared.|           |Clipboard ရှင်းလိုက်ပြီ။|
+|Field copied to clipboard. Clipboard will be cleared in %d seconds.|    |နေရာကွက်ကို Clipboard ထဲ ကော်ပီကူးလိုက်သည်။ Clipboard ကို %d စက္ကန့်အတွင်း ရှင်းပေးမည်။|
+
+|Failed to set the master key!|    |မာစတာကီးကို မသတ်မှတ်နိုင်ပါ!|
+|File cannot be opened!|    |ဖိုင်ကို မဖွင့်နိုင်ပါ!|
+|File cannot be saved!|    |ဖိုင်ကို မသိမ်းဆည်းနိုင်ပါ!|
+
+|KeePass Password Safe Files|  |KeePass စကားဝှက် လုံ​ခြုံရေး ဖိုင်များ|
+|All Files|                    |ဖိုင် အားလုံး|
+
+|The current database file has been modified|    |လက်ရှိ ဒေတာဘေ့စ် ဖိုင်ကို ပြုပြင်ထားလိုက်ပြီ။|
+|Do you want to save the changes before closing?|    |မပိတ်မီ ပြင်ဆင်ချက်များကို သိမ်းဆည်းလိုသလား?|
+|KeePass - Save Before Close/Lock?|   |KeePass - မပိတ်မီ/သော့မခတ်မီ သိမ်းဆည်းမလား?|
+
+|Deleting a group will delete all items and subgroups in that group, too.|    |အုပ်စု တစ်ခုကို ဖျက်လျှင် အထဲ၌ ရှိသော အချက်များနှင့် အုပ်စုငယ်များ အားလုံးပါ ဖျက်သွားလိမ့်မည်။|
+|Are you sure you want to delete this group?|    |ဤအုပ်စုကို သင် တကယ် ပယ်ဖျက်လိုသလား?|
+|Delete Group Confirmation|    |အုပ်စု အတည်ပြုချက် ပယ်ဖျက်ရန်|
+
+|Cannot open temporary file for printing!|    |ပရင့်ထုတ်မည့် ယာယီဖိုင်ကို ဖွင့်၍ မရပါ!|
+
+|Load Language File|           |ဘာသာစကား ဖိုင် ဖွင့်ရန်|
+|Load a Language File|         |ဘာသာစကား ဖိုင် ဖွင့်ရန်|
+|Select one of the languages in the list below.|    |အောက်ဖေါ်ပြပါ စာရင်းရှိ ဘာသာစကား တစ်ခုကို ရွေးပါ။|
+|Available Languages|          |ရရှိနိုင်သော ဘာသာစကားများ|
+
+|&Help|                        |အကူအညီ(&H)|
+|&Help Contents|               |အကူအညီ အကြောင်းအရာများ(&H)|
+|Open &Help File|              |အကူအညီ ဖိုင် ဖွင့်ရန်(&H)|
+|Open &License File|           |လိုင်စင် ဖိုင် ဖွင့်ရန်(&L)|
+
+|Newline sequence:|            |လိုင်းသစ် အစီအစဉ် -|
+|Windows newline sequence (\r\n)|              |၀င်းဒိုး လိုင်းသစ် အစီအစဉ် (\r\n)|
+|Unix newline sequence (\n)|   |လိုင်းသစ် အစီအစဉ် (\n)|
+|Clipboard auto-clear time (seconds):|   |Clipboard အလိုလို-ရှင်းလင်းမည့် အချိန် (စက္ကန့်) -|
+|Settings|                     |ချိန်ညှိချက်များ|
+|Here you can configure KeePass.|              |KeePass ကို ဤနေရာ၌ ပြုပြင်နိုင်သည်။|
+|Automatically open last used database on startup|    |နောက်ဆုံး သုံးစွဲသော ဒေတာဘေ့စ်ကို စက်အတက်၌ အလိုအ​လျောက် ဖွင့်ရန်|
+|Automatically save when closing/locking the database|    |ဒေတာဘေ့စ်ကို ပိတ်/သော့ခတ်သည့်အခါ အလိုအလျောက် သိမ်းဆည်းရန်|
+|Display images on buttons|    |အိုင်ကွန်၌ ရုပ်ပုံများ ဖေါ်ပြရန်|
+|Show grid lines in password entry list|    |စကားဝှက် ရေးသွင်းသည့် စာရင်းထဲ၌ လိုင်းအကွက်များ ပြရန်|
+|Workspace is locked.|    |Workspace သော့ခတ်ထားသည်။|
+|Workspace locked|    |Workspace သော့ခတ်ထားသည်|
+
+|Loading error|                |ဖွင့်နေစဉ် ချို့ယွင်းချက် ရှိသည်|
+|Language file cannot be opened!|    |ဘာသာစကား ဖိုင်ကို ဖွင့်မရပါ!|
+|Language file cannot be registered!|    |ဘာသာစကား ဖိုင်ကို မှတ်ပုံတင်၍ မရပါ!|
+|The language file has been installed.|    |ဘာသာစကား ဖိုင်ကို စက်ထဲ ထည့်သွင်းလိုက်ပြီ။|
+|You must restart KeePass in order to use the new language.|    |ဘာသာစကား အသစ်ကို သုံးစွဲနိုင်ရန် KeePass ကို ပြန်ဖွင့်ရမည် ဖြစ်သည်။|
+|Do you wish to restart KeePass now?|    |KeePass ကို ယခု ပြန်ဖွင့်လိုသလား?|
+|Restart KeePass?|    |KeePass ပြန်ဖွင့်မည်လား?|
+|Application cannot be restarted automatically!|    |အပ္ပလီကေးရှင်းကို အလိုအလျောက် ပြန်ဖွင့်၍ မရပါ!|
+|Please restart KeePass manually.|    |KeePass ကို ကိုယ်တိုင် ပြန်ဖွင့်ပါ။|
+
+|CSV Files|                    |CSV-ဖိုင်|
+|Text Files|                   |စာသား ဖိုင်များ|
+|An error occurred while importing the file. File cannot be imported.|    |ဖိုင် တင်သွင်းနေစဉ် ချို့ယွင်းချက် တစ်ခု ဖြစ်ပေါ်နေသည်။ ဖိုင်ကို တင်သွင်း၍ မရပါ။|
+|&PwSafe v2 TXT File...|       |&PwSafe v2 TXT ဖိုင်...|
+|Select &Font|                 |ဖောင့် ရွေးရန်(&F)|
+|Select &Notes Font|           |ဖောင့် မှတ်စုများ ရွေးရန်(&N)|
+|Select a new font for the list controls:| |စာရင်း အထိန်းများအတွက် ဖောင့်အသစ် ရွေးပါ -|
+
+|Code&Wallet TXT File...|      |Code&Wallet TXT ဖိုင်...|
+|&TXT File...|                 |&TXT ဖိုင်...|
+|&HTML File...|                |&HTML ဖိုင်...|
+|&XML File...|                 |&XML ဖိုင်...|
+|&CSV File...|                 |&CSV ဖိုင်...|
+|&Import From|                 |တင်သွင်းမည့် နေရာ(&I)|
+
+|&Get more languages...|       |အခြား ဘာသာစကားများ ရယူရန်...(&G)|
+|Start and exit|               |စတင်ရန်၊ ထွက်ရန်|
+|Interface (GUI)|              |မျက်နှာပြင် (GUI)|
+|Files|                        |ဖိုင်များ|
+|Memory|                       |မှတ်ဉာဏ်|
+|Lock workspace when minimizing the main window|    |ပင်မ ၀င်းဒိုးကို ချုံ့ထားစဉ် workspace ကို သော့ခတ်ပါ|
+|Minimize to tray instead of taskbar|    |Taskbar အစား Tray ၌ ချုံ့ထားရန်|
+
+|Encryption algorithm to use (for this database):| |(ဤဒေတာဘေ့စ်၌) သုံးစွဲမည့် စာဝှက်စနစ် အယ်လဂိုရီသမ်|
+|Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|    |အဆင့်မြင့် စာဝှက်စနစ် စံညွှန်း (AES) (128-bit Block ဝှက်စာသည် 256-bit ကီးကို သုံးစွဲသည်)|
+|Twofish (128-bit block cipher using 256-bit key)|    |Twofish (128-bit block ဝှက်စာသည် 256-bit ကီးကို သုံးစွဲသည်)|
+|Security|                     |လုံခြုံရေး|
+|KeePass is OSI Certified Open Source Software.|    |KeePass သည် OSI အသိအမှတ်ပြု ပွင့်လင်းသော အရင်းအမြစ် ဆော့ဗ်ဝဲ ဖြစ်သည်။|
+|Lock workspace after the following idle time (seconds):|    |အောက်ပါ မလှုပ်မရှား အချိန် (စက္ကန့်) ပြီးလျှင် workspace ကို သော့ခတ်ပါ -|
+|&Group name|                  |အုပ်စု အမည်(&G)|
+|Every second row has a different background color. Use this color:|    |စက္ကန့်တိုင်း တန်းလျာ၏ နောက်ခံအရောင် ပြောင်းလေ့ရှိသည်။ ဤအရောင်ကို သုံးပါ -|
+|Default|                      |ပုံမှန်|
+|More Colors...|               |အခြား အရောင်များ...|
+|Search Results|               |ရလဒ်များ ရှာဖွေရန်|
+
+|Creation Time|                |ဖန်တီးချိန်|
+|Last Modification|            |နောက်ဆုံး မွမ်းမံချိန်|
+|Last Access|                  |နောက်ဆုံး ၀င်ရောက်ချိန်|
+|Expires|                      |သက်တမ်းကုန်ချိန်|
+|UUID|                         |UUID|
+
+|&Creation Time|               |ဖန်တီးချိန်(&C)|
+|Last &Modification Time|      |နောက်ဆုံး မွမ်းမံချိန်(&M)|
+|&Last Access Time|            |နောက်ဆုံး ၀င်ရောက်ချိန်(&L)|
+|&Expiration Time|             |သက်တမ်းကုန်ချိန်(&E)|
+|UU&ID|                        |UU&ID|
+
+|Show &Toolbar|                |တူးဘား ပြရန်(&T)|
+|KeePass Website|              |KeePass ကွန်ရက် စာမျက်နှာ|
+|Field copied to clipboard.|   |နေရာကွက်ကို clipboard ထဲ ကော်ပီ ​ကူးလိုက်သည်။|
+
+|A key file already exists on this drive. Do you want to overwrite or reuse it?|    |ကီးဖိုင် တစ်ဖိုင်သည် ဤ drive ထဲတွင် ရှိနေပြီ။ ၄င်းကိုအစားထိုးမလား (သို့) ပြန်သုံးမလား?|
+|Click [Yes] to overwrite the key file.| |ကီးဖိုင်ကို အစားထိုးရန် [ဟုတ်ကဲ့] ကို နှိပ်ပါ။|
+|Click [No] to reuse the selected key file for this database.|    |ရွေးထားသော ကီးဖိုင်ကို ဤဒေတာဘေ့စ်အတွက် ပြန်သုံးရန် [မဟုတ်ပါ] ကို နှိပ်ပါ။|
+|Click [Cancel] to abort changing the key.|    |ကီး ပြောင်းလဲမှုကို ရပ်ဆိုင်းရန် [ဖျက်သိမ်းရန်] ကို နှိပ်ပါ။|
+
+|Overwrite?|                   |အစားထိုးမည်လား?|
+|Expires:|                     |သက်တမ်းကုန်ချိန် -|
+|&Modify All Selected...|      |ရွေးထားချက် အားလုံး ပြုပြင်ရန်...(&M)|
+|Change group:|                |အုပ်စု ပြောင်းရန် -|
+|Change entry icon:|           |ရေးသွင်းချက် အိုင်ကွန် ပြောင်းရန် -|
+|Change expiration time:|      |သက်တမ်းကုန်ချိန် ပြောင်းရန် -|
+|Mass Modify|                  |အလုံးအရင်း ပြုပြင်ရန်|
+|Change fields of all selected entries|        |ရွေးထားသော ရေးသွင်းချက် အားလုံး၏ နေရာလပ်များကို ပြောင်းရန်|
+|Show &Columns|                |ကော်လံများ ဖေါ်ပြရန်(&C)|
+|Show &Entry View|             |ရေးသွင်းချက် မြင်ကွင်း ဖေါ်ပြရန်(&E)|
+
+|Automatically resize table columns when resizing the main window|    |ပင်မ ၀င်းဒိုးကို အရွယ်ညှိနေစဉ် ဇယား ကော်လံများကို အလိုအလျောက် ​အရွယ်ညှိရန်|
+|&Copy|                        |ကော်ပီကူးရန်(&C)|
+|Copy &All|                    |အားလုံး ကော်ပီကူးရန်(&A)|
+|&Undo|                        |ပြန်ပြင်ရန်(&U)|
+|&Paste|                       |ပွားထည့်ရန်(&P)|
+|Cu&t|                         |ဖြတ်ယူရန်(&t)|
+|&Select All|                  |အားလုံး ရွေးရန်(&S)|
+|&Delete|                      |ပယ်ဖျက်ရန်(&D)|
+|&TAN Wizard...|               |&TAN အညွှန်း...|
+|TAN Wizard|                   |TAN အညွန်း|
+
+|Using this wizard you can easily add TAN entries.|    |ဤအညွှန်းကို သုံးပြီး TAN ရေးသွင်းချက်များကို သင် အလွယ်တကူ ​ထည့်သွင်းနိုင်သည်။|
+
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|    |TAN များကို အောက်ပါ တည်းဖြတ်ရာ အကွက်ထဲတွင် ပွားပါ။ TAN အက္ခရာသည် တိကျစွာ သတ်မှတ်မထာသော အက္ခရာများအား ကြားခံအဖြစ် သတ်မှတ်ပြီး၊ TAN အက္ခရာ ပါဝင်သော စာတွဲခွဲများကိုသာ TAN အနေဖြင့် ထည့်သွင်းထားသည်။|
+|TANs consist of the following characters:|    |TANs တွင် အောက်ပါ အက္ခရာများ ပါဝင်သည် -|
+
+|<TAN>|                        |<TAN>|
+|Print Pre&view...|            |ပရင့်ထုတ်မည့် အကြိုမြင်ကွင်း...(&v)|
+
+|About &Translation...|        |ဘာသာပြန်ဆိုခြင်း အကြောင်း...(&T)|
+|Translation information|      |ဘာသာပြန်ဆိုခြင်း အချက်အလက်များ|
+|Currently Used Language|      |လက်ရှိ သုံးစွဲသော ဘာသာစကား|
+|Language File Version|        |ဘာသာစကား ဖိုင် ဗားရှင်း|
+|Author|                       |ဖန်တီးသူ|
+|Translation Author Contact|   |ဘာသာပြန်ဆိုသူ ဆက်သွယ်ရန်|
+|&Rearrange|                   |ပြန်စီစဉ်ရန်(&R)|
+|&Sort Group List|             |အုပ်စု စာရင်း မျိုးတူစုရန်(&S)|
+|Sort List by &Title|          |ခေါင်းစဉ် အလိုက် မျိုးတူစုရန်(&T)|
+|Sort List by User &Name|      |သုံးစွဲသူ အမည်အလိုက် မျိုးတူစုရန်(&N)|
+|Sort List by &URL|            |URL အလိုက် မျိုးတူစုရန်(&U)|
+|Sort List by &Password|       |စကားဝှက် အလိုက် မျိုးတူစုရန်(&P)|
+|Sort List by Note&s|          |မှတ်ချက်များ အလိုက် မျိုးတူစုရန်(&s)|
+|Sort List by &Creation Time|  |ဖန်တီးချိန် အလိုက် မျိုးတူစုရန်(&C)|
+|Sort List by Last &Modify Time|               |နောက်ဆုံး မွမ်းမံချိန် အလိုက် မျိုးတူစုရန်(&M)|
+|Sort List by Last &Access Time|               |နောက်ဆုံး ၀င်ရောက်ချိန် အလိုက် မျိုးတူစုရန်(&A)|
+|Sort List by &Expiration Time|                |သက်တမ်းကုန်ချိန် အလိုက် မျိုးတူစုရန်(&E)|
+|Move Group One &Left|         |အုပ်စု တစ်စုကို ဘယ်ဖက် ရွှေ့ရန်(&L)|
+|Move Group One &Right|        |အုပ်စု တစ်စုကို ညာဖက် ရွှေ့ရန်(&R)|
+
+|Hide &User Names Behind Asterisks (***)|  |ခရေပွင့်များ (***) ​ဖြင့် သုံးစွဲသူ အမည်များကို ဖျောက်ရန်(&U)|
+|Attachment:|                  |ပူးတွဲဖိုင် -|
+|Attachment|                   |ပူးတွဲဖိုင်|
+|Attachment Description|       |ပူးတွဲဖိုင် ဖေါ်ပြချက်|
+|&Attachment|                  |ပူးတွဲဖိုင်(&A)|
+
+|Generate a random password...|           |ကျပန်း စကားဝှက် ထုတ်လုပ်ရန်...|
+|Open file and set as attachment...|      |ဖိုင်ကို ဖွင့်ပြီး ပူးတွဲဖိုင် အဖြစ် သတ်မှတ်ရန်...|
+|Save attached file to disk...|           |ပူးတွဲထားသော ဖိုင်ကို disk ထဲ သိမ်းဆည်းရန်...|
+
+|There already is a file attached with this entry.|           |ဤရေးသွင်းချက်နှင့် ပူးတွဲထားသော ဖိုင် တစ်ဖိုင် ရှိနေပြီ။|
+|Do you want to overwrite the current attachment?|            |လက်ရှိ ပူးတွဲဖိုင်ကို အစားထိုးလိုသလား?|
+|&Save Attached File To...|    |ပူးတွဲဖိုင် သိမ်းဆည်းမဲ့ နေရာ...(&S)|
+|There is no file attached with this entry.|                  |ဤရေးသွင်းချက်နှင့် ပူးတွဲထား​သည့် ဖိုင် မရှိပါ။|
+|Remove the currently attached file|      |လက်ရှိ ပူးတွဲထားသော ဖိုင်ကို ဖယ်ရှားရန်|
+
+|Close button [X] minimizes the main window instead of terminating the application|    |အပိတ် ခလုတ် [X] သည် ပင်မ ၀င်းဒိုးကို အဆုံးသတ်မည့်အစား ချုံ့ထားပေးသည်|
+
+|KeePass Password Database|               |KeePass စကားဝှက် ဒေတာဘေ့စ်|
+|&Open with KeePass|                      |KeePass ဖြင့် ဖွင့်ရန်(&O)|
+|Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|    |ဤနေရာ၌ .kdb ဖိုင်ကို KeePass နှင့် ဆက်နွှယ်စေနိုင်သည် (KeePass ကို နှစ်ချက် နှိပ်သည့်အခါ ၄င်းဖိုင်ကို ဖွင့်ပေးမည်)|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|    |KeePass ကို .kdb ဖိုင်များဖြင့် အောင်မြင်စွာ ဆက်နွှယ်စေပြီ! .kdb ဖိုင်ကို နှစ်ချက်နှိပ်လျှင် KeePass အလိုအလျောက် စဖွင့်လာမည် ဖြစ်သည်။|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|    |ဆယ်နွှယ်မှုကို အောင်မြင်စွာ ဖယ်ရှားလိုက်ပြီ! .kdb ဖိုင်ကို နှိပ်ချက် နှိပ်သည့်အခါ KeePass ဖွင့်လာတော့မည် မစုတ်ပါ။|
+|Create &Association|                     |ဆက်နွှယ်မှုကို ဖန်တီးရန်(&A)|
+|&Remove Association|                     |ဆယ်နွှယ်မှုကို ဖယ်ရှားရန်(&R)|
+|Setup|                                   |တည်ဆောက်ရန်|
+|Password List|                           |စကားဝှက် စာရင်း|
+|Exit?|                                   |ထွက်မည်လား?|
+|The file couldn't be saved.|             |ဖိုင်ကို သိမ်းဆည်း၍ မရပါ။|
+|Maybe it's read-only or the storage media has been removed.|    |၄င်းသည် ဖတ်ရှုရန် သက်သက် ဖြစ်နိုင်သည် (သို့) သုံလှောင်ရေး ​မီဒီယာကို ဖယ်ရှားထား၍ ဖြစ်မည်။|
+|If you exit now, all changes to the current database will be lost.|    |အကယ်၍ ယခု ထွက်သွားလျှင်၊ လက်​ရှိ ဒေတာဘေ့စ် ပြင်ဆင်ချက်များ ပျောက်သွားမည် ဖြစ်သည်။|
+|Would you like to exit anyway?|          |ဘာပဲဖြစ်ဖြစ် ထွက်ခွါလိုသလား?|
+|Cannot access the selected drive.|       |ရွေးထားသော drive အထဲ မ၀င်ရောက်နိုင်ပါ။|
+|Make sure a writable medium is inserted.|       |ရေးသားနိုင်သော မီဒီယာ တစ်ခုခုကို ​အသေအချာ ထည့်ထားပါ။|
+|Not enough free disk space!|             |Disk နေရာ အလွတ် မလုံလောက်ပါ!|
+|Disable unsafe (security-critical) operations like exports, etc.|    |တင်ပို့ချက်များ ကဲ့သို့ မလုံခြုံ​သော လုပ်ဆောင်ချက်များကို ပိတ်ထားပါ။|
+|Unsafe operations are disabled.|         |မလုံခြုံ​သော လုပ်ဆောင်ချက်များကို ပိတ်ထားသည်။|
+|To execute this operation you must enable unsafe operations in the options dialog.|    |ဤလုပ်ဆောင်ချက်ကို ဆောင်ရွတ်ရန် ဤရေးစရာများ အညွှန်းထဲ၌ မလုံခြုံ​သော လုပ်ဆောင်ချက်များကို ဖွင့်ထားရမည်။|
+|You have changed an option that requires restarting KeePass to get active.|    |သက်၀င်လာစေရန် KeePass ကို ပြန်ဖွင့်ရမည့် ရွေးစရာ တစ်ခုကို သင် ပြောင်းလဲလိုက်သည်။|
+|Expired Entries|                         |သက်တမ်းကုန် ရေးသွင်းချက်များ|
+|This is a list of all expired entries|   |ဤအရာသည် သက်တမ်းကုန် ရေးသွင်းချက်များ စာရင်း ဖြစ်သည်|
+|Show &Expired Entries|                   |သက်တမ်းကုန် ရေးသွင်းချက်များ ဖေါ်ပြရန်(&E)|
+|Click on an entry to jump to it.|        |ရေးသွင်းချက် တစ်ခုဆီ ခုန်ကူးရန် ၄င်းကို နှိပ်ပါ။|
+|Quality:|                                |အရည်အသွေး|
+|Database Settings|                       |ဒေတာဘေ့စ် ချိန်ညှိချက်များ|
+|Here you can configure the current database.| |ဤနေရာ၌ လက်ရှိ ဒေတာဘေ့စ်ကို ပြုပြင်နိုင်သည်။|
+|Database Summary|                        |ဒေတာဘေ့စ် အကျဉ်းချုပ်|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|    |နောက်ဆုံး ဒေတာဘေ့စ် စာဝှက် ကီးကို ပြင်ဆင်ရန် သင့် ကီးကို အကြိမ်ကြိမ် စာဝှက်ထားသည်။ ဤ​နည်းဖြင့် ကိန်းဂဏန်း တိုးစေပြီး အဘိဓါန်နည်းဖြင့် တိုက်ခိုက်မှုကို ပိုမို ခက်ခဲစေသည်။|
+|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|    |ဤကိန်းဂဏန်း များလေ၊ အဘိဓါန်နည်းဖြင့် တိုက်ခိုက်မှု ပိုခက်လေ ဖြစ်သည်။ သို့သော် ဤကိန်းဂဏန်းများလေ၊ ဒေတာဘေ့စ် ဖွင့်ခြင်း၊ သိမ်းဆည်းခြင်း ပိုနှေးလေ ဖြစ်သည်။|
+|Number of key encryption rounds:|        |ကီး စာဝှက်စနစ် လုပ်ဆောင်မည့် အရေအတွက် -|
+|bits|                                    |bits|
+|Personal &Vault TXT File...|             |ကိုယ်ပိုင် &Vault TXT ဖိုင်...|
+|Imported from Password Safe|             |စကားဝှက် လုံခြုံရေးမှ တင်သွင်းချက်|
+|Remember last opened file|               |နောက်ဆုံး ဖွင့်သော ဖိုင်ကို မှတ်သားရန်|
+|Total number of groups / entries|        |အုပ်စုများ / ရေးသွင်းချက်များ စုစုပေါင်း အရေအတွက်|
+|Total: %u groups / %u entries|           |စုစုပေါင်း - %u အုပ်စု %u ရေးသွင်းချက်များ|
+|%u of %u selected|                       |%u ကို %u အထဲမှ ရွေးထားချက်|
+|Number of selected entries (number of entries in the list)| |ရွေးထားသော ရေးသွင်းချက်များ အရေအတွက် (စာရင်းရှိ ရေးသွင်းချက်များ အရေအတွက်)|
+|Status|                                  |အရေအတွက်|
+|The database file has been modified!|    |ဒေတာဘေ့စ် ဖိုင်ကို ပြုပြင်ထားပြီ!|
+|Most probably someone has changed the file while you were editing it.| |ဖြစ်နိုင်ချေ အရှိဆုံးမှာ တစ်စုံတစ်ယောက်သည် ဖိုင်ကို သင် တည်းဖြတ်နေစဉ် ပြောင်းထားခြင်း ဖြစ်နိုင်သည်။|
+|Do you want to overwrite it?|            |၄င်းကို သင် အစားထိုးလိုသလား?|
+|The group you selected cannot store entries. Please select a different group.|    |သင် ရွေးထားသော အုပ်စု၌ ရေးသွင်းချက်များကို မသိမ်းဆည်းနိုင်ပါ။ အခြား အုပ်စု တစ်ခုကို ရွေးပါ။|
+|This will remove all selected entries unrecoverably!|    |ဤအချက်က ရွေးထားသော ရေးသွင်းချက် အားလုံးကို ပြန်ဆယ်တင်၍ မရအောင် ဖယ်ရှားသွားမည်!|
+|Are you sure you want to delete all selected entries?|    |ရွေးထားသော ရေးသွင်းချက်များ အားလုံးကို အမှန်တကယ် ပယ်ဖျက်လိုသလား?|
+|Delete Entries Confirmation|             |ရေးသွင်းချက်များ အတည်ပြုချက်ကို ပယ်ဖျက်ရန်|
+|Use PuTTY for ssh: and telnet: URLs|     |ssh: နှင့် telnet: URLs အတွက် PuTTY ကို သုံးရန်|
+|Mark database as modified on last-access time change|    |ဒေတာဘေ့စ်ကို နောက်ဆုံး-၀င်ရောက်ချိန်၌ ပြောင်းထားသကဲ့သို့ မှတ်သားရန်|
+|Se&lect All|                             |အားလုံး ရွေးချယ်ရန်|
+|Auto-&Sort Password List|                |အလိုလို-မျိုးတူစုသော စကားဝှက် စာရင်း(&S)|
+|N&o Auto-Sort|                           |အလိုလို-မျိုးတူစုခြင်း မပြုရန်(&o)|
+|Auto-sorting of the password list is enabled, you cannot move entries manually.|    |စကားဝှက် စာရင်းကို အလိုလို-မျိုးတူစုခြင်း စနစ်ကို ဖွင့်ထားသည်၊ ရေးသွင်းချက်များကို သင်ကိုယ်တိုင် ဖယ်ရှား၍ မရပါ။|
+|Perform Auto-&Type|                      |အလိုလို-ရေးသားမှု လုပ်ဆောင်ရန်(&T)|
+|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|    |စကားဝှက် စာရင်းကို အလိုလို-မျိုးတူစုခြင်း စနစ်ကို ဖွင့်ထားသည်၊ ၄င်းစာရင်းကို ယခု သင်ကိုယ်တိုင် မျိုးတူစု၍ မရပါ။|
+|Select key file manually...|             |ကီးဖိုင်ကို ကိုယ်တိုင် ရွေးချယ်ရန်...|
+|Save key file manually to...|            |ကီးဖိုင်ကို ကိုယ်တိုင် သိမ်းဆည်းမဲ့ နေရာ...|
+|Enter the new composite master key.|    |စုပေါင်း မာစတာ ကီး အသစ်ကို ရေးထည့်ပါ။|
+|Repeat the new master password for this database.| |ဤဒေတာဘေ့စ် အတွက် မာစတာ စကားဝှက် အသစ်ကို ထပ်ရေးပါ။|
+|Change Composite Master Key|             |စုပေါင်း မာစတာ ကီးကို ပြောင်းရန်|
+|Plugin|                                  |ပလပ်အင်|
+|Plugins|                                 |ပလပ်အင်များ|
+|&Plugins...|                             |ပလပ်အင်များ...(&P)|
+|Here you can configure all installed KeePass plugins.|    |ဤနေရာ၌ စက်ထဲ ထည့်သွင်းခဲ့သော KeePass ပလပ်အင်များ အားလုံးကို ပြုပြင်နိုင်သည်။|
+|Enabled, loaded|                         |ဖွင့်ထားသည်|
+|&Enable|                                 |ဖွင့်ရန်(&E)|
+|&Disable|                                |ပိတ်ရန်(&D)|
+|About &Plugin...|                        |ပလပ်အင် အကြောင်း...(&P)|
+|An error occurred|                        |ချို့ယွင်းချက် ဖြစ်ပေါ်နေသည်|
+|Error code|                              |ချို့ယွင်းသော ကုဒ်|
+|Unknown error|                           |အမည်မသိ ချို့ယွင်းချက်|
+|Success|                                 |အောင်မြင်မှု|
+|Invalid parameter|                       |မှားနေသော ပါရာမီတာ|
+|Too little memory (RAM) available|       |ရရှိနိုင်သော မှတ်ဉာဏ် (RAM) အလွန်နည်းသည်|
+|Invalid/wrong key|                       |မှားနေသော ကီး|
+|File access error: failed to open file in read mode|    |ဖိုင်ထဲ ၀င်ရောက်မှု ချို့ယွင်းချက် - ဖိုင်ကို ဖတ်ရှုရန် စနစ်ဖြင့် ဖွင့်မရပါ|
+|File access error: failed to open file in write mode|    |ဖိုင်ထဲ ၀င်ရောက်မှု ချို့ယွင်းချက် - ဖိုင်ကို ရေးသားမှု စနစ်ဖြင့် ဖွင့်မရပါ|
+|File error: error while reading from the file|    |ဖိုင် ချို့ယွင်းချက် - ဖိုင်ကို ဖတ်နေစဉ် ချို့ယွင်းချက်|
+|File error: error while writing to the file|    |ဖိုင် ချို့ယွင်းချက် - ဖိုင်ကို ရေးသားနေစဉ် ချို့ယွင်းချက်|
+|Internal error|                          |အတွင်းပိုင်း ချို့ယွင်းချက်|
+|Invalid random source|                   |မှားနေသော ကျပန်း အရင်းအမြစ်|
+|Invalid/corrupted file structure|        |မှားနေသော/ပျက်စီးသော ဖိုင် ဖွဲ့စည်းပုံ|
+|Encryption/decryption error|             |စာဝှက်စနစ်/စာဝှက်ဖြည်စနစ် ချို့ယွင်းချက်|
+|Get more plugins...|                     |အခြား ပလပ်အင်များ ရယူရန်...|
+|Global auto-type hot key combination:|   |ဂလိုဘယ် အလိုလို-ရေးသားမှု အထူးကီး စုစည်းခြင်း -|
+|Cannot register the global hot key.|     |ဂလိုဘယ် အထူးကီးကို မှတ်ပုံတင်၍ မရပါ။|
+|Most probably another application has reserved this hot key already.|    |ဖြစ်နိုင်ချေ အရှိဆုံးမှာ အခြား အပ္ပလီကေးရှင်းသည် ဤအထူးကီးကို သီးသန့်ထားပြီး ဖြစ်နိုင်သည်။|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|    |အခြား အထူးကီး စုစည်းခြင်း တစ်ခုကို 'ကိရိယာများ' - 'ရွေးစရာများ' - 'အဆင့်မြင့်' - 'အလိုလို-ရေးသားခြင်း' ၌ ရွေးချယ်နိုင်သည်။|
+|&Use master password and key file|       |မာစတာ စကားဝှက်နှင့် ကီးဖိုင်ကို သုံးစွဲရန်(&U)|
+|You've selected the AND key mode, so you must enter a password AND select a key file.|    |သင်သည် AND ကီးစနစ်ကို ရွေးထားသည်၊ ထို့ကြောင့် စကားဝှက် တစ်ခုကို ရေးထည့်ပြီး ကီးဖိုင် တစ်ဖိုင် ရွေးပါ။|
+|Timed: copy data to the clipboard and clear it automatically after some seconds|    |အချိန်သတ်မှတ်ချက် - ဒေတာများကို clipboard ထဲ ကော်ပီ ကူးပြီး စက္ကန့် အနည်းငယ် အကြာ ၄င်းကို အလိုအလျောက် ရှင်းလင်းရန်|
+|Enhanced: allow pasting only once and protect against clipboard spies|    |တိုးမြှင့်ရန် - တစ်ကြိမ်သာ ပွားထည့်စေပြီး clipboard ၏ စောင့်ကြည့်မှုမှ ကာကွယ်ရန်|
+|Clipboard behavior:|                     |Clipboard အမှုအကျင့် -|
+|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|    |သတိပေးချက်! ဤရွေးစရာသည် အထူးသဖြင့် အကယ်၍ clipboard တိုးမြှင့်စနစ် (သို့) clipboard အရန်သင့် ကိရိယာများကို သင် အသုံးပြုလျှင် သင့်စက်ထဲတွင် ပုံမှန် အလုပ်လုပ်နိုင်မည့်ပုံ မပေါ်ပါ။|
+|If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|    |အကယ်၍ တိုးမြှင့် နည်းလမ်းနှင့် ပါတ်သက်၍ ပြဿနာ တစ်ခုခု သတိပြုမိပါက၊ အချိန်ဖြင့် clipboard ရှင်းလင်းသော နည်းလမ်းကို ပြန်သုံးပါ။|
+|Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|    |.kdb ဖိုင် ဆက်နွှယ်မှုကို ပြောင်း၍ မရပါ။ Registry ကို ပြင်ဆင် ရေးသားနိုင်သော လုပ်ပိုင်ခွင့် ရယူပြီး ဖိုင် ဆက်နွှယ်မှုများကို ပြောင်းပါ။|
+|Number the TANs consecutively, starting from this value|    |TANs များကို ဤတန်ဖိုးမှ စတင်ပြီး အဆက်မပြတ် ရေတွက်ပါ။|
+|Never expires|                           |သက်တမ်းကုန်ချိန် မရှိ|
+|Auto-Type|                               |အလိုလို-ရေးသားခြင်း|
+|Help:|                                   |အကူအညီ -|
+|Advanced|                                |အဆင့်မြင့်|
+|Start minimized and locked|              |စတင် ချုံ့လိုက်ပြီး သော့ခတ်ပါ|
+|Immediately after opening a database|    |ဒေတာဘေ့စ် တစ်ခုကို ဖွင့်လိုက်သည့်နှင့် တပြိုင်နက်|
+|Show expired entries (if any)|    |သက်တမ်းကုန် ရေးသွင်းချက်များ (ရှိပါက) ဖေါ်ပြရန်|
+|Show entries that will expire soon (if any)|    |မကြာမီ သက်တမ်းကုန်မဲ့ ရေးသွင်းချက်များ (ရှိပါက) ဖေါ်ပြရန်|
+|Integration|                             |ပေါင်းစည်းခြင်း|
+|Start KeePass at Windows startup (for current user)|    |၀င်းဒိုးအတက်တွင် KeePass ကို (လက်ရှိ သုံးစွဲသူအတွက်) စဖွင့်ပါ|
+|Unable to create/remove the auto-start key of KeePass in the Windows registry!|    |၀င်းဒိုး registry ထဲ၌ KeePass ၏ အလိုလို-စတင် ကီးကို ဖန်တီး၍/ဖယ်ရှား၍ မရပါ!|
+|Backup|                                  |အရန်သင့်|
+|Save backups of modified entries into the 'Backup' group|    |ပြုပြင်ထားသော ရေးသွင်းချက်များ၏ အရန်သင့်များကို 'အရန်သင့်' အုပ်စုထဲ၌ သိမ်းဆည်းရန်|
+|Failed to create backup of this entry!|  |ဤရေးသွင်းချက်အတွက် အရန်သင့်ကို ဖန်တီး၍ မရပါ!|
+|The composite master key has been changed!|    |စုပေါင်း မာစတာ ကီးကို ပြောင်းလိုက်ပြီ!|
+|Save the database now in order to get the new key applied.|    |ကီး အသစ်ကို သုံးစွဲနိုင်ရန် ဒေတာဘေ့စ်ကို ယခု သိမ်းဆည်းပါ။|
+|Fields to export|                        |တင်ပို့မည့် နေရာကွက်များ|
+|Fields to print|                         |ပရင့်ထုတ်မည့် နေရာကွက်များ|
+|Icon|                                    |အိုင်ကွန်ပုံ|
+|Group Tree|                              |အုပ်စု ဆင်းသက်ပုံ|
+|Export Options|                          |တင်ပို့မှု ရွေးစရာများ|
+|Print Options|                           |ပရင့်ထုတ်ရန် ရွေးစရာများ|
+|Here you can customize the exported files.| |တင်ပို့ခဲ့သော ဖိုင်များကို ဤနေရာ၌ စိတ်ကြိုက် ဖန်တီးနိုင်သည်။|
+|Here you can customize the printed sheet.| |ပရင့်ထုတ်ခဲ့သော စာရွက်ကို ဤနေရာ၌ စိတ်ကြိုက် ဖန်တီးနိုင်သည်။|
+|Encode/replace newline characters by '\n'| |လိုင်းအသစ် အက္ခရာများကို စာဝှက်/အစားထိုးမည့် ပုံစံ '\n'|
+|Export backup entries (entries in the 'Backup' group)|    |အရန်သင့် ရေးသွင်းချက်များ ('အရန်သင့်' အုပ်စုထဲရှိ ရေးသွင်းချက်များ) ကို တင်ပို့ရန်|
+|Print backup entries (entries in the 'Backup' group)|    |အရန်သင့် ရေးသွင်းချက်များ ('အရန်သင့်' အုပ်စုထဲရှိ ရေးသွင်းချက်များ) ကို ပရင့်ထုတ်ရန်|
+|&Get More Import Plugins...|             |အခြား တင်သွင်းမဲ့ ပလပ်အင်များကို ရယူရန်...|
+|Field has been pasted.|                  |နေရာကွက်များကို ပွားထည့်ထားသည်။|
+|Waiting for paste command.|    |ပွားထည့်ရန် ညွှန်ကြားချက်ကို စောင့်ဆိုင်းနေသည်။|
+|Paste operation completed.|              |ပွားထည့်သည့် လုပ်ငန်း ပြီးသွားပြီ။|
+|Limit to single instance|                |ဖြစ်စဉ် တစ်ခုဖြင့် ကန့်သတ်ထားသည်|
+|Use more secure password edit controls|  |အခြား လုံခြုံသော စကားဝှက် တည်းဖြတ်မှု အထိန်းများကို သုံးစွဲရန်|
+|Press Shift-Home or Shift-End to clear this edit control|    |ဤတည်းဖြတ် အထိန်းကို ရှင်းလင်းရန် Shift-Home (သို့) Shift-End ကို နှိပ်ရန်|
+|Single left click instead of double-click for default tray icon action|    |ပုံမှန် tray အိုင်ကွန် လုပ်​ဆောင်ချက်အတွက် နှစ်ကြိမ် မနှိပ်ပဲ တကြိမ်သာ နှိပ်ရန်|
+|Exclude entries in the '&Backup' group|  |'အရန်သင့်' အုပ်စုထဲ၌ ရေးသွင်းချက်များကို ချန်လှပ်ထားရန်|
+|Exclude &expired entries|                |သက်တမ်းကုန် ရေးသွင်းချက်များကို ချန်လှပ်ထားရန်|
+|By default, new entries expire in the following number of days:|    |ပုံမှန်အားဖြင့်၊ ရေးသွင်းချက် အသစ်များသည်​ အောက်ပါ နေ့ရက်များတွင် သက်တမ်းကုန်ဆုံးသည် -|
+|Click to expire the entry in %u days|    |ရေးသွင်းချက်ကို %u ရက်၌ သက်တမ်းကုန်ဆုံးရန် နှိပ်လိုက်ပါ|
+|Calculate rounds for a 1-second delay on this computer|  |ဤကွန်ပျူတာ၌ ၁-စက္ကန့် နှောင့်နှေးရန် အကြိမ်ရေကို တွက်ချက်ပါ|
+|The program is distributed under the terms of the GNU General Public License v2 or later.|    |ဤပရိုဂရမ်ကို GNU General Public License v2 (သို့) အထက် သတ်မှတ်ချက်ဖြင့် ျဖြန့်ချီထားသည်။|
+|1 Week|                                     |၁ ပတ်|
+|2 Weeks|                                    |၂ ပတ်|
+|1 Month|                                    |၁လ|
+|3 Months|                                   |၃ လ|
+|6 Months|                                   |၆ လ|
+|1 Year|                                     |၁ နှစ်|
+|Include backup entries in quick searches (toolbar)|  |အရန်သင့် ရေးသွင်းချက်များကို အမြန် ရှာဖွေ​ချက်များ (တူးဘား) ထဲ၌ ထည့်သွင်းရန်|
+|Include expired entries in quick searches (toolbar)| |သက်တမ်းကုန် ရေးသွင်းချက်များကို အမြန် ရှာဖွေချက်များ (တူးဘား) ထဲ၌ ထည့်သွင်းရန်|
+|&Donate...|                                 |လှူဒါန်းရန်...(&D)|
+|Use alternative auto-type method (minimize window)|    |အခြား အလိုလို-ရေးသားခြင်း နည်းလမ်း (၀င်းဒိုး ချုံ့ထားရန်) ကို သုံးစွဲရန်|
+|Delete all backup entries before saving the database|  |ဒေတာဘေ့စ်ကို မသိမ်းဆည်းမီ၊ အရန်သင့် ရေးသွင်းချက်များ အားလုံးကို ပယ်ဖျက်ရန်|
+|&Repair KeePass Database File...|           |KeePass ဒေတာဘေ့စ် ဖိုင်ကို ပြုပြင်ရန်...(&R)|
+|The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|    |တင်သွင်းရန် သင် ရွေးချယ်လိုက်သော ဖိုင် အမျိုးအစားသည် အုပ်စုနှင့် ရေးသွင်းချက် ID များကို ပံ့ပိုးထားသည်။ တင်သွင်းမှု အမူအကျင့် တစ်ခုကို ရွေးပါ။|
+|Create new IDs|                             |ID အသစ် ဖန်တီးရန်|
+|If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|    |အကယ်၍ ဤရွေးစရာကို သင် ရွေးချယ်ပါက၊ KeePass သည် အုပ်စုများနှင့် ရေးသွင်းချက်များ အားလုံးအ​တွက် ID အသစ်များ ဖန်တီးပေးလိမ့်မည်။ တဆက်တည်း လက်ရှိ ဖွင့်ထားသော အုပ်စုများနှင့် ရေးသွင်းချက်များကို ပြုပြင်ခြင်း (သို့) အစားထိုးခြင်း ပြုလုပ်မည် မဟုတ်ပါ။|
+|Overwrite|                                  |အစားထိုးရန်|
+|KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|    |KeePass သည် လက်ရှိ အုပ်စုများနှင့် ရေးသွင်းချက်များကို ဖိုင်ထဲရှိ တင်သွင်းမည့် အရာများဖြင့် (အကယ်၍ အလားတူ ID ပါရှိပါက) ​အစားထိုးသွားမည် ဖြစ်သည်။|
+|Overwrite if newer|                         |အကယ်၍ ပို၍ သစ်လွင်ပါက အစားထိုးရန်|
+|KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|    |KeePass သည် အုပ်စုများ/ရေးသွင်းချက်များ၏ နောက်ဆုံး ပြုပြင်ချိန်များကို နှိုင်းယှဉ်ပြီး လက်ရှိ အရာများထက် ပို၍ သစ်လွင်သော အချက်များ ရှိပါက အစားထိုးသွားမည်။|
+|&KeePass Database...|                       |KeePass​ ဒေတာဘေ့စ်...(&K)|
+|Acknowledgements|                           |ကျေးဇူးတင်လွှာများ|
+|Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|    |အကယ်၍ KeePass သည် လက်ရှိ ဖွင့်ထားသော ဒေတာဘေ့စ်၏ ကီးကို သုံးစွဲမည် ဆိုပါက (သို့) တင်ပို့ခဲ့သော ဖိုင်ကို စာဝှက်ရန် ကီးအသစ် တစ်ခုကို ရွေးချယ်ရန် တောင်းဆိုပါက ဤအချက်ကို ရွေးပါ။|
+|Click [Yes] to use the same key as the currently opened database.|    |လက်ရှိ ဖွင့်ထားသော ဒေတာဘေ့စ်ကဲ့သို့ အလားတူ ကီးကို သုံးစွဲမည် ဆိုပါက [ဟုတ်ကဲ့] ကို နှိပ်ပါ။|
+|Click [No] to set a new key for the exported file.|    |တင်ပို့ခဲ့သော ဖိုင်အတွက် ကီးအသစ် တစ်ခု သတ်မှတ်ရန် [မဟုတ်ဘူး] ကို နှိပ်ပါ။|
+|Reuse the current key/password?|            |လက်ရှိ ကီး/စကားဝှက်ကို ပြန်သုံးမလား?|
+|Show full path in the title bar (instead of file name only)|    |ခေါင်းစဉ် ဘားပေါ်၌ ဖိုင် လမ်းကြောင်း အပြည့်အစုံ ဖေါ်ပြရန်|
+|Enable auto-type features|                  |အလိုလို-ရေးသားမှု အင်္ဂါရပ်များ ဖွင့်ထားရန်|
+|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|    |URLs ကို ဖွင့်မည့်အစား Clipboard  ထဲသို့ (cmd:// URLs ကလွဲပြီး) ကော်ပီကူးပါ|
+|Copy &URL to Clipboard|                     |&URL ကို Clipboard ထဲ ကော်ပီးကူးပါ|
+|Exit program instead of locking the workspace after the specified time|    |သတ်မှတ်ချိန် နောက်ပိုင်း workspace ကို သော့ခတ်မည့်အစား ပရိုဂရမ်မှ ထွက်ပါ|
+|Click on an entry to auto-type it.|         |ရေးသွင်းချက် တစ်ခုကို အလိုလို-ရေးသားရန် နှိပ်လိုက်ပါ။|
+|Auto-Type Entry Selection|                  |အလိုလို-ရေးသားသည့် ရေးသွင်းချက် ရွေးချယ်ခြင်း|
+|Multiple entries exist for the current window. Please select the entry to auto-type.|    |လက်ရှိ ၀င်းဒိုးအတွက် ရေးသွင်းချက် မျိုးစုံ ရှိသည်။ ရေးသွင်းချက် တစ်ခုကို အလိုလို-ရေးသားရန် ရွေးပါ။|
+|The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|    |သင် ဖွင့်ရန် ကြိုးစားနေသော ဖိုင်ကို သော့ခတ်ထားသည်၊ ဥပမာ - လောလောဆယ် ယင်းဖိုင်ကို တစ်စုံတစ်ယောက်က ဖွင့်ပြီး တည်းဖြတ်နေသည်။|
+|Open the file in read-only mode?|                    |ဖိုင်ကို ဖတ်ရှုရန်သက်သက် စနစ်ဖြင့် ဖွင့်မလား?|
+|Click [Yes] to open the file in read-only mode.|     |ဖိုင်ကို ဖတ်ရှုရန်သက်သက် စနစ်ဖြင့် ဖွင့်ရန် [ဟုတ်ကဲ့] ကို နှိပ်ပါ။|
+|Click [No] to open the file in normal writing mode.| |ဖိုင်ကို ပုံမှန် ရေးသားသည့် စနစ်ဖြင့် ဖွင့်ရန် [မဟုတ်ပါ] ကို နှိပ်ပါ။|
+|Now|    |ယခု|
+|&Tools| |ကိရိယာများ(&T)|
+|TAN View &Options|                            |TAN-မြင်ကွင်း ရွေးစရာများ(&O)|
+|Use &Simple List View for TAN-Only Groups|    |TAN-Only အုပ်စုအတွက် ရိုးရိုး စာရင်း မြင်ကွင်း သုံးစွဲရန်(&S)|
+|Show TAN &Indices in Entry Titles|            |TAN အညွှန်းများကို ရေးသွင်းချက် ခေါင်းစဉ်များ၌ ဖေါ်ပြရန်(&I)|
+|Disable 'Save' button if the database hasn't been modified|    |ဒေတာဘေ့စ်ကို ပြုပြင်မထားပါက 'သိမ်းဆည်းရန်' ခလုတ်ကို ပိတ်ထားပါ|
+
+|Check For Updates|                            |မွမ်းမံချက်များ စစ်ဆေးရန်|
+|Check for Updates|                            |မွမ်းမံချက်များ စစ်ဆေးရန်|
+|New version available.|                       |ဗားရှင်း အသစ် ရရှိနိုင်သည်။|
+|You have the latest version.|                 |သင့်ထံ နောက်ဆုံး ဗားရှင်း ရှိသည်။|
+|Connect failed, cannot check for updates.|    |ဆက်သွယ်​မှုလိုင်း ပြတ်နေသည်၊ မွမ်းမံချက်များ မ​စစ်ဆေးနိုင်ပါ။|
+|1 update is available!|                       |မွမ်းမံချက် ၁ ရရှိနိုင်သည်!|
+|%u updates are available!|                    |မွမ်းမံချက် %u ရရှိနိုင်သည်!|
+|No updates available.|                        |မွမ်းမံချက်များ မရနိုင်ပါ။|
+|Component|                                    |အစိတ်အပိုင်းများ|
+|Installed|                                    |စက်ထဲ ထည့်သွင်းချက်|
+|Available|                                    |ရရှိနိုင်သည်|
+|Plugin unknown.|                              |အမည်မသိ ပလပ်အင်။|
+|Up to date.|                                  |နောက်ဆုံးထွက်။|
+|Pre-release version.|                         |ကြိုတင်ထွက် ဗားရှင်း။|
+
+|Check for updates at KeePass startup|         |မွမ်းမံချက်များကို KeePass စဖွင့်ချိန်တွင် စစ်ဆေးရန်|
+|'Keyfile' or 'preselect' option is already specified| |'ကီးဖိုင်' (သို့) 'ကြိုတင်​ ရွေးချယ်မှု' ရွေးစရာကို သတ်မှတ်ထားပြီ|
+|Path is invalid|                              |ဖိုင်လမ်းကြောင်း မမှန်ပါ|
+|Filename not found|                           |ဖိုင်အမည် မတွေ့ရှိပါ|
+|'Pw' option is already specified|             |'Pw' ရွေးစရာကို သတ်မှတ်ထားပြီ|
+|Password is empty|                            |စကားဝှက် လွတ်နေသည်|
+|Option not recognized|                        |ရွေးစရာကို မသိပါ|
+|Database is already specified|                |ဒေတာဘေ့စ်ကို သတ်မှတ်ထားပြီ|
+|It contains an unmatched quote|               |၄င်း၌ မကိုက်ညီသော ကိုးကားချက် တစ်ခု ပါရှိသည်|
+|Command line argument|                        |Command line အကြောင်းပြချက်|
+|ignored|                                      |လျစ်လျူရှုချက်|
+|Reason|                                       |အကြောင်းပြချက်|
+|KeePass Initialization|                       |KeePass အစပျိုးခြင်း|
+|Lock workspace when locking Windows, switching user or sleeping|    |ဝင်းဒိုး ​သော့ခတ်သည့်အခါ၊ သုံးစွဲသူ ပြောင်းသည့်အခါ (သို့) ခေတ္တရပ်နားချိန်တွင် workspace ကို ပိတ်ရန်|
+|Value|                                        |တန်ဖိုး|
+|Select the fields KeePass should remember|    |KeePass မှ မှတ်ထားမည့် နေရာကွက်ကို ရွေးပါ|
+|Fields to remember|                           |မှတ်ထားရမည့် နေရာလပ်များ|
+|An entry already exists for the current URL.| |လက်ရှိ URL အတွက် ရေးသွင်းချက် တစ်ခု ရှိပြီး ဖြစ်သည်။|
+|The following application requests access to your currently opened KeePass database:|    |အောက်ပါ အပ္ပလီကေးရှင်းသည် လက်ရှိ သင် ဖွင့်ထားသော KeePass ဒေတာဘေ့စ်ထဲ ၀င်ရောက်ရန် တောင်းဆိုနေသည် -|
+|Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|    |အ​ပ္ပလီကေးရှင်း ခေါင်းစဉ်ကို တောင်းဆိုထားသည့် အပ္ပလီကေးရှင်းမှ ​ပံ့ပိုးထားပြီး မှားယွင်းမှု ရှိနိုင်သည် (အန္တရာယ် ပေးသော ပရိုဂရမ် တစ်ခုခုသည် သင့် ဒေတာဘေ့စ်ထဲ ၀င်ရောက်နိုင်သည်)။|
+|Do you grant the application access to your KeePass database?|    |KeePass ဒေတာဘေ့စ်ထဲ၌ အပ္ပလီကေးရှင်း ၀င်ရောက်ခွင့် ပြုထားသလား?|
+|&Read-Only|                                   |ဖတ်ရှုရန် သက်သက်(&R)|
+|&Full|                                        |အပြည့်အစုံ(&F)|
+|&Deny|                                        |ငြင်းပယ်ရန်(&D)|
+|Incoming IPC Request|                         |IPC တောင်းဆိုချက် အ၀င်|
+|An application requests access through inter-process communication|    |အပ္ပလီကေးရှင်း တစ်ခုသည် inter-process ဆက်သွယ်ရေး လမ်းကြောင်းမှ ၀င်ရောက်ရန် တောင်းခံနေသည်|
+|Application|                                  |အပ္ပလီကေးရှင်း|
+|Unknown|                                      |အမည်မသိ|
+|Enable remote control (allow applications to communicate with KeePass)|    |အဝေးထိန်း ခလုတ် ဖွင့်ထားရန် (အပ္ပလီကေးရှင်းများကို KeePass နှင့် ဆက်သွယ်ခွင့်ပြုရန်)|
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|    |ကီးဖိုင် ပါရှိသော မီဒီယာကို ​အသေအချာ ထည့်သွင်းပြီး KeePass သည် ၄င်းအထဲ၌ ၀င်ရောက်နိုင်ရမည် (ဖိုင်ကို အခြား အပ္ပလီကေးရှင်းမှ ပိတ်ဆို့ခြင်း မပြုရန် ဖိုင် ၀င်ရောက်ခွင့်ကို စစ်ဆေးပါ၊ ...)။|
+|URL Field: Help|                              |URL နေရာလပ် - အကူအညီ|
+|There are too few characters in the character set to build up a password matching the specified rules|    |သတ်မှတ်ထားသော စည်းကမ်းနှင့် ကိုက်ညီသည့် စကားဝှက် တစ်ခု ဖန်တီးရန် အက္ခရာ အစုထဲရှိ စာလုံးများ အလွန်နည်းပါးသည်|
+|(Custom)| |(စိတ်ကြိုက် ဖန်တီးရန်)|
+|Save current settings as a profile.|            |လက်ရှိ ချိန်ညှိချက်များကို ပရိုဖိုင်း အဖြစ် သိမ်းဆည်းပါ။|
+|Delete currently selected profile.|             |လက်ရှိ ရွေးထားသော ပရိုဖိုင်းကို ပယ်ဖျက်ပါ။|
+|(Automatically generated passwords for new entries)|    |(ရေးသွင်းချက် အသစ်များ​အတွက် အလိုအလျောက် ထုတ်လုပ်ခဲ့သော စကားဝှက်များ)|
+|Profile|                                      |ပရိုဖိုင်း|
+|Length of generated password:|                |ထုတ်လုပ်ခဲ့သော စကားဝှက် အရှည် -|
+|Generate using character set:|                |အက္ခရာ အစုကို သုံးပြီး ထုတ်လုပ်ရန် -|
+|Generate using pattern:|                      |နမူနာကို သုံးပြီး ထုတ်လုပ်ရန် -|
+|Also include the following characters:|       |အောက်ပါ အက္ခရာများကိုပါ ထည့်သွင်းရန် -|
+|Exclude look-alike characters|                |ဆင်တူယိုးမှား အက္ခရာများကို ချန်လှပ်ရန်|
+|Use local date/time format instead of ISO notation|    |ISO သင်္ကေတ စနစ်အစား ဒေသသုံး နေ့ရက်/အချိန် ပုံစံကို သုံးရန်|
+|Save as Profile|                              |ပရိုဖိုင် အဖြစ် သိမ်းဆည်းရန်|
+|Save current settings as password generator profile.| |လက်ရှိ ချိန်ညှိချက်များကို စကားဝှက် ထုတ်လုပ်စနစ် ပရိုဖိုင် အဖြစ် သိမ်းဆည်းပါ။|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|    |စကားဝှက် ထုတ်လုပ်စနစ် ပရိုဖိုင် အသစ်အတွက် နာမည် တစ်ခု ရေးထည့်ပါ၊ (သို့) ၄င်းကို အစားထိုးရန် လက်ရှိ ပရိုဖိုင်း တစ်ခုကို ရွေးပါ -|
+|Randomly permute characters of password|      |စကားဝှက် အက္ခရာများကို ကျပန်းစနစ်ဖြင့် အစီအစဉ် ပြောင်းရန်|
+|Locked|                                       |သော့ခတ်ထားချက်|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?|    |အကူအညီ ဖိုင်ထဲ၌ ဖြည့်သွင်း အမျိုးအစား အကြောင်း အသေးစိတ် အ​ချက်အလက် ပါရှိသည်။ အကူအညီဖိုင်ကို ဖွင့်လိုသလား?|
+|Failed to save the configuration.|            |ပြုပြင်ဖန်တီးမှု စနစ်ကို သိမ်းဆည်း၍ မရပါ။|
+|Arguments|                                    |အကြောင်းပြချက်များ|
+|&Export Group To|                             |အုပ်စု တင်ပို့မည့် နေရာ(&E)|
+|in "Minimal functionality" mode|              |"အနည်းဆုံး လုပ်ဆောင်ချက်" စနစ်|
+|Regular expression|                           |ပုံမှန် ဖေါ်ပြချက်|
+|Default user name for new entries:|           |ရေးသွင်းချက် အသစ်များအတွက် ပုံမှန် သုံးစွဲသူ အမည် -|
+|Advanced Password Generator Options|          |အဆင့်မြင့် စကားဝှက် ထုတ်လုပ် စနစ် ရွေးစရာများ|
+|Exclude the following characters:|            |အောက်ပါ အက္ခရာများကို ချန်လှပ်ရန် -|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|    |ခရေပွင့် တစ်ပွင့်ဖြင့် မှတ်သားထားသော ရွေးစရာများ/စည်းကမ်းများသည် ထုတ်လုပ်ခဲ့သော စကားဝှက်များ၏ လုံခြုံရေးကို ​လျှော့ချပေးသည်။ ကွန်ရက် စာမျက်နှာ အပ္ပလီကေးရှင်း (သို့) စကားဝှက် မူဝါဒမှ ယင်းကဲ့သို့ စည်းကမ်းများကို လိုက်နာရန် တင်းကြပ်လာပါက ၄င်းတို့ကိုသာ ဖွင့်ပေးပါ။|
+|Each character must occur at most once|       |အက္ခရာ တစ်ခုစီသည် တစ်ကြိမ်သာ ဖြစ်ပွားသည်|
+|Provider|                                     |ပံ့ပိုးသူ|
+|The key provider plugin did not supply a valid key|    |ကီး ပံ့ပိုးသူ ပလပ်အင်သည် ကီးအမှန်ကို ပံ့ပိုးမ​ထားပါ|
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|    |Ctrl-Alt-K အထူးကီးကို မှတ်ပုံတင်ရန် (KeePass ၀င်းဒိုးကို ရှေ့သို့ ခေါ်ပါ)|
+|Type to search the database|                  |ဒေတာဘေ့စ်ကို ရှာရန် ရေးထည့်ပါ|
+|Search...|                                    |ရှာဖွေရန်...|
+|Clear Search History|                         |ရှာဖွေရေး မှတ်တမ်းကို ရှင်းလင်းရန်|
+|TANs are imported into the currently selected group|    |TANs များကို လက်ရှိ ရွေးထားသော အုပ်စုထဲသို့ တင်သွင်းထားသည်|
+|The selected key file already exists|         |ရွေးထားသော ကီးဖိုင် တည်ရှိနေပြီ|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|    |ကီးအသစ် တစ်ခုကို ထုတ်လုပ်ပြီး လက်ရှိ ကီးဖိုင်ကို အစားထိုးပါ။ လက်ရှိ ကီးဖိုင်ထဲ၌ သိမ်းထားသည့် ကီး ပျောက်သွားလိမ့်မည်။|
+|Reuse|                                        |ပြန်သုံးရန်|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|    |လက်ရှိ ကီးဖိုင်ကို ဖွင့်ပြီး လက်ရှိ ဒေတာဘေ့စ်၏ ကီးအဖြင့် သုံးစွဲပါ။ ကီးဖိုင်ကို ပြုပြင်ခြင်း မပြုရပါ။|
+|Cancel|                                       |ဖျက်သိမ်းရန်|
+|Abort specifying a new key for the current database.|    |လက်ရှိ ဒေတာဘေ့စ်အတွက် ကီးအသစ် သတ်မှတ်ခြင်းကို ရပ်ဆိုင်းပါ။|
+|Overwrite existing key file?|                 |လက်ရှိ ကီးဖိုင်ကို ​အစားထိုးမလား?|
+|Save|                                         |သိမ်းဆည်းရန်|
+|&Discard changes|                             |ပြင်ဆင်ချက်များကို စွန့်ရန်(&D)|
+|Save database changes before closing the file?| |ဖိုင်ကို မပိတ်မီ ဒေတာဘေ့စ် အပြောင်းအလဲကို သိမ်းထားမလား?|
+|Save database changes before exiting KeePass?|  |KeePass မှ မထွက်မီ ဒေတာဘေ့စ် အပြောင်းအလဲကို သိမ်းထားမလား?|
+|Save database changes before locking the workspace?| |Workspace ကို သော့မခတ်မီ ဒေတာဘေ့စ် အပြောင်းအလဲကို သိမ်းထားမလား?| 
+|Save all changes made to the database and close the file.|    |အပြောင်းအလဲများကို ဒေတာဘေ့စ်ထဲ သိမ်းထားပြီး ဖိုင်ကို ပိတ်ပါ။|
+|Save all changes made to the database and exit KeePass.|    |အပြောင်းအလဲများကို ဒေတာဘေ့စ်ထဲ သိမ်းထားပြီး KeePass မှ ထွက်ပါ။|
+|Save all changes made to the database and lock the KeePass workspace.|    |အပြောင်းအလဲများကို ဒေတာဘေ့စ်ထဲ သိမ်းထားပြီး KeePass workspace ကို သော့ခတ်ပါ။|
+|Discard all changes made to the database and close the file.|    |ဒေတာဘေ့စ်ထဲရှိ အပြောင်းအလဲများကို စွန့်ပြီး ဖိုင်ကို ပိတ်ပါ။|
+|Discard all changes made to the database and exit KeePass.|    |ဒေတာဘေ့စ်ထဲရှိ အပြောင်းအလဲများကို စွန့်ပြီး KeePass မှ ထွက်ပါ။|
+|Discard all changes made to the database and lock the KeePass workspace.|    |ဒေတာဘေ့စ်ထဲရှိ အပြောင်းအလဲများကို စွန့်ပြီး KeePass workspace ကို သော့ခတ်ပါ။|
+|Abort the current operation.|    |လက်ရှိ လုပ်ဆောင်ချက်ကို စွန့်ပါ။|
+|The KeePass workspace will not be locked.|    |KeePass workspace ကို သော့ခတ်မည် မဟုတ်။|
+|KeePass will not be closed.|    |KeePass ကို ပိတ်ထားမည် မဟုတ်။|
+|The file will not be closed.|    |ဖိုင်ကို ပိတ်ထားမည် မဟုတ်။|
+|The master password must be at least %u characters long!|    |မာစတာ စကားဝှက်၌ အနည်းဆုံး အက္ခရာ %u လုံး ရှိရမည်!|
+|The estimated quality of the master password must be at least %u bits!|    |မာစတာ စကားဝှက်၏ ခန့်မှန်းချေ အ​ရည်​အသွေးသည် အနည်းဆုံး %u bits ရှိရမည်!|
+|Copy [of an item]|    |[အချက် တစ်ခု] ကို ကော်ပီကူးပါ|
+|Focus entry list after a successful quick search (toolbar)|    |(တူးဘား) အမြန် ရှာဖွေမှု တစ်ခု အောင်မြင်စွာ ပြုလုပ်ပြီး ရေးသွင်းမှု စာရင်းကို အာရုဏ်ပြုပါ|
+|Always grant full access through remote control (not recommended)|    |အဝေးထိန်း ခလုတ်မှ တဆင့် ၀င်ရောက်ခွင့် အပြည့် အမြဲပေးထားပါ (အားမပေးပါ)|
+|URL Field: Select Application...|  |URL နေရာကွက် - အ​ပ္ပလီကေးရှင်း ရွေးချယ်ရန်...|
+|URL Field: Select Document...|     |URL နေရာကွက် - မှတ်တမ်းမှတ်ရာ ရွေးချယ်ရန်...|
+|URL Field: Insert Placeholder|     |URL နေရာကွက် - Placeholder ထည့်သွင်းရန်|
+|Auto-Type: Help|                   |အလိုလို-ရေးသားချက် - အကူအညီ|
+|Auto-Type: Customize Sequence|     |အလိုလို-ရေးသားချက် - အစီအစဉ် စိတ်ကြိုက် ဖန်တီးရန်|
+|Auto-Type: Select Target Window...|     |အလိုလို-ရေးသားချက် - ဗဟိုပြုမည့် ၀င်းဒိုး ရွေးချယ်ရန်...|
+|Select the target window for the current entry.|    |လက်ရှိ ရေးသွင်းချက် ပြုလုပ်ရန် ဗဟိုပြုမည့် ၀င်းဒိုး ရွေးချယ်ပါ။|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|    |ဗဟိုပြုမည့် ၀င်းဒိုး သတ်မှတ်ရန်၊ ရွေးချယ် စာရင်းတွဲမှ လက်ရှိ ဖွင့်နေသော ၀င်းဒိုး တစ်ခု ရွေးပါ၊ (သို့) ဝင်းဒိုး ခေါင်းစဉ်ကို ကိုယ်တိုင် ရေးထည့်ပါ -|
+|Default auto-type sequence for standard entries:|    |စံညွှန်း ရေးသွင်းချက်များအတွက် ပုံမှန် အလိုလို-ရေးသားချက် -|
+|Prepend special initialization sequence for Internet Explorer windows|    |Internet Explorer ၀င်းဒိုးအတွက် အထူး အစပြု အစီအစဉ်ကို ထည့်သွင်းရန်|
+|Here you can configure auto-type.|    |ဤနေရာ၌ အလိုလို-ရေးသားချက်ကို ပြုပြင်နိုင်သည်။|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|    |ဗဟိုပြုထားသော ဖိုင်သည် ပျက်စီးသော ​အနေအထား၌ ရှိနေနိုင်သည်။ ထပ်မံ သိမ်းဆည်းကြည့်ပါ၊ မရပါက ဒေတာဘေ့စ်ကို အခြားနေရာ၌ သိမ်းဆည်းပါ။|
+|Drop to background when copying data to the clipboard|    |ဒေတာများကို clipboard ထဲ ကော်ပီကူးစဉ် နောက်ခံ၌ ချထားပါ|
+|Insert Field Reference|            |နေရာကွက် ကိုးကားချက် ထည့်သွင်းရန်|
+|In Title Field|                    |ခေါင်းစဉ် နေရာ|
+|In User Name Field|                |သုံးစွဲသူ အမည် နေရာ|
+|In URL Field|                      |URL နေရာ|
+|In Password Field|                 |စကားဝှက် နေရာ|
+|In Notes Field|                    |မှတ်ချက်များ နေရာ|
+|Field to reference|                |ကိုးကားချက် နေရာ|
+|Identify source entry by|          |အရင်းအမြစ် ရေးသွင်းချက် ခွဲခြားမည့် ပုံစံ|
+|Source field to reference|         |ကိုးကားချက် အရင်းအမြစ် နေရာ|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|    |အရင်းအမြစ် ရေးသွင်းချက်ကို ဖေါ်ပြသော ရွေးချယ်ထားသည့် နေရာကွက်၌ ပုံမှန်မဟုတ် ('{', '}', လိုင်းသစ် အက္ခရာများ ကဲ့သို့သော...) အက္ခရာများ ပါရှိသည်။|
+|Multiple entries match the specified identifying field.|    |ရေးသွင်းချက် မျိုးစုံသည် သတ်မှတ်ထားသော ရှာဖွေရေး နေရာကွက်နှင့် ကိုက်ညီသည်။|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|    |ရှင်းလင်းမှု မရှိခြင်းကို ရှောင်ရှင်းရန်၊ ရေးသွင်းချက်များကို ၄င်းတို့၏ သီးခြား ဖြစ်သော UUIDs ဖြင့် ခွဲခြားနိုင်သည်။|
+|Read-only|                         |ဖတ်ရှုရန် သက်သက်|
+|Normal|                            |သာမန်|
+|Take ownership of the file and open it in normal writing mode.|    |ဖိုင် ပိုင်ဆိုင်မှုကို ရယူပြီး ၄င်းကို ပုံမှန် ရေးသားမှု စနစ်၌ ဖွင့်ပါ။|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.|    |ဖိုင်ကို ဖတ်ရှုရန် သက်သက် စနစ်ဖြင့် ဖွင့်ပါ။ ဒေတာဘေ့စ် အပြောင်းအလဲများကို သီးခြား ဖိုင်တစ်ခု၌ သိမ်းဆည်းနိုင်သည်။|
+|Sort items in the auto-type entry selection dialog|    |အချက်များကို အလိုလို-ရေးသားမှု ရေးသွင်းချက် ရွေးချယ် အညွှန်းထဲ၌ မျိုးတူစုပါ|
+|Clear clipboard when closing/locking the database|    |ဒေတာဘေ့စ်ကို ပိတ်ခြင်း/သော့ခတ်ခြင်း ပြုလုပ်သည့်အခါ clipboard ကို ရှင်းပါ။|
+|Help Source|                       |အကူအညီ အရင်းအမြစ်|
+|Use the following help source when a "Help" button within KeePass is clicked:|    |KeePass အထဲရှိ "အကူအညီ" ခလုတ်ကို နှိပ်သည့်အခါ အောက်ပါ အကူအညီ အ​ရင်းအမြစ်ကို သုံးပါ -|
+|Local help file|                   |စက်သုံး အကူအညီ ဖိုင်|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|    |စက်သုံး အကူအညီဖိုင်သည် ထုတ်ကုန် ဗားရှင်းကို ထုတ်ပြန်သည့်အချိန်၌ ထုတ်ကုန် အသုံးပြုနည်း လက်စွဲ၏ လျှပ်တပြက် ရူမြင်ချက် ဖြစ်သည်။ ၄င်းကို အလိုအလျောက် မွမ်းမံခြင်း မပြုပါ။|
+|Online help center|                |အွန်လိုင်း အကူအညီ ဌာန|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|    |အွန်လိုင်း အကူအညီ ဌာန၌ ထုတ်ကုန် အသုံးပြုနည်း လက်စွဲ၏ နောက်ဆုံး ဗားရှင်း အမြဲ ပါရှိသည်။ အင်တာနက် ဆက်သွယ်မှုလိုင်း လိုအပ်သည်။|
+|This option is disabled, because local help is not installed.|    |ဤရွေးစရာကို ပိတ်ထားသည်၊ အဘယ်ကြောင့် ဆိုသော် စက်သုံး အကူအညီကို ထည့်သွင်းမထားပါ။|
+|Choose between local help and online help center.|    |စက်သုံး အကူအညီနှင့် အွန်လိုင်း အကူအညီ ဌာန တစ်ခုခုကို ရွေးပါ။|
+|Help &Source...|                   |အကူအညီ အရင်းအမြစ်...(&S)|
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)|    |အဆင့်မြင့် မှတ်ဉာဏ် အကာအကွယ်ကို သုံးစွဲပါ (DPAPI, Windows Vista နှင့် အထက်သာ)|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)|    |ကီးကို အသွင်ပြောင်းလဲရန် CNG/BCrypt ကို အသုံးပြုရန် (Windows Vista နှင့် အထက်သာ)|
+|Delete TAN entries immediately after using them|    |TAN ရေးသွင်းချက်များကို သုံးစွဲပြီးသည့်အခါ ချက်ခြင်း ပယ်ဖျက်ရန်|
+|KeePass 1.x cannot open KDBX files.|    |KeePass 1.x သည် KDBX ဖိုင်များကို မဖွင့်နိုင်ပါ။|
+|Use the KeePass 2.x 'Export' feature to migrate this file|    |ဤဖိုင်ကို နေရာပြောင်းရန် KeePass 2.x ၏ 'တင်ပို့ရန်' အင်္ဂါရပ်ကို သုံးရန်|
+|The specified name is reserved.|    |သတ်မှတ်ထားသော နာမည်ကို သီးသန့်ထားသည်။|
+|Please choose a different name.|    |အခြား နာမည် တစ်ခုကို ရွေးပါ။|
+|see the <A HREF="h">help manual</A> for details.|    |အသေးစိတ်ကို <A HREF="h">အကူအညီ လက်စွဲ</A> ၌ လေ့လာပါ။|
+|Use file transactions for writing databases|    |ဒေတာဘေ့စ်များကို ရေးသားရန် ဖိုင် လုပ်ငန်းများကို သုံးပါ|
+|Ctrl| |Ctrl|
+|Remember key sources (key file paths, provider names, ...)|    |ကီး အရင်းအမြစ်များ (ကီးဖိုင် လမ်းကြောင်းများ၊ ပံ့ပိုးသူ အမည်များ၊...) ကို မှတ်သားပါ|
+|Custom database color:| |စိတ်ကြိုက် ဒေတာဘေ့စ် အရောင် -|
+|&Yes| |ဟုတ်ကဲ့(&Y)|
+|&No|  |မဟုတ်ပါ(&N)|
+|Minimize main window after locking the workspace|    |Workspace ကို သော့ခတ်ပြီးသည့်အခါ ပင်မ ၀င်းဒိုးကို ချုံ့ရန်|
+|Ensure same keyboard layouts during auto-type|    |အလိုလို-ရေးသားနေစဉ် အလားတူ ကီးဘုတ် လေးအောက်များကို သုံးရန်|
+|{PARAM} more entries| |{PARAM} အခြား ရေးသွင်းချက်များ|
+|The database is empty||ဒေတာဘေ့စ် လွတ်နေသည်|

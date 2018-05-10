@@ -1,0 +1,692 @@
+﻿|~LANGUAGENAME||Català|
+|~LANGUAGEVERSION||1.35|
+|~LANGUAGEAUTHOR||Albert Morera|
+|~LANGUAGEAUTHOREMAIL||@|
+|- Arcfour crypto routine||- Rutina criptogràfica Arcfour|
+|- Rijndael decryption||- Desxifrat Rijndael|
+|- Rijndael encryption||- Xifrat Rijndael|
+|- SHA 32-bit variables||- SHA 32-bit variables|
+|- SHA 64-bit variables||- SHA 64-bit variables|
+|- SHA-256 test vector(s)||- SHA-256 test vector(s)|
+|- SHA-512 test vector(s)||- SHA-512 test vector(s)|
+|- Twofish algorithm||- Algorisme Twofish|
+|%u of %u selected||%u de %u seleccionats|
+|%u updates are available!||%u actualitzacions disponibles!|
+|&?||&?|
+|&About KeePass...||&Quant al KeePass...|
+|&Accept||&Accepta|
+|&Add Entry...||&Afegeix una entrada...|
+|&Always on Top||&Sempre a la part superior|
+|&Attachment||&Adjunt|
+|&Case sensitive||&Distingeix entre majúscules i minúscules|
+|&Close||&Tanca|
+|&Copy||&Copia|
+|&Creation Time||Data de &creació|
+|&CSV File...||Fitxer &CSV...|
+|&Database Settings...||&Opcions de la base de dades...|
+|&Delete||&Suprimeix|
+|&Delete Entry||&Suprimeix l'entrada|
+|&Delete Group...||&Suprimeix el grup...|
+|&Deny||&Denega|
+|&Disable||&Deshabilita|
+|&Discard changes||&Descarta els canvis|
+|&Donate...||&Feu una donació...|
+|&Edit||&Edita|
+|&Edit/View Entry...||&Edita/Mostra l'entrada...|
+|&Enable||&Habilita|
+|&Expiration Time||Data de &venciment|
+|&Export||&Exporta|
+|&Export Group||&Exporta el grup|
+|&File||&Fitxer|
+|&Find||&Cerca|
+|&Find in Database...||&Cerca a la base de dades...|
+|&Full||&Complet|
+|&Generate||&Genera|
+|&Generate Random Password||&Genera una contrasenya aleatòria|
+|&Get More Import Plugins...||&Aconsegueix més connectors d'importació...|
+|&Group name||Nom del &grup|
+|&Help||&Ajuda|
+|&Help Contents||&Continguts de l'ajuda|
+|&HTML File...||Fitxer &HTML...|
+|&Import||&Importa|
+|&KeePass Database...||Base de dades de &KeePass...|
+|&Last Access Time||Data de l'&últim accés|
+|&Lock Workspace||&Bloqueja l'espai de treball|
+|&Lock/Unlock Workspace||&Bloqueja/Desbloqueja l'espai de treball|
+|&Modify All Selected...||&Modifica tots els seleccionats...|
+|&New...||&Nou...|
+|&No||&No|
+|&Open with KeePass||&Obre amb el KeePass|
+|&Open...||&Obre...|
+|&Options...||&Opcions...|
+|&Password||&Contrasenya|
+|&Paste||&Enganxa|
+|&Plugins...||&Connectors...|
+|&Print...||&Imprimeix...|
+|&PwSafe v2 TXT File...||Fitxer TXT &PwSafe v2...|
+|&Read-Only||&Només lectura|
+|&Rearrange||&Reorganitza|
+|&Remove Association||&Suprimeix l'associació|
+|&Repair Database File...||&Repara el fitxer de base de dades...|
+|&Save||&Desa|
+|&Save Attached File To...||&Desa el fitxer adjunt a...|
+|&Select All||&Selecciona-ho tot|
+|&Sort Group List||&Ordena la llista de grups|
+|&TAN Wizard...||Assistent de &TAN...|
+|&Title||&Títol|
+|&Tools||&Eines|
+|&Tray/Untray||&Minimitza/Maximitza|
+|&TXT File...||Fitxer &TXT...|
+|&Undo||&Desfés|
+|&Unlock Workspace||&Desbloqueja l'espai de treball|
+|&URL||&URL|
+|&Use master password and key file||&Utilitza una contrasenya mestra i un fitxer de clau|
+|&View||&Visualitza|
+|&XML File...||Fitxer &XML...|
+|&Yes||&Sí|
+|(Automatically generated passwords for new entries)||(Contrasenyes generades automàticament per a entrades noves)|
+|(Custom)||(Personalitzat)|
+|(No key file selected)||(Fitxer de clau no seleccionat)|
+|***||***|
+|{PARAM} more entries||{PARAM} entrades més|
+|~LANGISO6391CODE||~LANGISO6391CODE|
+|~LANGUAGEAUTHOR||Albert Morera|
+|~LANGUAGEAUTHOREMAIL||@|
+|~LANGUAGENAME||Català|
+|~LANGUAGEVERSION||1.32|
+|<TAN>||<TAN>|
+|1 Month||1 mes|
+|1 update is available!||1 actualització disponible!|
+|1 Week||1 setmana|
+|1 Year||1 any|
+|2 Weeks||2 setmanes|
+|3 Months||3 mesos|
+|6 Months||6 mesos|
+|A key file already exists on this drive. Do you want to overwrite or reuse it?||Ja hi ha un fitxer de clau en aquesta unitat. Voleu sobreescriure'l o reutilitzar-lo?|
+|Abort specifying a new key for the current database.||Avorta especificant una nova clau per la base de dades actual.|
+|Abort the current operation.||Avorta l'operació actual.|
+|About &Plugin...||Quant al &connector...|
+|About &Translation...||Quant a la &traducció...|
+|About KeePass||Quant al KeePass|
+|Accept this password?||Accepteu aquesta contrasenya?|
+|Acknowledgements||Agraïments|
+|Add &Group...||Afegeix un &grup...|
+|Add Entry||Afegeix una entrada|
+|Add Group||Afegeix un grup|
+|Add Su&bgroup...||Afegeix un su&bgrup...|
+|Advanced||Avançat|
+|Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)||Advanced Encryption Standard (AES) (blocs de 128 bits xifrats amb clau de 256 bits)|
+|Advanced Password Generator Options||Opcions avançades del generador de contrasenyes|
+|All Files||Tots els fitxers|
+|Also include the following characters:||Inclou també els caràcters següents:|
+|Always grant full access through remote control (not recommended)||Concedeix sempre accés complet a través del control remot (no recomanat)|
+|An application requests access through inter-process communication||Una aplicació demana accés a través d'una comunicació entre processos|
+|An entry already exists for the current URL.||Ja hi ha una entrada amb aquest URL.|
+|An error occurred||S'ha produït un error|
+|An error occurred while importing the file. File cannot be imported.||S'ha produït un error en importar el fitxer. No es pot importar el fitxer.|
+|Application||Aplicació|
+|Application cannot be restarted automatically!||L'aplicació no es pot reiniciar automàticament!|
+|Are you sure you want to attempt to repair a database file?||Segur que voleu intentar reparar el fitxer de base de dades?|
+|Are you sure you want to delete all selected entries?||Segur que voleu suprimir totes les entrades seleccionades?|
+|Are you sure you want to delete this group?||Segur que voleu suprimir aquest grup?|
+|Arguments||Arguments|
+|Attachment||Adjunt|
+|Attachment Description||Descripció de l'adjunt|
+|Attachment:||Adjunt:|
+|Author||Traducció|
+|Auto-&Sort Entry List||Llista d'entrades auto-&ordenada|
+|Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.||La comprovació d’actualitzacions s’executa discretament en segon pla. Només es mostra una notificació quan hi ha una actualització disponible. Les actualitzacions no es descarreguen ni s’instal·len automàticament.|
+|Automatically open last used database on startup||En iniciar obre automàticament l'última base de dades|
+|Automatically resize table columns when resizing the main window||Redimensiona automàticament les columnes en redimensionar la finestra principal|
+|Automatically save when closing/locking the database||Desa en tancar/bloquejar la base de dades|
+|Auto-sorting of the entry list is enabled; you cannot move entries manually.||L'auto-ordenació de la llista d'entrades està habilitada; no es poden moure entrades manualment.|
+|Auto-sorting of the entry list is enabled; you cannot sort the list manually now.||L'auto-ordenació de la llista d'entrades està habilitada; no es pot ordenar la llista manualment.|
+|Auto-Type||Auto-tecleig|
+|Auto-Type Entry Selection||Selecció d'entrades amb auto-tecleig|
+|Auto-Type: Customize Sequence||Auto-tecleig: personalitza la seqüència|
+|Auto-Type: Help||Auto-tecleig: Ajuda|
+|Auto-Type: Select Target Window...||Auto-tecleig: Selecciona la  finestra destí...|
+|Available||Disponible|
+|Backup||Còpia de seguretat|
+|bits||bits|
+|Brackets ([, ], {, }, (, ), <, >)||Claudàtors ([, ], {, }, (, ), <, >)|
+|Built-in||Incorporat|
+|By default, new entries expire in the following number of days:||Per defecte, les noves entrades caducaran en el nombre de dies següent:|
+|Calculate rounds for a 1-second delay on this computer||Calcula les iteracions per un retard d'1 segon en aquest ordinador|
+|Cancel||Cancel·la|
+|Cannot access the selected drive.||No es pot accedir a la unitat seleccionada.|
+|Cannot open temporary file for printing!||No es pot obrir el fitxer temporal per imprimir-lo!|
+|Cannot register the global hot key.||No es pot registrar la drecera de teclat global.|
+|ch.||car.|
+|Change &Language...||&Canvia la llengua...|
+|Change &Master Key...||&Canvia la clau &mestra...|
+|Change Composite Master Key||Canvia la clau mestra composta|
+|Change entry icon:||Canvia la icona de l'entrada:|
+|Change expiration time:||Canvia la data de caducitat:|
+|Change fields of all selected entries||Canvia els camps de totes les entrades seleccionades|
+|Change group:||Canvia el grup:|
+|Check For Updates||Comprova si hi ha actualitzacions|
+|Check for Updates||Comprova si hi ha actualitzacions|
+|Check for updates at KeePass startup||Comprova si hi ha actualitzacions en iniciar el KeePass|
+|Choose an icon from the list of available entry and group icons.||Trieu una icona de la llista d'icones disponibles per a entrades i grups.|
+|Choose an icon.||Tria una icona.|
+|Choose between local help and online help center.||Trieu entre l'ajuda local i el centre d'ajuda en línia.|
+|Clear clipboard when closing/locking the database||Neteja el porta-retalls en tancar/bloquejar la base de dades|
+|Clear Search History||Neteja l'historial de cerca|
+|Click [Cancel] to abort changing the key.||Cliqueu [Cancel·la] per avortar el canvi de clau.|
+|Click [No] to open the file in normal writing mode.||Cliqueu [No] per obrir el fitxer en mode d'escriptura normal.|
+|Click [No] to reuse the selected key file for this database.||Cliqueu [No] per reutilitzar el fitxer de clau seleccionat per aquesta base de dades.|
+|Click [No] to set a new key for the exported file.||Cliqueu [No] per establir una clau nova pel fitxer exportat.|
+|Click [Yes] to open the file in read-only mode.||Cliqueu [Sí] per obrir el fitxer en mode de només lectura.|
+|Click [Yes] to overwrite the key file.||Cliqueu [Sí] per sobreescriure el fitxer de clau.|
+|Click [Yes] to use the same key as the currently opened database.||Cliqueu [Sí] per utilitzar la mateixa clau que la de la base de dades oberta actualment.|
+|Click on an entry to auto-type it.||Cliqueu una entrada per teclejar-la automàticament.|
+|Click on an entry to jump to it.||Cliqueu a una entrada per anar-hi.|
+|Click to begin:||Cliqueu per iniciar:|
+|Click to expire the entry in %u days||Cliqueu per fer caducar l'entrada d'aquí a %u dies|
+|Clipboard auto-clear time (seconds):||Neteja automàticament el porta-retalls en (segons):|
+|Clipboard behavior:||Comportament del porta-retalls:|
+|Clipboard cleared.||S'ha netejat el porta-retalls.|
+|Close button [X] minimizes the main window instead of terminating the application||El botó de tancar [X] minimitza la finestra principal en lloc de sortir del programa|
+|Code&Wallet TXT File...||Fitxer TXT Code&Wallet...|
+|Collect additional &entropy||Afegeix &entropia addicional|
+|Command line argument||Argument de la línia de comandes|
+|Component||Component|
+|Connect failed, cannot check for updates.||La connexió ha fallat, no s'ha pogut comprovar si hi ha actualitzacions.|
+|Contact||Contacte|
+|Copy &All||Copia-ho &tot|
+|Copy &Password||Copia la &contrasenya|
+|Copy &URL to Clipboard||Copia l’&URL al porta-retalls|
+|Copy [of an item]||Còpia [d'un element]|
+|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)||Copia els URL al porta-retalls en lloc de llançar-los (a excepció de les URL: cmd://)|
+|Copy User &Name||Copia el &nom d'usuari|
+|Create &Association||Crea &associació|
+|Create a new password entry.||Crea una nova entrada de contrasenya|
+|Create a new password group.||Crea un nou grup de contrasenyes.|
+|Create new IDs||Crea nous identificadors ID|
+|Create New Password Database||Crea una nova base de dades de contrasenyes|
+|Creation Time||Data de creació|
+|CSV Files||Fitxers CSV|
+|Ctrl||Ctrl|
+|Cu&t||&Retalla|
+|Current settings||Configuració actual|
+|Currently used language||Llengua actual|
+|Custom database color:||Color personalitzat de la base de dades:|
+|Database files cannot be used as key files.||Els fitxers de base de dades no es poden emprar com a fitxers de clau.|
+|Database is already specified||Ja s'ha especificat la base de dades|
+|Database Settings||Configuració de la base de dades|
+|Database Summary||Resum de la base de dades|
+|Default||Per defecte|
+|Default auto-type sequence for standard entries:||Seqüència d’auto-tecleig per entrades estàndard:|
+|Default user name for new entries:||Nom d'usuari per defecte per a noves entrades:|
+|Delete &attachments||Suprimeix els &adjunts|
+|Delete all backup entries before saving the database||Suprimeix totes les entrades de còpia de seguretat  abans de desar la base de dades|
+|Delete currently selected profile.||Suprimeix el perfil seleccionat.|
+|Delete Entries Confirmation||Confirmació d'eliminació d'entrades|
+|Delete Group Confirmation||Confirmació d'eliminació de grups|
+|Delete TAN entries immediately after using them||Suprimeix les entrades TAN just després d'emprar-les|
+|Deleting a group will delete all items and subgroups in that group, too.||En suprimir un grup també se suprimiran les seves entrades i els seus subgrups.|
+|Digits (0, 1, 2, ...)||Dígits (1, 2, 3, ...)|
+|Disable 'Save' button if the database hasn't been modified||Deshabilita el botó 'Desa' si no s'ha modificat la base de dades|
+|Disable unsafe (security-critical) operations like exports, etc.||Deshabilita operacions no segures com ara les exportacions, etc.|
+|Discard all changes made to the database and close the file.||Descarta tots els canvis fets a la base de dades i tanca el fitxer.|
+|Discard all changes made to the database and exit KeePass.|| Descarta tots els canvis fets a la base de dades i surt del KeePass.|
+|Discard all changes made to the database and lock the KeePass workspace.||Descarta tots els canvis fets a la base de dades i bloqueja l’espai de treball del KeePass.|
+|Display images on buttons||Mostra imatges en els botons|
+|Do you grant the application access to your KeePass database?||Voleu donar permís al programari per accedir a la base de dades de KeePass?|
+|Do you want to open the application directory (in order to move or delete language files)?||Voleu obrir la carpeta del programari (per tal de moure o esborrar fitxers de llengua)?|
+|Do you want to overwrite it?||Voleu sobreescriure’l?|
+|Do you want to overwrite the current attachment?||Voleu sobreescriure l'adjunt actual?|
+|Do you want to save the changes before closing?||Voleu desar els canvis abans de tancar?|
+|Do you wish to restart KeePass now?||Voleu reiniciar el KeePass ara?|
+|Drop to background when copying data to the clipboard||Mou-ho al fons en copiar dades al porta-retalls|
+|Dupli&cate Entry||Dupli&ca l'entrada|
+|E&xit||S&urt|
+|Each character must occur at most once||Cada caràcter ha d’aparèixer com a mínim un cop|
+|Ed&it Group...||Ed&ita el grup...|
+|Edit Entry||Edita l'entrada|
+|Edit Group||Edita el grup|
+|EITHER enter a master password OR select a key file.||Entreu una contrasenya mestra o bé seleccioneu un fitxer de clau.|
+|eMail||Correu electrònic|
+|Enable automatic update check?||Habilitar la comprovació d’actualitzacions automàtica?|
+|Enable auto-type features||Habilita les característiques d’auto-tecleig|
+|Enable remote control (allow applications to communicate with KeePass)||Habilita el control remot (permet que les aplicacions es comuniquin amb el KeePass)|
+|Enabled, loaded||Habilitat, carregat|
+|Encode/replace newline characters by '\n'||Codifica/reemplaça els caràcters de salt de línia amb '\n'|
+|Encryption algorithm to use (for this database):||Algorisme de xifrat a utilitzar (per aquesta base de dades):|
+|Encryption/decryption error||Error de xifrat/desxifrat|
+|Enhanced: allow pasting only once and protect against clipboard spies||Millorat: permet enganxar només un cop i protegeix el porta-retalls d'espies.|
+|Ensure same keyboard layouts during auto-type||Garanteix la mateixa distribució de teclat durant l’auto-tecleig|
+|Enter a group name!||Entreu un nom de grup!|
+|Enter Composite Master Key||Entreu la Clau Mestra Composta|
+|Enter Password:||Entreu la contrasenya:|
+|Enter the composite master key.||Entreu la clau mestra composta.|
+|Enter the new composite master key.||Entreu la nova clau mestra composta.|
+|Entry||Entrada|
+|Entry List||Llista d’entrades|
+|Error code||Codi d'error|
+|Every second row has a different background color. Use this color:||Color de fons diferent  per a les segones files. Utilitza aquest color:|
+|Exclude &expired entries||Exclou les &entrades caducades|
+|Exclude entries in the '&Backup' group||Exclou les entrades del grup '&Backup'|
+|Exclude look-alike characters||Exclou caràcters similars|
+|Exclude the following characters:||Exclou els caràcters següents:|
+|Exit program instead of locking the workspace after the specified time||Surt del programa en lloc de bloquejar-lo després del temps especificat|
+|Exit?||Voleu sortir?|
+|Expired Entries||Entrades caducades|
+|Expires||Caducitat|
+|Expires:||Caduca el:|
+|Export backup entries (entries in the 'Backup' group)||Exporta les entrades de la còpia de seguretat (les del grup 'Backup')|
+|Export Options||Opcions d'exportació|
+|Failed to attach file:||No es pot adjuntar el fitxer:|
+|Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.||Error en canviar l'associació del fitxers .kdb. Assegureu-vos que teniu permisos d'escriptura al registre i per canviar les associacions de fitxers.|
+|Failed to create backup of this entry!||Error en crear la còpia de seguretat d'aquesta entrada!|
+|Failed to save the configuration.||No s'ha pogut desar la configuració.|
+|Failed to set the master key!||No s'ha pogut establir la clau mestra!|
+|Field copied to clipboard.||S’ha copiat el camp al porta-retalls.|
+|Field copied to clipboard. Clipboard will be cleared in %d seconds.||S'ha copiat el camp al porta-retalls. El porta-retalls es netejarà en %d segons.|
+|Field has been pasted.||S'ha enganxat el camp.|
+|Field to reference||Camp a referenciar|
+|Fields to export||Camps a exportar|
+|Fields to print||Camps a imprimir|
+|Fields to remember||Camps a recordar|
+|File||Fitxer|
+|File access error: failed to open file in read mode||Error d'accés al fitxer: no s'ha pogut obrir el fitxer en mode de lectura|
+|File access error: failed to open file in write mode||Error d'accés al fitxer: no s'ha pogut obrir el fitxer en mode d'escriptura|
+|File cannot be opened!||No es pot obrir el fitxer!|
+|File cannot be saved!||No es pot desar el fitxer!|
+|File error: error while reading from the file||Error de fitxer: s'ha produït un error en llegir el fitxer|
+|File error: error while writing to the file||Error de fitxer: s'ha produït un error en escriure al fitxer|
+|Filename not found||No s'ha trobat el nom de fitxer|
+|Files||Fitxers|
+|Find||Cerca|
+|Find a string in the entry list.||Cerca un text en la llista d’entrades|
+|Find in t&his Group...||Cerca en aquest &grup...|
+|Find what:||Cerca:|
+|Focus entry list after a successful quick search||Enfoca la llista d’entrades després d’un cerca ràpida amb èxit|
+|General||General|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.||Genera una nova clau i sobreescriu el fitxer de clau existent. Es perdrà la clau que hi ha ara emmagatzemada en el fitxer de clau.|
+|Generate a random password...||Genera una contrasenya aleatòria...|
+|Generate using character set:||Genera emprant un conjunt de caràcters:|
+|Generate using pattern:||Genera emprant un patró:|
+|Generated password||S’ha generat la contrasenya|
+|Get More &Languages...||Aconsegueix més &llengües...|
+|Get more plugins...||Obté més connectors...|
+|Get Random||Obté aleatorietat|
+|Get Random Data for Key Generation||Obté dades aleatòries per a la generació de claus|
+|Global auto-type hot key combination:||Combinació de la drecera de teclat per a l’auto-tecleig global:|
+|Group||Grup|
+|Group name:||Nom del grup:|
+|Group Tree||Arbre de grups|
+|Group:||Grup:|
+|Help &Source...||Ori&gen de l'ajuda...|
+|Help Source||Origen de l'ajuda|
+|Help:||Ajuda:|
+|Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):||Aquí podeu associar els fitxers .kdb amb el KeePass (els obrirà en fer-hi doble clic):|
+|Here you can change the user interface language.||Aquí podeu canviar la llengua de la interfície d'usuari.|
+|Here you can configure all installed KeePass plugins.||Aquí podeu configurar els connectors instal·lats del KeePass.|
+|Here you can configure auto-type.||Aquí podeu configurar l’auto-tecleig.|
+|Here you can configure KeePass.||Aquí podeu configurar el KeePass.|
+|Here you can configure the current database.||Aquí podeu configurar la base de dades actual.|
+|Here you can customize the exported files.||Aquí podeu personalitzar l'exportació de fitxers.|
+|Here you can customize the printed sheet.||Aquí podeu personalitzar els paràmetres d'impressió.|
+|Here you can generate a random password.||Aquí podeu generar una contrasenya aleatòria.|
+|Hide &Passwords Behind Asterisks (***)||Amaga les &contrasenyes amb asteriscs (***)|
+|Hide &User Names Behind Asterisks (***)||Amaga el nom d'&usuari amb asteriscs (***)|
+|Hide passwords behind asterisks (***).||Amaga les &contrasenyes amb asteriscs (***).|
+|High ANSI characters||Caràcters ANSI alts|
+|Hint: It is best to use both mouse and keyboard random sources.||Consell: el millor és utilitzar tant el ratolí com el teclat com a fonts d'aleatorietat.|
+|Homebanking||Banca electrònica|
+|Icon||Icona|
+|Icon:||Icona:|
+|Identify source entry by||Identifica l'entrada d'origen per|
+|If you exit now, all changes to the current database will be lost.||Si sortiu ara, es perdran tots els canvis realitzats a la base de dades actual.|
+|If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.||Si noteu algun problema amb el mètode millorat, torneu al mètode d'esborrament programat del porta-retalls.|
+|If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.||Si seleccioneu aquesta opció, el KeePass crearà nous ID per a tots els grups i entrades. En conseqüència, no es modificaran ni sobreescriuran els grups i les entrades existents de la base de dades oberta actualment.|
+|ignored||ignorat|
+|Immediately after opening a database||Immediatament després d'obrir una base de dades|
+|Imported from Password Safe||Importat de Password Safe|
+|in "Minimal functionality" mode||en mode "Funcionalitat mínima"|
+|In Notes Field||En el camp de Notes|
+|In Password Field||En el camp de Contrasenya|
+|In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.||En mode reparació, no es comprova la integritat de les dades (per tal de rescatar tantes dades com sigui possible). Quan no es fan comprovacions de la seva integritat, es poden incorporar dades malmeses/malicioses a la base de dades.|
+|In Title Field||En el camp de Títol|
+|In URL Field||En el camp d'URL|
+|In User Name Field||En el camp de Nom d'usuari|
+|Include backup entries in quick searches||Inclou les entades de la còpia de seguretat en les cerques ràpides|
+|Include expired entries in quick searches||Inclou les entades caducades en les cerques ràpides|
+|Incoming IPC Request||Petició d'entrada IPC|
+|Insert Field Reference||Insereix la referència del camp|
+|Installed||Instal·lat|
+|Installed Languages||Llengües instal·lades|
+|Integration||Integració|
+|Interface (GUI)||Interfície (GUI)|
+|Internal error||Error intern|
+|Internet||Internet|
+|Invalid parameter||Paràmetre invàlid|
+|Invalid random source||Font d'aleatorietat invàlida|
+|Invalid/corrupted file structure||Estructura del fitxer invàlida/corrupta|
+|Invalid/wrong key||Clau invàlida/equivocada|
+|It contains an unmatched quote||Conté cometes no tancades|
+|Just hack some random keys into the edit box above.||Premeu aleatòriament diverses tecles a la caixa de text de dalt.|
+|KeePass - Save Before Close/Lock?||KeePass – Desa abans de tancar/bloquejar?|
+|KeePass &Website||&Web del KeePass|
+|KeePass 1.x cannot open KDBX files.||KeePass 1.x no pot obrir fitxers KDBX.|
+|KeePass can automatically check for updates on each program start.||El KeePass pot comprovar automàticament, en obrir-lo,  si hi ha actualitzacions.|
+|KeePass Initialization||Inicialització del KeePass|
+|KeePass is OSI Certified Open Source Software.||KeePass és programari de codi obert certificat per l'OSI.|
+|KeePass Password Database||Base de dades de contrasenyes de KeePass|
+|KeePass Password Safe Files||Fitxers de KeePass Password Safe|
+|KeePass Website||Web del KeePass|
+|KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.||KeePass compararà les dates de l'última modificació de grups/entrades i reemplaçarà els existents només si els que s'importen són més recents.|
+|KeePass will not be closed.||No es tancarà el KeePass.|
+|KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.||KeePass reemplaçarà tots els grups i les entrades amb els del fitxer importat si tenen el mateix identificador.|
+|Key File||Fitxer de clau|
+|'Keyfile' or 'preselect' option is already specified||Ja s'ha especificat l'opció «fitxer clau» o «pre-seleccionat»|
+|Language file cannot be activated!||No es pot activar el fitxer de llengua!|
+|Language file cannot be opened!||No es pot obrir el fitxer de llengua!|
+|Last &Modification Time||Hora de l'&última modificació|
+|Last Access||Últim accés|
+|Last Modification||Última modificació|
+|Length of generated password:||Longitud de la contrasenya generada:|
+|Limit to single instance||Limita a una única instància|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.||Carrega el fitxer de clau existent i empra'l com a clau de la base de dades actual. No es modificarà el fitxer de clau.|
+|Loading error||Error en carregar|
+|Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.||No es permet la carrega de fitxers de llengua directament de la carpeta del programari. Els fitxers de llengua s'han de desar a la subcarpeta 'Languages' de la carpeta del programari.  |
+|Local help file||Fitxer d'ajuda local|
+|Lock workspace after the following idle time (seconds):||Bloqueja l’espai de treball després del temps d'inactivitat següent (segons):|
+|Lock workspace when locking Windows, switching user or sleeping||Bloqueja l'espai de treball quan es bloquegi Windows, es canviï d'usuari o es suspengui l'ordinador|
+|Lock workspace when minimizing the main window||Bloqueja l'espai de treball quan es minimitzi la finestra principal|
+|Locked||Bloquejat|
+|Lower-case (a, b, c, ...)||Minúscules (a, b, c, ...)|
+|Make sure a writable medium is inserted.||Assegureu-vos que hi ha connectat un mitjà d’escriptura.|
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).||Assegureu-vos que la unitat que conté el fitxer de clau està connectada i que KeePass té permisos per accedir-hi (comproveu els permisos del fitxer, assegureu-vos que no hi ha un altre programa que bloquegi el fitxer, etc.).|
+|Mark database as modified on last access time change||Marca la base de dades com a modificada amb el canvi de l’hora del darrer accés.|
+|Mass Modify||Modifica massivament|
+|Master Password:||Contrasenya mestra:|
+|Maybe it's read-only or the storage media has been removed.||Potser és de només lectura o la unitat s'ha desconnectat.|
+|Memory||Memòria|
+|Minimize main window after locking the workspace||Minimitza la finestra principal després de bloquejar l’espai de treball|
+|Minimize to tray instead of taskbar||Minimitza a la safata en lloc de la barra de tasques|
+|Minus (-)||Menys (-)|
+|Mo&ve Entry One Down||Mo&u l'entrada avall|
+|Modify existing password entry.||Modifica entrada de contrasenya existent.|
+|Modify existing password group.||Modifica grup de contrasenyes existent.|
+|More Colors...||Més colors...|
+|Most probably another application has reserved this hot key already.||Segurament un altra aplicació ja ha reservat aquesta combinació.|
+|Most probably someone has changed the file while you were editing it.||Probablement algú ha modificat el fitxer mentre l'estàveu editant.|
+|Move Entry &One Up||Mou l'entrada am&unt|
+|Move Entry to &Bottom||Mou l'entrada a &baix|
+|Move Entry to &Top||Mou a &dalt l'entrada|
+|Move Group &One Down||Mou el grup a&vall|
+|Move Group One &Left||Mou el grup cap a l'&esquerra|
+|Move Group One &Right||Mou el grup cap a la &dreta|
+|Move Group One &Up||Mou el grup am&unt|
+|Move Group to &Bottom||Mou el grup a &baix|
+|Move Group to &Top||Mou el grup a &dalt|
+|Move the mouse and type some random text to generate random values.||Moveu el ratolí i teclegeu text aleatòriament per generar valors aleatoris.|
+|Move the mouse in the field above until this is full:||Moveu el ratolí en el camp de dalt fins que això estigui ple:|
+|Multiple entries exist for the current window. Please select the entry to auto-type.||Hi ha diverses entrades per a la finestra actual. Si us plau, escolliu l'entrada que s'ha de teclejar automàticament.|
+|Multiple entries match the specified identifying field.||Diverses entrades s'ajusten al camp identificador especificat.|
+|N&o Auto-Sort||N&o ordenis automàticament|
+|N&otes||N&otes|
+|Network||Xarxa|
+|Never expires||No caduca mai|
+|New version available.||Nova versió disponible|
+|Newline sequence:||Seqüència de salt de línia:|
+|No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.||No s’envia informació personal al servidor web de KeePass. Tan sols es descarrega un petit fitxer amb informació de la versió i es compara la versió disponible amb la instal·lada.|
+|No random input||Sense entrada aleatòria|
+|No updates available.||No hi ha noves actualitzacions|
+|Normal||Normal|
+|Not enough free disk space!||No hi ha prou espai de disc disponible!|
+|Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).||Tingueu en compte que el nom de l’aplicació ha estat aportat per l’aplicació que fa la petició i podria ser incorrecte (un programari maliciós podria intentar accedir a la vostra base de dades).|
+|Notes||Notes|
+|Notes:||Notes:|
+|Now||Ara|
+|Number of key encryption rounds:||Nombre de vegades que es xifra la clau:|
+|Number of selected entries (number of entries in the list)||Nombre d'entrades seleccionades (nombre d'entrades a la llista)|
+|Number the TANs consecutively, starting from this value||Enumereu els TAN consecutivament, començant pel valor|
+|OK||D’acord|
+|One or more language files have been found in the KeePass application directory.||S'ha trobat un o més fitxers de llengua a la carpeta del programari KeePass.|
+|Online help center||Centre d'ajuda en línia|
+|Open &Folder||Obre &Carpeta|
+|Open &Help File||&Obre el fitxer d'ajuda|
+|Open &License File||Obre el fitxer amb la &llicència|
+|Open &URL(s)||Obre l’&URL(s)|
+|Open Database||Obre base de dades|
+|Open file and set as attachment...||Obre el fitxer i adjunta'l...|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.||Obre el fitxer en mode de només lectura. Els canvis a la base de dades es poden desar en un altre fitxer.|
+|Open the file in read-only mode?||Obre el fitxer en mode de només lectura?|
+|Option not recognized||Opció no reconeguda|
+|Options||Opcions|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.||Les opcions/regles marcades amb un asterisc redueixen la seguretat de les contrasenyes que es generen. Habiliteu-los només si us veieu obligats a seguir aquestes regles per un lloc Web, un programari o una política de contrasenyes.|
+|Out of memory||Sense memòria|
+|Overwrite||Sobreescriu|
+|Overwrite existing key file?||Sobreescriu el fitxer de clau existent|
+|Overwrite if newer||Sobreescriu si és més recent|
+|Overwrite?||Sobreescriure?|
+|Password||Contrasenya|
+|Password &Generator...||&Generador de contrasenyes...|
+|Password and repeated password aren't identical!||Les contrasenyes que heu introduït no coincideixen!|
+|Password Generator||Generador de contrasenyes|
+|Password is empty||La contrasenya és buida|
+|Password:||Contrasenya:|
+|Paste operation completed.||Enganxament finalitzat.|
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.||Enganxeu els TAN a la casella d'edició de sota. Tots els caràcters que no s'especifiquen explícitament com a TAN es tracten com a separadors i només les subcadenes de caràcters TAN s'afegeixen com a entrades TAN.|
+|Path is invalid||El camí no és vàlid|
+|Perform Auto-&Type||Executa un Auto-&Tecleig|
+|Personal &Vault TXT File...||Fitxer TXT de Personal &Vault...|
+|Pick an Icon||Escolliu una icona|
+|Please choose a different name.||Escolliu un nom diferent.|
+|Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.||Si us plau, trieu si KeePass hauria d'emprar la clau de la base de dades oberta o n'hauria de crear una de nova per xifrar el fitxer exportat.|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:||Entreu un nom pel nou perfil del generador de contrasenyes o seleccioneu un perfil existent per a sobreescriure'l:|
+|Please restart KeePass manually.||Reinicieu el KeePass manualment.|
+|Plugin||Connector|
+|Plugin unknown.||Connector desconegut.|
+|Plugins||Connectors|
+|Pr&int Group...||&Imprimeix el grup...|
+|Prepend special initialization sequence for Internet Explorer windows||Introdueix una seqüència d'inicialització prèvia per les finestres d'Internet Explorer|
+|Pre-release version.||Versió preliminar.|
+|Press Shift+Home or Shift+End to clear this edit control||Premeu Majúscules+Inici o Majúscules+Fi per esborrar aquest control d’edició|
+|Print backup entries (entries in the 'Backup' group)||Imprimeix les entrades de la còpia de seguretat (grup «Backup»)|
+|Print Options||Opcions d'impressió|
+|Print Pre&view...||&Visualització prèvia...|
+|Profile||Perfil|
+|Provider||Proveïdor|
+|'Pw' option is already specified||Ja s'ha especificat l'opció «Pw»|
+|Quality:||Qualitat:|
+|Quick search (toolbar)||Cerca ràpida (barra d’eines)|
+|Random keyboard input||Entrada aleatòria des del teclat|
+|Random mouse input||Entrada aleatòria des del ratolí|
+|Randomly permute characters of password||Permuta aleatòriament els caràcters de la contrasenya|
+|Read-only||Només lectura|
+|Ready.||Preparat.|
+|Reason||Motiu|
+|recommended||recomanat|
+|Register Ctrl+Alt+K hot key (brings the KeePass window to front)||Registra la drecera Ctrl-Alt-K (porta la finestra del KeePass al primer pla)|
+|Regular expression||Expressió regular|
+|Remember key sources (key file paths, provider names, ...)||Recorda les fonts de claus (camins de fitxers de clau, proveïdor de noms, etc.)|
+|Remember last opened file||Recorda l'últim fitxer obert|
+|Remove the currently attached file||Suprimeix el fitxer adjunt actual|
+|Repeat Master Password||Repetiu la Contrasenya Mestra|
+|Repeat the master password for the new database.||Repetiu la contrasenya mestra per la nova base de dades.|
+|Repeat the new master password for this database.||Repetiu la nova contrasenya mestra per aquesta BBDD.|
+|Repeat:||Repetiu-la:|
+|Restart KeePass?||Reinicia el Keepass?|
+|Reuse||Reutilitza|
+|Reuse the current key/password?||Reutilitza la clau/contrasenya actual?|
+|Save||Desa|
+|Save &As...||Desa com &a...|
+|Save all changes made to the database and close the file.||Desa tots els canvis fets a la base de dades i tanca el fitxer.|
+|Save all changes made to the database and exit KeePass.||Desa tots els canvis fets a la base de dades i surt del KeePass.|
+|Save all changes made to the database and lock the KeePass workspace.||Desa tots els canvis fets a la base de dades i bloqueja l’espai de treball.|
+|Save as Profile||Desa com a perfil|
+|Save attached file to disk...||Desa l'adjunt al disc...|
+|Save backups of modified entries into the 'Backup' group||Desa còpies de seguretat de les entrades modificades al grup «Backup»|
+|Save current settings as a profile.||Desa la configuració actual com a perfil.|
+|Save current settings as password generator profile.||Desa la configuració actual com a perfil del generador de contrasenyes.|
+|Save database changes before closing the file?||Desa els canvis a la base de dades abans de tancar el fitxer?|
+|Save database changes before exiting KeePass?||Desa els canvis a la base de dades abans de sortir del KeePass?|
+|Save database changes before locking the workspace?||Desa els canvis a la base de dades abans de bloquejar l'espai de treball?|
+|Save key file manually to...||Desa el fitxer de clau manualment a...|
+|Save the database now in order to get the new key applied.||Deseu ara la base de dades per a que la nova clau tingui efecte.|
+|Saving database...||Desant la base de dades...|
+|Se&lect All||Se&lecciona-ho tot|
+|Search in||Cerca a|
+|Search Results||Resultats de la cerca|
+|Search...||Cerca...|
+|Security||Seguretat|
+|see the <A HREF="h">help manual</A> for details.||Vegeu el <A HREF="h">manual d'ajuda</A> per més detalls.|
+|Select &Font||Tipus de &lletra|
+|Select &Notes Font||Tipus de lletra de &Notes|
+|Select &Password Font||Tipus de lletra de &Contrasenyes|
+|Select a new font for the list controls:||Seleccioneu un tipus de lletra pels controls:|
+|Select at least one of the options in the list above!||Seleccioneu almenys una de les opcions de la llista de dalt!|
+|Select key file manually...||Seleccioneu el fitxer de clau manualment...|
+|Select Language||Seleccioneu la llengua|
+|Select the fields KeePass should remember||Seleccioneu els camps que el KeePass hauria de recordar|
+|Select the target window for the current entry.||Selecciona la finestra de destí per a l'entrada actual.|
+|Self-Test(s) Failed||Prova(es) fallida(es)|
+|Set Composite Master Key||Establiu la clau mestra composta|
+|Settings||Opcions|
+|Setup||Configuració|
+|Show &Columns||Mostra les &columnes|
+|Show &Entry View||Mostra la vista amb les &entrades|
+|Show &Expired Entries||Mostra les &entrades caducades|
+|Show &Toolbar||Mostra la &barra d'eines|
+|Show entries that will expire soon (if any)||Mostra les entrades que caduquen aviat (si n'hi ha)|
+|Show expired entries (if any)||Mostra les entrades caducades (si n'hi ha)|
+|Show full path in the title bar (instead of file name only)||Mostra el camí complet a la barra del títol (en lloc de només el nom del fitxer)|
+|Show grid lines in the entry list||Mostra les línies de la graella en la llista d’entrades|
+|Show TAN &Indices in Entry Titles||Mostra els &índexs TAN en el títol de les entrades|
+|Show tray icon only if main window has been sent to tray||Mostra la icona a la safata del sistema només si s’hi ha enviat la finestra principal|
+|Single left click instead of double-click for default tray icon action||Un clic esquerre en lloc d'un doble-clic a la icona de la safata per a l’acció per defecte|
+|So, the more the better. The different, the better.||Així doncs, com més tecles i més diverses millor.|
+|Sort items in the auto-type entry selection dialog||Ordena els elements en el diàleg de selecció d'entrades de l’auto-tecleig|
+|Sort List by &Creation Time||Ordena la llista per &Data de creació|
+|Sort List by &Expiration Time||Ordena la llista per la Data de &venciment|
+|Sort List by &Password||Ordena la llista per la &Contrasenya|
+|Sort List by &Title||Ordena la llista pel &Títol|
+|Sort List by &URL||Ordena la llista per l’&URL|
+|Sort List by Last &Access Time||Ordena la llista per la Data i hora de l’últim &accés|
+|Sort List by Last &Modify Time||Ordena la llista per la Data i hora de l’última &modificació|
+|Sort List by Note&s||Ordena la llista per les Note&s|
+|Sort List by User &Name||Ordena la llista pel Nom d'&Usuari|
+|Source field to reference||Camp d'origen a referenciar|
+|Space ( )||Espai ( )|
+|Special||Especial|
+|Specify the composite master key.||Indiqueu la clau mestra composta.|
+|Start and exit||Inicia i surt|
+|Start KeePass at Windows startup (for current user)||Inicia el KeePass en iniciar el Windows (per a l'usuari actual)|
+|Start minimized and locked||Inicia minimitzat i bloquejat|
+|Status||Estat|
+|Stop||Atura|
+|Success||Correcte|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.||S'ha associat l'extensió KDB al KeePass. Un doble clic sobre un fitxer KDB obrirà l'aplicació automàticament.|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.||S'ha suprimit l’associació correctament. El KeePass no s'iniciarà quan es faci doble clic en un fitxer KDB.|
+|Take ownership of the file and open it in normal writing mode.||Pren la propietat del fitxer i obre'l en mode d'escriptura normal.|
+|TAN View &Options||&Opcions de visualització dels TAN|
+|TAN Wizard||Assistent TAN|
+|TANs are imported into the currently selected group||Els TAN s'importen al grup seleccionat actualment|
+|TANs consist of the following characters:||El TAN es composta dels següents caràcters:|
+|Text Files||Fitxers de text|
+|The attachment is too large||El fitxer adjunt és massa gran|
+|The composite master key has been changed!||S'ha canviat la clau mestra composta!|
+|The current database file has been modified||S’ha modificat el fitxer de la base de dades actual|
+|The database file has been modified!||S’ha modificat el fitxer de la base de dades!|
+|The database is empty||La base de dades està buida|
+|The estimated quality of the master password must be at least %u bits!||La qualitat estimada de la contrasenya mestra ha de ser d'almenys %u bits!|
+|The file couldn't be saved.||No s'ha pogut desar el fitxer.|
+|The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.||El format de fitxer que heu seleccionat per importar té suport per a identificadors de grup i/o d’entrada. Escolliu un criteri d’importació.|
+|The file will not be closed.||No es tancarà el fitxer.|
+|The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.||El fitxer que voleu obrir està bloquejat, per exemple algú ha obert el fitxer i l'està editant.|
+|The following application requests access to your currently opened KeePass database:||Les següents peticions d’aplicació accedeixen a la base de dades de KeePass oberta:|
+|The following self-tests failed:||Han fallat les proves següents:|
+|The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.||La contrasenya generada conté un codi de camp. Quan s’utilitzi aquesta contrasenya (e.g. copiant-la al porta-retalls o amb auto-tecleig), es reemplaçarà el codi de camp, i.e. es podrà emprar una contrasenya diferent.|
+|The group you selected cannot store entries. Please select a different group.||El grup que heu seleccionat no pot emmagatzemar entrades. Seleccioneu un altre grup.|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?||El fitxer d'ajuda conté informació detallada sobre el format d'entrada. Voleu obrir el fitxer d'ajuda?|
+|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.||Com més alt sigui aquest nombre, més durs han de ser els atacs amb diccionari; però també s’alenteix més en carregar i desar la base de dades.|
+|The KeePass workspace will not be locked.||No es bloquejarà l’espai de treball del KeePass.|
+|The key provider plugin did not supply a valid key||El connector del proveïdor de claus no ha proporcionat una clau vàlida|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.||El fitxer d'ajuda local és una instantània de la documentació en el moment què es va publicar aquesta versió. No s'actualitza automàticament.|
+|The master password must be at least %u characters long!||La contrasenya mestra ha de ser almenys de %u caràcters de longitud!|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.||El centre d'ajuda en línia sempre conté l'última versió de la documentació del producte. És necessària una connexió a Internet.|
+|The password must consist of at least one character!||La contrasenya ha de tenir almenys un caràcter!|
+|The program is distributed under the terms of the GNU General Public License v2 or later.||Aquest programari es distribueix a l’empara de la GNU General Public License v2 o posterior.|
+|The program will exit now.||El programa ara sortirà.|
+|The random the better.||Com més aleatori millor.|
+|The regular expression is invalid.||L’expressió regular no és vàlida.|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).||El camp seleccionat, que identifica el camp d'origen, conté caràcters no permesos (com ara '{', '}', salts de línia, etc.).|
+|The selected key file already exists||El fitxer de clau seleccionat ja existeix|
+|The selected language has been activated. KeePass must be restarted in order to load the language.||S'ha activat el fitxer de llengua. Heu de reiniciar el KeePass per emprar la nova llengua.|
+|The specified name is reserved.||El nom especificat està reservat.|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.||El fitxer destí indicat pot ser que estigui malmès. Proveu-ho de nou, i si no funciona, deseu la base de dades en un altre lloc.|
+|There already is a file attached with this entry.||Ja hi ha un fitxer adjunt en aquesta entrada.|
+|There are too few characters in the character set to build up a password matching the specified rules||No hi ha prou caràcters en el conjunt de caràcters per generar una contrasenya d’acord amb les regles especificades|
+|There is no file attached with this entry.||No hi ha cap fitxer adjunt en aquesta entrada.|
+|This is a list of all expired entries||Llista de totes les entrades caducades|
+|This option is disabled, because local help is not installed.||Aquesta opció està deshabilitada perquè no està instal·lada l'ajuda local.|
+|This will remove all selected entries unrecoverably!||Això suprimirà definitivament totes les entrades seleccionades!|
+|Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.||Per tant, la funcionalitat de reparació sols s’hauria d’emprar quan realment no hi ha una altra solució. Si l’utilitzeu, tot seguit hauríeu de comprovar exhaustivament tota la base de dades per si hi ha dades malmeses/malicioses.|
+|Timed: copy data to the clipboard and clear it automatically after some seconds||Programat: copia les dades al porta-retalls i el neteja automàticament passats uns segons|
+|Title||Títol|
+|Title:||Títol:|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.||Per evitar ambigüitats, les entrades es poden identificar pels seus UUID, els quals són únics.|
+|To execute this operation you must enable unsafe operations in the options dialog.||Per executar aquesta operació heu d'habilitar les operacions no segures al diàleg d'opcions.|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:||Per especificar una finestra de destí, seleccioneu una finestra ja oberta de la llista desplegable, o bé entreu el títol de la finestra manualment:|
+|Total number of groups / entries||Nombre total de grups i entrades|
+|Total: %u groups / %u entries||Total: %u grups / %u entrades|
+|Translation Information||Informació sobre la traducció|
+|Tray icon||Icona a la safata del sistema|
+|Twofish (128-bit block cipher using 256-bit key)||Twofish (blocs de 128 bits xifrats amb clau de 256 bits)|
+|Type to search the database||Tecleja per cercar a la base de dades|
+|Unable to create/remove the auto-start key of KeePass in the Windows registry!||No s’ha pogut crear/suprimir la clau d'auto-inici del KeePass en el registre del Windows!|
+|Underline (_)||Guió baix (_)|
+|Unix newline sequence (\n)||Seqüència de salt de línia de Unix (\n)|
+|Unknown||Desconegut|
+|Unknown error||Error desconegut|
+|Unsafe operations are disabled.||Les operacions no segures estan deshabilitades.|
+|Up to date.||Versió actualitzada.|
+|Upper-case (A, B, C, ...)||Majúscules (A, B, C, ...)|
+|URL||URL|
+|URL Field: Help||Camp URL: Ajuda|
+|URL Field: Insert Placeholder||Camp URL: Insereix un codi de camp|
+|URL Field: Select Application...||Camp URL: Selecciona una aplicació...|
+|URL Field: Select Document...||Camp URL: Selecciona un document...|
+|URL:||URL:|
+|Use &Mouse as Random Source||Utilitza el &ratolí com a font d'aleatorietat|
+|Use &Simple List View for TAN-Only Groups||Utilitza la vista de llista &simple pels grups només TAN|
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)||Utilitza la protecció de memòria avançada (DPAPI, només Windows Vista i superiors)|
+|Use alternative auto-type method (minimize window)||Utilitza un mètode alternatiu d’auto-tecleig (minimitza la finestra)|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)||Utilitza CNC/BCrypt per les transformacions de la clau (només Windows Vista i superiors)|
+|Use file transactions for writing databases||Utilitza transaccions d'arxiu per escriure en les bases de dades|
+|Use local date/time format instead of ISO notation||Utilitza el format local de data/hora en lloc de la notació ISO|
+|Use more secure password edit controls||Utilitza controls d'edició de contrasenyes més segurs|
+|Use PuTTY for ssh: and telnet: URLs||Utilitza PuTTY pels URL del tipus ssh: i telnet:|
+|Use the following help source when a "Help" button within KeePass is clicked:||En clicar un botó d'ajuda del KeePass, utilitzeu l’origen de l'ajuda següent:|
+|Use the KeePass 2.x 'Export' feature to migrate this file||Utilitza la funció «Exporta» del KeePass 2.x per a migrar aquest fitxer|
+|User &Name||&Nom d'usuari|
+|User &name||&Nom d'usuari|
+|User Name||Nom d'usuari|
+|User name:||Nom d'usuari:|
+|Using this wizard you can easily add TAN entries.||Utilitzant aquest assistent podreu afegir entrades TAN fàcilment.|
+|UU&ID||UU&ID|
+|UUID||UUID|
+|Value||Valor|
+|Version||Versió|
+|Waiting for paste command.||Esperant una comanda d'enganxament.|
+|Warning||Advertiment|
+|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.||Atenció! És possible que aquesta opció no funcioni correctament en el vostre sistema, especialment si empreu alguna eina de millora o d’eines del porta-retalls.|
+|Windows||Windows|
+|Windows newline sequence (\r\n)||Seqüència de salt de línia de Windows  (\r\n)|
+|Workspace is locked.||Àrea de treball bloquejada.|
+|Workspace locked||Espai de treball bloquejat|
+|Would you like to exit anyway?||Voleu sortir igualment?|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.||Podeu escollir una altra combinació de tecles a «Eines» - «Opcions» - «Avançat» - «Teclejat automàtic».|
+|You don't have to remember the keys you type in. They are used to generate a random value.||No cal recordar les tecles que heu premut. S'utilitzen per generar un valor aleatori.|
+|You have changed an option that requires restarting KeePass to get active.||Heu canviat una opció que requereix reiniciar el KeePass per a tenir efecte.|
+|You have the latest version.||Teniu l'última versió disponible.|
+|You must generate some random values using the random mouse input box or the edit field before you can close this dialog.||Abans de tancar aquesta finestra de diàleg, heu de generar valors aleatoris emprant el ratolí a la casella o bé amb el teclat en el camp d'edició.|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||La vostra clau es xifra diverses vegades per construir la clau final de xifratge de la vostra base de dades. Això afegeix un factor que fa que els atacs per endevinació o diccionari hagin de ser més durs.|
+|You've selected the AND key mode, so you must enter a password AND select a key file.||Heu seleccionat utilitzar contrasenya i fitxer, per tant heu d'introduir una contrasenya i un fitxer de clau.|
+
+

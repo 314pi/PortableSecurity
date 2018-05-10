@@ -1,0 +1,1339 @@
+﻿|~LANGUAGENAME|
+|Ελληνικά|
+|~LANGUAGEVERSION|
+|1.25|
+|~LANGUAGEAUTHOR|
+|Βραδέλης Στέργιος|
+|~LANGUAGEAUTHOREMAIL|
+|svradelis@mycosmos.gr|
+|&OK|
+|&OK|
+|&Cancel|
+|&Ακύρωση|
+|&Generate Random Password|
+|&Δημιουργία τυχαίου κωδικού|
+|Choose an icon.|
+|Επιλέξτε ένα εικονίδιο.|
+|General|
+|Γενικά|
+|Windows|
+|Windows|
+|Network|
+|Δίκτυο|
+|Internet|
+|Διαδίκτυο|
+|eMail|
+|eMail|
+|Homebanking|
+|Homebanking|
+|Entry|
+|Εγγραφή|
+|&Title|
+|&Τίτλος|
+|User &Name|
+|Όνομα χρήστη|
+|&URL|
+|&Διαδικτυακή Διεύθυνση|
+|&Password|
+|&Κωδικός|
+|N&otes|
+|&Σημειώσεις|
+|&Case sensitive|
+|&Προσοχή στα Μεγάλα-/Μικρά γράμματα|
+|Search in|
+|Αναζήτηση σε|
+|Find what:|
+|Εύρεση τίνος:|
+|Find|
+|Εύρεση|
+|&Find|
+|&Εύρεση|
+|Find a string in the password list.|
+|Εύρεση μιας συμβολοσειράς στην λίστα κωδικών|
+|About KeePass...|
+|Πληροφορίες για το KeePass...|
+|Password Groups|
+|Ομάδες κωδικών|
+|Title|
+|Τίτλος|
+|User Name|
+|Όνομα χρήστη|
+|User Name|
+|Όνομα χρήστη|
+|URL|
+|Διαδικτυακή Διεύθυνση|
+|Password|
+|Κωδικός|
+|Notes|
+|Σημειώσεις|
+|Ready.|
+|Έτοιμο.|
+|Enter Password:|
+|Εισάγετε κωδικό:|
+|Master Password:|
+|Κύριος κωδικός:|
+|Create New Password Database|
+|Δημιουργήστε νέα βάση δεδομένων κωδικών|
+|Set Composite Master Key|
+|Ρυθμίστε Σύνθετο Κύριο Κλειδί|
+|Specify the composite master key.|
+|Καταδείξτε το σύνθετο κύριο κλειδί.|
+|Repeat Master Password|
+|Επαναλάβετε κύριο κωδικό|
+|Repeat the master password for the new database.|
+|Επαναλάβετε τον κύριο κωδικό για την νέα βάση δεδομένων.|
+|Open database|
+|Άνοιγμα βάσης δεδομένων|
+|Enter Composite Master Key|
+|Εισάγετε σύνθετο κύριο κλειδί|
+|Enter the composite master key.|
+|Εισάγετε το σύνθετο κύριο κλειδί.|
+|(No key file selected)|
+|(Δεν επιλέχθηκε αρχείο κλειδιού)|
+|Key File|
+|Αρχείο Κλειδιού|
+|Password &Generator...|
+|Γεννήτρια κωδικών...|
+|Here you can generate a random password.|
+|Εδώ μπορείτε να δημιουργήσετε τυχαίο κωδικό.|
+|Options|
+|Επιλογές|
+|Current settings|
+|Τρέχουσες ρυθμίσεις|
+|Collect additional &entropy|
+|&Συλλογή επιπλέον εντροπίας|
+|Generated password:|
+|Δημιουργημένος κωδικός:|
+|&Generate|
+|&Δημιούργησε|
+|&Accept|
+|&Αποδοχή|
+|Upper-case (A, B, C, ...)|
+|Κεφαλαίοι αλφαβητικοί χαρακτήρες (Α, Β, Γ, ...)|
+|Lower-case (a, b, c, ...)|
+|Μικροί αλφαβητικοί χαρακτήρες (α, β, γ, ...)|
+|Digits (0,1, 2, ...)|
+|Αριθμοί (1, 2, 3, ...)|
+|Underline (_)|
+|Υπογραμμισμένοι χαρακτήρες '_'|
+|Minus '-'|
+|Μείον '-'|
+|Space ( )|
+|Διάστημα ( )|
+|Special|
+|Ειδικοί χαρακτήρες|
+|High ANSI characters|
+|Υψηλοί ANSI-χαρακτηρες|
+|Brackets ([, ], {, }, (, ), <, >)|
+|Παρενθέσεις ([, ], {, }, (, ), <, >)|
+|Group:|
+|Ομάδα:|
+|Title:|
+|Τίτλος:|
+|User name:|
+|Όνομα χρήστη:|
+|URL:|
+|Διαδικτυακή Διεύθυνση:|
+|Icon:|
+|Εικονίδιο:|
+|Password:|
+|Κωδικός:|
+|Repeat:|
+|Επαναλάβατε:|
+|Notes:|
+|Σημειώσεις:|
+|***|
+|***|
+|Add Entry|
+|Προσθήκη Εγγραφής|
+|Create a new password entry|
+|Δημιουργία νέας εγγραφής κωδικού|
+|Edit Entry|
+|Επεξεργασία Εγγραφής|
+|Modify existing password entry.|
+|Τροποποίηση υπάρχουσας εγγραφής κωδικού|
+|Group Name:|
+|Όνομα ομάδας:|
+|Add Group|
+|Προσθήκη ομάδας|
+|Add a new password group|
+|Προσθήκη νέας ομάδας κωδικών|
+|Edit Group|
+|Επεξεργασία Ομάδας|
+|Modify existing password group.|
+|Τροποποίηση υπάρχουσας ομάδας κωδικών.|
+|Random mouse input|
+|Τυχαία εισαγωγή με ποντίκι|
+|Click to begin:|
+|Πατήστε για εκκίνηση:|
+|Use &Mouse As Random Source|
+|Χρήση &Ποντικιού σαν τυχαία πηγή|
+|Move the mouse in the field above until this is full:|
+|Κινήστε το ποντίκι μέσα στο πεδίο μέχρι να γεμίσει:|
+|Hint: It is best to use both mouse and keyboard random sources.|
+|Βοήθημα:Είναι καλύτερα να χρησιμοποιήσετε και πληκτρολόγιο και ποντίκι σαν τυχαίες πηγές.|
+|Random keyboard input|
+|Τυχαία εισαγωγή με πληκτρολόγιο|
+|Just hack some random keys into the edit box above.|
+|Απλά πληκτρολογήστε μερικά τυχαία σύμβολα στο πεδίο κειμένου.|
+|You don't have to remember the keys you type in. They are used to generate a random value.|
+|Δεν χρειάζεται να θυμάστε αυτά τα σύμβολα. Χρησιμοποιούνται για να δημιουργήσουν μια τυχαία τιμή.|
+|So, the more the better. The different, the better.|
+|Οπότε, όσο περισσότερα τόσο καλύτερα. Όσο πιο διαφορετικά τόσο καλύτερα|
+|The random the better.|
+|Όσο πιο τυχαία τόσο καλύτερα.|
+|Get Random|
+|Δημιουργία τυχαίων τιμών|
+|Get random data for key generation|
+|Τυχαία δεδομένα για δημιουργία κλειδιών|
+|Move the mouse and type some random text to generate random values.|
+|Κινήστε το ποντίκι και πληκτρολογήστε τυχαίο κείμενο για να δημιουργηθούν τυχαίες τιμές.|
+|Pick an icon|
+|Επιλέξτε ένα εικονίδιο|
+|Pick an icon from the list and click OK to set it.|
+|Επιλέξτε ένα εικονίδιο από την λίστα και πατήστε OK.|
+|&File|
+|&Αρχείο|
+|&Edit|
+|&Επεξεργασία|
+|&View|
+|&Προβολή|
+|&?|
+|&;|
+|&New...|
+|&Νέο...|
+|&Open...|
+|&Άνοιγμα...|
+|&Close|
+|Κλείσιμο|
+|&Save|
+|&Αποθήκευση|
+|Save &As...|
+|Αποθήκευση &ως...|
+|Change &Master Key...|
+|Αλλαγή &κύριου κλειδιού...|
+|&Print...|
+|&Εκτύπωση...|
+|&Export To|
+|&Εξαγωγή Σε|
+|&Lock Workspace|
+|&Κλείδωμα επιφάνειας εργασίας|
+|&Unlock Workspace|
+|&Ξεκλείδωμα επιφάνειας εργασίας|
+|E&xit|
+|&Έξοδος|
+|&Lock/Unlock Workspace|
+|&Κλείδωμα/Ξεκλείδωμα επιφάνειας εργασίας|
+|&Options...|
+|&Επιλογές...|
+|Add &Group...|
+|Προσθήκη &ομάδας...|
+|Add Su&bgroup...|
+|Προσθήκη &υποομάδας...|
+|Ed&it Group...|
+|Επεξεργασία ομάδας...|
+|&Delete Group...|
+|&Διαγραφή κωδικών...|
+|Pr&int Group...|
+|Εκτύπωση ομάδας...|
+|Copy User &Name|
+|Αντιγραφή ονόματος &χρήστη|
+|Copy &Password|
+|Αντιγραφή &κωδικού|
+|Open &URL(s)|
+|Άνοιγμα διαδικτυακής διεύθυνσης|
+|&Find in Database...|
+|Εύρεση στη βάση δεδομένων...|
+|Find in t&his Group...|
+|Εύρεση σε αυτή την ομάδα...|
+|&Add Entry...|
+|Προσθήκη Εγγραφής...|
+|&Edit/View Entry...|
+|Επεξεργασία/Προβολή Εγγραφής...|
+|&Delete Entry|
+|Διαγραφή Εγγραφής|
+|Dupli&cate Entry|
+|Διπλότυπη Εγγραφή|
+|Move Entry To &Top|
+|Μετακίνηση Εγγραφής στην αρχή|
+|Move Entry &One Up|
+|Μετακίνηση Εγγραφής μια σειρά πάνω|
+|Mo&ve Entry One Down|
+|Μετακίνηση Εγγραφής μια σειρά κάτω|
+|Move Entry To &Bottom|
+|Μετακίνηση Εγγραφής στο τέλος|
+|Move Group To &Top|
+|Μετακίνηση ομάδας στην αρχή|
+|Move Group One &Up|
+|Μετακίνηση ομάδας μια σειρά πάνω|
+|Move Group &One Down|
+|Μετακίνηση ομάδας μια σειρά κάτω|
+|Move Group To &Bottom|
+|Μετακίνηση ομάδας στο τέλος|
+|Change &Language...|
+|&Αλλαγή γλώσσας...|
+|&Always on Top|
+|Στο &προσκήνιο|
+|Hide &Passwords Behind Asterisks (***)|
+|Απόκρυψη κωδικών με αστερίσκους(***)|
+|Hide passwords behind asterisks (***).|
+|Απόκρυψη κωδικών με αστερίσκους(***).|
+|Password &Generator|
+|Γεννήτρια κωδικών|
+|KeePass &Website|
+|&Iστοσελίδα KeePass|
+|&About KeePass...|
+|Πληροφορίες για το KeePass...|
+|&Database Settings...|
+|&Ρυθμίσεις βάσης δεδομένων...|
+|&Tray/Untray|
+|Ελαχιστοποίηση/Μεγιστοποίηση στο Tray|
+|Version |
+|Έκδοση|
+|Password and repeated password aren't identical!|
+|Ο κωδικός και ο επαναληπτικός κωδικός δεν είναι ίδιοι!|
+|Stop|
+|Στοπ|
+|Enter a group name!|
+|Εισάγετε ένα όνομα  ομάδας!|
+|You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
+|Πρέπει να δημιουργήσετε τυχαίες τιμές χρησιμοποιώντας το  ποντίκι ή το πεδίο κειμένου πριν κλείσετε αυτόν τον διάλογο.|
+|No random input|
+|Καμιά τυχαία εισαγωγή|
+|EITHER enter a password/passphrase OR select a key disk drive.|
+|ΕΙΤΕ εισάγετε έναν κωδικό Ή διαλέξτε τον οδηγό δισκέτας του κλειδιού.|
+|The password must consist of at least one character!|
+|Ο κωδικός πρέπει να περιέχει τουλάχιστον έναν χαρακτήρα!|
+|Select at least one of the options in the list above!|
+|Διαλέξτε τουλάχιστον μια επιλογή από την παραπάνω λίστα!|
+|The following self-tests failed:|
+|Οι ακόλουθες δοκιμές απέτυχαν:|
+|- SHA 32-bit variables|
+|- SHA 32-bit μεταβλητές|
+|- SHA 64-bit variables|
+|- SHA 64-bit μεταβλητές|
+|- SHA-256 test vector(s)|
+|- SHA-256 δοκιμαστικά ανύσματα|
+|- SHA-512 test vector(s)|
+|- SHA-512 δοκιμαστικά ανύσματα|
+|- Rijndael encryption|
+|- Κρυπτογράφηση Rijndael|
+|- Rijndael decryption|
+|- Αποκρυπτογράφηση Rijndael|
+|- Arcfour crypto routine|
+|- Arcfour ρουτίνα κρυπτογράφησης|
+|- Twofish algorithm|
+|- Αλγόριθμος Twofish-|
+|The program will exit now.|
+|Το πρόγραμμα θα κλείσει τώρα.|
+|Self-Test(s) Failed|
+|Οι δοκιμές απέτυχαν|
+|Clipboard cleared.|
+|Το σημειωματάριο καθαρίστηκε.|
+|Field copied to clipboard. Clipboard will be cleared in %d seconds.|
+|Πεδία αντιγράφηκαν στο σημειωματάριο. Το σημειωματάριο θα καθαριστεί σε %d δευτερόλεπτα.|
+|Failed to set the master key!|
+|Το κύριο κλειδί δεν δημιουργήθηκε!|
+|File cannot be opened!|
+|Το αρχείο δεν μπορεί να ανοιχθεί!|
+|File cannot be saved!|
+|Το αρχείο δεν μπορεί να αποθηκευθεί!|
+|KeePass Password Safe Files|
+|KeePass Χρηματοκιβώτιο Κωδικών|
+|All Files|
+|Alle Dateien|
+|The current database file has been modified|
+|Η τρέχουσα βάση δεδομένων έχει τροποποιηθεί|
+|Do you want to save the changes before closing?|
+|Να αποθηκευθεί το αρχείο πριν το κλείσιμο;|
+|KeePass - Save Before Close/Lock?|
+|KeePass - Αποθήκευση πριν το κλείσιμο/κλείδωμα;|
+|Deleting a group will delete all items and subgroups in that group, too.|
+|Αν διαγράψετε μια ομάδα θα διαγραφούν και όλα τα αντικείμενά της,επίσης.|
+|Are you sure you want to delete this group?|
+|Είστε σίγουρος ότι θέλετε να διαγραφεί αυτή η ομάδα;|
+|Delete Group Confirmation|
+|Επιβεβαίωση Διαγραφής Ομάδας|
+|Cannot open temporary file for printing!|
+|Δεν μπορεί να ανοιχθεί το προσωρινό αρχείο για εκτύπωση!|
+|Load language file|
+|Φόρτωση αρχείου γλώσσας|
+|Load a language file|
+|Φόρτωση ενός αρχείου γλώσσας|
+|Select one of the languages in the list below.|
+|Διαλέξτε μια γλώσσα από την παρακάτω λίστα.|
+|Available Languages|
+|Διαθέσιμες Γλώσσες|
+|&Help|
+|&Βοήθεια|
+|&Help Contents|
+|&Περιεχόμενα Βοήθειας|
+|Open &Help File|
+|&Άνοιγμα Αρχείου Βοηθείας|
+|Open &License File|
+|&Άνοιγμα Αρχείου Αδείας|
+|Newline sequence:|
+|Καινούργια σειρά:|
+|Windows newline sequence (\r\n)|
+|Windows σειρά (\r\n)|
+|Unix newline sequence (\n)|
+|Unix σειρά (\n)|
+|Clipboard auto-clear time (seconds):|
+|Αυτόματος καθαρισμός σημειωματάριου (δευτερόλεπτα):|
+|Settings|
+|Ρυθμίσεις|
+|Here you can configure KeePass.|
+|Εδώ μπορείτε να παραμετροποίησετε το KeePass.|
+|Automatically open last used database on startup|
+|Αυτόματο άνοιγμα στην έναρξη της τελευταίας χρησιμοποιημένης βάσης δεδομένων|
+|Automatically save when closing/locking the database|
+|Αυτόματη αποθήκευση στο κλείσιμο/κλείδωμα της βάσης δεδομένων|
+|Display images on buttons|
+|Εμφάνιση εικονιδίων στα κουμπιά|
+|Show grid lines in password entry list|
+|Εμφάνιση πλέγματος στην λίστα εγγραφών κωδικών|
+|Workspace is locked.|
+|Η επιφάνεια εργασίας είναι κλειδωμένη.|
+|Workspace locked|
+|Κλειδωμένη επιφάνεια εργασίας|
+|Loading error|
+|Λάθος φόρτωσης|
+|Language file cannot be opened!|
+|Το αρχείο γλώσσας  δεν μπορεί να ανοιχθεί!|
+|Language file cannot be registered!|
+|Το αρχείο γλώσσας δεν μπορεί να καταχωρηθεί!|
+|The language file has been installed.|
+|Το αρχείο γλώσσας εγκαταστάθηκε.|
+|You must restart KeePass in order to use the new language.|
+|Το KeePass πρέπει να επανεκκινηθεί, για να χρησιμοποιήσετε  την νέα γλώσσα.|
+|Do you wish to restart KeePass now?|
+|Να επανεκκινηθεί το KeePass τώρα;|
+|Restart KeePass?|
+|Επανεκκίνηση του KeePass;|
+|Application cannot be restarted automatically!|
+|Η εφαρμογή δεν μπορεί να επανεκκινηθεί αυτόματα!|
+|Please restart KeePass manually.|
+|Παρακαλώ επανεκκινήστε το KeePass χειροκίνητα.|
+|CSV files|
+|CSV-αρχεία|
+|Text files|
+|Αρχεία Κειμένου|
+|An error occured while importing the file. File cannot be imported.|
+|Εμφανίστηκε ένα λάθος κατά την εισαγωγή του αρχείου. Το αρχείο δεν μπορεί να εισαχθεί.|
+|&PwSafe v2 TXT File...|
+|&PwSafe v2 TXT-αρχείο...|
+|Select &Font|
+|Επιλέξτε &Γραμματοσειρά|
+|Select &Notes Font|
+|Επιλέξτε Γραμματοσειρά &Σημειώσεων|
+|Select a new font for the list controls:|
+|Επιλέξτε μια γραμματοσειρά για τα κουμπιά ελέγχου της λίστας:|
+|Code&Wallet TXT File...|
+|Code&Wallet TXT-αρχείο...|
+|&TXT File...|
+|&TXT-αρχείο...|
+|&HTML File...|
+|&HTML-αρχείο...|
+|&XML File...|
+|&XML-αρχείο...|
+|&CSV File...|
+|&CSV-αρχείο...|
+|&Import From|
+|&Εισαγωγή από|
+|&Get more languages...|
+|Αναζητήστε περισσότερες γλώσσες...|
+|Start and exit|
+|Εκκίνηση και Έξοδος|
+|Interface (GUI)|
+|Διεπαφή (GUI)|
+|Files|
+|Αρχεία|
+|Memory|
+|Μνήμη|
+|Lock workspace when minimizing the main window|
+|Κλείδωμα της επιφάνειας εργασίας όταν ελαχιστοποιείτε το κύριο παράθυρο|
+|Minimize to tray instead of taskbar|
+|Ελαχιστοποίηση στο Tray αντί στην μπάρα έναρξης|
+|Encryption algorithm to use (for this database):|
+|Χρήση αλγόριθμου κρυπτογράφησης (για αυτή τη βάση δεδομένων):|
+|Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
+|Advanced Encryption Standard (AES) (128-bit Block-Cipher με 256-bit-κωδικοποιηση)|
+|Twofish (128-bit block cipher using 256-bit key)|
+|Twofish (128-bit Block-Cipher με 256-bit-κωδικοποιηση)|
+|Security|
+|Ασφάλεια|
+|KeePass is OSI Certified Open Source Software.|
+|Το KeePass ειναι εφαρμογή Ανοικτού Λογισμικού πιστοποιημένη κατά OSI .|
+|Lock workspace after the following idle time(seconds):|
+|Αυτόματο κλείδωμα της επιφάνειας εργασίας μετά από συγκεκριμένα δευτερόλεπτα :|
+|&Group Name|
+|&Όνομα ομάδας|
+|Every second row has a different background color. Use this color:|
+|Κάθε δεύτερη γραμμή έχει άλλο χρώμα του φόντου. Χρήση αυτού του χρώματος:|
+|Default|
+|Προεπιλογή|
+|More Colors...|
+|Περισσότερα χρώματα...|
+|Search results|
+|Αποτελέσματα αναζήτησης|
+|Creation Time|
+|Χρόνος δημιουργίας|
+|Last Modification|
+|Τελευταία Τροποποίηση|
+|Last Access|
+|Τελευταία πρόσβαση|
+|Expires|
+|Λήγει|
+|UUID|
+|UUID|
+|&Creation Time|
+|Χρόνος &Δημιουργίας|
+|Last &Modification Time|
+|Χρόνος Τελευταίας &Τροποποίησης|
+|&Last Access Time|
+|Χρόνος Τελευταίας &Πρόσβασης|
+|&Expiration Time|
+|Χρόνος &Λήξης|
+|UU&ID|
+|UU&ID|
+|Show &Toolbar|
+|&Εμφάνιση Γραμμής Εργαλείων|
+|KeePass Website|
+|Ιστοσελίδα KeePass|
+|Field copied to clipboard.|
+|Το πεδίο αντιγράφτηκε στο σημειωματάριο.|
+|A key-file already exists on this drive. Do you want to overwrite or reuse it?|
+|Υπάρχει ήδη ένα κλειδί στον οδηγό δίσκου. Θέλετε να επαναχρησιμοποιηθεί ή να επανεγγραφεί;|
+|Click [Yes] to overwrite the key-file.|
+|Πατήστε [Ναι], για να επανεγγραφεί το κλειδί.|
+|Click [No] to reuse the selected key-file for this database.|
+|Πατήστε [Όχι], για να επαναχρησιμοποιηθεί το επιλεγμένο κλειδί για αυτήν τη βάση δεδομένων.|
+|Click [Cancel] to abort changing the key.|
+|Πατήστε [Ακύρωση], για απόρριψη της αλλαγής του κλειδιού.|
+|Overwrite?|
+|Επανεγγραφή;|
+|Expires:|
+|Λήγει:|
+|&Modify All Selected...|
+|&Μαζική τροποποίηση επιλεγμένων...|
+|Change group:|
+|Αλλαγή ομάδας:|
+|Change entry icon:|
+|Αλλαγή εικονιδίου εγγραφής:|
+|Change expiration time:|
+|Αλλαγή ημερομηνίας λήξης:|
+|Mass Modify|
+|Μαζική Τροποποίηση|
+|Change fields of all selected entries|
+|Αλλαγή πεδίων όλων των επιλεγμένων εγγραφών|
+|Show &Columns|
+|Εμφάνιση &Στηλών|
+|Show &Entry View|
+|Εμφάνιση &Προβολή Εγγραφών|
+|Automatically resize table columns when resizing the main window|
+|Αυτόματη αλλαγή μεγέθους των στηλών πίνακα αν αλλαχθεί το μέγεθος του κύριου παραθύρου|
+|&Copy|
+|&Αντιγραφή|
+|Copy &All|
+|Αντιγραφή &όλων|
+|&Undo|
+|&Αναίρεση|
+|&Paste|
+|Επι&κόλληση|
+|Cu&t|
+|Α&ποκοπή|
+|&Select All|
+|Επιλογή &Όλων|
+|&Delete|
+|&Διαγραφή|
+|&TAN Wizard...|
+|&TAN-βοηθος...|
+|TAN Wizard|
+|TAN-βοηθος|
+|Using this wizard you can easily add TAN entries.|
+|Με αυτό τον βοηθό μπορείτε εύκολα να προσθέσετε εγγραφές TAN.|
+|Paste your TANs into the edit box below. Formatting doesn't really matter, all non-alphanumerical characters are ignored (i.e. newlines, tabs, spaces, etc...) and only alphanumerical 'substrings' are added as TAN entries.|
+|Απλά επικολλήστε τα TAN στο παρακάτω πεδίο κειμενου. Η διαμόρφωση δεν είναι σημαντική,όλα τα μη-αλφαριθμητικά σύμβολα θα αγνοηθούν ( πχ. νέα γραμμή, Tab, Κενά, κτλ.) και μόνο αλφαριθμητικά σύμβολα προστίθενται σαν TAN-εγγραφές.|
+|TANs consist of the following characters:|
+|Τα TANs αποτελούνται από τους ακόλουθους χαρακτήρες:|
+|<TAN>|
+|<TAN>|
+|Print Pre&view...|
+|Εκτύπωση Προ&επισκόπηση...|
+|About &Translation...|
+|Πληροφορίες για την μετάφραση...|
+|Translation information|
+|Πληροφορίες μετάφρασης|
+|Currently Used Language|
+|Τρέχουσα Χρησιμοποιούμενη Γλώσσα|
+|Language File Version|
+|Έκδοση αρχείου γλώσσας|
+|Author|
+|Συντάκτης|
+|Translation Author Contact|
+|Επικοινωνία με τον συντάκτη μετάφρασης|
+|&Rearrange|
+|&Ανακατάταξη|
+|&Sort Group List|
+|Ταξινόμηση της λίστας ομάδων|
+|Sort List by &Title|
+|Ταξινόμηση λίστας κατά Τίτλο|
+|Sort List by User &Name|
+|Ταξινόμηση λίστας κατά  Όνομα &Χρήστη|
+|Sort List by &URL|
+|Ταξινόμηση λίστας κατά &Διαδικτυακή Διεύθυνση|
+|Sort List by &Password|
+|Ταξινόμηση λίστας κατά &Κωδικό|
+|Sort List by Note&s|
+|Ταξινόμηση λίστας κατά Σημει&ώσεις|
+|Sort List by &Creation Time|
+|Ταξινόμηση λίστας κατά &Χρόνο Δημιουργίας|
+|Sort List by Last &Modify Time|
+|Ταξινόμηση λίστας κατά Χρόνο Τελευταίας &Τροποποίησης|
+|Sort List by Last &Access Time|
+|Ταξινόμηση λιστας κατα Χρόνο Τελευταίας &Πρόσβασης|
+|Sort List by &Expiration Time|
+|Ταξινόμηση λίστας κατά  Χρόνο &Λήξης|
+|Move Group One &Left|
+|Μετακίνηση Ομάδας ένα προς τα αριστερά|
+|Move Group One &Right|
+|Μετακίνηση Ομαδας  ενα προς τα δεξιά|
+|Hide &User Names Behind Asterisks (***)|
+|&Απόκρυψη Ονόματος Χρήστη με αστερίσκους (***)|
+|Attachment:|
+|Συνημμένο:|
+|Attachment|
+|Συνημμένο|
+|Attachment Description|
+|Συνημμένο (Περιγραφή)|
+|&Attachment|
+|&Συνημμένο|
+|Generate a random password...|
+|Δημιουργία τυχαίου κωδικού...|
+|Open file and set as attachment...|
+|Άνοιγμα αρχείου και επισύναψη...|
+|Save attached file to disk...|
+|Αποθήκευση συνημμένου στον δίσκο..|
+|There already is a file attached with this entry.|
+|Υπάρχει ήδη ένα συνημμένο με αυτήν την εγγραφή.|
+|Do you want to overwrite the current attachment?|
+|Να επανεγγραφεί το τρέχον συνημμένο;|
+|&Save Attached File To...|
+|Αποθήκευση συνημμένου αρχείου σε...|
+|There is no file attached with this entry.|
+|Δεν υπάρχει κανένα συνημμένο σε αυτήν την εγγραφή.|
+|Remove the currently attached file|
+|Απομάκρυνση του τρέχοντος συνημμένου αρχείου|
+|Close button [X] minimizes the main window instead of terminating the application|
+|Το κουμπί-κλεισίματος [X] ελαχιστοποιεί το κύριο παράθυρο αντί να τερματίσει την εφαρμογή|
+|KeePass Password Database|
+|KeePass Βάση δεδομένων Κωδικών|
+|&Open with KeePass|
+|Άνοιγμα με το KeePass|
+|Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
+|Εδώ μπορείτε να συσχετίσετε το KeePass με αρχεία .kdb (Τότε το KeePass ανοίγει το αρχείο με διπλό πάτημα του ποντικιού):|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
+|Το KeePass συσχετίστηκε  επιτυχημένα με αρχεία .kdb! Με διπλό πάτημα σε αρχεία .kdb θα εκκινεί αυτόματα το KeePass!|
+|Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!|
+|Η συσχέτιση διαγράφηκε επιτυχώς! Το KeePass δεν θα εκκινεί με διπλό πάτημα σε αρχεία .kdb!|
+|Create &Association|
+|&Δημιουργία Συσχέτισης|
+|&Remove Association|
+|Διαγραφή Συσχέτισης|
+|Setup|
+|Παραμετροποίηση|
+|Password List|
+|Λίστα κωδικών|
+|Exit?|
+|Έξοδος;|
+|The file couldn't be saved.|
+|Το αρχείο δεν μπόρεσε να αποθηκευθεί.|
+|Maybe it's read-only or the storage media has been removed.|
+|Ίσως είναι μόνο για ανάγνωση ή το αποθηκευτικό μέσο έχει απομακρυνθεί.|
+|If you exit now, all changes to the current database will be lost.|
+|Αν γίνει τερματισμός τώρα , όλες οι αλλαγές στην τρέχουσα βάση δεδομένων θα χαθούν.|
+|Would you like to exit anyway?|
+|Τερματισμός ούτως ή άλλως;|
+|Cannot access the selected drive.|
+|Δεν υπάρχει πρόσβαση στον επιλεγμένο οδηγό δίσκου.|
+|Make sure a writable medium is inserted.|
+|Επιβεβαιώστε ότι έχει εισαχθεί εγγράψιμο μέσο.|
+|Not enough free disk space!|
+|Δεν υπάρχει αρκετός χώρος στον δίσκο|
+|Disable unsafe (security-critical) operations like exports, etc.|
+|Απενεργοποίηση μη-ασφαλών λειτουργιών όπως  εξαγωγές κλπ.|
+|Unsafe operations are disabled.|
+|Οι μη ασφαλείς λειτουργίες είναι απενεργοποιημένες.|
+|To execute this operation you must enable unsafe operations in the options dialog.|
+|Για να εκτελέσετε αυτήν την λειτουργία, πρέπει να ενεργοποιήσετε τις μη-ασφαλείς λειτουργίες στον διάλογο επιλογών.|
+|You have changed an option that requires restarting KeePass to get active.|
+|Αλλάξατε μια επιλογή που απαιτεί επανεκκίνηση του KeePass για να ενεργοποιηθεί.|
+|Expired Entries|
+|Ληγμένες Εγγραφές|
+|This is a list of all expired entries|
+|Αυτή είναι μια λίστα όλων των ληγμένων εγγραφών|
+|Show &Expired Entries|
+|Εμφάνιση Ληγμένων Εγγραφών|
+|Click on an entry to jump to it.|
+|Πατήστε σε μια εγγραφή, για να μεταβείτε σε αυτό.|
+|Quality:|
+|Ποιότητα:|
+|Database Settings|
+|Ρυθμίσεις Βάσης Δεδομένων|
+|Here you can configure the current database.|
+|Εδώ μπορείτε να παραμετροποιήσετε την τρέχουσα βάση δεδομένων.|
+|Database Summary|
+|Περίληψη βάσης δεδομένων|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
+|Το κλειδί σας θα κρυπτογραφηθεί αρκετές φόρες, για να δημιουργηθεί το τελικό κλειδί κρυπτογράφησης της βάσης δεδομένων. Αυτό προσθέτει έναν σταθερό χρονικό παράγοντα και κάνει τις επιθέσεις λεξικού- δυσκολότερες.|
+|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
+|Όσο μεγαλύτερος ο αριθμός, τόσο δυσκολεύουν οι επιθέσεις Λεξικού. Αλλά όσο μεγαλύτερος ο αριθμός, τόσο περισσότερο χρόνο χρειάζεται η φόρτωση και η αποθήκευση της βάσης δεδομένων.|
+|Number of key encryption rounds:|
+|Αριθμός γύρων κρυπτογράφησης κλειδιού:|
+|bits|
+|bits|
+|Personal &Vault TXT File...|
+|Personal &Vault TXT-αρχείο...|
+|Imported from Password Safe|
+|Εισηγμένο από το χρηματοκιβώτιο κωδικών|
+|Remember last opened file|
+|Απομνημόνευση του τελευταίου ανοικτού αρχείου|
+|Total number of groups / entries|
+|Συνολικός αριθμός Ομάδων/Εγγραφών|
+|Total: %u groups / %u entries|
+|Σύνολα: %u Ομάδες, %u Εγγραφές|
+|%u of %u selected|
+|%u από %u επιλεγμένα|
+|Number of selected entries (number of entries in the list)|
+|Αριθμός επιλεγμένων εγγραφών (αριθμός εγγραφών στην λίστα)|
+|Status|
+|Κατάσταση|
+|The database file has been modified!|
+|Η βάση δεδομένων έχει αλλαχθεί!|
+|Most probably someone has changed the file while you were editing it.|
+|Πιθανότατα κάποιος άλλαξε το αρχείο ενώ το επεξεργαζόσασταν.|
+|Do you want to overwrite it?|
+|Θέλετε να το επανεγγράψετε;|
+|The group you selected cannot store entries. Please select an other group.|
+|Στην επιλεγμένη ομάδα δεν μπορούν να αποθηκευθούν εγγραφές. Παρακαλώ επιλέξτε μια άλλη ομάδα.|
+|This will remove all selected entries unrecoverably!|
+|Αυτό θα απομακρύνει όλα τις επιλεγμένες εγγραφές μόνιμα!|
+|Are you sure you want to delete all selected entries?|
+|Είστε σίγουρος, πως θέλετε να διαγραφούν όλα οι επιλεγμένες εγγραφές;|
+|Delete Entries Confirmation|
+|Επιβεβαίωση Διαγραφής Εγγραφών|
+|Use PuTTY for ssh: and telnet: URLs|
+|Χρήση PuTTY για ssh: και telnet: URLs|
+|Mark database as modified on last-access time change|
+|Μαρκάρισμα της βάσης δεδομένων σαν αλλαγμένης στην αλλαγή χρόνου τελευταίας πρόσβασης|
+|Se&lect All|
+|&Επιλογή όλων|
+|Auto-&Sort Password List|
+|Αυτόματη ταξινόμηση της λίστας κωδικών|
+|N&o Auto-Sort|
+|&Καμία αυτόματη ταξινόμηση|
+|Auto-sorting of the password list is enabled, you cannot move entries manually.|
+|Η αυτόματη ταξινόμηση της λίστας κωδικών είναι ενεργοποιημένη. Δεν μπορείτε να μετακινείτε εγγραφές χειροκίνητα.|
+|Perform Auto-&Type|
+|Τρέξιμο του Auto-Type|
+|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
+|Η αυτόματη ταξινόμηση της λίστας κωδικών είναι ενεργοποιημένη. Δεν μπορείτε να ταξινομείτε στοιχεία χειροκίνητα.|
+|Select key-file manually...|
+|Επιλέξτε το αρχείο κλειδιού χειροκίνητα...|
+|Save key-file manually to...|
+|Αποθήκευση αρχείου κλειδιού χειροκίνητα σε..|
+|Enter the new composite master key.|
+|Εισάγετε το νέο σύνθετο κύριο κλειδί.|
+|Repeat the new master password for this database.|
+|Επαναλάβατε τον νέο κύριο κωδικό για αυτήν την βάση δεδομένων.|
+|Change Composite Master Key|
+|Αλλαγή του Σύνθετου Κύριου Κλειδιού|
+|Plugin|
+|Πρόσθετo|
+|Plugins|
+|Πρόσθετα|
+|&Plugins...|
+|&Πρόσθετα...|
+|Here you can configure all installed KeePass plugins.|
+|Εδώ μπορείτε να παραμετροποιήσετε όλα τα πρόσθετα του KeePass.|
+|Enabled, loaded|
+|Ενεργοποιήθηκε, φορτώθηκε|
+|&Enable|
+|&Ενεργοποίηση|
+|&Disable|
+|&Απενεργοποίηση|
+|About &Plugin...|
+|Πληροφορίες για το &Πρόσθετο...|
+|An error occurred|
+|Προέκυψε σφάλμα|
+|Error code|
+|Κωδικός σφάλματος|
+|Unknown error|
+|Άγνωστο σφάλμα|
+|Success|
+|Επιτυχία|
+|Invalid parameter|
+|Μη έγκυρη παράμετρος|
+|Too little memory (RAM) available|
+|Δεν υπάρχει πολύ μνήμη (RAM)|
+|Invalid/wrong key|
+|Μη έγκυρο/Λάθος κλειδί|
+|File access error: failed to open file in read mode|
+|Σφάλμα πρόσβασης αρχείου: Αποτυχία ανοίγματος αρχείου σε κατάσταση ανάγνωσης|
+|File access error: failed to open file in write mode|
+|Σφάλμα πρόσβασης αρχείου: Αποτυχία ανοίγματος αρχείου σε κατάσταση εγγραφής|
+|File error: error while reading from the file|
+|Σφάλμα αρχείου: Λάθος κατά την ανάγνωση από το αρχείο|
+|File error: error while writing to the file|
+|Σφάλμα αρχείου: Λάθος κατά την εγγραφή στο αρχείο|
+|Internal error|
+|Εσωτερικό σφάλμα|
+|Invalid random source|
+|Μη έγκυρη τυχαία πηγή|
+|Invalid/corrupted file structure|
+|Μη έγκυρη/Κατεστραμμένη δομή αρχείου|
+|Encryption/decryption error|
+|Σφάλμα Κρυπτογράφησης/Αποκρυπτογράφησης|
+|Get more plugins...|
+|Αναζητήστε περισσότερα πρόσθετα...|
+|Global auto-type hot key combination:|
+|Καθολικός auto-type Hotkey-συνδυασμος:|
+|Cannot register the global hot key.|
+|Το καθολικό HotKey δεν μπορεί να δηλωθεί.|
+|Most probably another application has reserved this hot key already.|
+|Ίσως το HotKey να χρησιμοποιείται από μια άλλη εφαρμογή.|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
+|Μπορειτε να επιλέξετε διαφορετικό HotKey-συνδυασμο από το μενού 'Εργαλεία' - 'Επιλογές' – 'Για προχωρημένους-'Auto-Type'.|
+|&Use master password and key file|
+|Χρήση κύριου κωδικού και αρχείου κλειδιού|
+|You've selected the AND key mode, so you must enter a password AND select a key-file.|
+|Επιλέξατε τον ΚΑΙ-τυπο κωδικοποίησης, γι' αυτό πρέπει να εισάγετε έναν κωδικό ΚΑΙ να επιλέξετε ένα αρχείο κλειδιού.|
+|Timed: copy data to the clipboard and clear it automatically after some seconds|
+|Χρονοπεριορισμός: Αντιγραφή αρχείων στο σημειωματάριο και αυτόματος καθαρισμός  του μετά από μερικά δευτερόλεπτα|
+|Enhanced: allow pasting only once and protect against clipboard spies|
+|Ενισχυμένο:επέτρεψε μόνο μια επικόλληση και προστάτεψε ενάντια σε κατασκοπεία σημειωματάριου|
+|Clipboard behavior:|
+|Συμπεριφορά σημειωματάριου:|
+|Warning! It's possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing tools or something like this.|
+|Προειδοποίηση: Είναι πιθανό αυτή η επιλογή να μην δουλεύει σωστά στο σύστημα σας, ιδίως εάν χρησιμοποιείτε εργαλεία ενίσχυσης σημειωματάριου ή κάτι τέτοιο.|
+|If you notice any problems with this enhanced method, just switch back to the timed clipboard clearing method.|
+|Αν παρατηρήσετε προβλήματα με την ενισχυμένη μέθοδο, επιτρέψτε στον καθαρισμό σημειωματάριου με χρονοπεριορισμό.|
+|Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
+|Αποτυχία αλλαγής των συσχετισμών .kdb αρχείων. Σιγουρευτείτε, πως έχετε τα δικαιώματα για εγγραφή στην Registry και αλλαγή συσχετισμών αρχείων.|
+|Number the TANs consecutively, starting from this value|
+|Αρίθμηση των TAN, αρχίζοντας από αυτήν την τιμή|
+|Never expires|
+|Δεν λήγει ποτέ|
+|Auto-Type|
+|Auto-Type|
+|Help:|
+|Βοήθεια:|
+|Advanced|
+|Για προχωρημένους|
+|Start minimized and locked|
+|Εκκίνηση ελαχιστοποιημένο και κλειδωμένο|
+|Immediately after opening a database|
+|Αμέσως μετά το άνοιγμα μιας βάσης δεδομένων|
+|Show expired entries (if any)|
+|Εμφάνιση ληγμένων εγγραφών(αν υπάρχουν)|
+|Show entries that will expire soon (if any)|
+|Εμφάνιση εγγραφών που λήγουν σύντομα(αν υπάρχουν)|
+|Integration|
+|Ενσωμάτωση|
+|Start KeePass at Windows startup (for current user)|
+|Εκκίνηση KeePass με την εκκίνηση Windows (μόνο για τον τρέχων χρήστη)|
+|Unable to create/remove the auto-start key of KeePass in the Windows registry!|
+|Αδυναμία  δημιουργίας/απομάκρυνσης του κλειδιού αυτόματης εκκίνησης του KeePass στην Registry!|
+|Backup|
+|Αντίγραφα Ασφαλείας|
+|Save backups of modified entries into the 'Backup' group|
+|Αποθήκευση των αντιγράφων ασφαλείας τροποποιημένων εγγραφών στην ομάδα 'Backup'|
+|Failed to create backup of this entry!|
+|Αποτυχία δημιουργίας αντιγράφου ασφαλείας αυτής της εγγραφής!|
+|The composite master key has been changed!|
+|Το σύνθετο κύριο κλειδί αλλάχθηκε!|
+|Save the database now in order to get the new key applied.|
+|Αποθηκεύστε τώρα την βάση δεδομένων για να εφαρμοστεί το νέο κλειδί.|
+|Fields to export|
+|Πεδία για εξαγωγή|
+|Fields to print|
+|Πεδία για εκτύπωση|
+|Icon|
+|Εικονίδιο|
+|Group Tree|
+|Δέντρο Ομάδων|
+|Export Options|
+|Επιλογές Εξαγωγής|
+|Print Options|
+|Επιλογές Εκτύπωσης|
+|Here you can customize the exported files.|
+|Εδω μπορείτε να διαμορφώσετε τα προς εξαγωγή αρχεία.|
+|Here you can customize the printed sheet.|
+|Εδω μπορείτε να διαμορφώσετε τα προς εκτύπωση φύλλα.|
+|Encode/replace newline characters by '\n'|
+|Κωδικοποίηση/Αντικατάσταση χαρακτήρων νέας γραμμής με '\n'|
+|Export backup entries (entries in the 'Backup' group)|
+|Εξαγωγή εγγραφών αντιγράφων ασφαλείας  (Εγγραφές στην ομάδα 'Backup')|
+|Print backup entries (entries in the 'Backup' group)|
+|Εκτύπωση εγγραφών αντιγράφων ασφαλείας  (Εγγραφές στην ομάδα 'Backup')|
+|&Get more import plugins...|
+|&Αναζήτηση επιπλέον προσθέτων εισαγωγής...|
+|Field has been pasted.|
+|Πεδίο επικολλήθηκε.|
+|Waiting for paste command.|
+|Αναμονή εντολής επικόλλησης.|
+|Paste operation completed.|
+|Διαδικασία επικόλλησης ολοκληρώθηκε.|
+|Limit to single instance|
+|Περιορισμός σε ένα στιγμιότυπο|
+|Use more secure password edit controls|
+|Χρήση περισσότερο ασφαλών πεδίων  επεξεργασίας κωδικών|
+|Press Shift-Home or Shift-End to clear this edit control|
+|Πιέστε Shift-Home ή Shift-End για να καθαρίσετε αυτό το πεδίο επεξεργασίας|
+|Single left click instead of double-click for default tray icon action|
+|Απλό αριστερό click αντί διπλό click για την προεπιλεγμένη ενέργεια του εικονιδίου στο tray|
+|Exclude entries in the '&Backup' group|
+|Εξαίρεση εγγραφών από την ομάδα '&Backup'|
+|Exclude &expired entries|
+|Εξαίρεσε ληγμένες εγγραφές|
+|By default, new entries expire in the following number of days:|
+|Από προεπιλογή οι νέες εγγραφές λήγουν μετά από τον ακόλουθο αριθμό ημερών:|
+|Click to expire the entry in %u days|
+|Πατήστε για να λήγει η εγγραφή σε %u ήμερες|
+|Calculate rounds for a 1-second delay on this computer|
+|Υπολογισμός γύρων, για καθυστέρηση διάρκειας 1 δευτερολέπτου σ' αυτόν τον υπολογιστή |
+|The program is distributed under the terms of the GNU General Public License v2 or later.|
+|Αυτό το πρόγραμμα διανέμεται  υπό τους όρους του GNU General Public License v2 ή νεώτερο.|
+|1 Week|
+|1 Εβδομάδα|
+|2 Weeks|
+|2 Εβδομάδες|
+|1 Month|
+|1 Μήνας|
+|3 Months|
+|3 Μήνες|
+|6 Months|
+|6 Μήνες|
+|1 Year|
+|1 Jahr|
+|Quick search (toolbar)|
+|Γρήγορη αναζήτηση(γραμμή εργαλείων)|
+|Include backup entries in quick searches|
+|Συμπεριέλάβε τις εγγραφές αντιγράφων ασφαλείας σε γρήγορες αναζητήσεις|
+|Include expired entries in quick searches|
+|Συμπεριέλαβε τις ληγμένες εγγραφές σε γρήγορες αναζητήσεις|
+|&Donate...|
+|&Δωρεές...|
+|Use alternative auto-type method (minimize window)|
+|Χρήση εναλλακτικής μεθόδου Auto-Type (ελαχιστοποιημένο παράθυρο)|
+|Delete all backup entries before saving the database|
+|Διαγραφή όλων των εγγραφών αντιγράφων ασφαλείας πριν αποθηκεύσετε την βάση δεδομένων|
+|&Repair KeePass Database File...|
+|Επι&σκευή αρχείου Βάσης Δεδομένων KeePass...|
+|The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
+|Η διαμόρφωση αρχείου που επιλέξατε για να εισάγετε Ids ομάδων και/ή εγγραφών. Παρακαλώ επιλέξτε συμπεριφορά εισαγωγής.|
+|Create new Ids|
+|Δημιουργία νέων IDs|
+|If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
+|Εάν επιλέξετε αυτήν την επιλογή το KeePass θα δημιουργήσει νέα Ids για όλες τις ομάδες και εγγραφές. Συνεπώς καμία υπάρχουσα εγγραφή ή ομάδα της τρέχουσας βάσης δεδομένων δεν θα επανεγγραφεί ή τροποποιηθεί.|
+|Overwrite|
+|Επανεγγραφή|
+|KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
+|Το KeePass θα αντικαταστήσει όλες τις υπάρχουσες ομάδες και εγγραφές με αυτά από το αρχείο προς εισαγωγή, εφόσον έχουν ίδιο ID.|
+|Overwrite if newer|
+|Επανεγγραφή εαν νεώτερο|
+|KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
+|Το KeePass θα συγκρίνει το χρόνο τελευταίας-τροποποίησης των ομάδων/εγγραφών και θα αντικαταστήσει τα υπάρχοντα μόνο εφόσον τα προς εισαγωγή είναι νεώτερα.|
+|&KeePass Database...|
+|&KeePass-Βάση Δεδομένων...|
+|Acknowledgements|
+|Ευχαριστίες|
+|Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
+|Παρακαλώ επιλέξτε εάν το KeePass θα χρησιμοποιήσει το κλειδί της τρέχουσας βάσης δεδομένων ή θα σας ζητήσει να επιλέξετε ένα νέο κλειδί για να κρυπτογραφήσετε το εξαγόμενο αρχείο.|
+|Click [Yes] to use the same key as the currently opened database.|
+|Πατήστε [Ναι] για χρήση του ίδιου κλειδιού με την τρέχουσα βάση δεδομένων.|
+|Click [No] to set a new key for the exported file.|
+|Πατήστε [Όχι] για να θέσετε νέο κλειδί για το εξαγόμενο αρχείο.|
+|Reuse the current key/password?|
+|Επαναχρησιμοποίηση του τρέχοντος κλειδιού/κωδικού;|
+|Show full path in the title bar (instead of file name only)|
+|Εμφάνισε την πλήρη διαδρομή στην γραμμή τίτλων (αντί μόνο του ονόματος αρχείου)|
+|Enable auto-type features|
+|Ενεργοποίηση χαρακτηριστικών Auto-Type|
+|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
+|Αντιγραφή των URL στο σημειωματάριο αντί εκτέλεσής τους (εξαίρεση: cmd://-URLs)|
+|Copy &URL to Clipboard|
+|Αντιγραφή &URL στο σημειωματάριο|
+|Exit program instead of locking the workspace after the specified time|
+|Μετά τον προκαθορισμένο χρόνο τερμάτισε το πρόγραμμα αντί να κλειδώσεις την επιφάνεια εργασίας|
+|Click on an entry to auto-type it.|
+|Πατήστε σε μια εγγραφή για (Auto-Type).|
+|Auto-Type Entry Selection|
+|Auto-Type Επιλογές Εγγραφών|
+|Multiple entries exist for the current window. Please select the entry to auto-type.|
+|Υπάρχουν πολλαπλές εγγραφέςγια το τρέχον παράθυρο. Παρακαλώ επιλέξτε την εγγραφή για auto-type.|
+|The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
+|Το αρχείο που προσπαθείτε να ανοίξετε είναι κλειδωμένο, πχ κάποιος άλλος το έχει ανοίξει και το επεξεργάζεται.|
+|Open the file in read-only mode?|
+|Άνοιγμα αρχείου μόνο για ανάγνωση;|
+|Click [Yes] to open the file in read-only mode.|
+|Πατήστε [Ναι] για να ανοίξετε το αρχείο μόνο για ανάγνωση.|
+|Click [No] to open the file in normal writing mode.|
+|Πατήστε [Όχι] για ανοίξετε το αρχείο για εγγραφή.|
+|Now|
+|Τώρα|
+|&Tools|
+|Ε&ργαλεία|
+|TAN View &Options|
+|TAN Προβολή &Επιλογές|
+|Use &Simple List View for TAN-Only Groups|
+|Χρήση Προβολής Απλής Λίστας για αποκλειστικές TAN Ομάδες|
+|Show TAN &Indices in Entry Titles|
+|Εμφάνισε TAN-&Δείκτες στους Τίτλους Εγγραφών|
+|Disable 'Save' button if the database hasn't been modified|
+|Απενεργοποίηση του κουμπιού “Αποθήκευση” εάν η βάση δεδομένων δεν έχει τροποποιηθεί|
+|Check For Updates|
+|Έλεγχος Για Ενημερώσεις|
+|Check for Updates|
+|Έλεγχος Για Ενημερώσεις|
+|New version available.|
+|Διαθέσιμη Νέα Έκδοση.|
+|You have the latest version.|
+|Έχετε την τελευταία έκδοση.|
+|Connect failed, cannot check for updates.|
+|Η σύνδεση απέτυχε, δεν έγινε έλεγχος για ενημερώσεις.|
+|1 update is available!|
+|1 ενημέρωση διαθέσιμη!|
+|%u updates are available!|
+|%u διαθέσιμες ενημερώσεις!|
+|No updates available.|
+|Δεν υπάρχουν διαθέσιμες ενημερώσεις.|
+|Component|
+|Εξάρτημα|
+|Installed|
+|Εγκατεστημένο|
+|Available|
+|Διαθέσιμο|
+|Plugin unknown.|
+|Άγνωστο Πρόσθετο.|
+|Up to date.|
+|Ενημερωμένο.|
+|Pre-release version.|
+|Pre-release Έκδοση.|
+|Check for updates at KeePass startup|
+|Έλεγχος ενημερώσεων κατά την εκκίνηση του KeePass|
+|'Keyfile' or 'preselect' option is already specified|
+|Η επιλογή 'Keyfile' ή 'Preselect' έχει ήδη καθοριστεί|
+|Path is invalid|
+|Η διαδρομή είναι άκυρη|
+|Filename not found|
+|Το όνομα αρχείου δεν βρέθηκε|
+|'Pw' option is already specified|
+|Η επιλογή 'Pw' έχει ήδη καθοριστεί|
+|Password is empty|
+|Ο κωδικός είναι κενός|
+|Option not recognized|
+|Η επιλογή δεν αναγνωρίζεται|
+|Database is already specified|
+|Η βάση δεδομένων έχει ήδη καθοριστεί|
+|It contains an unmatched quote|
+|Περιέχει μια μη ταυτοποιημένη τιμή|
+|Command line argument|
+|Όρισμα Γραμμής εντολών|
+|ignored|
+|Αγνόηθηκε|
+|Reason|
+|Αιτία|
+|KeePass Initialization|
+|Αρχικοποίηση KeePass|
+|Lock workspace when locking Windows, switching user or sleeping|
+|Κλείδωμα επιφάνειας εργασίας όταν κλειδώνουν τα Windows, αλλάζει ο χρήστης ή μπαίνει σε αναμονή|
+|Value|
+|Τιμή|
+|Select the fields KeePass should remember|
+|Επιλέξτε τα πεδία τα οποία θα πρέπει να απομνημονεύσει το KeePass|
+|Fields to remember|
+|Πεδία για απομνημόνευση|
+|An entry already exists for the current URL.|
+|Υπάρχει ήδη μια εγγραφή για το τρέχον URL.|
+|The following application requests access to your currently opened KeePass database:|
+|Η ακόλουθη εφαρμογή απαιτεί πρόσβαση στην τρέχουσα βάση δεδομένων KeePass:|
+|Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
+|Σημειώστε ότι τον τίτλο εφαρμογής τον παρέχει η αιτούσα εφαρμογή και γιαυτό ίσως να είναι λανθασμένος (ένα κακόβουλο πρόγραμμα θα μπορούσε να προσπαθήσει να έχει πρόσβαση στην βάση δεδομένων σας).|
+|Do you grant the application access to your KeePass database?|
+|Χορηγείτε στην εφαρμογή πρόσβαση στην βάση δεδομένων KeePass;|
+|&Read-Only|
+|&Μόνο για  Ανάγνωση|
+|&Full|
+|&Πλήρες|
+|&Deny|
+|&Απαγόρεψε|
+|Incoming IPC Request|
+|Εισερχόμενη Αίτηση IPC|
+|An application requests access through inter-process communication|
+|Μια εφαρμογή ζητά πρόσβαση μέσω επικοινωνίας Inter-Process|
+|Application|
+|Εφαρμογή|
+|Unknown|
+|Άγνωστο|
+|Enable remote control (allow applications to communicate with KeePass)|
+|Ενεργοποίηση απομακρυσμένου ελέγχου (επιτρέψτε σε εφαρμογές να επικοινωνούν με το KeePass)|
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
+|Επιβεβαιώστε ότι το μέσο που περιέχει το αρχείο κλειδιού έχει εισαχθεί και ότι το KeePass έχει δικαιώματα πρόσβασης(ελέγξτε δικαιώματα πρόσβασης αρχείων, ότι καμιά άλλη εφαρμογή δεν μπλοκάρει το αρχείο...).|
+|URL Field: Help|
+|Πεδίο URL: Βοήθεια|
+|There are too few characters in the character set to build up a password matching the specified rules|
+|Δεν υπάρχουν αρκετοί χαρακτήρες στο σετ χαρακτήρων, για να δημιουργηθεί κωδικός σύμφωνα με τους καθορισμένους κανόνες|
+|(Custom)|
+|(Προσαρμοσμένο)|
+|Save current settings as a profile.|
+|Αποθήκευσε τις τρέχουσες ρυθμίσεις ως προφιλ.|
+|Delete currently selected profile.|
+|Διαγράψτε το τρέχον επιλεγμένο προφίλ.|
+|(Automatically generated passwords for new entries)|
+|(Αυτόματα δημιουργημένοι κωδικοί για νέες εγγραφές)|
+|Profile|
+|Προφιλl|
+|Length of generated password:|
+|Μήκος δημιουργημένων κωδικών:|
+|Generate using character set:|
+|Δημιούργησε με χρήση σετ χαρακτήρων:|
+|Generate using pattern:|
+|Δημιούργησε με χρήση μοτίβου:|
+|Also include the following characters:|
+|Επίσης συμπεριέλαβε τους ακόλουθους χαρακτήρες:|
+|Exclude look-alike characters|
+|Εξαίρεσε παρόμοιους χαρακτήρες|
+|Use local date/time format instead of ISO notation|
+|Χρήση διαμόρφωσης τοπικής ημερομηνίας/ώρας σημειογραφίας ISO|
+|Save as Profile|
+|Αποθήκευση ως Προφίλ|
+|Save current settings as password generator profile.|
+|Αποθηκεύστε τις τρέχουσες ρυθμίσεις ως προφίλ της γεννήτριας κωδικών.|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
+|Παρακαλώ εισάγετε όνομα για το νέο προφίλ γεννήτριας κωδικών,ή επιλέξτε ένα υπάρχον προφίλ για επανεγγραφή:|
+|Randomly permute characters of password|
+|Τυχαία αναδιάταξη χαρακτήρων κωδικού|
+|Locked|
+|Κλειδωμένο|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?|
+|Το αρχείο βοηθείας περιέχει λεπτομερείς πληροφορίες για την αναμενόμενη μορφή εισόδου. Θέλετε να ανοίξετε το αρχείο βοηθείας;|
+|Failed to save the configuration.|
+|Αποτυχία αποθήκευσης διαμόρφωσης.|
+|Arguments|
+|Ορίσματα|
+|&Export Group To|
+|Εξαγωγή Ομάδας Σε|
+|in "Minimal functionality" mode|
+|σε λειτουργία "Ελάχιστης Λειτουργικότητας"|
+|Regular expression|
+|Regular expression|
+|Default user name for new entries:|
+|Προεπιλεγμένο όνομα χρήστη για νέες εγγραφές:|
+|Advanced Password Generator Options|
+|Επιλογές Γεννήτριας Κωδικών για Προχωρημένους|
+|Exclude the following characters:|
+|Εξαίρεσε τους ακόλουθους χαρακτήρες:|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
+|Οι Επιλογές/Κανόνες σημειωμένοι με αστερίσκο μειώνουν την ασφάλεια του δημιουργημένου κωδικού. Ενεργοποιήστε τους μόνο εάν υποχρεωθείτε να ακολουθήσετε τέτοιους κανόνες από την ιστοσελίδα, εφαρμογή ή πολιτική ασφαλείας.|
+|Each character must occur at most once|
+|Κάθε χαρακτήρας πρέπει να εμφανίζεται το πολύ μια φορά|
+|Provider|
+|Πάροχος|
+|The key provider plugin did not supply a valid key|
+|Το πρόσθετο παροχής κλειδιών δεν διέθεσε ένα έγκυρο κλειδί|
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
+|Εγγραφή Ctrl-Alt-K Hot-Key  (φέρνει το παράθυρο του KeePass στο προσκήνιο)|
+|Type to search the database|
+|Πληκτρολογήστε  για αναζήτηση στην βάση δεδομένων|
+|Search...|
+|Αναζήτηση...|
+|Clear Search History|
+|Καθαρισμός Ιστορικού Αναζήτησης|
+|TANs are imported into the currently selected group|
+|Τα TAN εισάγονται στην τρέχουσα επιλεγμένη ομάδα|
+|The selected key file already exists|
+|Το επιλεγμένο αρχείο κλειδιού υπάρχει ήδη|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
+|Δημιούργησε ένα νέο κλειδί και επανέγγραψε το υπάρχον αρχείο κλειδιού. Το κλειδί που είναι αποθηκευμένο στο τρέχον αρχείο κλειδιού θα χαθεί.|
+|Reuse|
+|Επαναχρησιμοποίηση|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|
+|Φόρτωσε το υπάρχον αρχείο κλειδιού και χρησιμοποίησέ το σαν κλειδί για την τρέχουσα βάση δεδομένων. Το αρχείο κλειδιού δεν θα τροποποιηθεί|
+|Cancel|
+|Ακύρωση|
+|Abort specifying a new key for the current database.|
+|Απέρριψε καθορίζοντας νέο κλειδί για την τρέχουσα βάση δεδομένων.|
+|Overwrite existing key file?|
+|Επανεγγραφή υπάρχοντος αρχείου κλειδιού;|
+|Save|
+|Αποθήκευση|
+|&Discard changes|
+|Απόρριψη αλλαγών|
+|Save database changes before closing the file?|
+|Αποθήκευση αλλαγών της βάσης δεδομένων πριν το κλείσιμο αρχείου;|
+|Save database changes before exiting KeePass?|
+|Αποθήκευση αλλαγών της βάσης δεδομένων πριν την έξοδο από το KeepPass;|
+|Save database changes before locking the workspace?|
+|Αποθήκευση αλλαγών της βάσης δεδομένων πριν το κλείδωμα της επιφάνειας εργασίας;|
+|Save all changes made to the database and close the file.|
+|Αποθήκευση όλων των αλλαγών της βάσης δεδομένων και κλείσιμο αρχείου.|
+|Save all changes made to the database and exit KeePass.|
+|Αποθήκευση όλων των αλλαγών της βάσης δεδομένων και έξοδος από το KeepPass.|
+|Save all changes made to the database and lock the KeePass workspace.|
+|Αποθήκευση όλων των αλλαγών της βάσης δεδομένων και κλείδωμα επιφάνειας εργασίας του KeepPass.|
+|Discard all changes made to the database and close the file.|
+|Απόρριψη όλων των αλλαγών της βάσης δεδομένων και κλείσιμο αρχείου.|
+|Discard all changes made to the database and exit KeePass.|
+|Απόρριψη όλων των αλλαγών της βάσης δεδομένων και έξοδος από το KeepPass.|
+|Discard all changes made to the database and lock the KeePass workspace.|
+|Απόρριψη όλων των αλλαγών της βάσης δεδομένων και κλείδωμα επιφάνειας εργασίας του KeepPass.|
+|Abort the current operation.|
+|Απόρριψη τρέχουσας διαδικασίας.|
+|The KeePass workspace will not be locked.|
+|Η επιφάνεια εργασίας του KeePass δεν θα κλειδωθεί.|
+|KeePass will not be closed.|
+|Το KeePass δεν θα κλείσει.|
+|The file will not be closed.|
+|Το αρχείο δεν θα κλείσει.|
+|The master password must be at least %u characters long!|
+|Ο κύριος κωδικός πρέπει να είναι το λιγότερο %d χαρακτήρες !|
+|The estimated quality of the master password must be at least %u bits!|
+|Η εκτιμώμενη ποιότητα του κύριου κωδικού πρέπει να είναι το λιγότερο %u bits!|
+|Copy [of an item]|
+|Αντιγραφή [ενός αντικειμένου]|
+|Focus entry list after a successful quick search|
+|Εστίασε στην λίστα εγγραφών μετά από μια επιτυχημένη γρήγορη αναζήτηση|
+|Always grant full access through remote control (not recommended)|
+|Πάντα πλήρης πρόσβαση μέσω απομακρυσμένου ελέγχου (δεν συνίσταται)|
+|URL Field: Select Application...|
+|Πεδίο URL: Επιλέξτε Εφαρμογή...|
+|URL Field: Select Document...|
+|Πεδίο URL: Επιλέξτε Έγγραφο...|
+|URL Field: Insert Placeholder|
+|Πεδίο URL: Εισάγετε θεσικράτη|
+|Auto-Type: Help|
+|Auto-Type: Βοήθεια|
+|Auto-Type: Customize Sequence|
+|Auto-Type: Προσαρμόστε Ακολουθία|
+|Auto-Type: Select Target Window...|
+|Auto-Type: Επιλέξτε Παράθυρο...|
+|Select the target window for the current entry.|
+|Επιλέξτε παράθυρο για την τρέχουσα εγγραφή.|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
+|Για να καθορίσετε το παράθυρο, είτε επιλέξτε ένα από τα τρέχοντα-ανοιχτά παράθυρα από την ανοιγόμενη λίστα,είτε εισάγετε χειροκίνητα τον τίτλο παραθύρου:|
+|Default auto-type sequence for standard entries:|
+|Προεπιλεγμένη ακολουθία Auto-Type για κανονικές εγγραφές:|
+|Prepend special initialization sequence for Internet Explorer windows|
+|Προετοιμασία ειδικής ακολουθίας αρχικοποίησης για παράθυρα του  Internet Explorer|
+|Here you can configure auto-type.|
+|Εδώ μπορείτε να ρυθμίσετε το Auto-Type.|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
+|Το αρχείο ίσως να είναι κατεστραμμένο. Παρακαλώ δοκιμάστε να το αποθηκεύσετε ξανά και εάν αποτύχετε αποθηκεύεστε την βάση δεδομένων σε διαφορετική τοποθεσία|
+|Drop to background when copying data to the clipboard|
+|Μετακίνηση στο παρασκήνιο κατά την αντιγραφή δεδομένων στο σημειωματάριο|
+|Insert Field Reference|
+|Εισάγετε Αναφορά Πεδίου|
+|In Title Field|
+|Πεδίο Στον-Τίτλο|
+|In User Name Field|
+|Πεδίο Στο-Όνομα Χρήστη|
+|In URL Field|
+|Πεδίο Στο-URL|
+|In Password Field|
+|Πεδίο Στον-Κωδικό|
+|In Notes Field|
+|Πεδίο Στις-Σημειώσεις|
+|Field to reference|
+|Πεδίο για αναφορά|
+|Identify source entry by|
+|Αναγνώριση πηγαίας εγγραφής από|
+|Source field to reference|
+|Πηγαίο στοιχείο για αναφορά|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
+|Το επιλεγμένο πεδίο, που αναγνωρίζει την πηγαία εγγραφή, περιέχει μη αποδεκτούς χαρακτήρες(όπως '{', '}', χαρακτήρες Νέας Γραμμής, ...).|
+|Multiple entries match the specified identifying field.|
+|Πολλαπλές εγγραφές ταιριάζουν με το καθορισμένο πεδίο αναγνώρισης.|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
+|Για να αποφευχθούν ασάφειες οι εγγραφές μπορούν να αναγνωριστούν από τα UUIDs που είναι μοναδικά.|
+|Read-only|
+|Μόνο για ανάγνωση|
+|Normal|
+|Φυσιολογικό|
+|Take ownership of the file and open it in normal writing mode.|
+|Ανέλαβε ιδιοκτησία του αρχείου και άνοιξέ το για εγγραφή.|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.|
+|Άνοιγμα αρχείου μόνο για ανάγνωση. Αλλαγές στην βάση δεδομένων μπορούν αν αποθηκευθούν σε διαφορετικό αρχείο.|
+|Sort items in the auto-type entry selection dialog|
+|Ταξινόμηση αντικειμένων στον διάλογο επιλογών εγγραφών του Auto-Type|
+|Clear clipboard when closing/locking the database|
+|Καθαρισμός σημειωματάριου κατά το κλείσιμο/κλείδωμα της βάσης δεδομένων|
+|Help Source|
+|Πηγή Βοηθείας|
+|Use the following help source when a "Help" button within KeePass is clicked:|
+|Χρήση αυτής της πηγής βοηθείας όταν πατηθεί το κουμπί "Βοήθεια" στο KeePass:|
+|Local help file|
+|Τοπικό αρχείο Βοηθείας|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
+|Το τοπικό αρχείο βοηθείας είναι ένα στιγμιότυπο της τεκμηρίωσης προϊόντος την εποχή που δημοσιεύτηκε αυτή η έκδοση. Δεν ανανεώνεται αυτόματα.|
+|Online help center|
+|Online-Κέντρο Βοηθείας|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|
+|Το Online-Κέντρο Βοηθείας περιέχει πάντα την τελευταία έκδοση της τεκμηρίωσης του προϊόντος. Απαιτείται σύνδεση στο διαδίκτυο.|
+
+|This option is disabled, because local help is not installed.|
+|Αυτή η επιλογή είναι απενεργοποιημένη, γιατί δεν έχει εγκατασταθεί τοπικό αρχείο βοηθείας.|
+|Choose between local help and online help center.|
+|Επιλέξτε μεταξύ τοπικής βοήθειας και online κέντρου βοηθείας.|
+|Help &Source...|
+|Πηγή &Βοηθείας...|
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)|
+|Χρήση προηγμένης προστασίας μνήμης (DPAPI, μόνο για Windows Vista και νεότερα)|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
+|Χρήση κρυπτογράφησης CNG/B για μετατροπή κλειδιών (μόνο για Windows Vista και νεότερα)|
+|Delete TAN entries immediately after using them|
+|Διαγραφή εγγραφών TAN αμέσως μετά την χρήση τους|
+|KeePass 1.x cannot open KDBX files.|
+|Το KeePass 1.x αδυνατεί να ανοίξει αρχεία KDBX.|
+|Use the KeePass 2.x 'Export' feature to migrate this file|
+|Χρήση του χαρακτηριστικού 'Εξαγωγή' του KeePass 2.x, για μετακίνηση αυτού του αρχείου|
+|The specified name is reserved.|
+|Το συγκεκριμένο όνομα χρησιμοποιείται.|
+|Please choose a different name.|
+|Παρακαλώ επιλέξτε διαφορετικό όνομα.|
+|see the <A HREF="h">help manual</A> for details.|
+|δες το <A HREF="h">εγχειρίδιο βοήθειας</A> για λεπτομέρειες.|
+|Use file transactions for writing databases|
+|Χρήση ενεργειών αρχείων για εγγραφή βάσεων δεδομένων|
+|Ctrl|
+|Ctrl|
+|Remember key sources (key file paths, provider names, ...)|
+|Να θυμάσαι πηγές κλειδιών(διαδρομές αρχείων κλειδιών, ονόματα παρόχων, ...)|
+|Custom database color:|
+|Προσωπική επιλογή χρώματος βάσης δεδομένων:|
+|&Yes|
+|&Ναι|
+|&No|
+|&Όχι|
+|Minimize main window after locking the workspace|
+|Ελαχιστοποίηση κυρίου παραθύρου μετά το κλείδωμα της επιφάνειας εργασίας|
+|Ensure same keyboard layouts during auto-type|
+|Επιβεβαιώστε ίδια διάταξη πληκτρολογίου κατά το Auto-Type|
+|{PARAM} more entries|
+|{PARAM} περισσότερες εγγραφές|
+|The database is empty|
+|Η βάση δεδομένων είναι κενή|
+|Show tray icon only if main window has been sent to tray|
+|Εμφάνισε το εικονίδιο Tray, μόνο εάν το κύριο παράθυρο έχει αποσταλλεί στο tray|
+|KeePass can automatically check for updates on each program start.|
+|Το KeePass μπορεί να ελέγχει αυτόματα για ενημερώσεις κατά την εκκίνηση.|
+|Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
+|Οι αυτόματοι έλεγχοι ενημερώσεων γίνονται στο παρασκήνιο. Ειδοποίηση εμφανίζεται μόνο εάν υπάρχει διαθέσιμη ενημέρωση. Οι ενημερώσεις δεν μεταφορτώνονται οι εγκαθίστανται αυτόματα.|
+|No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.|
+|Δεν αποστέλλονται προσωπικά δεδομένα στον διακομιστή KeePass. Το KeePass απλά μεταφορτώνει ένα αρχείο πληροφοριών έκδοσης και συγκρίνει την εγκατεστημένη έκδοση με την διαθέσιμη.|
+|Enable automatic update check?|
+|Ενεργοποίηση αυτόματου ελέγχου ενημερώσεων;|
+|recommended|
+|Προτείνεται|
+|Database files cannot be used as key files.|
+|Αρχεία βάσεων δεδομένων δεν μπορούν αν χρησιμοποιηθούν ως αρχεία κλειδιών.|

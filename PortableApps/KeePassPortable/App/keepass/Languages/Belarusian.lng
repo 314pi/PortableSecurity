@@ -1,0 +1,874 @@
+﻿|~LANGUAGENAME|                |Belarusian|
+|~LANGUAGEVERSION|             |1.18|
+|~LANGUAGEAUTHOR|              |Varrey|
+|~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
+
+|&OK|           |&Прыняць|
+|&Cancel|       |&Адмена|
+
+|&Generate Random Password|    |&Фармаванне выпадковага пароля|
+
+|General|       |Агульныя|
+|Windows|       |Сістэма|
+|Network|       |Сетка|
+|Internet|      |Інтэрнет|
+|eMail|         |Пошта|
+|Homebanking|   |Банк|
+
+|Entry|         |Запіс|
+
+|&Title|          |&Назва|
+|User &Name|      |&Імя|
+|&URL|            |&Спасылка|
+|&Password|       |&Пароль|
+|N&otes|          |&Каментарый|
+|&Case sensitive| |&Чулы да рэгістру|
+|Search in|       |Шукаць сярод|
+|Find what:|      |Шукаць:|
+|Find|            |Пошук|
+|&Find|           |&Пошук|
+|Find a string in the password list.| |Пошук радка ў спісе пароляў.|
+
+|About KeePass...| |Аб KeePass...|
+
+|Password Groups|  |Групы пароляў|
+|Title|            |Назва|
+|User Name|        |Імя|
+|URL|              |Спасылка|
+|Password|         |Пароль|
+|Notes|            |Каментарый|
+
+|Ready.|           |Гатова.|
+
+|Enter the composite master key.| |Увядзіце састаўны асноўны пароль.|
+|Enter Password:|  |Увядзіце пароль:|
+
+|Create New Password Database| |Стварэнне новай базы пароляў|
+|Set Composite Master Key|     |Усталяванне асноўнага паролю|
+|Specify the composite master key.|
+    |Зазначце састаўны асноўны пароль.|
+|Repeat Master Password|       |Паўтор асноўнага паролю|
+|Repeat the master password for the new database.|
+    |Паўтарыце асноўны пароль для новай базы.|
+|Open Database|                |Адчыненне базы пароляў|
+|Master Password:|             |Асноўны пароль:|
+|Enter Composite Master Key|   |Увядзіце састаўны асноўны пароль|
+|&Use master password and key file| |&Асноўны пароль + ключавы файл|
+|Key File|                     |Ключавы файл|
+|(No key file selected)|       |<Ключавы файл не выбран>|
+
+|Password Generator|              |Генератар пароляў|
+|Here you can generate a random password.|
+    |Тут можна стварыць выпадковы пароль.|
+|(Automatically generated passwords for new entries)|
+    |(Аўта-створаныя паролі для новых запісаў)|
+|(Custom)|                        |(Карыстальніцкі)|
+|Save current settings as a profile.|
+    |Захаваць бягучую настройку як новы профіль.|
+|Delete currently selected profile.| |Пазбавіцца ад выбранага профілю.|
+|Current settings|                |Бягучая настройка|
+|Generate using character set:|   |Ужываць наступныя сімвалы:|
+|Length of generated password:|   |Даўжыня створанага паролю:|
+|Generate using pattern:|         |Выкарыстоўваць шаблон:|
+|Exclude look-alike characters|   |Выключаць падобныя сімвалы|
+|Options|                         |Настройка|
+|Also include the following characters:|
+    |Таксама ўжываць наступныя сімвалы:|
+|Collect additional &entropy|     |Збор дадатковай &энтрапіі|
+|Generated password|              |Створаны пароль|
+|&Generate|                       |&Стварыць|
+|&Accept|                         |&Прыняць|
+|Upper-case (A, B, C, ...)|       |Вялікія (A, B, C, ...)|
+|Lower-case (a, b, c, ...)|       |Маленькія (a, b, c, ...)|
+|Digits (0, 1, 2, ...)|           |Лічбы (0, 1, 2, ...)|
+|Underline (_)|                   |Падкрэсліванне (_)|
+|Minus (-)|                       |Мінус (-)|
+|Space ( )|                       |Прабел ( )|
+|Special|                         |Спецсімвалы|
+|High ANSI characters|            |Верхнія ANSI-сімвалы|
+|Brackets ([, ], {, }, (, ), <, >)|
+    |Дужкі ([, ], {, }, (, ), <, >)|
+|There are too few characters in the character set to build up a password matching the specified rules|
+    |Недастаткова сімвалаў для стварэння пароля, адпаведнага вызначаным правілам|
+
+|Group:|     |Група:|
+|Title:|     |Назва:|
+|User name:| |Імя:|
+|URL:|       |Спасылка:|
+|Icon:|      |Абраз:|
+|Password:|  |Пароль:|
+|Repeat:|    |Паўтор:|
+|Notes:|     |Каментарый:|
+|***|        |***|
+
+|Add Entry|                    |Даданне запісу|
+|Create a new password entry.| |Стварыце новы запіс з паролям.|
+|Edit Entry|                   |Змена запісу|
+|Modify existing password entry.| |Змяніце запіс з паролям.|
+
+|Group name:|                  |Назва групы:|
+
+|Add Group|                    |Даданне групы|
+|Create a new password group.| |Стварыце новую групу пароляў.|
+|Edit Group|                   |Змена группы|
+|Modify existing password group.| |Змяніце групу пароляў.|
+
+|Random mouse input|           |Выпадковы рух мышшу|
+|Click to begin:|              |Націскніце каб пачаць:|
+|Use &Mouse as Random Source|  |Выкарыставаць &мыш|
+|Move the mouse in the field above until this is full:|
+    |Рухайце мыш пакуль працэс не спыніцца:|
+|Hint: It is best to use both mouse and keyboard random sources.|
+    |Падказка: Выкарыстоўвайце мыш і клавіятуру разам.|
+|Random keyboard input|        |Выпадковы ўвод з клавіятуры|
+|Just hack some random keys into the edit box above.|
+    |Ўвядзіце некалькі выпадковых сімвалаў.|
+|You don't have to remember the keys you type in. They are used to generate a random value.|
+    |Запамінаць уведзеныя сімвалы не трэбы. Яны патрэбны толькі для стварэння выпадковага ліку.|
+|So, the more the better. The different, the better.|
+    |Чым больш і разнастайней, тым лепей.|
+|The random the better.|
+    |Чым больш выпадковасці, тым лепей.|
+|Get Random|                   |Атрыманне выпадковасці|
+|Get Random Data for Key Generation| |Атрыманне выпадковасці для стварэння пароля|
+|Move the mouse and type some random text to generate random values.|
+    |Парухайце мышшу і ўвядзіце выпадковы тэкст для стварэння выпадковых значэнняў.|
+
+|Choose an icon.|        |Выбраць абраз.|
+|Pick an Icon|           |Выбар абраза|
+|Choose an icon from the list of available entry and group icons.|
+    |Выбярыце абраз з спісу магчымых абразаў для запісаў і груп.|
+
+|&File|   |&Файл|
+|&Edit|   |&Змяніць|
+|&View|   |&Від|
+|&Tools|  |&Інструменты|
+|&Help|   |&Даведка|
+
+|&New...|               |Зрабіць &новы...|
+|&Open...|              |&Адчыніць...|
+|&Close|                |&Зачыніць|
+|&Save|                 |За&хаваць|
+|Save &As...|           |Захаваць &як...|
+|&Database Settings...| |На&стройкі базы пароляў...|
+|Change &Master Key...| |Змяніць асноўны &пароль...|
+|Print Pre&view...|     |Папярэдні п&рагляд...|
+|&Print...|             |На&друкаваць...|
+|&Export To|            |&Экспартаваць у|
+|&Import From|          |&Імпартаваць ужывая|
+|&Lock Workspace|       |За&блакіраваць|
+|&Unlock Workspace|     |Зняць &блакіроўку|
+|E&xit|                 |&Выйсці|
+
+|&TXT File...|                |&TXT файл...|
+|&HTML File...|               |&HTML файл...|
+|&XML File...|                |&XML файл...|
+|&CSV File...|                |&CSV файл...|
+|&KeePass Database...|        |Базу пароляў &KeePass...|
+|Code&Wallet TXT File...|     |Code&Wallet TXT файл...|
+|&PwSafe v2 TXT File...|      |&PwSafe v2 TXT файл...|
+|Personal &Vault TXT File...| |Personal &Vault TXT файл...|
+|&Get More Import Plugins...| |&Больш мадулей імпарту...|
+
+|Add &Group...|    |Дадаць &групу...|
+|Add Su&bgroup...| |Дадаць падгр&упу...|
+|Ed&it Group...|   |Зм&яніць групу...|
+|&Delete Group...| |&Выдаліть групу...|
+|Copy User &Name|  |Скапіраваць &імя|
+|Copy &Password|   |Скапіраваць &пароль|
+|Open &URL(s)|     |Адчыніць &спасылку(і)|
+|&Save Attached File To...| |Захаваць далучаны &файл...|
+|Perform Auto-&Type|        |Здзейсніць аўта&набор|
+|&Add Entry...|             |Дадаць &запіс...|
+|&Edit/View Entry...|       |Змяніць/&Агляздець запіс...|
+|Dupli&cate Entry|          |Пра&дубліраваць запіс|
+|&Delete Entry|             |Выда&ліць запіс|
+|&Modify All Selected...|   |З&мяніць ўсе вылучаныя...|
+|Se&lect All|               |В&ылучыць усе|
+|&Find in Database...|      |&Шукаць па базе пароляў...|
+|Find in t&his Group...|    |Шу&каць у групе...|
+
+|&Rearrange|       |Упа&радкаваць|
+|Pr&int Group...|  |На&друкаваць групу...|
+|&Export Group To| |&Экспартаваць групу ў|
+
+|Move Group to &Top|    |Перанесці групу ў пача&так|
+|Move Group One &Up|    |Ссунуць групу ў&гору|
+|Move Group &One Down|  |Ссунуць групу ўні&з|
+|Move Group to &Bottom| |Перанесці групу ў кане&ц|
+|Move Group One &Left|  |Перанесці групу на ўзровень &вышэй|
+|Move Group One &Right| |Перанесці групу на ўзровень &ніжэй|
+|&Sort Group List|      |&Сартаваць спіс груп|
+
+|Move Entry to &Top|             |Перанесці запіс у пача&так|
+|Move Entry &One Up|             |Ссунуць запіс у&гору|
+|Mo&ve Entry One Down|           |Ссунуць запіс уні&з|
+|Move Entry to &Bottom|          |Перанесці запіс у кане&ц|
+|Sort List by &Title|            |Сартаваць па &назве|
+|Sort List by User &Name|        |Сартаваць па &імені|
+|Sort List by &URL|              |Сартаваць па &спасылке|
+|Sort List by &Password|         |Сартаваць па &паролю|
+|Sort List by Note&s|            |Сартаваць па &каментарыю|
+|Sort List by &Creation Time|    |Сартаваць па &часу стварэння|
+|Sort List by Last &Modify Time| |Сартаваць па часу зм&ены|
+|Sort List by Last &Access Time| |Сартаваць па часу &агляду|
+|Sort List by &Expiration Time|  |Сартаваць па часу сп&ынення|
+
+|Change &Language...|                     |Змяніць &мову...|
+|Show &Toolbar|                           |Паказваць панэль &кіравання|
+|Show &Entry View|                        |Паказваць зону хуткага агляду &запіса|
+|&Always on Top|                          |&Заўседы ўгары|
+|Hide &Passwords Behind Asterisks (***)|  |Паказваць (***) замест &паролю|
+|Hide &User Names Behind Asterisks (***)| |Паказваць (***) замест &імя|
+|TAN View &Options|                       |&Настройка агляду TAN|
+|Auto-&Sort Password List|                |&Аўтасартыроўка спиісу пароляў|
+|Show &Columns|                           |П&аказваць сслупкі|
+
+|Use &Simple List View for TAN-Only Groups| |&Просты спіс пры агляду групп, змяшчаючых толькі TAN|
+|Show TAN &Indices in Entry Titles|         |Паказваць TAN &індэкс у назве запісаў|
+
+|N&o Auto-Sort|                           |&Без аўтасартыроўкі|
+
+|&Creation Time|          |&Час стварэння|
+|Last &Modification Time| |Час зм&ены|
+|&Last Access Time|       |Час &агляду|
+|&Expiration Time|        |Час сп&ынення|
+|UU&ID|                   |Ід&энтыфікатар|
+|&Attachment|             |Далучаны &файл|
+
+|Password &Generator...|           |Г&енератар пароляў...|
+|&TAN Wizard...|                   |&TAN майстар...|
+|&Repair KeePass Database File...| |Адрамантаваць &файл базы пароляў...|
+|Show &Expired Entries|            |Паказаць сп&ыненыя запісы...|
+|&Options...|                      |&Настройка...|
+|&Plugins...|                      |&Мадулі...|
+
+|&Help Contents|          |Адчыніць &даведку|
+|Visit &KeePass Homepage| |Наведаць &хатнюю страронку|
+|&Donate...|              |Зрабіць &узнос|
+|Check for Updates|       |Праверыць а&бнаўлення|
+|About &Translation...|   |Аб &перакладзе...|
+|&About KeePass...|       |&Аб праграме...|
+
+|&Tray/Untray|           |Паказаць/Схаваць у &сістэмную панэль|
+|&Lock/Unlock Workspace| |За&блакіраваць/Зняць блакіроўку|
+
+|&?| |&?|
+
+|User &name| |&Імя|
+
+|Check For Updates| |Праверка абнаўлення|
+
+|Version| |Версія|
+
+|Password and repeated password aren't identical!|
+    |Пароль і паўтор пароля адрозніваюцца!|
+
+|Stop|                         |Увага|
+|Enter a group name!|          |Увядзіце назву групы!|
+
+|No random input|              |Няма выпадковага ўводу|
+|You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
+    |Вам трэба стварыць выпадковыя значэння пры дапамозе мышы або клавіятуры перад зачыненнем дыялогу.|
+
+|EITHER enter a master password OR select a key file.|
+    |Увядзіце пароль або выбярыце ключавы файл.|
+|The password must consist of at least one character!|
+    |Пароль павінен утрымліваць не меньш аднаго сімвалу!|
+|Select at least one of the options in the list above!|
+    |Выбярыце не меньш адной опцыі ў спісе зверху!|
+
+|The following self-tests failed:|
+    |Наступныя тэсты спыніліся з памылкай:|
+|- SHA 32-bit variables|       |- SHA 32-бітныя пераменныя|
+|- SHA 64-bit variables|       |- SHA 64-бітныя пераменныя|
+|- SHA-256 test vector(s)|     |- SHA-256 тэставы вектар(а)|
+|- SHA-512 test vector(s)|     |- SHA-512 тэставы вектар(а)|
+|- Rijndael encryption|        |- Шыфраванне Rijndael|
+|- Rijndael decryption|        |- Дэшыфраванне Rijndael|
+|- Arcfour crypto routine|     |- Працэдура шыфравання Arcfour|
+|- Twofish algorithm|          |- Алгарытм Twofish|
+
+|The program will exit now.|   |Зараз праграма будзе зачынены.|
+|Self-Test(s) Failed|          |Тэст(ы) самаправеркі спыніліся з памылкай|
+
+|Clipboard cleared.|           |Буфер абмену ачышчаны.|
+|Field copied to clipboard. Clipboard will be cleared in %d seconds.|
+    |Поле скыпіравана ў буфер абмену. Буфер будзе ачышчаны праз %d секунд.|
+
+|Failed to set the master key!|
+    |Памылка пры ўсталяванні асноўнага паролю!|
+|File cannot be opened!|
+    |Немагчыма адчыніць файл!|
+|File cannot be saved!|
+    |Немагчыма захаваць файл!|
+
+|KeePass Password Safe Files|  |Файлы баз пароляў KeePass|
+|All Files|                    |Усе файлы|
+
+|The current database file has been modified|
+    |Бягучы файл базы пароляў быў зменен.|
+|Do you want to save the changes before closing?|
+    |Жадаеце захаваць змены перад зачыненнем?|
+
+|Deleting a group will delete all items and subgroups in that group, too.|
+    |Выдаленне групы таксама прыведзе к выдаленню ўсіх запісаў і падгруп у гэтай групе.|
+|Are you sure you want to delete this group?|
+    |Вы ўпэўнены, што жадаеце выдаліць гэтую групу?|
+|Delete Group Confirmation|
+    |Пацвярджэнне выдалення групы|
+
+|Cannot open temporary file for printing!|
+    |Немагчыма адчыніць часовы файл для друку!|
+
+|Load Language File|           |Змена мовы|
+|Load a Language File|         |Загрузка моўнага файла|
+|Select one of the languages in the list below.|
+    |Выбярыце адну з моў са спісу ніжэй.|
+|Available Languages|          |Даступныя мовы|
+
+|Open &Help File|              |Адчыніць &даведку|
+|Open &License File|           |Адчыніць &ліцэнзію|
+
+|Newline sequence:|            |Паслядоўнасть сімвалаў для новага радка:|
+|Windows newline sequence (\r\n)|              |Як у Windows (\r\n)|
+|Unix newline sequence (\n)|   |Як у Unix (\n)|
+|Clipboard auto-clear time (seconds):|   |Затрымка перад аўтаачысткай буфера абмену (секунд):|
+|Settings|                     |Настройка|
+|Here you can configure KeePass.|              |Тут можна настроіць KeePass.|
+|Automatically open last used database on startup|
+    |Адчыняць апошнюю базу пароляў пасля запуску|
+|Automatically save when closing/locking the database|
+    |Захоўваць базу пароляў пры выхадзе і заблакіраванні|
+|Display images on buttons|
+    |Показваць малюнкі на кнопках|
+|Show grid lines in password entry list|
+    |Показваць лініі ў спісе запісаў|
+|Workspace is locked.|
+    |База пароляў заблакіравана.|
+|Workspace locked|
+    |База пароляў заблакіравана|
+
+|Loading error|                |Памылка загрузкі|
+|Language file cannot be opened!|
+    |Немагчыма адчыніць моўны файл!|
+|Language file cannot be registered!|
+    |Немагчыма зарэгістраваць моўны файл!|
+|The language file has been installed.|
+    |Моўны файл усталяваны.|
+|You must restart KeePass in order to use the new language.|
+    |Трэба перазапусціць KeePass для выкарыстоўвання новай мовы.|
+|Do you wish to restart KeePass now?|
+    |Вы жадаеце перазапусціць KeePass зараз?|
+|Restart KeePass?|
+    |Перазапуск KeePass?|
+|Application cannot be restarted automatically!|
+    |Немагчыма перазапусціць праграму аўтаматычна!|
+|Please restart KeePass manually.|
+    |Калі ласка, перазапусціце KeePass уручную.|
+
+|CSV Files|                    |CSV файлы|
+|Text Files|                   |Тэсктавыя файлы|
+|An error occurred while importing the file. File cannot be imported.|
+    |У час імпарта файла здарылася памылка. Немагчыма праімпартаваць файл.|
+|Select &Font|                 |Выбар &шрыфта|
+|Select a new font for the list controls:|     |Выбярыце новы шрыфт для спісаў:|
+
+|&Get more languages...|       |&Больш моў...|
+|Start and exit|               |Запуск і выхад|
+|Interface (GUI)|              |Інтэрфейс|
+|Files|                        |Файлы|
+|Memory|                       |Памяць|
+|Lock workspace when minimizing the main window|
+    |Блакіраваць базу пры згортыванні галоўнага акна|
+|Minimize to tray instead of taskbar|
+    |Згортываць у сістэмную панэль замест панэлі задач|
+
+|Encryption algorithm to use (for this database):| |Алгарытм шыфравання (для бягучай базы пароляў):|
+|Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
+    |Advanced Encryption Standard (AES) (128-бітны блочны шыфр ужывая 256-бітны ключ)|
+|Twofish (128-bit block cipher using 256-bit key)|
+    |Twofish (128-бітны блочны шыфр ужывая 256-бітны ключ)|
+|Security|                     |Бяспека|
+|KeePass is OSI Certified Open Source Software.|
+    |KeePass - OSI сертыфіцыраванае праграма з адкрытым кодам.|
+|Lock workspace after the following idle time (seconds):|
+    |Аўтаматычна блакіраваць базу праз (секунд):|
+|&Group name|                  |Назва &групы|
+|Every second row has a different background color. Use this color:|
+    |Кожны другі радок мае іншы колер фону. Ужывать наступны колер:|
+|Default|                      |Па змаўчанню|
+|More Colors...|               |Больш колераў...|
+|Search Results|               |Вынікі пошука|
+
+|Creation Time|     |Час стварэння|
+|Last Modification| |Час змены|
+|Last Access|       |Час агляду|
+|Expires|           |Час спынення|
+|UUID|              |Ідэнтыфікатар|
+
+|Visit KeePass Homepage|       |Наведаць хатнюю страронку|
+|Field copied to clipboard.|   |Поле скапіравана ў буфер абмену.|
+
+|A key file already exists on this drive. Do you want to overwrite or reuse it?|
+    |Такі ключавы файл ужо існуе. Жадаеце перапісаць яго або ўжыць паўторна?|
+|Overwrite?|                   |Перапісаць?|
+|Expires:|                     |Спыніць:|
+|Change group:|                |Змяніць групу:|
+|Change entry icon:|           |Змяніць абраз:|
+|Change expiration time:|      |Змяніць час спынення:|
+|Mass Modify|                  |Масавая змена|
+|Change fields of all selected entries|        |Змяніце наступныя паля ва ўсіх вылучаных запісах|
+
+|Automatically resize table columns when resizing the main window|
+    |Аўтаматычна змяняць шырыню слупкоў табліцы пры змене памераў акна|
+
+|&Undo|       |&Скасаваць|
+|Cu&t|        |&Выразаць|
+|&Copy|       |&Капіраваць|
+|&Paste|      |&Уставіць|
+|&Delete|     |Вы&даліць|
+|Copy &All|   |Ка&піраваць усе|
+|&Select All| |Вы&лучыць усе|
+
+|TAN Wizard|                   |TAN майстар|
+
+|Using this wizard you can easily add TAN entries.|
+    |Гэты майстар прызначаны для спрошчанага дадання TAN запісаў.|
+
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
+    |Устаўце вашы TANы ў поле рэдагавання ніжэй. Сімвалы, якія яўна не вызначаны як TAN сімвалы, лічацца раздзяляльнікамі. Толькі падрадкі, якія складаюцца з TAN сімвалаў, будут далучаны як TAN запісы.|
+
+|<TAN>|                        |<TAN>|
+
+|Translation information|      |Аб перакладзе|
+|Currently Used Language|      |Бягучая мова|
+|Language File Version|        |Версія моўнага файла|
+|Author|                       |Аўтар|
+|Translation Author Contact|   |Адрас перакладчыка|
+
+|Attachment:| |Далучэнне:|
+|Attachment|  |Далучэнне|
+
+|Generate a random password...|           |Стварыць выпадковы пароль...|
+|Open file and set as attachment...|      |Адчыніць файл і далучыць...|
+|Save attached file to disk...|           |Захаваць далучаны файл...|
+
+|There already is a file attached with this entry.|           |У запіса ўжо ёсць далучаны файл.|
+|Do you want to overwrite the current attachment?|            |Перапісаць існуючае далучэнне?|
+|There is no file attached with this entry.|                  |У запіса няма далучанага файла.|
+|Remove the currently attached file|      |Выдаліць далучаны файл|
+
+|Close button [X] minimizes the main window instead of terminating the application|
+    |Згорваць акно пасля націскання на кнопку закрыцця [X] замест завяршэння праграмы|
+
+|KeePass Password Database|               |База пароляў KeePass|
+|&Open with KeePass|                      |&Адчыніць ужывая KeePass|
+|Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
+    |Тут можна прычапіць .kdb файлы да KeePass (KeePass адчыне файл пасля двайной пстрычкі па ём):|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|
+    |KeePass прычэплены да .kdb файлам! Двайная пстрычка па .kdb файлу адчыне KeePass аўтаматычна.|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
+    |Прычэпка .kdb файлаў да KeePass была выдалена! Зараз KeePass не адчыніца пасля двайной пстрычке па .kdb файлу.|
+|Create &Association|                     |Пры&чапіць|
+|&Remove Association|                     |&Выдаліць прычэпку|
+|Setup|                                   |Настройка|
+|Password List|                           |Спіс пароляў|
+|Exit?|                                   |Выйсці?|
+|The file couldn't be saved.|             |Немагчыма захаваць файл.|
+|Maybe it's read-only or the storage media has been removed.|
+    |Магчыма ён толькі для чытання або ўстройства хавання было выдалена.|
+|If you exit now, all changes to the current database will be lost.|
+    |Калі вы выйдзіце зараз, усе змены ў бягучай базе пароляў будут страчаны.|
+|Would you like to exit anyway?|          |Ці жадаеце вы выйсці ўсё роўна?|
+|Cannot access the selected drive.|       |Няма доступу да выбранага дыску.|
+|Make sure a writable medium is inserted.||Праверце што дыск для запісу ўстаўлены.|
+|Not enough free disk space!|             |Недастатковы свабоднага месца на дыске!|
+|Disable unsafe (security-critical) operations like exports, etc.|
+    |Забараняць небяспечныя аперацыі накшталк экспарта і іншых|
+|Unsafe operations are disabled.|         |Небяспечныя аперацыі забаронены.|
+|To execute this operation you must enable unsafe operations in the options dialog.|
+    |Для выконвання гэтай аперацыі вам трэба дазволіць небяспечныя аперацыі ў дыялогу настройкі.|
+|You have changed an option that requires restarting KeePass to get active.|
+    |Вы змянілі опцыю, якая патрабуе перазапуск KeePass для яе актывацыі.|
+|Expired Entries|                         |Спыненыя запісы|
+|This is a list of all expired entries|   |Гэта спіс усіх спыненых запісаў|
+|Click on an entry to jump to it.|        |Націскніце па запісу каб перайсці да яго.|
+|Quality:|                                |Якасць:|
+|Database Settings|                       |Настройка базы пароляў|
+|Here you can configure the current database.| |Тут можна змяніць настройку бягучай базы пароляў.|
+|Database Summary|                        |Зводка па базе пароляў|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
+    |Ваш асноўны пароль шыфруеца некалькі разоў да атрымання канчатковага ключа шыфравання базы пароляў. Гэта дадаст няшмат часу але значна ўскладніт ужыванне ацэначных атак і атак па слоўніку.|
+|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
+   |Чым вышэй гэты лік, тым складаней атакі па слоўніку. Але чым больш гэты лік, тым даўжэй загружаецца і захоўваецца база пароляў.|
+|Number of key encryption rounds:|        |Колькасць цыклаў шыфравання:|
+|bits|                                    |біт|
+|Imported from Password Safe|             |Праімпартавана з Password Safe|
+|Remember last opened file|               |Запамінаць апошні адчынены файл|
+|Total number of groups / entries|        |Агульная колькасць груп / запісаў|
+|Total: %u groups / %u entries|           |Усяго: %u груп, %u запісаў|
+|%u of %u selected|                       |%u з %u вылучана|
+|Number of selected entries (number of entries in the list)| |Колькасць вылучаных запісаў (колькаць запісаў у спісе)|
+|Status|                                  |Стан|
+|The database file has been modified!|    |Файл базы даных быў змянён!|
+|Most probably someone has changed the file while you were editing it.| |Больш пэўна хтосьці змяніў файл пакуль вы з ім працавалі.|
+|Do you want to overwrite it?|            |Вы жадаеце перапісаць яго?|
+|The group you selected cannot store entries. Please select a different group.|
+    |У бягучай групе немагчыма захаваць запісы. Калі ласка, выбярыце іншую групу.|
+|This will remove all selected entries unrecoverably!|
+    |Выдаленне ўсіх вылучаных запісаў будзе незваротна!|
+|Are you sure you want to delete all selected entries?|
+    |Вы ўпэўнены, што жадаеце выдаліць усе вылучаныя запісы?|
+|Delete Entries Confirmation|             |Пацвярджэнне выдалення запісаў|
+|Use PuTTY for ssh: and telnet: URLs|     |Выкарыстоўваць PuTTY для ssh: і telnet: спасылак|
+|Mark database as modified on last-access time change|
+    |Памячаць базу пароляў як змененую пры аглядзе|
+|Auto-sorting of the password list is enabled, you cannot move entries manually.|
+    |Аўтасартаванне спіса пароляў уключана - немагчыма перамяшчаць запісы ўручную.|
+|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
+    |Аўтасартаванне спіса пароляў уключана - немагчыма сартаваць запісы ўручную.|
+|Select key file manually...|             |Выбраць ключавы файл уручную...|
+|Save key file manually to...|            |Захаваць ключавы файл уручную як...|
+|Enter the new composite master key.|     |Увядзіце новы састаўны пароль.|
+|Repeat the new master password for this database.|
+    |Паўтарыце ўвод новага паролю для бягучай базы пароляў.|
+|Change Composite Master Key|             |Змена састаўнога паролю|
+
+|&Disable|             |&Адключыць|
+|&Enable|              |&Падключыць|
+|About &Plugin...|     |Аб &модуле...|
+|An error occurred|    |Атрымалася памылка|
+|Auto-Type|            |Аўтанабор|
+|Clipboard behavior:|  |Паводзіны буфера абмену:|
+|Enabled, loaded|      |Падключаны, загружаны.|
+|Encryption/decryption error|     |Памылка шыфравання/дэшыфравання|
+|Enhanced: allow pasting only once and protect against clipboard spies|
+    |Пашыраны: дазваляе толькі адну ўстаўку і абараняе ад праграм, якія сачаць за буферам|
+|Error code|           |Код памылкі|
+|Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
+    |Немагчыма змяніць прычэпку .kdb файлаў. Праверце што вы маеце права каб пісаць у рэестры і мяняць прычэпкі файлаў.|
+|File access error: failed to open file in read mode|   |Памылка доступа да файла: немагчыма адчыніць файл у рэжыме чытання|
+|File access error: failed to open file in write mode|  |Памылка доступа да файла: немагчыма адчыніць файл у рэжыме запісу|
+|File error: error while reading from the file|         |Файлавая памылка: памылка ў час чытання з файла|
+|File error: error while writing to the file|           |Файлавая памылка: памылка ў час запісу ў файл|
+|Get more plugins...|  |Больш мадулей...|
+|Global auto-type hot key combination:|                 |Глабальная "гарачая" камбінацыя клавіш для аўтанабора:|
+|Help:|                |Даведка:|
+|Here you can configure all installed KeePass plugins.| |Тут можна наладзіць усе ўсталяваныя мадулі для KeePass.|
+|If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
+    |Калі ў вас з'явяцца праблемы пры ўжыванні пашыранага рэжыма, пераключыцеся назад у часовы рэжым ачысткі буферу.|
+|Internal error|       |Унутраная памылка|
+|Invalid parameter|    |Недакладны параметр|
+|Invalid random source| |Недакладная крыніца выпадковасцей|
+|Invalid/corrupted file structure| |Недакладная/сапсаваная структура файла|
+|Invalid/wrong key|    |Недакладны пароль|
+|KeePass - Save Before Close/Lock?| |KeePass - захаваць перад зачыненнем/блакіроўкай?|
+|Most probably another application has reserved this hot key already.|
+    |Больш магчыма што іншая праграма ўжо зарэзервіравала гэтую "гарачую" клавішу.|
+|Never expires|        |Ніколі не спыняецца|
+|Number the TANs consecutively, starting from this value| |Нумараваць TANы паслядоўна, пачыная з гэтага значэння|
+|Plugin|               |Модуль|
+|Plugins|              |Мадулі|
+|Success|              |Паспяхова|
+|Timed: copy data to the clipboard and clear it automatically after some seconds|
+    |Часовы: аўтаматычна ачышчаць буфер абмену праз некалькі секунд пасля капіравання|
+|Too little memory (RAM) available|    |Нехапае памяці (АЗУ)|
+|Cannot register the global hot key.| |Немагчыма зарэгістраваць глабальную "гарачую" клавішу.|
+|Unknown error|        |Невядомая памылка|
+|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
+    |Увага! Гэты рэжым можа рабіць няправільна ў вашай сістэме, асабліва калі вы ўжываеце праграмы для пашырэння нагчымасцей буфера абмену.|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
+    |Вы можыце ўсталяваць іншую "гарачую" камбінацыю клавіш у 'Інструменты' - 'Настройка' - 'Пашыраныя' - 'Аўтанабор'.|
+|You've selected the AND key mode, so you must enter a password AND select a key file.|
+    |Вы выбралі рэжым "і" для ўвода паролю, таму вам трэба ўвесці пароль і выбраць ключавы файл.|
+
+|Advanced| |Пашыраныя|
+|Backup|   |Рэзерваванне|
+|Click [Cancel] to abort changing the key.| |Націскніце [Адмена] для спынення змены ключа.|
+|Click [No] to reuse the selected key file for this database.|
+    |Націскніце [Не] для паўторнага ўжывання выбранага ключавога файла для бязучай базы.|
+|Click [Yes] to overwrite the key file.|    |Націскніце [Да] каб перапісаць ключавы файл.|
+|Failed to create backup of this entry!|    |Немагчыма стварыць копію бягучага запісу!|
+|Immediately after opening a database|      |Адразу пасля адкрыцця базы пароляў|
+|Integration| |Інтэграцыя|
+|Start minimized and locked| |Запускаць у згортуным і заблакіраваным становішчы|
+|Save backups of modified entries into the 'Backup' group| |Захоўвать копіі запісаў у групе "Рэзерваванне" перад зменай|
+|Show entries that will expire soon (if any)| |Паказваць запісы, якія хутка будут спынены (калі яны ёсць)|
+|Show expired entries (if any)| |Паказваць спыненыя запісы (калі яны ёсць)|
+|Start KeePass at Windows startup (for current user)| |Запускаць KeePass у час запуску сістэмы (для бягучага карыстальніка)|
+|Unable to create/remove the auto-start key of KeePass in the Windows registry!|
+    |Немагчыма стварыць/выдаліць запіс у рэестры каб аўтаматычна запускаць KeePass!|
+
+|Encode/replace newline characters by '\n'|  |Змяняць сімвал новага радка на '\n'|
+|Export Options|   |Настройка экспарту|
+|Export backup entries (entries in the 'Backup' group)| |Экспартаваць рэзервныя запісы (з групы "Рэзерваванне")|
+|Fields to export| |Паля для экспарту|
+|Group Tree|       |Дрэва груп|
+|Here you can customize the exported files.| |Тут можна настроіць экспартуемыя файлы.|
+|Icon|             |Абраз|
+|The composite master key has been changed!| |Састаўны асноўны пароль зменен!|
+|Save the database now in order to get the new key applied.|
+    |Захавайце базу пароляў каб скарыстаць новы асноўны пароль.|
+
+|1 Month|  |1 месяц|
+|1 Week|   |1 тыздень|
+|2 Weeks|  |2 тыдня|
+|3 Months| |3 месяца|
+|By default, new entries expire in the following number of days:|
+    |Па змаўчанню, час ужывання новых запісаў спыняецца праз (дзён):|
+|Calculate rounds for a 1-second delay on this computer|
+    |Падлічыць колькасць цыклаў для 1-секунднага інтэрвалу на гэтым кампутары|
+|Click to expire the entry in %u days|
+    |Націскніце каб спыніць запіс праз %u дзён|
+|Exclude entries in the '&Backup' group|
+    |Не шукаць у групе '&Рэзерваванне'|
+|Field has been pasted.|     |Поле ўстаўлена.|
+|Limit to single instance|   |Абмяжоўваць адзіным экземплярам|
+|Paste operation completed.| |Аперацыя ўстаўкі завяршана.|
+|Single left click instead of double-click for default tray icon action|
+    |Адзіная пстрычка (замест двайной) левай кнопкай мышы па абразу ў сістэмнай панэлі для змаўчанага дзеяння|
+|The program is distributed under the terms of the GNU General Public License v2 or later.|
+    |Гэта праграма распаўсюджваецца па прынцыпу GNU General Public License v2 або вышей.|
+|Use more secure password edit controls|
+    |Выкарыстоўваць больш беспечныя паля ўводу пароляў|
+|Waiting for paste command.| |Чаканне аперацыі ўстаўкі.|
+
+|1 Year|     |1 год|
+|6 Months|   |6 месяцаў|
+|Include backup entries in quick searches (toolbar)|
+    |Далучаць рэзервныя запісы да выніку хуткага пошука (на панэлі кіравання)|
+
+|Delete all backup entries before saving the database| |Выдаляць усе рэзервныя запісы перад захаваннем базы пароляў|
+|Press Shift-Home or Shift-End to clear this edit control| |Націскніце Shift-Home або Shift-End каб ачысціць гэта поле|
+|Use alternative auto-type method (minimize window)| |Ужываць альтэрнатыўны метад аўтанабора (згортываць акно)|
+
+|Acknowledgements| |Падзякі|
+|Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
+    |Павінен лі KeePass ужываць асноўны пароль адчыненай зараз базы або прапанаваць стварыць новы асноўны пароль для экспартуемага файла.|
+|Click [Yes] to use the same key as the currently opened database.| |Націскніце [Да] каб ужываць асноўны пароль адчыненай зараз базы.|
+|Click [No] to set a new key for the exported file.|                |Націскніце [Не] каб стварыць новы асноўны пароль для экспартуемага файла.|
+|Reuse the current key/password?| |Ужываць паўторна бягучы пароль?|
+|Show full path in the title bar (instead of file name only)| |Паказваць поўны шлях у загалоўке (замест толькі назвы файла)|
+|The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
+    |Выбраны фармат імпартуемага файла падтрымлівае ідэнтыфікатары для груп і/або запісаў. Выбярыце рэжым імпартавання.|
+|Create new IDs|     |Ствараць новыя ідэнтыфікатары|
+|If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
+    |Калі вы выбярыце гэту опцыю, KeePass створыць новыя ідэнтыфікатары для ўсіх груп і запісаў. Таму ўсе існуючыя групы і запісы ў бягучай адчыненай базе пароляў будут пакінуты без змен.|
+|Overwrite|          |Перапісываць|
+|KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
+    |KeePass зменіць ўсе існуючыя групы і запісы на новыя з імпартуемага файла, калі яны маюць аднолькавыя ідэнтыфікатары.|
+|Overwrite if newer| |Перапісываць новыя|
+|KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
+    |KeePass параўнуе час змены груп/запісаў і заменіць існуючыя толькі, калі імпартуемыя больш новыя.|
+
+|Copy &URL to Clipboard| |Скапіраваць &спасылку ў буфер абмену|
+|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
+    |Капіраваць спасылкі ў буфер абмену замест іх адчынення (за выключэнням cmd://)|
+|Enable auto-type features| |Падключыць аўтанабор|
+
+|Auto-Type Entry Selection| |Выбар запісу для аўтанабора|
+|Click [No] to open the file in normal writing mode.| |Націскніце [Не] каб адчыніць файл у рэжыме запісу.|
+|Click [Yes] to open the file in read-only mode.| |Націскніце [Да] каб адчыніць файл у рэжыме чытання.|
+|Click on an entry to auto-type it.| |Націскніце на запіс каб зрабіць яе аўтанабор.|
+|Exit program instead of locking the workspace after the specified time|
+    |Выходзіць з праграмы замест блакіравання базы праз зазначаны час|
+|Multiple entries exist for the current window. Please select the entry to auto-type.|
+    |Існуе некалькі адпаведных запісаў для бягучага акна. Калі ласка, выберыце запіс для аўтанабора.|
+|Now| |Зараз|
+|Open the file in read-only mode?| |Адчыніць файл у рэжыме чытання?|
+|The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
+    |Файл, які вы спрабуеце адчыніць, заблакіраван - адчынен на рэдагаванне з іншай праграмы.|
+
+|'Keyfile' or 'preselect' option is already specified| |'Keyfile' або 'preselect' опцыя ўжо зазначана|
+|'Pw' option is already specified| |'Pw' опцыя ўжо зазначана|
+|Cache error (cannot open cached file).| |Памылка кэшу (немагчыма адчыніць файл кэшу).|
+|Check for updates at KeePass startup| |Правяраць абнаўлення адразу пасля запуску KeePass|
+|Command line argument| |Аргумент каманднага радка|
+|Connect failed, cannot check for updates.| |Няма злучэння - немагчыма праверыць абнаўлення.|
+|Database is already specified| |База пароляў ужо выбрана|
+|Disable 'Save' button if the database hasn't been modified| |Блакіраваць кнопку 'Захаваць' калі база пароляў не мянялась|
+|Use local date/time format instead of ISO notation| |Ужываць лакальны фармат даты/часу замест ISO|
+|Filename not found| |Файл не знайдзен|
+|It contains an unmatched quote| |Ёсць няпарнае двукоссе|
+|KeePass Initialization| |Устаноўка KeePass у зыходнае становішча|
+|New version available.| |З'явілася новая версія.|
+|Option not recognized| |Опцыя не распознана|
+|Password is empty| |Пусты пароль|
+|Path is invalid| |Недакладны шлях|
+|Reason| |Прычына|
+|You have the latest version.| |Вы маеце апошнюю версію.|
+|ignored| |праігнараваны|
+
+|&Deny| |&Адмовіць|
+|&Full| |&Поўны доступ|
+|&Read-Only| |&Толькі чытанне|
+|An application requests access through inter-process communication|
+    |Іншая праграма запытала доступ на між-працэснае злучэнне (IPC)|
+|An entry already exists for the current URL.|
+    |Запіс з такой спасылкай ужо існуе.|
+|Application| |Праграма|
+|Do you grant the application access to your KeePass database?|
+    |Дазволіць гэтай праграме доступ да базы пароляў KeePass?|
+|Fields to remember| |Паля для запамінання|
+|Incoming IPC Request| |Уваходзячае IPC запытанне|
+|Lock workspace when locking Windows, switching user or sleeping|
+    |Блакіраваць базу пры блакіроўке Windows, пераключэнні карыстальніка або пераходзе ў спячы рэжым|
+|Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
+    |Майце наўвазе, што загаловак праграмы дадзены ім самім і таму можа быць няправільным (такім чынам зламыснікі могуць паспрабаваць набыць доступ да вашых пароляў).|
+|Select the fields KeePass should remember| |Выбярыце паля, якія KeePass павінен помніць|
+|The following application requests access to your currently opened KeePass database:|
+    |Наступная праграма запытала доступ да бягучай адчыненай базе пароляў KeePass:|
+|Unknown| |Невядомы|
+|Value| |Значэнне|
+|Enable remote control (allow applications to communicate with KeePass)|
+    |Дазваляць аддаленае кіраванне (іншыя праграмы могуць мець зносіны з KeePass)|
+
+|Attachment Description| |Апісанне далучэння|
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
+    |Праверце, што носьбіт ключавога файла далучаны і KeePass мае права доступу да яго (праверце права доступу да файла, ўпэўніцесь, што іншыя праграмы не блакіруюць файл, ...).|
+
+|Arguments| |Аргументы|
+|Failed to save the configuration.| |Памылка захавання канфігурацыі.|
+|Hide passwords behind asterisks (***).| |Паказваць (***) замест паролю|
+|Locked| |Заблакіравана|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
+    |Калі ласка ўвядзіце імя новага профілю або выбярыце існуючы профіль, каб перапісаць яго:|
+|Profile| |Профіль|
+|Randomly permute characters of password| |Выпакова пераблытаць сімвалы паролю|
+|Save as Profile| |Захаваць як профіль|
+|Save current settings as password generator profile.| |Захаваць багучую настройку як профіль генератара пароляў.|
+|TANs consist of the following characters:| |TANы складаюцца з наступных сімвалаў:|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?|
+    |Файл даведкі ўтрымлівае падрабязную інфармацыю аб чаканам уваходнам фармаце. Вы жадаеце адчыніць даведку?|
+
+|Advanced Password Generator Options| |Пашыраныя опцыі генератара пароляў|
+|Clear Search History| |Ачысціць гісторыю пошукаў|
+|Default user name for new entries:| |Абмоўленае імя для новых запісаў:|
+|Exclude the following characters:| |Выключаць наступныя сімвалы:|
+|Fields to print| |Паля для друкавання|
+|Here you can customize the printed sheet.| |Тут можна настроіць старонку для друкавання.|
+|Each character must occur at most once| |Кожны сімвал павінен сустракацца не больш аднаго раза|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
+    |Опцыі/правілы, памечаныя зорачкай, памяншаюць ахаванасть ствараемых пароляў. Уключайце іх толькі, калі гэта патрабуецца.|
+|Print Options| |Настройка друку|
+|Print backup entries (entries in the 'Backup' group)| |Друкаваць рэзервныя запісы (запісы з групы 'Рэзерваванне')|
+|Provider| |Пастаўшчык|
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
+    |Зарэгістраваць Ctrl-Alt-K камбінацыю клавіш (каб рабіць KeePass актыўным акном)|
+|Regular expression| |Рэгулярны выраз|
+|Search...| |Пошук...|
+|TANs are imported into the currently selected group| |TAN-ы праімпартаваны ў бягучую групу|
+|The key provider plugin did not supply a valid key| |Модуль пастаўшчыка ключоў не даў дапушчальны ключ|
+|Type to search the database| |Увядзіце фразу для пошука|
+|in "Minimal functionality" mode| |у рэжыме "Найменшага функцыяналу"|
+
+|Abort specifying a new key for the current database.| |Спыніць змяненне ключа бягучай базы пароляў.|
+|Abort the current operation.| |Спыніць бягучую аперацыю.|
+|Always grant full access through remote control (not recommended)| |Заўсёды дазваляць поўны доступ праз аддаленае кіраванне (не рэкамендуецца)|
+|Auto-Type: Help| |Аўтанабор: Дапамога|
+|Auto-Type: Select Target Window...| |Аўтанабор: Выбар мэтавага акна...|
+|Cancel| |Адмена|
+|Copy [of an item]| |Копія [элемента]|
+|Discard all changes made to the database and close the file.| |Скасаваць усе змяненні ў базе пароляў і зачыніць файл.|
+|Discard all changes made to the database and exit KeePass.| |Скасаваць усе змяненні ў базе пароляў і выйсці з KeePass.|
+|Discard all changes made to the database and lock the KeePass workspace.| |Скасаваць усе змяненні ў базе пароляў і заблакіраваць KeePass.|
+|Discard changes| |Скасаваць змяненні|
+|Focus entry list after a successful quick search (toolbar)|
+    |Усталяваць фокус на спісе запісаў пасля паспяховага хуткага пошука (на панэлі кіравання)|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
+    |Стварыць новы ключ і перапісаць існуючы ключавы файл. Быгучы ключ будзе страчан.|
+|KeePass will not be closed.| |KeePass не будзе зачынен.|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|
+    |Загрузіць існуючы ключавы файл і ўжыць яго як ключ для бягучай базы пароляў. Ключавы файл не зменіцца.|
+|Overwrite existing key file?| |Перапісаць існуючы ключавы файл?|
+|Reuse| |Ужыць паўторна|
+|Save| |Захаваць|
+|Save all changes made to the database and close the file.| |Захаваць усе змяненні і зачыніць файл.|
+|Save all changes made to the database and exit KeePass.| |Захаваць усе змяненні і выйсці з KeePass.|
+|Save all changes made to the database and lock the KeePass workspace.| |Захаваць усе змяненні і заблакіраваць KeePass.|
+|Save database changes before closing the file?| |Захаваць змяненні перад зачыненнем файла?|
+|Save database changes before exiting KeePass?| |Захаваць змяненні перад выхадам з KeePass?|
+|Save database changes before locking the workspace?| |Захаваць змяненні перад блакіроўкай KeePass?|
+|Select the target window for the current entry.| |Выбярыце мэтавае акно для бягучага запісу.|
+|The KeePass workspace will not be locked.| |KeePass не будзе заблакіраван.|
+|The estimated quality of the master password must be at least %u bits!|
+    |Чакаемая якасць асноўнага паролю павінна быць не меньш за %u біт(а)!|
+|The file will not be closed.| |Файл не будзе зачынен.|
+|The master password must be at least %u characters long!| |Асноўны пароль павінен быць не меньш за %u сімвал(а)|
+|The selected key file already exists| |Выбраны ключавы файл ужо існуе|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
+    |Каб зазначыць мэтавае акно, выбярыце яго з спісу адчыненых акон, або ўвядзіце загаловак акна:|
+|URL Field: Help| |Поле спасылкі: Дапамога|
+|URL Field: Insert Placeholder| |Поле спасылкі: Уставіць шаблон|
+|URL Field: Select Application...| |Поле спасылкі: Выбар праграмы...|
+|URL Field: Select Document...| |Поле спасылкі: Выбар дакумента...|
+
+|Default auto-type sequence for standard entries:| |Паслядоўнасць клавіш для аўтанабору па змаўчанню:|
+|Drop to background when copying data to the clipboard| |Згортываць пры капіраванні даных ў буфер|
+|Field to reference| |Поле для спасылкі|
+|Here you can configure auto-type.| |Тут можна настроіць аўтанабор.|
+|Identify source entry by| |Вызначаць запіс-крыніцу па полю|
+|In Notes Field| |У поле Каментарый|
+|In Password Field| |У поле Пароль|
+|In Title Field| |У поле Назва|
+|In URL Field| |У поле Спасылка|
+|In User Name Field| |У поле Імя|
+|Insert Field Reference| |Уставіць спасылку на поле|
+|Multiple entries match the specified identifying field.| |Некалькі запісаў маюць аднолькавае значэнне ў выбраным полі.|
+|Prepend special initialization sequence for Internet Explorer windows|
+    |Спачатку ўставіць спецыяльную паслядоўнасць для Internet Explorer|
+|Source field to reference| |Поле для спасылкі|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
+    |Поле, якое вызначае запіс-крыніцу, ўтрымлівае недапушчальныя сімвалы ('{', '}', новы радок, ...).|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
+    |Мэтавы файл магчыма сапсаваны. Калі ласка паспрабуйце захаваць зноў. Калі не атрымаецца, захавайце базу пароляў у іншае месца.|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
+    |Каб пазбегнуць няпэўнасць, лепш вызначаць запіс па яго ідэнтыфікатару, які ўнікальны.|
+
+|Auto-Type: Customize Sequence| |Аўтанабор: Настроіць|
+|Clear clipboard when closing/locking the database| |Ачышчаць буфер абмену пры зачыненні/блакіроўке базы пароляў|
+|Exclude &expired entries| |Выключаць сп&ыненыя запісы|
+|Include expired entries in quick searches (toolbar)| |Далучаць спыненыя запісы да выніку хуткага пошука (на панэлі кіравання)|
+|Normal| |Звычайны|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.|
+    |Адчыніць файл у рэжыме для чытання. Змяненні можна захаваць у іншы файл.|
+|Read-only| |Толькі для чытання|
+|Sort items in the auto-type entry selection dialog| |Сартаваць запісы ў акне выбара запісаў для аўтанабора|
+|Take ownership of the file and open it in normal writing mode.| |Узяць файл у манапольнае карыстанне і адчыніць яго ў звычайным рэжыме запісу.|
+
+|Choose between local help and online help center.| |Выбар паміж лакальным файлам і цэнтрам даведкі.|
+|Help &Source...| |&Крыніца даведкі...|
+|Help Source| |Крыніца даведкі|
+|Local help file| |Лакальны файл дапамогі|
+|Online help center| |Даведачны цэнтр з сайта праграмы|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
+    |Лакальны файл дапамогі - гэта стан дакументацыі на момант выхада версіі праграмы. Ён не абнаўляецца аўтаматычна.|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|
+    |Даведачны цэнтр заўсёды змяшчае апошнюю версію дакументацыі. У гэтым выпадку абавязкова патрэбна падключэнне к інтэрнэту.|
+|This option is disabled, because local help is not installed.| |Опцыя заблакіравана, т.ш. даведка не ўсталявана лакальна.|
+|Use the following help source when a "Help" button within KeePass is clicked:| |Пры націсканні на кнопку "Дапамога", ўжываць наступную крыніцу:|
+
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)| |Ужываць пашыраную абарону памяці (DPAPI, толькі Vista і вышэй)|
+
+|%u updates are available!| |Даступна %u абнаўленняў!|
+|1 update is available!| |Даступна 1 абнаўленне!|
+|Available| |Даступна|
+|Component| |Кампанент|
+|Delete TAN entries immediately after using them| |Выдаліць TAN запіс адразу пасля яго выкарыстовывання|
+|Installed| |Устаноўлена|
+|KeePass 1.x cannot open KDBX files.| |Немагчыма адчыніць KBDX файл з KeePass 1.x.|
+|No updates available.| |Абнаўленняў нямя.|
+|Please choose a different name.| |Калі ласка, выбярыце іншую назву.|
+|Plugin unknown.| |Невядомы модуль.|
+|Pre-release version.| |Перадвыпускная версія.|
+|The specified name is reserved.| |Выбраная назва зарэзервавана.|
+|Up to date.| |Актуальны.|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)| |Выкарыстоўваць CNG/BCrypt для трансфармацыі пароля (толькі Windows Vista і вышей)|
+|Use the KeePass 2.x 'Export' feature to migrate this file| |Паспрабуйце экспартаваць гэты файл з KeePass 2.x|
+|see the <A HREF="h">help manual</A> for details.| |больш падрабязна ў <A HREF="h">даведке</A>.|
+
+|Ctrl| |Ctrl|
+|Use file transactions for writing databases| |Выкарыстовываць файлавыя транзацыі пры захаванні базы пароляў|
+
+|Do&n't delete| |&Не выдаляць|

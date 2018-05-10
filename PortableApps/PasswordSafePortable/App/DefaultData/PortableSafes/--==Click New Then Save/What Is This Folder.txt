@@ -1,0 +1,1 @@
+This folder is designed to trick Password Safe's file handler to prompt the user to create a new password safe in the PortableSafes directory.

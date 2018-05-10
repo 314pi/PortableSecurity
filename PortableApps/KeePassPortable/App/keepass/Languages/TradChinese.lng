@@ -1,0 +1,1374 @@
+|~LANGUAGENAME|
+|繁體中文(臺灣)|
+|~LANGUAGEVERSION|
+|1.35 - 1|
+|~LANGUAGEAUTHOR|
+|高祥元 (Kao Shiang-Yuan)|
+|~LANGUAGEAUTHOREMAIL|
+|rd_taiwan A@T users _D/O/T_ sourceforge.net|
+|&File|
+|檔案(&F)|
+|&Edit|
+|編輯(&E)|
+|&View|
+|檢視(&V)|
+|&Tools|
+|工具(&T)|
+|&Help|
+|說明(&H)|
+|&New...|
+|開新檔案(&N)...|
+|&Open...|
+|開啟舊檔(&O)...|
+|&Close|
+|關閉(&C)|
+|&Save|
+|儲存檔案(&S)|
+|Save &As...|
+|另存檔案(&A)...|
+|&Database Settings...|
+|加密設定(&D)...|
+|Change &Master Key...|
+|變更資料庫金鑰(&M)...|
+|Print Pre&view...|
+|預覽列印(&V)...|
+|&Print...|
+|列印(&P)...|
+|&Export|
+|匯出(&E)|
+|&Import|
+|匯入(&I)|
+|&Lock Workspace|
+|鎖定(&L)|
+|&Unlock Workspace|
+|解除鎖定(&U)|
+|E&xit|
+|結束(&X)|
+|Add &Group...|
+|新增群組(&G)...|
+|Add Su&bgroup...|
+|新增子群組(&B)...|
+|Ed&it Group...|
+|編輯群組(&I)...|
+|&Delete Group...|
+|刪除群組(&D)...|
+|Copy User &Name|
+|複製使用者名稱(&N)|
+|Open &URL(s)|
+|開啟網址(&U)|
+|Copy &Password|
+|複製密碼(&P)|
+|&Save Attached File To...|
+|另存附件(&S)...|
+|Perform Auto-&Type|
+|執行自動輸入|
+|&Add Entry...|
+|新增(&A)...|
+|&Edit/View Entry...|
+|編輯/檢視(&E)...|
+|Dupli&cate Entry|
+|複製(&C)|
+|&Delete Entry|
+|刪除(&D)|
+|&Modify All Selected...|
+|變更所有選擇的項目(&M)...|
+|Se&lect All|
+|全選(&L)|
+|&Find in Database...|
+|在資料庫內尋找(&F)...|
+|Find in t&his Group...|
+|在此群組內尋找(&H)...|
+|Change &Language...|
+|變更語言(&L)|
+|Show &Toolbar|
+|顯示工具列(&T)|
+|Show &Entry View|
+|顯示項目內容|
+|&Always on Top|
+|最上層顯示(&A)|
+|Hide &User Names Behind Asterisks (***)|
+|用星號隱藏用者名稱(&U)|
+|Hide &Passwords Behind Asterisks (***)|
+|用星號隱藏密碼(&P)|
+|TAN View &Options|
+|TAN檢視選項(&O)|
+|Use &Simple List View for TAN-Only Groups|
+|對只有TAN的群組使用簡明的清單檢視(&S)|
+|Show TAN &Indices in Entry Titles|
+|在項目標題顯示顯示TAN索引(&I)|
+|Auto-&Sort Entry List|
+|自動排序項目清單(&S)|
+|N&o Auto-Sort|
+|不自動排序(&O)|
+|Sort List by &Title|
+|標題(&T)|
+|Sort List by User &Name|
+|使用者名稱(&N)|
+|Sort List by &URL|
+|網址(&U)|
+|Sort List by &Password|
+|密碼(&P)|
+|Sort List by Note&s|
+|備註(&S)|
+|Sort List by &Creation Time|
+|建立時間(&C)|
+|Sort List by Last &Modify Time|
+|修改時間(&M)|
+|Sort List by Last &Access Time|
+|存取時間(&A)|
+|Sort List by &Expiration Time|
+|逾期時間(&E)|
+|Show &Columns|
+|顯示欄位(&C)|
+|&Title|
+|標題(&T)|
+|User &Name|
+|使用者名稱(&N)|
+|&URL|
+|網址(&U)|
+|&Password|
+|密碼(&P)|
+|N&otes|
+|備註(&O)|
+|&Creation Time|
+|建立時間(&C)|
+|Last &Modification Time|
+|修改時間(&M)|
+|&Last Access Time|
+|存取時間(&L)|
+|&Expiration Time|
+|逾期時間(&E)|
+|UU&ID|
+|唯一識別碼(UU&ID)|
+|&Attachment|
+|附件(&A)|
+|Password &Generator...|
+|密碼產生器(&G)...|
+|&TAN Wizard...|
+|TAN精靈(&T)...|
+|&Repair Database File...|
+|修復資料庫檔案(&R)...|
+|Show &Expired Entries|
+|列出已過期的項目(&E)|
+|&Options...|
+|選項(&O)|
+|&Plugins...|
+|Plugin(&P)...|
+|&Help Contents|
+|使用說明(&H)|
+|KeePass &Website|
+|KeePass網站(&W)|
+|&Donate...|
+|捐獻(&D)|
+|Check For Updates|
+|檢查更新|
+|About &Translation...|
+|關於翻譯(&T)...|
+|&About KeePass...|
+|關於KeePass(&A)...|
+|OK|
+|確定|
+|Select &Password Font|
+|選擇密碼字型(&P)|
+|bits|
+|位元|
+|General|
+|一般|
+|Windows|
+|Windows|
+|Network|
+|網路|
+|Internet|
+|Internet|
+|eMail|
+|電子郵件|
+|Homebanking|
+|網路銀行|
+|Title|
+|標題|
+|User Name|
+|使用者名稱|
+|URL|
+|網址|
+|Password|
+|密碼|
+|Notes|
+|備註|
+|Creation Time|
+|建立時間|
+|Last Modification|
+|最後變更|
+|Last Access|
+|最後存取|
+|Expires|
+|逾期|
+|UUID|
+|唯一識別碼(UUID)|
+|Attachment|
+|附件|
+|Set Composite Master Key|
+|設定複合式資料庫金鑰|
+|Master Password:|
+|資料庫密碼：|
+|&Use master password and key file|
+|雙重保護，使用密碼與鑰匙檔案(&U)|
+|Key File|
+|鑰匙檔案|
+|(No key file selected)|
+|<未選擇鑰匙檔案>|
+|Hide passwords behind asterisks (***).|
+|用星號(***)隱藏密碼。|
+|Save key file manually to...|
+|建立鑰匙檔案...|
+|Select key file manually...|
+|開啟鑰匙檔案...|
+|You've selected the AND key mode, so you must enter a password AND select a key file.|
+|雙重保護必須輸入密碼並選擇鑰匙檔案。|
+|Repeat Master Password|
+|請再輸入一次|
+|EITHER enter a master password OR select a key file.|
+|請輸入密碼或選擇鑰匙檔案。|
+|Password and repeated password aren't identical!|
+|密碼與重複輸入的密碼不符！|
+|Create New Password Database|
+|建立資料庫|
+|Specify the composite master key.|
+|指定複合式資料庫金鑰。|
+|Repeat the master password for the new database.|
+|確認資料庫密碼。|
+|Open Database|
+|開啟資料庫|
+|Enter the composite master key.|
+|輸入複合式資料庫金鑰。|
+|Change Composite Master Key|
+|變更複合式資料庫金鑰|
+|Enter the new composite master key.|
+|輸入新的複合式資料庫金鑰。|
+|Repeat the new master password for this database.|
+|確認資料庫密碼。|
+|The composite master key has been changed!|
+|複合式資料庫金鑰已變更！|
+|Save the database now in order to get the new key applied.|
+|為了讓新的鑰匙生效，請儲存資料庫。|
+|Database Settings|
+|加密設定|
+|Here you can configure the current database.|
+|您可以在此設定此資料庫的加密選項。請注意：這些設定將只套用到這個資料庫|
+|Security|
+|安全|
+|Encryption algorithm to use (for this database):|
+|使用加密的演算法(這個資料庫)：|
+|Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
+|Advanced Encryption Standard (AES) (128位元block cipher，使用256位元金鑰)|
+|Twofish (128-bit block cipher using 256-bit key)|
+|Twofish (128位元block cipher，使用256位元金鑰)|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
+|您的鑰匙被加密數次，成為最終的資料庫加密鑰匙。這增加了時間的因素，使猜測密碼與字典攻擊更加困難。|
+|Number of key encryption rounds:|
+|鑰匙循環加密次數：|
+|Calculate rounds for a 1-second delay on this computer|
+|計算在這台電腦延遲一秒的循環加密次數|
+|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
+|數字愈大則愈難被使用字典檔破解，但將延長資料庫開啟與儲存的時間。|
+|Password Generator|
+|密碼產生器|
+|&Generate Random Password|
+|密碼產生器|
+|Here you can generate a random password.|
+|密碼產生器可以用亂數來產生密碼。|
+|Profile|
+|設定檔|
+|(Custom)|
+|(自訂)|
+|(Automatically generated passwords for new entries)|
+|(建立新項目時自動產生的隨機密碼)|
+|Save current settings as a profile.|
+|將現在的設定儲存成設定檔|
+|Save as Profile|
+|儲存設定檔|
+|Save current settings as password generator profile.|
+|將現在的設定儲存為密碼產生器設定檔|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
+|請輸入設定檔名稱，或選擇現有的覆蓋：|
+|Delete currently selected profile.|
+|刪除這個設定檔|
+|Current settings|
+|使用中的設定檔|
+|Generate using character set:|
+|使用字元集產生密碼|
+|Length of generated password:|
+|產生的密碼長度：|
+|Upper-case (A, B, C, ...)|
+|大寫字母 (A, B, C, ...)|
+|Lower-case (a, b, c, ...)|
+|小寫字母 (a, b, c, ...)|
+|Digits (0, 1, 2, ...)|
+|數字 (1, 2, 3, ...)|
+|Minus (-)|
+|減號 (-)|
+|Underline (_)|
+|底線 (_)|
+|Space ( )|
+|空白 ( )|
+|Special|
+|特殊字元|
+|Brackets ([, ], {, }, (, ), <, >)|
+|括號 [, ], {, }, (, ), <, >|
+|High ANSI characters|
+|High ANSI字元(一般不建議使用)|
+|Also include the following characters:|
+|也包含這些字元：|
+|Generate using pattern:|
+|使用固定樣式：|
+|Randomly permute characters of password|
+|隨機變換字元順序|
+|Advanced Password Generator Options|
+|密碼產生器進階選項|
+|Exclude look-alike characters|
+|排除外觀相似的字元|
+|Exclude the following characters:|
+|排除下列字元：|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
+|標上星號的選項或規則降低了密碼的安全性。只有在必要時使用這些選項(例如受限於網站、應用程式或密碼原則)。|
+|Collect additional &entropy|
+|蒐集亂數(&E)|
+|Generated password|
+|產生的密碼|
+|&Generate|
+|產生(&G)|
+|&Accept|
+|接受(&A)|
+|There are too few characters in the character set to build up a password matching the specified rules|
+|字元集內的字元種類太少，無法產生符合規則密碼|
+|Add Entry|
+|新增項目|
+|Create a new password entry.|
+|建立一個密碼項目|
+|Edit Entry|
+|編輯項目|
+|Modify existing password entry.|
+|編輯現有的密碼項目|
+|Group:|
+|群組：|
+|Icon:|
+|圖示:|
+|Choose an icon.|
+|選擇圖示|
+|Title:|
+|標題：|
+|User name:|
+|使用者名稱：|
+|URL:|
+|網址：|
+|Password:|
+|密碼：|
+|Repeat:|
+|確認密碼：|
+|Generate a random password...|
+|產生一個隨機密碼...|
+|Quality:|
+|強度：|
+|Notes:|
+|備註：|
+|Expires:|
+|逾期：|
+|Attachment:|
+|附件：|
+|URL Field: Help|
+|網址欄位：說明|
+|URL Field: Select Application...|
+|網址欄位：選取應用程式|
+|URL Field: Select Document...|
+|網址欄位：選取文件|
+|URL Field: Insert Placeholder|
+|網址欄位：插入欄位|
+|Auto-Type: Help|
+|自動輸入：說明|
+|Auto-Type: Select Target Window...|
+|自動輸入：選取目標視窗|
+|Select the target window for the current entry.|
+|選取這個項目的自動輸入視窗。|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
+|要指定自動輸入的目標，選擇清單中的視窗名稱或手動輸入。|
+|***|
+|***|
+|Change expiration time:|
+|變更逾期時間：|
+|Entry|
+|項目|
+|&Case sensitive|
+|大小寫視為不同(&C)|
+|Search in|
+|搜尋項目|
+|Find what:|
+|搜尋：|
+|Find|
+|尋找|
+|&Find|
+|尋找(&F)|
+|Find a string in the entry list.|
+|在項目清單中找一個字串。|
+|Group|
+|群組|
+|Ready.|
+|就緒。|
+|Enter Password:|
+|密碼：|
+|Enter Composite Master Key|
+|輸入複合式資料庫金鑰|
+|Options|
+|選項|
+|Group name:|
+|群組名稱：|
+|Add Group|
+|增加群組|
+|Create a new password group.|
+|建立一個密碼群組|
+|Edit Group|
+|編輯群組|
+|Modify existing password group.|
+|變更現有的密碼群組|
+|Get Random|
+|蒐集亂數|
+|Get Random Data for Key Generation|
+|蒐集亂數|
+|Move the mouse and type some random text to generate random values.|
+|蒐集滑鼠及/或鍵盤輸入的資料，產生所需的亂數。最好兩種輸入方式都使用|
+|Random mouse input|
+|滑鼠|
+|Click to begin:|
+|1. 按一下[開始]|
+|Use &Mouse as Random Source|
+|開始(&M)|
+|Move the mouse in the field above until this is full:|
+|2. 在上面的區域內移動滑鼠，直到填滿|
+|Hint: It is best to use both mouse and keyboard random sources.|
+|提示：最好兩種輸入方式都使用|
+|Random keyboard input|
+|鍵盤|
+|Just hack some random keys into the edit box above.|
+|在上面的方塊內隨便亂打一些字。|
+|You don't have to remember the keys you type in. They are used to generate a random value.|
+|您不需要記得您輸入了什麼。它們只是用來產生亂數。|
+|So, the more the better. The different, the better.|
+|愈多，愈複雜愈好。|
+|The random the better.|
+|愈沒有規則愈好。|
+|Pick an Icon|
+|選擇圖示|
+|Choose an icon from the list of available entry and group icons.|
+|在清單中選擇一個可用的項目/群組圖示。|
+|&?|
+|說明(&?)|
+|&Lock/Unlock Workspace|
+|鎖定/解除鎖定(&L)|
+|Pr&int Group...|
+|群組列印(&I)...|
+|Move Entry to &Top|
+|移到最上面(&T)|
+|Move Entry &One Up|
+|向上移動(&O)|
+|Mo&ve Entry One Down|
+|向下移動(&V)|
+|Move Entry to &Bottom|
+|移到最下面(&B)|
+|Move Group to &Top|
+|移動群組到最上面(&T)|
+|Move Group One &Up|
+|向上移動群組(&U)|
+|Move Group &One Down|
+|向下移動群組(&O)|
+|Move Group to &Bottom|
+|移動群組到最下面(&B)|
+|&Tray/Untray|
+|工具列顯示切換(&T)|
+|Tray icon|
+|工具列圖示|
+|Stop|
+|停止|
+|Enter a group name!|
+|輸入群組名稱！|
+|You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
+|在您關閉此對話方塊前，您必須使用滑鼠或鍵盤產生一些隨機資料|
+|No random input|
+|沒有輸入隨機資料|
+|The password must consist of at least one character!|
+|密碼至少一個字元！|
+|Select at least one of the options in the list above!|
+|至少在上列清單中選擇一項！|
+|The following self-tests failed:|
+|下列自我檢查失敗：|
+|- SHA 32-bit variables|
+|- 32位元SHA變數|
+|- SHA 64-bit variables|
+|- 64位元SHA變數|
+|- SHA-256 test vector(s)|
+|- SHA-256測試向量|
+|- SHA-512 test vector(s)|
+|- SHA-512測試向量|
+|- Rijndael encryption|
+|- Rijndael加密|
+|- Rijndael decryption|
+|- Rijndael解密|
+|- Arcfour crypto routine|
+|- Arcfour crypto routine|
+|- Twofish algorithm|
+|- Twofish演算法|
+|The program will exit now.|
+|此程式即將結束。|
+|Self-Test(s) Failed|
+|自我檢查失敗|
+|Clipboard cleared.|
+|已清除剪貼簿。|
+|Field copied to clipboard. Clipboard will be cleared in %d seconds.|
+|已複製到剪貼簿。剪貼簿將在%d秒後清除。|
+|Failed to set the master key!|
+|資料庫密碼設定失敗！|
+|File cannot be opened!|
+|無法開啟檔案！|
+|File cannot be saved!|
+|檔案無法儲存！|
+|KeePass Password Safe Files|
+|KeePass密碼資料庫|
+|All Files|
+|所有檔案|
+|KeePass - Save Before Close/Lock?|
+|KeePass - 在關閉/鎖定前儲存？|
+|The current database file has been modified|
+|此資料庫已變更|
+|Do you want to save the changes before closing?|
+|是否儲存？|
+|Deleting a group will delete all items and subgroups in that group, too.|
+|刪除群組，也將刪除其中的所有項目與子群組。|
+|Are you sure you want to delete this group?|
+|確定要刪除這個群組？|
+|Delete Group Confirmation|
+|群組刪除確認|
+|Cannot open temporary file for printing!|
+|無法為列印開啟暫存檔案！|
+|Select Language|
+|選擇語言|
+|Installed Languages|
+|已安裝的語言|
+|Settings|
+|設定|
+|Here you can configure KeePass.|
+|您可以在這裡設定KeePass|
+|Workspace locked|
+|已鎖定|
+|Loading error|
+|載入錯誤|
+|Language file cannot be opened!|
+|無法開啟語言檔！|
+|Language file cannot be activated!|
+|無法使用語言檔！|
+|The selected language has been activated. KeePass must be restarted in order to load the language.|
+|已選擇新的界面語言。KeePass必須重新啟動，才能讓新的界面語言生效。|
+|Do you wish to restart KeePass now?|
+|要現在重新啟動KeePass嗎？|
+|Restart KeePass?|
+|重新啟動KeePass？|
+|Application cannot be restarted automatically!|
+|應用程式無法自動重新啟動！|
+|Please restart KeePass manually.|
+|請手動重新啟動KeePass。|
+|CSV Files|
+|CSV檔案|
+|Text Files|
+|文字檔案|
+|An error occurred while importing the file. File cannot be imported.|
+|在匯入檔案時發生錯誤。檔案無法匯入。|
+|&CSV File...|
+|&CSV檔案...|
+|&PwSafe v2 TXT File...|
+|&PwSafe v2 TXT 檔案...|
+|Code&Wallet TXT File...|
+|Code&Wallet TXT File...|
+|&TXT File...|
+|&TXT檔案...|
+|&HTML File...|
+|&HTML檔案...|
+|&XML File...|
+|&XML檔案...|
+|&CSV File...|
+|&CSV檔案...|
+|Get More &Languages...|
+|下載更多語言(&L)...|
+|Lock workspace when minimizing the main window|
+|在最小化主視窗時鎖定|
+|Minimize main window after locking the workspace|
+|在鎖定後將主視窗最小化|
+|Lock workspace when locking Windows, switching user or sleeping|
+|在桌面鎖定、切換使用者或進入省電模式時鎖定。|
+|Lock workspace after the following idle time (seconds):|
+|在閒置一段時間後自動鎖定(單位：秒)：|
+|Disable unsafe (security-critical) operations like exports, etc.|
+|關閉不安全的指令(如：匯出)|
+|Use more secure password edit controls|
+|使用更安全的密碼編輯欄位|
+|By default, new entries expire in the following number of days:|
+|新項目的預設過期日：|
+|Interface (GUI)|
+|介面|
+|Display images on buttons|
+|在按鈕上顯示圖示|
+|Show grid lines in the entry list|
+|在項目清單上顯示格線|
+|Automatically resize table columns when resizing the main window|
+|變更主視窗大小時自動調整欄位大小|
+|Minimize to tray instead of taskbar|
+|最小化後不在工具列顯示(通知區域/系統工具列不受影響)|
+|Close button [X] minimizes the main window instead of terminating the application|
+|按「關閉」按鈕[X]時，將程式縮到最小|
+|Select a new font for the list controls:|
+|為清單項目設定字型：|
+|Select &Font|
+|設定字型(&F)|
+|Every second row has a different background color. Use this color:|
+|選擇雙數列的背景顏色：|
+|Files|
+|檔案|
+|Newline sequence:|
+|換行：|
+|Windows newline sequence (\r\n)|
+|Windows換行(\r\n)|
+|Unix newline sequence (\n)|
+|Unix換行 (\n)|
+|Mark database as modified on last access time change|
+|在上次存取的時間改變後，將資料庫視為已變更|
+|Memory|
+|記憶|
+|Clipboard behavior:|
+|剪貼簿保護方式：|
+|Timed: copy data to the clipboard and clear it automatically after some seconds|
+|時間限制：複製資料到剪貼簿，並在一段時間後自動清除|
+|Enhanced: allow pasting only once and protect against clipboard spies|
+|增強保護：只允許貼上一次，並防止剪貼簿偵查|
+|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
+|警告！這個選項在某些系統中可能無法正確運作，尤其是有使用任何剪貼簿增強工具或剪貼簿備份工具。|
+|If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
+|如果您在使用此模式時發現任何問題，請改回「時間限制」模式。|
+|Clipboard auto-clear time (seconds):|
+|剪貼簿自動清除時間(秒)：|
+|Setup|
+|環境整合|
+|Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
+|這裡您可以設定KeePass與.kdb檔案的關聯，KeePass將在您連點兩下時開啟檔案：|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|
+|已成功設定KeePass與.kdb檔案的關聯！在您連點兩下.kdb檔案時KeePass將自動開啟。|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
+|已成功移除關聯。在您連點兩下.kdb檔案時將不由KeePass開啟。|
+|Create &Association|
+|建立關聯(&A)|
+|&Remove Association|
+|移除關聯(&R)|
+|Use PuTTY for ssh: and telnet: URLs|
+|使用PuTTY處理ssh:與telnet:網址|
+|Global auto-type hot key combination:|
+|全域自動輸入快速鍵(若要清除，按一下Ctrl)：|
+|Advanced|
+|進階|
+|Integration|
+|整合|
+|Start KeePass at Windows startup (for current user)|
+|在Windows啟動時一併啟動KeePass(只對這個使用者有效)|
+|Single left click instead of double-click for default tray icon action|
+|從通知區域(系統工具列)叫出KeePass時，只需點一次(原本需要連點兩次)|
+|Use alternative auto-type method (minimize window)|
+|使用替代的自動輸入方法(最小化視窗)|
+|Enable auto-type features|
+|啟動自動輸入功能|
+|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
+|點選網址時，將網址複製到剪貼簿，而不開啟網頁(cmd://網址除外)|
+|Enable remote control (allow applications to communicate with KeePass)|
+|啟動遠端控制(允許其它應用程式與KeePass通訊)|
+|Always grant full access through remote control (not recommended)|
+|遠端控制時給予完整權限(不建議)|
+|Start and exit|
+|開始與結束|
+|Remember last opened file|
+|記憶最後開啟的檔案|
+|Automatically open last used database on startup|
+|在啟動時自動開啟上次使用的資料庫|
+|Start minimized and locked|
+|啟動時最小化並鎖定|
+|Automatically save when closing/locking the database|
+|在關閉/鎖定時自動儲存資料庫|
+|Limit to single instance|
+|防止同時執行多個KeePass|
+|Check for updates at KeePass startup|
+|每次啟動KeePass時檢查更新|
+|Immediately after opening a database|
+|在開啟資料庫後顯示|
+|Show entries that will expire soon (if any)|
+|將要過期的項目(如果有的話)|
+|Show expired entries (if any)|
+|已經過期的項目(如果有的話)|
+|Backup|
+|備份|
+|Save backups of modified entries into the 'Backup' group|
+|為變更過的項目備份到「備份」群組|
+|Delete all backup entries before saving the database|
+|在儲存前刪除所有備份項目|
+|Include backup entries in quick searches|
+|快速搜尋時包含備份項目|
+|Exit program instead of locking the workspace after the specified time|
+|在特定時間後不鎖定，改成結束程式|
+|Show full path in the title bar (instead of file name only)|
+|在標題列顯示完整位址(否則只顯示檔名)|
+|Disable 'Save' button if the database hasn't been modified|
+|如果資料庫沒有變更，則不允許儲存|
+|&Group name|
+|群組名稱(&G)|
+|Default|
+|預設|
+|More Colors...|
+|更多顏色...|
+|Search Results|
+|搜尋結果|
+|Field copied to clipboard.|
+|資料已複製到剪貼簿。|
+|Overwrite?|
+|覆蓋？|
+|Change group:|
+|變更群組：|
+|Change entry icon:|
+|變更項目圖示：|
+|Mass Modify|
+|大量變更|
+|Change fields of all selected entries|
+|變更所有選擇的項目的|
+|&Copy|
+|複製(&C)|
+|Copy &All|
+|全部複製(&C)|
+|&Undo|
+|還原(&U)|
+|&Paste|
+|貼上(&P)|
+|Cu&t|
+|剪下(&T)|
+|&Delete|
+|刪除(&D)|
+|TAN Wizard|
+|TAN精靈|
+|Using this wizard you can easily add TAN entries.|
+|您可以輕易地使用這個精靈增加TAN項目。|
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
+|將TAN貼到底下。只有定義的TAN字元將成為TAN項目，其它字元將被視為分隔符號。|
+|Number the TANs consecutively, starting from this value|
+|將TAN加上連續的編號，由這個值開始編號|
+|TANs consist of the following characters:|
+|TAN包含以下字元：|
+|<TAN>|
+|<TAN>|
+|Translation Information|
+|翻譯資訊|
+|Currently used language|
+|目前使用的語言|
+|Author|
+|作者|
+|Contact|
+|聯絡方式|
+|&Rearrange|
+|排序(&R)|
+|&Sort Group List|
+|按名稱排序(&S)|
+|Move Group One &Left|
+|向左移動(&L)|
+|Move Group One &Right|
+|向右移動(&R)|
+|Open file and set as attachment...|
+|開啟檔案並設定為附件...|
+|Save attached file to disk...|
+|儲存附件到磁碟...|
+|There already is a file attached with this entry.|
+|此項目已有附件。|
+|Do you want to overwrite the current attachment?|
+|您希望覆蓋目前的附件嗎？|
+|There is no file attached with this entry.|
+|此項目沒有附件。|
+|Remove the currently attached file|
+|移除目前的附件|
+|KeePass Password Database|
+|KeePass密碼資料庫|
+|&Open with KeePass|
+|使用KeePass開啟(&O)|
+|Entry List|
+|項目清單|
+|Exit?|
+|離開？|
+|The file couldn't be saved.|
+|檔案無法儲存。|
+|Maybe it's read-only or the storage media has been removed.|
+|可能是因為唯讀檔案，或是儲存媒體被移除了。|
+|If you exit now, all changes to the current database will be lost.|
+|如果現在結束，將失去對此資料庫的變更。|
+|Would you like to exit anyway?|
+|仍然要結束嗎？|
+|Cannot access the selected drive.|
+|無法存取選擇的磁碟機。|
+|Make sure a writable medium is inserted.|
+|請確定您已經放入可寫入的媒體。|
+|Not enough free disk space!|
+|磁碟空間不足！|
+|Unsafe operations are disabled.|
+|不安全的指令已經關閉。|
+|To execute this operation you must enable unsafe operations in the options dialog.|
+|如果您要使用此項目，您必須在「選項」中啟動不安全的指令。|
+|You have changed an option that requires restarting KeePass to get active.|
+|您變更的項目需要重新啟動KeePass才能生效。|
+|Expired Entries|
+|過期的項目|
+|This is a list of all expired entries|
+|這是所有已過期項目的清單|
+|Click on an entry to jump to it.|
+|在這邊點選可以直接跳到該項目|
+|Database Summary|
+|資料庫概觀|
+|Personal &Vault TXT File...|
+|Personal &Vault TXT 檔案...|
+|Imported from Password Safe|
+|匯入自Password Safe|
+|Total number of groups / entries|
+|群組/項目總數|
+|Total: %u groups / %u entries|
+|總共：%u群組，%u項目|
+|%u of %u selected|
+|選擇%u個項目，共%u項目|
+|Number of selected entries (number of entries in the list)|
+|選擇的項目數量(清單中的項目數量)|
+|Status|
+|狀態|
+|The database file has been modified!|
+|資料庫檔案已有變更！|
+|Most probably someone has changed the file while you were editing it.|
+|很可能是有人在您編輯該檔案時變更了它。|
+|Do you want to overwrite it?|
+|您希望覆蓋它嗎？|
+|The group you selected cannot store entries. Please select a different group.|
+|您選擇的群組無法儲存項目，請選擇其它群組。|
+|This will remove all selected entries unrecoverably!|
+|這將將永久移除所有選擇的項目！|
+|Are you sure you want to delete all selected entries?|
+|您確定要刪除所有選擇的項目嗎？|
+|Delete Entries Confirmation|
+|確認刪除項目|
+|&Select All|
+|全選(&S)|
+|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
+|項目清單自動排序已啟動，您無法手動移動項目。|
+|Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
+|項目清單自動排序已啟動，您無法手動排序項目。|
+|Plugin|
+|Plugin|
+|Plugins|
+|Plugin|
+|Here you can configure all installed KeePass plugins.|
+|您可以在此設定所有已安裝的plugin。|
+|Enabled, loaded|
+|已啟用，已載入|
+|&Enable|
+|啟用(&E)|
+|&Disable|
+|停用(&D)|
+|About &Plugin...|
+|關於Plugin(&P)...|
+|An error occurred|
+|發生錯誤|
+|Error code|
+|錯誤碼|
+|Unknown error|
+|未知的錯誤|
+|Success|
+|成功|
+|Invalid parameter|
+|無效的參數|
+|Out of memory|
+|記憶體不足|
+|Invalid/wrong key|
+|無效/錯誤的鑰匙|
+|File access error: failed to open file in read mode|
+|檔案存取錯誤：無法以讀取模式開啟檔案|
+|File access error: failed to open file in write mode|
+|檔案存取錯誤：無法以寫入模式開啟檔案|
+|File error: error while reading from the file|
+|檔案錯誤：讀取檔案時發生錯誤|
+|File error: error while writing to the file|
+|檔案錯誤：寫入檔案時發生錯誤|
+|Internal error|
+|內部錯誤|
+|Invalid random source|
+|無效的隨機資料來源|
+|Invalid/corrupted file structure|
+|無效/損毀的檔案結構|
+|Encryption/decryption error|
+|加/解密錯誤|
+|Get more plugins...|
+|取得更多plugin...|
+|Most probably another application has reserved this hot key already.|
+|很有可能是另一個應用程式接收了這個快速鍵。|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
+|您可以在「工具」「選項」「進階」「自動輸入」中選擇其它的快速鍵。|
+|Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
+|.kdb檔案關聯變更失敗。請確定您有權限寫入登錄以及變更附檔名關聯。|
+|Never expires|
+|永不過期|
+|Auto-Type|
+|自動輸入|
+|Help:|
+|說明：|
+|&Get More Import Plugins...|
+|取得更多匯入用的plugin(&G)|
+|A key file already exists on this drive. Do you want to overwrite or reuse it?|
+|鑰匙檔案早已存在。建立新的並覆蓋？這將導致以前使用該鑰匙檔案的資料庫無法開啟。|
+|Click [Yes] to overwrite the key file.|
+|按「是」：建立新的鑰匙檔案並覆蓋舊鑰匙 - 警告：以前使用該鑰匙檔案的資料庫將無法開啟|
+|Click [No] to reuse the selected key file for this database.|
+|按「否」：使用舊的鑰匙檔案(多個資料庫可使用同一個鑰匙檔案)|
+|Click [Cancel] to abort changing the key.|
+|按「取消」：放棄目前的動作|
+|Encode/replace newline characters by '\n'|
+|用「\n」編碼/置換換行字元|
+|Export Options|
+|匯出選項|
+|Export backup entries (entries in the 'Backup' group)|
+|匯出備份項目(對「備份」群組中的項目)|
+|Failed to create backup of this entry!|
+|對此項目建立備份失敗！|
+|Fields to export|
+|要匯出的欄位|
+|Group Tree|
+|樹狀群組|
+|Here you can customize the exported files.|
+|您可以自訂匯出的檔案。|
+|Icon|
+|圖示|
+|Unable to create/remove the auto-start key of KeePass in the Windows registry!|
+|無法在Windows登錄中建立/移除自動啟動設定|
+|1 Month|
+|1個月|
+|1 Week|
+|1星期|
+|2 Weeks|
+|2星期|
+|3 Months|
+|3個月|
+|Cannot register the global hot key.|
+|無法註冊全域快速鍵。|
+|Click to expire the entry in %u days|
+|點選您希望在%u天以後逾期的項目|
+|Exclude entries in the '&Backup' group|
+|排除「備份」群組中的項目(&B)|
+|Field has been pasted.|
+|欄位已貼上。|
+|Paste operation completed.|
+|完成貼上。|
+|Waiting for paste command.|
+|正在等待貼上指令。|
+|1 Year|
+|1年|
+|6 Months|
+|6個月|
+|Press Shift+Home or Shift+End to clear this edit control|
+|按Shift+Home或Shift+End清除該編輯控制項內容|
+|&KeePass Database...|
+|KeePass資料庫(&K)...|
+|Click [No] to set a new key for the exported file.|
+|選擇[否]為輸出檔設定新的資料庫密碼。|
+|Click [Yes] to use the same key as the currently opened database.|
+|選擇[是]使用與目前資料庫一樣的資料庫密碼。|
+|Create new IDs|
+|不覆蓋(建立新的ID)|
+|If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
+|KeePass將為每個群組與項目建立新的ID。現在開啟的資料庫中沒有任何群組與項目將被更改或覆蓋。|
+|Overwrite|
+|直接覆蓋|
+|KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
+|如果包含相同ID，KeePass將覆蓋現在開啟的資料庫中所有項目與群組。|
+|Overwrite if newer|
+|用新版覆蓋|
+|KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
+|KeePass將比對最後更改的時間，如果匯入的資料比較新，才覆蓋。|
+|Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
+|請問匯出的資料庫要用同一組資料庫密碼，或是您要設定新的資料庫密碼？|
+|Reuse the current key/password?|
+|使用現有的密碼/鑰匙？|
+|The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
+|您選擇的輸入檔案格式支援群組及/或項目ID。請選擇處理方式。|
+|Copy &URL to Clipboard|
+|複製網址到剪貼簿(&U)|
+|Auto-Type Entry Selection|
+|自動輸入項目選擇|
+|Click [No] to open the file in normal writing mode.|
+|選擇[否]以一般可讀寫模式開啟檔案。|
+|Click [Yes] to open the file in read-only mode.|
+|選擇[是]以唯讀模式開啟檔案。|
+|Click on an entry to auto-type it.|
+|選擇要自動輸入的項目。|
+|Multiple entries exist for the current window. Please select the entry to auto-type.|
+|請選擇要自動輸入的項目。|
+|Now|
+|現在|
+|Open the file in read-only mode?|
+|使用唯讀模式開啟檔案？|
+|The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
+|您想要開啟的檔案已被鎖定，例如有其他人正在使用。|
+|You have the latest version.|
+|這已經是最新的版本。|
+|Connect failed, cannot check for updates.|
+|連線失敗，無法檢查是否有新版本|
+|KeePass Initialization|
+|KeePass初始化|
+|The database is empty|
+|資料庫是空的|
+|Password is empty|
+|密碼是空的|
+|Path is invalid|
+|位址無效|
+|Filename not found|
+|找不到檔案|
+|Reason|
+|原因|
+|ignored|
+|已略過|
+|Database is already specified|
+|已指定資料庫|
+|Command line argument|
+|命令列引數|
+|'Pw' option is already specified|
+|已指定'Pw'選項|
+|'Keyfile' or 'preselect' option is already specified|
+|已指定'Keyfile'或'preselect'選項|
+|It contains an unmatched quote|
+|無效的括號|
+|Option not recognized|
+|無法辨識該選項|
+|Unknown|
+|未知|
+|Value|
+|數值|
+|&Deny|
+|拒絕|
+|&Read-Only|
+|唯讀(&R)|
+|An entry already exists for the current URL.|
+|已有項目使用相同的網址|
+|Application|
+|應用程式|
+|Do you grant the application access to your KeePass database?|
+|您是否允許該應用程式存取您的KeePass資料庫？|
+|Fields to remember|
+|要記憶的欄位|
+|Incoming IPC Request|
+|連入的IPC要求|
+|&Full|
+|完整(&F)|
+|An application requests access through inter-process communication|
+|有應用程式要求應用程式間的通訊|
+|Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
+|請注意，應用程式標題不一定是正確的，惡意程式可能嘗試存取您的密碼資料庫。|
+|Select the fields KeePass should remember|
+|選擇KeePass要記憶的欄位|
+|The following application requests access to your currently opened KeePass database:|
+|下列應用程式要求存取您現在開啟的KeePass資料庫：|
+|Attachment Description|
+|附件註解|
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
+|請確認存有鑰匙檔案的磁碟已經插入系統，並且KeePass有足夠的權限存取(確認檔案權限，且沒有其他應用程式將該檔案鎖定)。|
+|Use local date/time format instead of ISO notation|
+|使用本地日期/時間，不使用ISO表示法|
+|User &name|
+|使用者名稱(&N)|
+|Arguments|
+|參數|
+|Failed to save the configuration.|
+|儲存設定失敗。|
+|Locked|
+|已鎖定|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?|
+|說明檔包含了輸入格式的細節。您要開啟說明檔嗎？|
+|Check for Updates|
+|檢查更新|
+|Fields to print|
+|要列印的欄位|
+|Clear Search History|
+|清除搜尋記錄|
+|&Export Group|
+|匯出群組(&K)|
+|Default user name for new entries:|
+|新項目的預設使用者名稱：|
+|Here you can customize the printed sheet.|
+|您可以自訂列印樣式。|
+|Print Options|
+|列印選項|
+|Print backup entries (entries in the 'Backup' group)|
+|列印備份的項目(「備份」群組中的項目)|
+|Provider|
+|提供者|
+|Regular expression|
+|Regular expression(正規表示法)|
+|Search...|
+|搜尋...|
+|TANs are imported into the currently selected group|
+|TAN已經匯入選擇的群組|
+|Type to search the database|
+|請輸入，以搜尋資料庫|
+|in "Minimal functionality" mode|
+|在「最少功能」模式|
+|The key provider plugin did not supply a valid key|
+|金鑰提供plugin沒有提供有效的金鑰|
+|Register Ctrl+Alt+K hot key (brings the KeePass window to front)|
+|註冊快速建Ctrl+Alt+K(將KeePass視窗帶到最上層)|
+|Abort specifying a new key for the current database.|
+|取消指定這個資料庫的新金鑰。|
+|Abort the current operation.|
+|取消現在的動作。|
+|Cancel|
+|取消|
+|Copy [of an item]|
+|複製[一個項目]|
+|Focus entry list after a successful quick search|
+|快速搜尋後將駐點放在項目清單|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
+|產生新鑰匙並覆蓋現有的鑰匙檔案。現有鑰匙檔中的鑰匙將遺失。|
+|KeePass will not be closed.|
+|KeePass將不關閉。|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|
+|載入現有的鑰匙檔案，並使用在這個資料庫。鑰匙檔案將不被更改。|
+|Overwrite existing key file?|
+|覆蓋現有的鑰匙檔案|
+|Reuse|
+|重複使用(現有的)|
+|Save|
+|儲存|
+|Discard all changes made to the database and close the file.|
+|放棄資料庫變更並關閉檔案。|
+|Discard all changes made to the database and exit KeePass.|
+|放棄資料庫變更並結束KeePass。|
+|Discard all changes made to the database and lock the KeePass workspace.|
+|放棄資料庫變更並鎖定。|
+|&Discard changes|
+|放棄變更|
+|Save all changes made to the database and close the file.|
+|儲存資料庫變更並關閉檔案。|
+|Save all changes made to the database and exit KeePass.|
+|儲存資料庫變更並結束KeePass。|
+|Save all changes made to the database and lock the KeePass workspace.|
+|儲存資料庫變更並鎖定。|
+|Save database changes before closing the file?|
+|關閉檔案前儲存資料庫變更？|
+|Save database changes before exiting KeePass?|
+|結束KeePass前儲存資料庫變更？|
+|Save database changes before locking the workspace?|
+|鎖定前儲存資料庫變更？|
+|The KeePass workspace will not be locked.|
+|KeePass將不鎖定。|
+|The estimated quality of the master password must be at least %u bits!|
+|資料庫密碼強度至少要%u位元。|
+|The file will not be closed.|
+|檔案將不被關閉。|
+|The master password must be at least %u characters long!|
+|資料庫密碼至少要%u字元。|
+|The selected key file already exists|
+|指定的鑰匙檔案已存在|
+|Default auto-type sequence for standard entries:|
+|預設的自動輸入內容:|
+|Drop to background when copying data to the clipboard|
+|複製到剪貼簿後，將KeePass視窗放到最後面|
+|Field to reference|
+|參考的欄位|
+|Here you can configure auto-type.|
+|您可以在這裡設定自動輸入|
+|Insert Field Reference|
+|插入欄位參照|
+|In Title Field|
+|到標題|
+|In User Name Field|
+|到使用者名稱|
+|In Password Field|
+|到密碼|
+|In URL Field|
+|到網址|
+|In Notes Field|
+|到備註|
+|Identify source entry by|
+|用來識別來源項目的欄位|
+|Source field to reference|
+|要參照的欄位|
+|Multiple entries match the specified identifying field.|
+|指定的欄位有多個項目包含相同的內容|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
+|若要避免這種狀況，請在「用來識別來源項目的欄位」改用唯一識別碼(UUID)|
+|Prepend special initialization sequence for Internet Explorer windows|
+|對Internet Explorer使用特別的自動輸入初始化(解決駐點問題)|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
+|用來識別來源項目的欄位包含禁用字元(如'{', '}', 換行字元等)。|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
+|目標檔案可能是損壞的。請再試著儲存一次，如果失敗，請將資料庫存到不同的地方。|
+|Auto-Type: Customize Sequence|
+|自動輸入：自訂輸入內容|
+|Clear clipboard when closing/locking the database|
+|在關閉/鎖定資料庫時清除剪貼簿|
+|Exclude &expired entries|
+|排除過期的項目(&E)|
+|Include expired entries in quick searches|
+|在快速搜尋時包含過期的項目|
+|Normal|
+|標準|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.|
+|用唯讀模式開啟檔案。對資料庫的變更可以儲存到其它檔案。|
+|Read-only|
+|唯讀|
+|Sort items in the auto-type entry selection dialog|
+|在自動輸入項目選擇對話方塊中將項目排序|
+|Take ownership of the file and open it in normal writing mode.|
+|取得檔案的擁有權，並用標準寫入模式開啟。|
+|Choose between local help and online help center.|
+|選擇使用本機說明檔或線上說明。|
+|Help &Source...|
+|選擇說明來源(&S)...|
+|Help Source|
+|選擇說明來源...|
+|Local help file|
+|本機說明檔|
+|Online help center|
+|線上說明|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
+|這個說明檔是與這個版本的KeePass一起發行的。這份說明文件無法自動更新。|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|
+|線上說明永遠是最新的，但需要Internet連線。|
+|This option is disabled, because local help is not installed.|
+|這個選項已被停用，因為沒有安裝本機說明檔。|
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)|
+|使用進階記憶體保護(DPAPI，需要Windows Vista或更新的版本)|
+|Use the following help source when a "Help" button within KeePass is clicked:|
+|在KeePass中的「說明」按鈕被按下時，開啟指定的說明文件：|
+|%u updates are available!|
+|有%u個更新！|
+|1 update is available!|
+|有一個更新！|
+|Available|
+|可用的|
+|Component|
+|元件|
+|Delete TAN entries immediately after using them|
+|使用TAN項目後立即將之刪除|
+|Installed|
+|已安裝|
+|KeePass 1.x cannot open KDBX files.|
+|KeePass 1.x無法開啟KDBX檔案。|
+|New version available.|
+|有新版本。|
+|No updates available.|
+|沒有任何更新。|
+|Please choose a different name.|
+|請選一個不同的名稱。|
+|Plugin unknown.|
+|未知的plugin。|
+|Pre-release version.|
+|預先發行的版本。|
+|The specified name is reserved.|
+|指定的名稱已被保留作特殊用途。|
+|Up to date.|
+|已是最新的。|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
+|使用CNG/BCrypt來做key transformation(只在Windows Vista或更新的版本能使用)|
+|Use the KeePass 2.x 'Export' feature to migrate this file|
+|使用KeePass 2.x的「匯出」功能來轉換這個檔案|
+|Workspace is locked.|
+|已鎖定。|
+|see the <A HREF="h">help manual</A> for details.|
+|細節請參閱<A HREF="h">使用手冊</A>。|
+|Ctrl|
+|Ctrl|
+|Use file transactions for writing databases|
+|使用transaction方式寫入資料庫檔案|
+|Each character must occur at most once|
+|每個字元最多只能出現一次|
+|Remember key sources (key file paths, provider names, ...)|
+|記憶金鑰來源(鑰匙檔案、金鑰提供服務名稱等)|
+|&Yes|
+|是(&Y)|
+|&No|
+|否(&N)|
+|Custom database color:|
+|變更資料庫顏色：|
+|Ensure same keyboard layouts during auto-type|
+|確保自動輸入時使用相同的鍵盤配置|
+|Select &Notes Font|
+|選擇備註欄位的字型(&N)|
+|{PARAM} more entries|
+|還有{PARAM}個項目|
+|Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
+|KeePass將在背景檢查是否有新版本。如果有新版本，只顯示訊息，並不自動下載或安裝更新。|
+|Database files cannot be used as key files.|
+|密碼資料庫檔案無法作為鑰匙檔案。|
+|Enable automatic update check?|
+|是否要自動檢查新版本？|
+|KeePass can automatically check for updates on each program start.|
+|KeePass可以在每次執行時檢查是否有新版本。|
+|No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.|
+|沒有任何個人資訊將被送出。KeePass只下載一個包含版本資訊的檔案，並與目前的版本做比對。|
+|Quick search (toolbar)|
+|快速搜尋(工具列)|
+|Show tray icon only if main window has been sent to tray|
+|只在主視窗縮到最小時顯示於工具列|
+|recommended|
+|建議|
+|Are you sure you want to attempt to repair a database file?|
+|您確定要試圖修復資料庫檔案？|
+|In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.|
+|為了盡可能救回資料，修復模式不檢查資料正確性。因此，資料庫中可能摻雜損毀或錯誤的資料。|
+|Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
+|因此，只在沒有其他方法時才修復。如果您修復資料庫，您必須全面檢查資料庫中損毀與錯誤的資料。|
+|Saving database...|
+|資料庫儲存中...|
+|ch.|
+|字|
+|Warning|
+|警告|
+|Accept this password?|
+|接受這個密碼？|
+|Delete &attachments|
+|刪除附件(&A)|
+|The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
+|產生的密碼包含其他欄位的參照。使用這個密碼時，將使用參照欄位的內容。也就是說，每次複製或自動輸入的密碼可能不一樣。|
+|The regular expression is invalid.|
+|這個正規表達式無效。|
+|Failed to attach file:|
+|附加檔案失敗：|
+|The attachment is too large|
+|附件過大|
+|Built-in|
+|內建|
+|File|
+|檔案|
+|Do you want to open the application directory (in order to move or delete language files)?|
+|您希望開啟KeePass執行檔資料夾嗎？(以便移動或刪除語言檔)|
+|Here you can change the user interface language.|
+|您可以在此變更界面語言。|
+|Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.|
+|不支援從KeePass執行檔資料夾載入語言檔。語言檔必須放在KeePass執行檔資料夾下的「Languages」資料夾中。|
+|One or more language files have been found in the KeePass application directory.|
+|在KeePass執行檔所在的資料夾發現一個或多個語言檔。|
+|Open &Folder|
+|開啟資料夾(&F)|
+|~LANGISO6391CODE|
+|zh|
+|About KeePass|
+|關於KeePass|
+|Version|
+|版本|
+|KeePass is OSI Certified Open Source Software.|
+|KeePass是OSI認證的開放原始碼軟體。|
+|The program is distributed under the terms of the GNU General Public License v2 or later.|
+|這個程式是在GNU General Public License第2版或更新版本的規範下散佈。|
+|KeePass Website|
+|KeePass網站|
+|Open &Help File|
+|使用說明(&H)|
+|Open &License File|
+|授權(&L)|
+|Acknowledgements|
+|致謝|

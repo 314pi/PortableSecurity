@@ -1,0 +1,1312 @@
+|~LANGUAGENAME|
+|Română, Clasică|
+|~LANGUAGEVERSION|
+|1.18|
+|~LANGUAGEAUTHOR|
+|Rafael VELCSOV, Florin Cătălin RUSSEN|
+|~LANGUAGEAUTHOREMAIL|
+|rvelcsov@yahoo.com, cfrussen@yahoo.co.uk|
+|&OK|
+|&OK|
+|&Cancel|
+|&Anulează|
+|&Close|
+|&Închide|
+|&Generate Random Password|
+|&Generare parolă aleatoare|
+|Choose an icon.|
+|Alegeţi o pictogramă.|
+|General|
+|General|
+|Windows|
+|Windows|
+|Network|
+|Reţea|
+|Internet|
+|Internet|
+|eMail|
+|Mes@gerie|
+|Homebanking|
+|Bancă în direct|
+|Entry|
+|Intrare|
+|&Title|
+|&Titlu|
+|User &Name|
+|&Nume utilizator|
+|&URL|
+|&URL|
+|&Password|
+|&Parolă|
+|N&otes|
+|N&otiţe|
+|&Case sensitive|
+|&Sensibil la majuscule|
+|Search in|
+|Caută în|
+|Find what:|
+|Ce se caută:|
+|Find|
+|Căutare|
+|&Find|
+|&Caută|
+|Find a string in the password list.|
+|Căutaţi un şir în lista de parole..|
+|About KeePass...|
+|Despre KeePass...|
+|Password Groups|
+|Grupuri de parole|
+|Title|
+|Titlu|
+|User Name|
+|Nume utilizator|
+|User &name|
+|&Nume utilizator|
+|URL|
+|URL|
+|Password|
+|Parolă|
+|Notes|
+|Notiţe|
+|Ready.|
+|Gata.|
+|Enter Password:|
+|Introduceţi parola:|
+|Master Password:|
+|Parola principală:|
+|Create New Password Database|
+|Creează o nouă bază de date cu parole|
+|Set Composite Master Key|
+|Definire cheie principală compusă|
+|Specify the composite master key.|
+|Specificaţi cheia principală compusă.|
+|Repeat Master Password|
+|Confirmaţi parola principală|
+|Repeat the master password for the new database.|
+|Confirmaţi parola principală pentru noua bază de date.|
+|Open Database|
+|Deschide baza de date|
+|Enter Composite Master Key|
+|Introduceţi cheia principală compusă|
+|Enter the composite master key.|
+|Introduceţi cheia principală compusă.|
+|(No key file selected)|
+|(Nici un fişier cheie selectat)|
+|Key File|
+|Fişier cheie|
+|Password Generator|
+|Generator de parolă|
+|Here you can generate a random password.|
+|Aici puteţi genera o parolă aleatoare.|
+|Options|
+|Opţiuni|
+|Current settings|
+|Configurări curente|
+|Collect additional &entropy|
+|Colecţionează &entropie suplimentară|
+|Generated password|
+|Parola generată|
+|&Generate|
+|&Generează|
+|&Accept|
+|&Acceptă|
+|Upper-case (A, B, C, ...)|
+|Majuscule (A, B, C, ...)|
+|Lower-case (a, b, c, ...)|
+|Minuscule (a, b, c, ...)|
+|Digits (0, 1, 2, ...)|
+|Cifre (1, 2, 3, ...)|
+|Underline (_)|
+|Subliniere (_)|
+|Minus (-)|
+|Minus (-)|
+|Space ( )|
+|Spaţiu ( )|
+|Special|
+|Special|
+|High ANSI characters|
+|Caractere ANSI înalte|
+|Brackets ([, ], {, }, (, ), <, >)|
+|Paranteze ([, ], {, }, (, ), <, >)|
+|Group:|
+|Grup:|
+|Title:|
+|Titlu:|
+|User name:|
+|Utilizator:|
+|URL:|
+|URL:|
+|Icon:|
+|Pictogramă:|
+|Password:|
+|Parolă:|
+|Repeat:|
+|Confirmare:|
+|Notes:|
+|Notiţe:|
+|***|
+|***|
+|Add Entry|
+|Adaugă o intrare|
+|Create a new password entry.|
+|Creaţi o nouă intrare de parolă.|
+|Edit Entry|
+|Editează intrarea|
+|Modify existing password entry.|
+|Modificaţi intrarea de parolă existentă.|
+|Group name:|
+|Nume grup:|
+|Add Group|
+|Adaugă un grup|
+|Create a new password group.|
+|Creaţi un nou grup de parole.|
+|Edit Group|
+|Editează grupul|
+|Modify existing password group.|
+|Modificaţi parola grupului existent.|
+|Random mouse input|
+|Intrare aleatoare de la maus|
+|Click to begin:|
+|Clic pentru a începe:|
+|Use &Mouse as Random Source|
+|Utilizează &mausul ca sursă aleatoare|
+|Move the mouse in the field above until this is full:|
+|Mişcaţi mausul în cîmpul de mai sus pînă la umplere:|
+|Hint: It is best to use both mouse and keyboard random sources.|
+|Sfat: Cel mai bine este să utilizaţi atît mausul cît şi tastatura ca sursă aleatoare.|
+|Random keyboard input|
+|Intrare aleatoare de la tastaruă|
+|Just hack some random keys into the edit box above.|
+|Tastaţi nişte caractere aleatoare în caseta de mai sus.|
+|You don't have to remember the keys you type in. They are used to generate a random value.|
+|Nu trebuie să le ţineţi minte. Acestea sînt utilizate pentru a genera o valoare aleatoare.|
+|So, the more the better. The different, the better.|
+|Deci, cu cît mai multe caractere diferite, cu atît mai bine.|
+|The random the better.|
+|Cu cît caracterele sînt diferite, cu atît mai bine.|
+|Get Random|
+|Generare aleatoare|
+|Get Random Data for Key Generation|
+|Generare aleatoare de date pentru generarea cheii|
+|Move the mouse and type some random text to generate random values.|
+|Mişcaţi mausul şi tastaţi un text aleator pentru generarea de valori aleatoare.|
+|Pick an Icon|
+|Alegeţi o pictogramă|
+|Choose an icon from the list of available entry and group icons.|
+|Alegeţi o pictogramă din lista de pictograme de intrări şi grupuri disponibile.|
+|&File|
+|&Fişier|
+|&Edit|
+|&Editare|
+|&View|
+|&Vizualizare|
+|&?|
+|&?|
+|&New...|
+|&Nou...|
+|&Open...|
+|&Deschide...|
+|&Close|
+|În&chide|
+|&Save|
+|&Salvează|
+|Save &As...|
+|Salvează c&a...|
+|Change &Master Key...|
+|Schi&mbă cheia principală...|
+|&Print...|
+|Ti&păreşte...|
+|&Export To|
+|&Exportă în|
+|&Lock Workspace|
+|Blochează spaţiul de &lucru|
+|&Unlock Workspace|
+|Deblochează spaţiul de l&ucru|
+|E&xit|
+|&Terminare|
+|&Lock/Unlock Workspace|
+|Blochează/deblochează spaţiul de &lucru|
+|&Options...|
+|&Opţiuni...|
+|Add &Group...|
+|Adaugă un &grup...|
+|Add Su&bgroup...|
+|Adaugă un su&bgrup...|
+|Ed&it Group...|
+|Ed&itează grupul...|
+|&Delete Group...|
+|Şt&erge grupul...|
+|Pr&int Group...|
+|T&ipăreşte grupul...|
+|Copy User &Name|
+|Copiază &numele utilizatorului|
+|Copy &Password|
+|Copiază &parola|
+|Open &URL(s)|
+|Deschide &URL(-urile)|
+|&Find in Database...|
+|&Caută în baza de date...|
+|Find in t&his Group...|
+|Caută în ace&st grup...|
+|&Add Entry...|
+|&Adaugă o intrare...|
+|&Edit/View Entry...|
+|&Editează/afişează intrarea...|
+|&Delete Entry|
+|&Şterge intrarea|
+|Dupli&cate Entry|
+|Dupli&că intrarea|
+|Move Entry to &Top|
+|Mută intrarea la început|
+|Move Entry &One Up|
+|Mută intrarea mai sus|
+|Mo&ve Entry One Down|
+|Mută intrarea mai jos|
+|Move Entry to &Bottom|
+|Mută intrarea la sfîrşit|
+|Move Group to &Top|
+|Mută grupul la început|
+|Move Group One &Up|
+|Mută grupul mai sus|
+|Move Group &One Down|
+|Mută grupul mai jos|
+|Move Group to &Bottom|
+|Mută grupul la sfîrşit|
+|Change &Language...|
+|Schimbă &limba...|
+|&Always on Top|
+|Mereu de&asupra|
+|Hide &Passwords Behind Asterisks (***)|
+|Ascunde parola cu steluţe (***)|
+|Hide passwords behind asterisks (***).|
+|Ascunde parola cu steluţe (***).|
+|Password &Generator...|
+|&Generator de parole...|
+|Visit &KeePass Homepage|
+|Vizitaţi pagina &KeePass|
+|&About KeePass...|
+|&Despre KeePass...|
+|&Database Settings...|
+|Parametrii bazei de &date...|
+|&Tray/Untray|
+|Pune/scoa&te din zona de notificare|
+|Version|
+|Versiunea|
+|Password and repeated password aren't identical!|
+|Parola şi confirmarea sa nu sînt identice!|
+|Stop|
+|Stop|
+|Enter a group name!|
+|Introduceţi numele grupului!|
+|You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
+|Trebuie să generaţi nişte valori aleatoare deplasînd cursorul mausului în caseta de intrare sau utilizînd cîmpul de editare înainte de a închide această fereastră.|
+|No random input|
+|Fără intrare aleatoare|
+|EITHER enter a master password OR select a key file.|
+|INTRODUCEŢI o parolă principală SAU selectaţi un fişier cheie.|
+|The password must consist of at least one character!|
+|Parola trebuie să conţină cel puţin un caracter!|
+|Select at least one of the options in the list above!|
+|Selectaţi cel puţin una din opţiunile din lista de mai sus!|
+|The following self-tests failed:|
+|Următoarele auto-teste au eşuat:|
+|- SHA 32-bit variables|
+|- Variabile SHA 32 de biţi|
+|- SHA 64-bit variables|
+|- Variabile SHA 64 de biţi|
+|- SHA-256 test vector(s)|
+|- Vector(i) de test SHA-256|
+|- SHA-512 test vector(s)|
+|- Vector(i) de test SHA-512|
+|- Rijndael encryption|
+|- Criptarea Rijndael|
+|- Rijndael decryption|
+|- Decriptarea Rijndael|
+|- Arcfour crypto routine|
+|- Rutina de criptare Arcfour|
+|- Twofish algorithm|
+|- Algoritmul Twofish|
+|The program will exit now.|
+|Programul se va termina acum.|
+|Self-Test(s) Failed|
+|Auto-testele au eşuat.|
+|Clipboard cleared.|
+|Cliplanşetă curăţată.|
+|Field copied to clipboard. Clipboard will be cleared in %d seconds.|
+|Cîmp copiat în cliplanşetă. Autocurăţare în %d secunde.|
+|Failed to set the master key!|
+|Configurarea cheii principale a eşuat!|
+|File cannot be opened!|
+|Fişierul nu poate fi deschis!|
+|File cannot be saved!|
+|Fişierul nu poate fi salvat!|
+|KeePass Password Safe Files|
+|Fişiere KeePass cu parole|
+|All Files|
+|Toate fişierele|
+|The current database file has been modified|
+|Fişierul bazei de date curente a fost modificat|
+|Do you want to save the changes before closing?|
+|Doriţi să salvaţi modificărine înainte de închidere?|
+|KeePass - Save Before Close/Lock?|
+|KeePass - Salvaţi înainte de închidere/blocare?|
+|Deleting a group will delete all items and subgroups in that group, too.|
+|Ştergerea unui grup va avea ca efect ştergerea tuturor subgrupurilor aferente.|
+|Are you sure you want to delete this group?|
+|Sigur doriţi să ştergeţi acest grup?|
+|Delete Group Confirmation|
+|Confirmaţi ştergerea grupului|
+|Cannot open temporary file for printing!|
+|Nu se poate deschide fişierul temporar pentru tipărire!|
+|Load Language File|
+|Încarcă fişierul de limbă|
+|Load a Language File|
+|Încarcă un fişier de limbă|
+|Select one of the languages in the list below.|
+|Selectaţi una din limbile din lista de mai jos.|
+|Available Languages|
+|Limbi disponibile|
+|&Help|
+|Aj&utor|
+|&Help Contents|
+|Sumar aj&utor|
+|Open &Help File|
+|Deschide fişierul de aj&utor|
+|Open &License File|
+|Deschide fişierul de &licenţă|
+|Newline sequence:|
+|Secvenţă linie nouă:|
+|Windows newline sequence (\r\n)|
+|Secvenţă linie nouă Windows (\r\n)|
+|Unix newline sequence (\n)|
+|Secvenţă linie nouă Unix (\n)|
+|Clipboard auto-clear time (seconds):|
+|Durată de autocurăţare cliplanşetă (secunde):|
+|Settings|
+|Configurări|
+|Here you can configure KeePass.|
+|Aici puteţi configura KeePass.|
+|Automatically open last used database on startup|
+|Deschide automat la pornire ultima bază de date utilizată|
+|Automatically save when closing/locking the database|
+|Salvare automată la închiderea/blocarea bazei de date|
+|Display images on buttons|
+|Afişează imagini pe butoane|
+|Show grid lines in password entry list|
+|Afişează grilajul în lista intrărilor de parolă|
+|Workspace is locked.|
+|Spaţiul de lucru este blocat.|
+|Workspace locked|
+|Spaţiu de lucru blocat|
+|Loading error|
+|Eroare la încărcare|
+|Language file cannot be opened!|
+|Fişierul de limbă nu poate fi deschis!|
+|Language file cannot be registered!|
+|Fişierul de limbă nu poate fi înregistrat!|
+|The language file has been installed.|
+|Fişierul de limbă a fost instalat.|
+|You must restart KeePass in order to use the new language.|
+|Trebuie să reporniţi KeePass pentru a utiliza noua limbă.|
+|Do you wish to restart KeePass now?|
+|Doriţi să reporniţi KeePass acum?|
+|Restart KeePass?|
+|Repornire KeePass?|
+|Application cannot be restarted automatically!|
+|Aplicaţia nu poate fi repornită automat!|
+|Please restart KeePass manually.|
+|Reporniţi KeePass manual.|
+|CSV Files|
+|Fişiere CSV|
+|Text Files|
+|Fişiere text|
+|An error occurred while importing the file. File cannot be imported.|
+|O eroare s-a produs la importarea fişierului. Fişierul nu poate fi importat.|
+|&CSV File...|
+|Fişier &CSV...|
+|&PwSafe v2 TXT File...|
+|Fişier text &PwSafe v2...|
+|Select &Font|
+|Selectează &fontul|
+|Select a new font for the list controls:|
+|Selectaţi un font nou pentru controalele listei:|
+|Code&Wallet TXT File...|
+|Fişier text Code&Wallet...|
+|&TXT File...|
+|Fişier &TXT...|
+|&HTML File...|
+|Fişier &HTML...|
+|&XML File...|
+|Fişier &XML...|
+|&CSV File...|
+|Fişier &CSV...|
+|&Import From|
+|&Importă din|
+|&Get more languages...|
+|&Obţine şi alte limbi...|
+|Start and exit|
+|Pornire şi ieşire|
+|Interface (GUI)|
+|Interfaţă (GUI)|
+|Files|
+|Fişiere|
+|Memory|
+|Memorie|
+|Lock workspace when minimizing the main window|
+|Blochează spaţiul de lucru la minimizarea fereastrei principale|
+|Minimize to tray instead of taskbar|
+|Minimizează în zona de notificare în locul barei de sarcini|
+|Encryption algorithm to use (for this database):|
+|Se utilizează algoritmul de criptare (pentru această bază de date):|
+|Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
+|Advanced Encryption Standard (AES) (bloc-cifru pe 128 de biţi cu cheie de 256 de biţi)|
+|Twofish (128-bit block cipher using 256-bit key)|
+|Twofish (bloc-cifru pe 128 de biţi cu cheie de 256 de biţi)|
+|Security|
+|Securitate|
+|KeePass is OSI Certified Open Source Software.|
+|KeePass este un program cu sursă deschisă certificat OSI.|
+|Lock workspace after the following idle time (seconds):|
+|Blochează spaţiul de lucru după o inactivitate de (secunde):|
+|&Group name|
+|Nume &grup|
+|Every second row has a different background color. Use this color:|
+|Fiecare al doilea rînd are o culoare de fundal diferită. Utilizează culoarea aceasta:|
+|Default|
+|Implicit|
+|More Colors...|
+|Mai multe culori...|
+|Search Results|
+|Rezultatele căutării|
+|Creation Time|
+|Data creaţiei|
+|Last Modification|
+|Ultima modificare|
+|Last Access|
+|Ultima accesare|
+|Expires|
+|Data expirării|
+|UUID|
+|UUID|
+|&Creation Time|
+|Data &creaţiei|
+|Last &Modification Time|
+|Data ultimei &modificări|
+|&Last Access Time|
+|Data u&ltimei accesări|
+|&Expiration Time|
+|Data &expirării|
+|UU&ID|
+|UU&ID|
+|Show &Toolbar|
+|Arată bara de unel&te|
+|Visit KeePass Homepage|
+|Vizitaţi pagina KeePass|
+|Field copied to clipboard.|
+|Cîmp copiat în cliplanşetă.|
+|A key file already exists on this drive. Do you want to overwrite or reuse it?|
+|Un fişier cheie există deja pe această unitate. Doriţi să-l suprascrieţi sau să-l reutiliyaţi?|
+|Click [Yes] to overwrite the key file.|
+|Apăsaţi [Da] să suprascrieţi fişierul cheie.|
+|Click [No] to reuse the selected key file for this database.|
+|Apăsaţi [Nu] să reutilizaţi fişierul cheie selectat pentru această bază de date.|
+|Click [Cancel] to abort changing the key.|
+|Apăsaţi [Anulează] să abandonaţi schimbarea cheii.|
+|Overwrite?|
+|Suprascriere?|
+|Expires:|
+|Expiră:|
+|&Modify All Selected...|
+|&Modifică toate cele selectate...|
+|Change group:|
+|Schimbă grupul:|
+|Change entry icon:|
+|Schimbă pictograma intrării:|
+|Change expiration time:|
+|Schimbă data expirării:|
+|Mass Modify|
+|Modificare în masă|
+|Change fields of all selected entries|
+|Schimbă cîmpurile tuturor intrărilor selectate|
+|Show &Columns|
+|Arată &coloanele|
+|Show &Entry View|
+|Arată v&ederea intrării|
+|Automatically resize table columns when resizing the main window|
+|Redimensionează automat coloanele tabelului la redimensionarea ferestrei principale|
+|&Copy|
+|&Copiază|
+|Copy &All|
+|Copi&ază tot|
+|&Undo|
+|&Desefă|
+|&Paste|
+|Li&peşte|
+|Cu&t|
+|&Taie|
+|&Select All|
+|&Selectează tot|
+|&Delete|
+|&Şterge|
+|&TAN Wizard...|
+|Asistent &TAN...|
+|TAN Wizard|
+|Asistent TAN|
+|Using this wizard you can easily add TAN entries.|
+|Cu acest asistent puteţi adăuga uşor intrări TAN.|
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
+|Lipiţi caracterele TAN în căsuţa de editare de mai jos. Toate caracterele ce nu sînt specificate explicit drept TAN sînt tratate ca separatori, şi numai subşirurile compuse din caractere TAN sînt adăugate ca intrări TAN.|
+|TANs consist of the following characters:|
+|TAN sînt compue din următoarele caractere:|
+|<TAN>|
+|<TAN>|
+|Print Pre&view...|
+|Pre&vizualizare...|
+|About &Translation...|
+|Despre &traducere...|
+|Translation information|
+|Informaţii despre traducere|
+|Currently Used Language|
+|Limba curentă|
+|Language File Version|
+|Versiunea fişierului de limbă|
+|Author|
+|Autor|
+|Translation Author Contact|
+|Adresa de contact a traducătorului|
+|&Rearrange|
+|&Rearanjează|
+|&Sort Group List|
+|&Sortează lista de grupuri|
+|Sort List by &Title|
+|Sortează lista după &titlu|
+|Sort List by User &Name|
+|Sortează lista după &numele utilizatorului|
+|Sort List by &URL|
+|Sortează lista după &URL|
+|Sort List by &Password|
+|Sortează lista după &parolă|
+|Sort List by Note&s|
+|Sortează li&sta după notiţe|
+|Sort List by &Creation Time|
+|Sortează lista după data &creaţiei|
+|Sort List by Last &Modify Time|
+|Sortează lista după data ultimei &modificări|
+|Sort List by Last &Access Time|
+|Sortează lista după data ultimei &accesări|
+|Sort List by &Expiration Time|
+|Sortează lista după data &expirării|
+|Move Group One &Left|
+|Mută grupu&l la stînga|
+|Move Group One &Right|
+|Mută g&rupul la dreapta|
+|Hide &User Names Behind Asterisks (***)|
+|Ascunde numele &utilizatorilor cu steluţe (***)|
+|Attachment:|
+|Ataşament:|
+|Attachment|
+|Ataşament|
+|Attachment Description|
+|Descriere ataşament|
+|&Attachment|
+|&Ataşament|
+|Generate a random password...|
+|Generează o parolă aleatoare...|
+|Open file and set as attachment...|
+|Deschide fişierul si utilizează-l ca ataşament...|
+|Save attached file to disk...|
+|Salvează pe disc fişierul ataşat...|
+|There already is a file attached with this entry.|
+|Există deja un fişier ataşat la această intrare.|
+|Do you want to overwrite the current attachment?|
+|Doriţi să înlocuiţi ataşamentul curent?|
+|&Save Attached File To...|
+|&Salvează fişierul ataşat în...|
+|There is no file attached with this entry.|
+|Nu există nici un fişier ataşat acestei intrări.|
+|Remove the currently attached file|
+|Înlătură fişierul curent ataşat|
+|Close button [X] minimizes the main window instead of terminating the application|
+|Butonul [X] de închidere minimizează fereastra principală în loc să închidă aplicaţia|
+|KeePass Password Database|
+|Baza de date cu parole KeePass|
+|&Open with KeePass|
+|&Deschide cu KeePass|
+|Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
+|Aici puteţi asocia fişierele .kdb cu KeePass (pentru ca KeePass să deschidă aceste fişiere la un dublu-clic pe ele):|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|
+|Asociere cu succes a fişierelor .kdb cu KeePass. Un dublu-clic pe un fişier .kdb va lansa automat KeePass.|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
+|Asociere înlaturată cu success! KeePass nu va mai porni la un dublu-clic pe un fişier .kdb.|
+|Create &Association|
+|Creează &asocierea|
+|&Remove Association|
+|Înlătu&ră asocierea|
+|Setup|
+|Configurare|
+|Password List|
+|Lista de parole|
+|Exit?|
+|Ieşire?|
+|The file couldn't be saved.|
+|Fişierul nu a putut fi salvat.|
+|Maybe it's read-only or the storage media has been removed.|
+|Poate este doar în citire sau mediul de stocare a fost îndepărtat.|
+|If you exit now, all changes to the current database will be lost.|
+|Dacă ieşiţi acum, toate modificările aduse bazei de date curente vor fi pierdute.|
+|Would you like to exit anyway?|
+|Doriţi să ieşiţi oricum?|
+|Cannot access the selected drive.|
+|Nu se poate accesa unitatea selectată.|
+|Make sure a writable medium is inserted.|
+|Asiguraţi-vă că s-a inserat un mediu incriptibil.|
+|Not enough free disk space!|
+|Spaţiu liber pe disc insuficient!|
+|Disable unsafe (security-critical) operations like exports, etc.|
+|Dezactivează operaţiile nesigure (critice pentru securitate) cum ar fi exportul, etc.|
+|Unsafe operations are disabled.|
+|Operaţiile nesigure sînt dezactivate.|
+|To execute this operation you must enable unsafe operations in the options dialog.|
+|Pentru a executa această operaţie trebuie să activaţi operatiile nesigure din fereastra de opţiuni.|
+|You have changed an option that requires restarting KeePass to get active.|
+|Aţi schimbat o opţiune ce necesită repornirea lui KeePass pentru a o activa.|
+|Expired Entries|
+|Intrări expirate|
+|This is a list of all expired entries|
+|Aceasta este lista tuturor intrărilor expirate|
+|Show &Expired Entries|
+|Arată intrările &expirate|
+|Click on an entry to jump to it.|
+|Faceţi clic pe o intrare pentru a o accesa.|
+|Quality:|
+|Calitate:|
+|Database Settings|
+|Configurările bazei de date|
+|Here you can configure the current database.|
+|Aici puteţi configura baza de date curentă.|
+|Database Summary|
+|Sumarul bazei de date|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
+|Cheia v-a fost criptată de mai multe ori pentru obţinerea cheii de criptare finale a bazei de date. Aceasta adaugă un factor de timp constant şi îngreunează atacurile cu dicţionarul şi prin ghicire.|
+|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
+|Cu cît acest număr este mai mare, cu atît mai dificile sînt atacurile cu dicţionarul. Dar în acelaşi timp va încetini încărcarea şi salvarea bazei de date.|
+|Number of key encryption rounds:|
+|Numărul rundelor de criptare a cheii:|
+|bits|
+|biţi|
+|Personal &Vault TXT File...|
+|Fişier TXT &Vault personal...|
+|Imported from Password Safe|
+|Importat din Password Safe|
+|Remember last opened file|
+|Reţine ultimul fişier deschis|
+|Total number of groups / entries|
+|Număr total de grupuri / intrări|
+|Total: %u groups / %u entries|
+|Total : %u grupuri / %u intrări|
+|%u of %u selected|
+|%u din %u selectate|
+|Number of selected entries (number of entries in the list)|
+|Numărul intrărilor selectate (numărul intrărilor din listă)|
+|Status|
+|Stare|
+|The database file has been modified!|
+|Fişierul bazei de date a fost modificat!|
+|Most probably someone has changed the file while you were editing it.|
+|Probabil cineva a modificat fişierul în timp ce-l editaţi.|
+|Do you want to overwrite it?|
+|Doriţi să-l suprascrieţi?|
+|The group you selected cannot store entries. Please select a different group.|
+|Grupul selectat nu poate stoca intrări. Selectaţi un grup diferit.|
+|This will remove all selected entries unrecoverably!|
+|Aceasta va înlătura irecuperabil toate intrările selectate!|
+|Are you sure you want to delete all selected entries?|
+|Sigur doriţi să ştergeţi toate intrările selectate?|
+|Delete Entries Confirmation|
+|Confirmarea ştergerii intrărilor|
+|Use PuTTY for ssh: and telnet: URLs|
+|Utilizează PuTTY pentru adresele URL de ssh: şi telnet:|
+|Mark database as modified on last-access time change|
+|Marchează baza de date ca modificată la ultima schimbare a datei de accesare|
+|Se&lect All|
+|Se&lectează tot|
+|Auto-&Sort Password List|
+|&Sortare automată a listei de parole|
+|N&o Auto-Sort|
+|Fără s&ortare automată|
+|Auto-sorting of the password list is enabled, you cannot move entries manually.|
+|Sortarea automată a listei de parole este activă, nu puteţi muta intrările manual.|
+|Perform Auto-&Type|
+|Execută au&to-completare|
+|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
+|Sortarea automată a listei de parole este activă, nu puteţi sorta lista manual în acest moment.|
+|Select key file manually...|
+|Selectaţi manual fişierul cheie...|
+|Save key file manually to...|
+|Salvaţi manual fişierul cheie în...|
+|Enter the new composite master key.|
+|Introduceţi noua cheie principală compusă.|
+|Repeat the new master password for this database.|
+|Confirmaţi noua parolă principală pentru această bază de date.|
+|Change Composite Master Key|
+|Schimbă cheia principală compusă|
+|Plugin|
+|Modul|
+|Plugins|
+|Module|
+|&Plugins...|
+|&Module...|
+|Here you can configure all installed KeePass plugins.|
+|Aici puteţi configura toate modulele KeePass instalate.|
+|Enabled, loaded|
+|Activat, încărcat|
+|&Enable|
+|Activ&ează|
+|&Disable|
+|&Dezactivează|
+|About &Plugin...|
+|Despre &modul...|
+|An error occurred|
+|S-a produs o eroare|
+|Error code|
+|Cod de eroare|
+|Unknown error|
+|Eroare necunoscută|
+|Success|
+|Succes|
+|Invalid parameter|
+|Parametru invalid|
+|Too little memory (RAM) available|
+|Prea puţină memorie (RAM) disponibilă|
+|Invalid/wrong key|
+|Cheie invalidă/greşită|
+|File access error: failed to open file in read mode|
+|Eroare acces fişier: deschiderea în citire a fişierului a eşuat|
+|File access error: failed to open file in write mode|
+|Eroare acces fişier: deschiderea în scriere a fişierului a eşuat|
+|File error: error while reading from the file|
+|Eroare fişier: eroare la citirea din fişier|
+|File error: error while writing to the file|
+|Eroare fişier: eroare la scrierea în fişier|
+|Internal error|
+|Eroare internă|
+|Invalid random source|
+|Sursă aleatoare invalidă|
+|Invalid/corrupted file structure|
+|Structură de fişier invalidă/coruptă|
+|Encryption/decryption error|
+|Eroare de criptare/decriptare|
+|Get more plugins...|
+|Obţine şi alte module...|
+|Global auto-type hot key combination:|
+|Combinaţie de taste rapide de auto-completare globală:|
+|Cannot register the global hot key.|
+|Nu se pot înregistra tastele rapide globale.|
+|Most probably another application has reserved this hot key already.|
+|Probabil o altă aplicaţie a rezervat deja aceaste taste rapide.|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
+|Puteţi alege o combinaţie de taste rapide în „Unelte” - „Opţiuni” - „Avansat” - „Auto-completare”.|
+|&Use master password and key file|
+|&Utilizează parolă principală şi fişier cheie|
+|You've selected the AND key mode, so you must enter a password AND select a key file.|
+|Aţi selectat modul ŞI de cheie, deci trebuie sa introduceţi o parolă ŞI să selectaţi un fişier cheie.|
+|Timed: copy data to the clipboard and clear it automatically after some seconds|
+|Temporizat: copiază datele în cliplanşetă şi le şterge automat după cîteva secunde|
+|Enhanced: allow pasting only once and protect against clipboard spies|
+|Îmbunătăţit: permite o singură lipire şi protejează împotriva spionilor de cliplanşetă|
+|Clipboard behavior:|
+|Comportament cliplanşetă:|
+|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
+|Atenţie! Este posibil ca această opţiune să nu funcţioneze corect pe sistemul vostru, în special dacă utilizaţi unelte de îmbunătăţit sau salvgardat cliplanşeta.|
+|If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
+|Dacă întîlniţi probleme cu metoda îmbunătăţită, reveniţi la metoda de curăţare temporizată.|
+|Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
+|Schimbarea asocierii fişierului .kdb a eşuat. Asiguraţi-vă că aveţi dreptul de scriere în regiştri şi să schimbaţi socierile fişierlor.|
+|Number the TANs consecutively, starting from this value|
+|Numărul de TAN consecutive, pornind de la această valoare|
+|Never expires|
+|Fără expirare|
+|Auto-Type|
+|Auto-completare|
+|Help:|
+|Ajutor:|
+|Advanced|
+|Avansat|
+|Start minimized and locked|
+|Porneşte minimizat şi blocat|
+|Immediately after opening a database|
+|Imediat după deschiderea unei baze de date|
+|Show expired entries (if any)|
+|Arată intrările expirate (dacă există)|
+|Show entries that will expire soon (if any)|
+|Arată intrările ce vor expira în curînd (dacă există)|
+|Integration|
+|Integrare|
+|Start KeePass at Windows startup (for current user)|
+|Porneşte KeePass odată cu Windows (pentru utilizatorul curent)|
+|Unable to create/remove the auto-start key of KeePass in the Windows registry!|
+|Imposibil de creat/înlăturat cheia de auto-pornire a KeePass în regiştrii Windows!|
+|Backup|
+|Salvgardări|
+|Save backups of modified entries into the 'Backup' group|
+|Salvează salvgardările intrărilor modificate în grupul „Salvgardări”|
+|Failed to create backup of this entry!|
+|Salvgardarea acestei intrări a eşuat!|
+|The composite master key has been changed!|
+|Cheia principală compusă a fost modificată!|
+|Save the database now in order to get the new key applied.|
+|Salvaţi baza de date acum în vederea aplicării noii chei.|
+|Fields to export|
+|Cîmpuri de exportat|
+|Fields to print|
+|Cîmpuri de tipărit|
+|Icon|
+|Pictogramă|
+|Group Tree|
+|Arborescenţă grupuri|
+|Export Options|
+|Opţiuni de export|
+|Print Options|
+|Opţiuni de tipărire|
+|Here you can customize the exported files.|
+|Aici puteţi personaliza cîmpurile exportate.|
+|Here you can customize the printed sheet.|
+|Aici puteţi personaliza foaia tipărită.|
+|Encode/replace newline characters by '\n'|
+|Codează/înlocuieşte caracterele de linie nouă cu '\n'|
+|Export backup entries (entries in the 'Backup' group)|
+|Exportă intrările salvgardate (intrările din grupul „Salvgardări”)|
+|Print backup entries (entries in the 'Backup' group)|
+|Tipăreşte intrările salvgardate (intrările din grupul „Salvgardări”)|
+|&Get More Import Plugins...|
+|&Obţine mai multe module de import...|
+|Field has been pasted.|
+|Cîmpul a fost lipit.|
+|Waiting for paste command.|
+|Se aşteaptă comanda de lipire.|
+|Paste operation completed.|
+|Operaţie de lipire realizată.|
+|Limit to single instance|
+|Limitează la o singură instanţă|
+|Use more secure password edit controls|
+|Utilizează controale mai sigure de editare a parolei|
+|Press Shift-Home or Shift-End to clear this edit control|
+|Tastaţi Shift-Home sau Shift-End pentru a goli această căsuţă de editare|
+|Single left click instead of double-click for default tray icon action|
+|Clic simplu în loc de dublu-clic pentru acţiunea implicită a pictogramei din zona de notificare|
+|Exclude entries in the '&Backup' group|
+|Exculde intrările din grupul „&Salvgardări”|
+|Exclude &expired entries|
+|Exclude intrările &expirate|
+|By default, new entries expire in the following number of days:|
+|Implicit, noile intrări expiră în următorul număr de zile:|
+|Click to expire the entry in %u days|
+|Apăsaţi pentru expirarea intrărilor în %u zile|
+|Calculate rounds for a 1-second delay on this computer|
+|Calculează rundele pentru o întîrziere de 1 secundă pe acest calculator|
+|The program is distributed under the terms of the GNU General Public License v2 or later.|
+|Programul este distribuit conform termenilor licenței publice GNU v2 sau mai recentă.|
+|1 Week|
+|1 săptămînă|
+|2 Weeks|
+|2 săptămîni|
+|1 Month|
+|1 lună|
+|3 Months|
+|3 luni|
+|6 Months|
+|6 luni|
+|1 Year|
+|1 an|
+|Include backup entries in quick searches (toolbar)|
+|Include intrările de salvgardare în căutările rapide (bara de unelte)|
+|Include expired entries in quick searches (toolbar)|
+|Include intrările expirate în căutările rapide (bara de unelte)|
+|&Donate...|
+|&Donaţi...|
+|Use alternative auto-type method (minimize window)|
+|Utilizează o metodă alternativă de auto-completare (minimizează fereastra)|
+|Delete all backup entries before saving the database|
+|Şterge toate intrările de salvgardare înaintea salvării bazei de date|
+|&Repair KeePass Database File...|
+|&Reparaţi fişierul bazei de date...|
+|The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
+|Formatul fişierului selectat pentru import suportă ID-uri de grup şi/sau de intrări. Alegeţi un comportament de import.|
+|Create new IDs|
+|Creează ID-uri noi|
+|If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
+|Dacă selectaţi această opţiune, KeePass va crea noi ID-uri pentru toate grupurile şi intrările. În consecinţă grupurile şi intrările existente din baza de date curentă nu vor fi modificate sau înlocuite.|
+|Overwrite|
+|Suprascrie|
+|KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
+|KeePass va înlocui toate grupurile şi intrările existente cu cele din fişierul de import, dacă au acelşi ID.|
+|Overwrite if newer|
+|Suprascrie dacă mai noi|
+|KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
+|KeePass va compara data ultimei modificări a grupurilor/intrărilor şi le va înlocui pe cele existente numai dacă cele de importat sînt mai noi.|
+|&KeePass Database...|
+|Baza de date &KeePass...|
+|Acknowledgements|
+|Mulţumiri|
+|Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
+|Alegeţi dacă KeePass trebuie să utilizeze cheia bazei de date curente sau să solicite definirea unei noi chei pentru criptarea fişierului exportat.|
+|Click [Yes] to use the same key as the currently opened database.|
+|Apăsaţi [Da] pentru utilizarea aceleiaşi chei cu a bazei de date curente.|
+|Click [No] to set a new key for the exported file.|
+|Apăsaţi [Nu] pentru a defini o nouă cheie pentru fişierul exportat.|
+|Reuse the current key/password?|
+|Reutilizaţi cheia/parola curentă?|
+|Show full path in the title bar (instead of file name only)|
+|Afişează calea completă în bara de titlu (în loc doar de numele fişierului)|
+|Enable auto-type features|
+|Activează funcţionalităţile de auto-completare|
+|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
+|Copiază adresele URL în cliplanşetă în loc de lansarea lor (excepţie: cmd:// URL-uri)|
+|Copy &URL to Clipboard|
+|Copiază adresa &URL în cliplanşetă|
+|Exit program instead of locking the workspace after the specified time|
+|Ieşire din program în loc de blocarea spaţiului de lucru după timpul specificat|
+|Click on an entry to auto-type it.|
+|Clic pe o intrare pentru a o auto-completa.|
+|Auto-Type Entry Selection|
+|Selecţia intrării de auto-completare|
+|Multiple entries exist for the current window. Please select the entry to auto-type.|
+|Există intrări multiple pentru fereastra curentă. Selectaţi intrarea de auto-completat.|
+|The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
+|Fişierul pe care încercaţi să-l deschideţi este blocat, probabil că altcineva l-a deschis şi-l editează.|
+|Open the file in read-only mode?|
+|Deschideţi fişierul numai în citire?|
+|Click [Yes] to open the file in read-only mode.|
+|Apăsaţi [Da] să deschideţi fişierul doar în citire.|
+|Click [No] to open the file in normal writing mode.|
+|Apăsaţi [Nu] să deschideţi fişierul în editare normală.|
+|Now|
+|Acum|
+|&Tools|
+|Unel&te|
+|TAN View &Options|
+|&Opţiuni TAN de afişare|
+|Use &Simple List View for TAN-Only Groups|
+|Utilizează afişarea în listă &simplă nuami pentru grupurile TAN|
+|Show TAN &Indices in Entry Titles|
+|Arată &indicii TAN în titlurile intrărilor|
+|Disable 'Save' button if the database hasn't been modified|
+|Dezactivează butonul „Salvează” dacă baza de date nu a fost modificată|
+|Check For Updates|
+|Verificare pentru actualizări|
+|Check for Updates|
+|Verificare pentru actualizări|
+|New version available.|
+|Nouă versiune disponibilă.|
+|You have the latest version.|
+|Aveţi ultima versiune.|
+|Connect failed, cannot check for updates.|
+|Conectare eşuată, nu se pot verifica actualizătile.|
+|Cache error (cannot open cached file).|
+|Eroare de prestocare (nu se poate deschide fişierul prestocat).|
+|1 update is available!|
+|1 actualizare este disponibilă!|
+|%u updates are available!|
+|%u actualizări sînt disponibile!|
+|No updates available.|
+|Nici o actualizare disponibilă.|
+|Component|
+|Componentă|
+|Installed|
+|Instalată|
+|Available|
+|Disponibilă|
+|Plugin unknown.|
+|Modul necunoscut.|
+|Up to date.|
+|La zi.|
+|Pre-release version.|
+|Versiune de prelansare.|
+|Check for updates at KeePass startup|
+|Verificare pentru actualizări la pornirea KeePass|
+|'Keyfile' or 'preselect' option is already specified|
+|Opţiunea „Fişier cheie” sau „Preselecţie” este deja specificată|
+|Path is invalid|
+|Calea este invalidă|
+|Filename not found|
+|Fişier negăsit|
+|'Pw' option is already specified|
+|Opţiunea „Pw” este deja specificată|
+|Password is empty|
+|Parola este vidă|
+|Option not recognized|
+|Opţiune nerecunoscută|
+|Database is already specified|
+|Baza de date este deja specificată|
+|It contains an unmatched quote|
+|Conţine o referinţă nepotrivită|
+|Command line argument|
+|Argument linie de comandă|
+|ignored|
+|ignorat|
+|Reason|
+|Motiv|
+|KeePass Initialization|
+|Iniţializare KeePass|
+|Lock workspace when locking Windows, switching user or sleeping|
+|Blochează spaţiul de lucru la blocarea sesiunii Windows, schimbarea utilizatorului sau veghe|
+|Value|
+|Valoare|
+|Select the fields KeePass should remember|
+|Selectaţi cîmpurile pe care Keepass trebuie să le reţină|
+|Fields to remember|
+|Cîmpuri de reţinut|
+|An entry already exists for the current URL.|
+|Există deja o intrare pentru adresa URL curentă.|
+|The following application requests access to your currently opened KeePass database:|
+|Aplicaţia următoare solicită acces la baza de date curentă:|
+|Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
+|Reţineţi că titlul aplicaţiei a fost furnizat de aplicaţia solicitantă şi prin urmare poate fi incorect (un program maliţios poate încerca să acceseze baza voastră de date).|
+|Do you grant the application access to your KeePass database?|
+|Acordaţi programului accesul la baza voastră de date KeePass?|
+|&Read-Only|
+|Doar citi&re|
+|&Full|
+|&Complet|
+|&Deny|
+|&Refuză|
+|Incoming IPC Request|
+|Solicitare IPC intrîndă|
+|An application requests access through inter-process communication|
+|O aplicaţie solicită acces printr-o comunicaţie inter-proces|
+|Application|
+|Aplicaţie|
+|Unknown|
+|Necunoscută|
+|Enable remote control (allow applications to communicate with KeePass)|
+|Activează controlul la distanţă (permite aplicaţiilor să comunice cu KeePass)|
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
+|Asiguraţi-vă că mediul ce conţine fişierul cheie este inserat şi că KeePass are dreptul să-l acceseze (verificaţi autorizaţiile fişierului, asiguraţi-vă că nici o altă aplicaţie nu-l blochează, ...).|
+|URL Field: Help|
+|Cîmp URL: Ajutor|
+|There are too few characters in the character set to build up a password matching the specified rules|
+|Sînt prea puţine caractere în setul de caractere pentru a construi o parolă potrivită regulilor specificate|
+|(Custom)|
+|(Personalizat)|
+|Save current settings as a profile.|
+|Salvează ca profil configurările curente.|
+|Delete currently selected profile.|
+|Şterge profilul curent seleţionat.|
+|(Automatically generated passwords for new entries)|
+|(Parole generate automat pentru noile intrări)|
+|Profile|
+|Profil|
+|Length of generated password:|
+|Lungimea parolei generate:|
+|Generate using character set:|
+|Generează utilizînd setul de caractere:|
+|Generate using pattern:|
+|Generează utilizînd modelul:|
+|Also include the following characters:|
+|De asemenea, include şi caracterele următoare:|
+|Exclude look-alike characters|
+|Exclude caracterele asemănătoare|
+|Use local date/time format instead of ISO notation|
+|Utilizează formatul de dată/oră local în locul notaţiei ISO|
+|Save as Profile|
+|Salvează ca profil|
+|Save current settings as password generator profile.|
+|Salvează configurările curente ca profil generator de parole.|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
+|Introduceţi un nume pentru noul profil generator de parole, sau selectaţi un profil existent pentru a-l suprascrie:|
+|Randomly permute characters of password|
+|Permutează aleator caracterele parolei|
+|Locked|
+|Blocat|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?|
+|Fişierul de ajutor conţine informaţii detaliate despre formatul de intrare scontat. Doriţi să deschideţi fişierul de ajutor?|
+|Failed to save the configuration.|
+|Salvarea configuraţiei a eşuat.|
+|Arguments|
+|Argumente|
+|&Export Group To|
+|&Exportă grupul în|
+|in "Minimal functionality" mode|
+|în regim „Funcţionalitate minimală”|
+|Regular expression|
+|Expresie regulată|
+|Default user name for new entries:|
+|Nume de utilizator implicit pentru itrările noi:|
+|Advanced Password Generator Options|
+|Opţiunile generatorului avansat de parole|
+|Exclude the following characters:|
+|Exclude următoarele caractere:|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
+|Opţiunile/regulile marcate cu steluţă reduc gradul de securitate al parolelor generate. Activaţi-le numai dacă astfel de reguli sînt impuse de situl web, aplicaţie sau politica de securitate.|
+|Each character must occur at most once|
+|Fiecare caracter trebuie să apară cel mult o dată|
+|Provider|
+|Furnizor|
+|The key provider plugin did not supply a valid key|
+|Modulul furnizor de cheie nu a furnizat o cheie validă|
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
+|Înregistrează tastele rapide Ctrl-Alt-K (aduce în prim-plan fereastra KeePass)|
+|Type to search the database|
+|Tastaţi pentru a căuta în baza de date|
+|Search...|
+|Căutare...|
+|Clear Search History|
+|Curăţă istoricul căutării|
+|TANs are imported into the currently selected group|
+|TAN sînt importate în grupul curent selectat|
+|The selected key file already exists|
+|Fişierul cheie selectat există deja|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
+|Generează o cheie nouă şi suprascrie fişierul cheie existent. Cheia stocată actualmente în fişierul cheie existent va fi pierdută.|
+|Reuse|
+|Reutilizează|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|
+|Încarcă fişierul cheie existent şi utilizează-l ca cheie pentru baza de date curentă. Fişierul cheie nu va fi modificat.|
+|Cancel|
+|Anulează|
+|Abort specifying a new key for the current database.|
+|Abandonează specifincînd o nouă cheie pentru baza de date curentă.|
+|Overwrite existing key file?|
+|Suprascrieţi fişierul cheie existent?|
+|Save|
+|Salvează|
+|Discard changes|
+|Abandonează modificările|
+|Save database changes before closing the file?|
+|Salvaţi modificările bazei de date înainte de închiderea fişierului?|
+|Save database changes before exiting KeePass?|
+|Salvaţi modificările bazei de date înainte de părăsirea lui KeePass?|
+|Save database changes before locking the workspace?|
+|Salvaţi modificările bazei de date înainte de blocarea spaţiului de lucru?|
+|Save all changes made to the database and close the file.|
+|Salvează toate modificările aduse bazei de date şi închide fişierul.|
+|Save all changes made to the database and exit KeePass.|
+|Salvează toate modificările aduse bazei de date şi părăseşte KeePass.|
+|Save all changes made to the database and lock the KeePass workspace.|
+|Salvează toate modificările aduse bazei de date şi blochează spaţiul de lucru KeePass.|
+|Discard all changes made to the database and close the file.|
+|Abandonează toate modificările aduse bazei de date şi închide fişierul.|
+|Discard all changes made to the database and exit KeePass.|
+|Abandonează toate modificările aduse bazei de date şi părăseşte KeePass.|
+|Discard all changes made to the database and lock the KeePass workspace.|
+|Abandonează toate modificările aduse bazei de date şi blochează spaţiul de lucru KeePass.|
+|Abort the current operation.|
+|Abandonează operaţia curentă.|
+|The KeePass workspace will not be locked.|
+|Spaţiul de lucru KeePass nu va fi blocat.|
+|KeePass will not be closed.|
+|KeePass nu va fi închis.|
+|The file will not be closed.|
+|Fişierul nu va fi închis.|
+|The master password must be at least %u characters long!|
+|Parola principală trebuie să fie de cel puţin %u caractere!|
+|The estimated quality of the master password must be at least %u bits!|
+|Calitatea estimată a parolei principale trebuie să fie de cel puţin %u biţi!|
+|Copy [of an item]|
+|Copie [a unui element]|
+|Focus entry list after a successful quick search (toolbar)|
+|Focalizează pe lista de intrări după o căutare rapidă cu succes (bara de unelte)|
+|Always grant full access through remote control (not recommended)|
+|Acordă mereu acces complet prin control la distanţă (nerecomandat)|
+|URL Field: Select Application...|
+|Cîmp URL: Selectare aplicaţie...|
+|URL Field: Select Document...|
+|Cîmp URL: Selectare document...|
+|URL Field: Insert Placeholder|
+|Cîmp URL: Spaţiu rezervat de inserare|
+|Auto-Type: Help|
+|Auto-completare: Ajutor|
+|Auto-Type: Customize Sequence|
+|Auto-completare: Secvenţă personalizată|
+|Auto-Type: Select Target Window...|
+|Auto-completare: Selectare fereastră destinaţie...|
+|Select the target window for the current entry.|
+|Selectează fereastra destinaţie pentru intrarea curentă.|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
+|Pentru a specifica fereastra destinaţie, ori selectaţi o fereastră existentă deschisă curent din lista derulantă, ori introduceţi manual titlul ferestrei:|
+|Default auto-type sequence for standard entries:|
+|Secvenţa implicită de auto-completare pentru intrările standard:|
+|Prepend special initialization sequence for Internet Explorer windows|
+|Secvenţă specială de iniţializare prealabilă pentru ferestrele Internet Explorer|
+|Here you can configure auto-type.|
+|Aici puteţi configura auto-completarea.|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
+|Fişierul destinaţie pare a fi într-o stare coruptă. Încercaţi să salvaţi din nou, şi dacă eşuează, salvaţi baza de date într-o locaţie diferită.|
+|Drop to background when copying data to the clipboard|
+|Revenire la fundal cînd se copiază date în cliplanşetă|
+|Insert Field Reference|
+|Inseraţi referinţa cîmpului|
+|In Title Field|
+|În cîmpul titlu|
+|In User Name Field|
+|În cîmpul nume utilizator|
+|In URL Field|
+|În cîmpul URL|
+|In Password Field|
+|În cîmpul parolă|
+|In Notes Field|
+|În cîmpul notiţe|
+|Field to reference|
+|Cîmp pentru referinţă|
+|Identify source entry by|
+|Identifică intrarea sursă după|
+|Source field to reference|
+|Cîmp sursă pentru referinţă|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
+|Cîmpul selectat, ce identifică intrarea sursă, conţine caractere nepermise (precum '{', '}', linie nouă, ...).|
+|Multiple entries match the specified identifying field.|
+|Mai multe intrări corespund cu cîmpul de identificare specificat.|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
+|Pentru a evita ambiguităţile, intrările pot fi identificate printr-un UUID, care este unic.|
+|Read-only|
+|Numai citire|
+|Normal|
+|Normal|
+|Take ownership of the file and open it in normal writing mode.|
+|Preia posesiunea fişierului si-l deschide în modul de editare normal.|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.|
+|Deschide fişierul numai în citire. Modificările bazei de date pot fi salvate într-un fişier diferit.|
+|Sort items in the auto-type entry selection dialog|
+|Sortează elemetele în căsuţa de selecţie a intrării de auto-completare|
+|Clear clipboard when closing/locking the database|
+|Curăţă cliplanşeta la închiderea/blocarea bazei de date|
+|Help Source|
+|Sursa de ajutor|
+|Use the following help source when a "Help" button within KeePass is clicked:|
+|Cînd se apasă butonul „Ajutor” din KeePass, se utilizează sursa de ajutor următoare:|
+|Local help file|
+|Fişierul local de ajutor|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
+|Fişierul local de ajutor este un instantaneu din documentaţia produsului la momentul publicării acestei versiuni. Nu este actualizat în mod automat.|
+|Online help center|
+|Centrul de ajutor online|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|
+|Centrul de ajutor online conţine mereu ultima versiune a documentaţiei produsului. O conexiune la Internet este necesară.|
+|This option is disabled, because local help is not installed.|
+|Această opţiune este dezactivată, deoarece ajutorul local nu este instalat.|
+|Choose between local help and online help center.|
+|Alegeţi între ajutorul local şi centrul de ajutor online.|
+|Help &Source...|
+|&Sursa de ajutor...|
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)|
+|Utilizează protecţia avansată de memorie (DPAPI, de la Windows Vista în sus)|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
+|Utilizează CNG/BCrypt pentru transformările cheii (de la Windows Vista în sus)|
+|Delete TAN entries immediately after using them|
+|Şterge intrările TAN imediat după utilizarea lor|
+|KeePass 1.x cannot open KDBX files.|
+|KeePass 1.x nu poate deschide fişiere KDBX.|
+|Use the KeePass 2.x 'Export' feature to migrate this file|
+|Utilizaţi funcţia „Export” din KeePass 2.x pentru a migra acest fişier|
+|The specified name is reserved.|
+|Numele specificat este rezervat.|
+|Please choose a different name.|
+|Alegeţi un nume diferit.|
+|see the <A HREF="h">help manual</A> for details.|
+|consultaţi <A HREF="h">ajutorul</A> pentru detalii.|
+|Use file transactions for writing databases|
+|Utilizează tranzacţii de fişiere pentru scrierea bazelor de date|
+|Ctrl|
+|Ctrl|
+|Do&n't delete|
+|&Nu şterge|

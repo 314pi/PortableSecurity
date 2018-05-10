@@ -1,0 +1,289 @@
+﻿|~LANGUAGENAME||Portuguese (Português, Portugal)|
+|~LANGUAGEVERSION||1.34|
+|~LANGUAGEAUTHOR||José Gonçalves|
+|~LANGUAGEAUTHOREMAIL||joseaagoncalves@gmail.com, http://www.eufisica.com|
+|&Close||Fechar|
+|&Generate Random Password||Gerar Senha Aleatória|
+|General||Geral||Windows||Windows||Network||Rede||Internet||Internet|
+|eMail||eMail||Homebanking||Banco Electrónico||Entry||Entrada|
+|&Title||Título||User &Name||Nome de Utilizador||&URL||URL|
+|&Password||&Senha||N&otes||Comentários||&Case sensitive||Sensível Maiúsculas|
+|Search in||Localizar em||Find||Encontrar||&Find||Encontrar||About KeePass||Sobre KeePass||Title||Título||URL||URL||Password||Senha||Notes||Comentários||Ready.||Pronto.||Password Generator||Gerador de Senha||&Generate||Gerar||&Accept||Aceitar||Group:||Grupo:||Title:||Título:||URL:||URL:||Icon:||Ícone:||Password:||Senha:||Notes:||Comentários:||***||***||Add Entry||Adicionar entrada||Edit Entry||Editar entrada||Add Group||Adicionar grupo||Edit Group||Editar grupo||Random mouse input||Entrada aleatória pelo rato||Click to begin:||Clique para começar:||Move the mouse in the field above until this is full:||Mova o rato no campo acima até completar a barra:||Hint: It is best to use both mouse and keyboard random sources.||Dica: É melhor usar rato e teclado como fonte aleatória.||Random keyboard input||Entrada aleatória pelo teclado||Just hack some random keys into the edit box above.||Apenas digite alguma chave aleatória dentro da caixa acima.||You don't have to remember the keys you type in. They are used to generate a random value.||Você não tem que lembrar a chave que digitou. Elas são usadas para gerar um valor aleatório.||So, the more the better. The different, the better.||Então, quanto mais e diferente, melhor.||The random the better.||Aleatório é melhor.||Get Random||Pegar aleatório||Move the mouse and type some random text to generate random values.||Mova o rato e digite algum texto aleatório para gerar valores aleatórios.||&File||Ficheiro||&Edit||Editar||&View||Visualizar||&?||?||&Lock Workspace||Bloquear área de trabalho||&Unlock Workspace||Desbloquear área de trabalho||&Lock/Unlock Workspace||Bloquear/DesBloquear área de trabalho||&Add Entry...||Adicionar entrada...||&Edit/View Entry...|| Editar/Visualizar entrada...||&Delete Entry||Excluir entrada||Dupli&cate Entry||Duplicar entrada||Move Entry &One Up||Mover entrada para cima||Mo&ve Entry One Down||Mover entrada para baixo||Move Group One &Up||Mover o grupo para cima||Move Group &One Down||Mover o grupo para baixo||Change &Language...||Mudar Idioma...||&About KeePass...|| Sobre KeePass...||Password and repeated password aren't identical!||Senha e sua repetição não são idênticas!||Stop||Parar||Enter a group name!||Introduza um nome de grupo!||You must generate some random values using the random mouse input box or the edit field before you can close this dialog.||Você deve gerar algum valor aleatório usando a caixa de entrada aleatória do rato ou o campo de edição antes de fechar esta janela.||No random input||Sem entrada aleatória||The password must consist of at least one character!||A senha deve conter,pelo menos,um caracter!||Select at least one of the options in the list above!||Seleccione ao menos uma das opções da lista acima!||The following self-tests failed:||O(s) seguinte(s) teste(s) falhou(aram):||- SHA 32-bit variables||- SHA 32-bit variáveis||- SHA 64-bit variables||- SHA 64-bit variáveis||- SHA-256 test vector(s)||- SHA-256 teste de vetor(es)||- SHA-512 test vector(s)||- SHA-512 teste de vetor(es)||- Rijndael encryption||- Encriptação Rijndael||- Rijndael decryption||- Decriptação Rijndael||- Arcfour crypto routine||- Rotina de criptografia Arcfour||- Twofish algorithm||- Algoritmo Twofish||The program will exit now.||O programa irá sair agora.||Self-Test(s) Failed||Auto-Teste(s) falhou(aram)||Clipboard cleared.||Área de Transferência limpa.||Failed to set the master key!||Falhou ao definir a chave-mestra!||File cannot be opened!||Ficheiro não pode ser aberto!||File cannot be saved!||Ficheiro não pode ser guardado!||Do you want to save the changes before closing?||Você deseja guardar as mudanças antes de sair?||Are you sure you want to delete this group?||Você tem certeza que deseja excluir este grupo?||Delete Group Confirmation||Confirmação de exclusão do grupo||Cannot open temporary file for printing!||Ficheiro temporário não pode ser aberto para impressão!||Select one of the languages in the list below.||Seleccione um dos idiomas listados abaixo.||Available Languages||Idiomas disponíveis||Open &License File||Abrir ficheiro de Licença ||Newline sequence:||Sequência de nova linha:||Windows newline sequence (\r\n)||Nova Linha do Windows (\r\n)||Unix newline sequence (\n)||Nova Linha do Unix (\n)||Clipboard auto-clear time (seconds):||Tempo de limpeza automática da Área de Transferência (segundos):||Settings||Configurações||Here you can configure KeePass.||Aqui você pode configurar o KeePass.||Automatically open last used database on startup||Abrir automaticamente a última base de dados usada ao iniciar||Workspace locked||Área de trabalho bloqueada||Loading error||Erro ao carregar||Language file cannot be opened!||Ficheiro de idiomas não pode ser aberto!||Language file cannot be registered!||Ficheiro de idiomas não pode ser registrado!||The language file has been installed.||O ficheiro de língua foi instalado.||You must restart KeePass in order to use the new language.||Você deve reiniciar o KeePass para usar o novo idioma.||Do you wish to restart KeePass now?||Deseja reiniciar o KeePass agora?||Restart KeePass?||Reiniciar o KeePass?||Application cannot be restarted automatically!||A aplicação não pode ser reiniciada automaticamente!||Please restart KeePass manually.||Por favor reinicie o KeePass manualmente.||Select &Font||Seleccionar fonte||&Get more languages...||Procurar mais idiomas...||Interface (GUI)||Interface (GUI)||Files||Ficheiros||Memory||Memória||Lock workspace when minimizing the main window||Bloquear área de trabalho quando minimizada a janela principal||Minimize to tray instead of taskbar||Minimizar para a bandeja ao invés da barra de tarefas||Encryption algorithm to use (for this database):||Algoritmo de encriptação a usar (para este base de dados):||Security||Segurança||KeePass is OSI Certified Open Source Software.||KeePass é um software de código aberto certificado(OSI).||Every second row has a different background color. Use this color:||Toda a segunda linha tem uma cor diferente de fundo. Use esta cor:||Default||Padrão||More Colors...||Mais cores...||Creation Time||Data de Criação||Last Modification||Última Modificação||Last Access||Último Acesso||Expires||Expiração||UUID||UUID||Field copied to clipboard.||Campo copiado para a Área de Transferência.||Overwrite?||Sobrescrever?||Expires:||Expiração:||Change group:||Mudar grupo:||Change entry icon:||Mudar ícone da entrada:||Change expiration time:||Mudar data de expiração:||Mass Modify||Modificação em Massa||Change fields of all selected entries||Mudar campos de todas as entradas seleccionadas||Show &Columns||Mostrar Colunas||Show &Entry View||Mostrar Visualização de entradas||&Copy||Copiar||Copy &All||Copiar Todos||&Undo||Desfazer||&Paste||Colar||Cu&t||Cortar||&Select All||Seleccionar todos||&Delete||Excluir||TAN Wizard||Assistente do TAN||Using this wizard you can easily add TAN entries.||Usando este assistente, você pode facilmente adicionar entradas TAN.||<TAN>||<TAN>||Print Pre&view...||Visualizar Impressão...||About &Translation...||Sobre a tradução...||Author||Autor||&Rearrange||Reorganizar||&Save Attached File To...||Guardar ficheiro anexado em...||&Sort Group List||Ordenar lista de grupos||Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)||Padrão Avançado de Encriptação (AES) (128-bit block cipher usando chave de 256-bit)||Attachment||Anexo||Attachment:||Anexo:||Close button [X] minimizes the main window instead of terminating the application||Botão fechar [X] minimiza a janela principal ao invés de terminar a aplicação||Do you want to overwrite the current attachment?||Você deseja sobrescrever o anexo actual?||Generate a random password...||Gerar uma senha aleatória...||Move Group One &Left||Mover grupo um à esquerda||Move Group One &Right||Mover grupo um à direita||Open file and set as attachment...||Abrir ficheiro e colocar como anexo...||Remove the currently attached file||Remover o actual ficheiro anexado ||Save attached file to disk...||Guardar ficheiro anexado no disco||There already is a file attached with this entry.||Já existe um ficheiro anexado com esta entrada.||There is no file attached with this entry.||Não há ficheiro anexado nesta entrada.||Twofish (128-bit block cipher using 256-bit key)||Twofish (128-bit block cipher usando chave de 256-bit)||&Open with KeePass||Abrir com KeePass||&Remove Association||Remover Associação||Create &Association||Criar Associação||Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):||Aqui você pode associar ficheiros .kdb com o KeePass (o KeePass abrirá o ficheiro quando dado um duplo clique sobre ele):||KeePass Password Database||Base de Dados de Senhas KeePass||&Database Settings...||Configuração da Base de Dados...||Cannot access the selected drive.||Não é possível aceder ao disco seleccionado.||Click on an entry to jump to it.||Clique numa entrada para aceder.||Database Settings||Configuraçãoda base de dados||Database Summary||Sumário da base de dados||Disable unsafe (security-critical) operations like exports, etc.||Desactivar operações inseguras (segurança-crítica) como exportações, etc.||Exit?||Sair?||Expired Entries||Entradas expiradas||Here you can configure the current database.||Aqui você pode configurar a base de dados actual.||If you exit now, all changes to the current database will be lost.||Se você sair agora, todas as alterações na base de dados actual serão perdidas.||Make sure a writable medium is inserted.||Certifique-se que está inserida uma mídia gravável.||Maybe it's read-only or the storage media has been removed.||Talvez a mídia apenas para leitura ou foi removida.||Not enough free disk space!||Não há espaço suficiente no disco.||Number of key encryption rounds:||Número de chaves de encriptação ronda:||Quality:||Qualidade:||Setup||Configuração||The file couldn't be saved.||O ficheiro não pode ser guardado.||This is a list of all expired entries||Esta é a lista de todas as entradas expiradas.||To execute this operation you must enable unsafe operations in the options dialog.||Para executar esta operação você deve activar as operações inseguras na janela de opções.||Unsafe operations are disabled.||Operações inseguras estão activadas.||Would you like to exit anyway?||Você deseja sair de qualquer forma?||You have changed an option that requires restarting KeePass to get active.||Você mudou uma opção que requer a reinicialização do KeePass para ficar activa.||bits||bits||%u of %u selected||%u de %u selecionado||&CSV File...||Ficheiro CSV...||&CSV File...||Ficheiro CSV...||&HTML File...||Ficheiro HTML...||&PwSafe v2 TXT File...||Ficheiro PwSafe v2 TXT...||&TXT File...||Ficheiro TXT...||&XML File...||Ficheiro XML...||Are you sure you want to delete all selected entries?||Você tem certeza que deseja excluir todas as entradas seleccionadas?||Code&Wallet TXT File...||Ficheiro CodeWallet TXT...||Delete Entries Confirmation||Confirmação de Exclusão de entradas||Do you want to overwrite it?||Você deseja realmente sobrescreve-lo?||Field copied to clipboard. Clipboard will be cleared in %d seconds.||Campo copiado para a área de transferência. Área de Transferência será limpa em %d segundos.||Imported from Password Safe||Importado de Password Safe||Most probably someone has changed the file while you were editing it.||O mais provável é que alguém tenha alterado o ficheiro enquanto você o estava a editar.||Number of selected entries (number of entries in the list)||Número de entradas seleccionadas (número de entradas na lista)||Open &URL(s)||Abrir URL(s)||Personal &Vault TXT File...||Ficheiro Pessoal TXT||Remember last opened file||Lembrar último ficheiro aberto||Se&lect All||Seleccionar Todos||Status||Estado||The database file has been modified!||O ficheiro da base de dados foi modificado!||This will remove all selected entries unrecoverably!||Isto irá remover todas entradas seleccionadas sem ter como recupera-las||Total number of groups / entries||Número total de grupos / entradas||Total: %u groups / %u entries||Total: % grupos / % entradas||Use PuTTY for ssh: and telnet: URLs||Usar PuTTY para URLs ssh e telnet:||&Options...|| Opções...||Options||Opções||E&xit||Sair||Hide &Passwords Behind Asterisks (***)||Esconder Senhas atrás de asteriscos (***)||N&o Auto-Sort||Sem ordenação automatica||Open &Help File||Abrir ficheiro de Ajuda||Perform Auto-&Type||Executar escrita automatica||&Disable||Desactivar||&Enable||Activar||About &Plugin...||Sobre Plugin...||Advanced||Avançado||Auto-Type||Escrita automatica||Backup||Backup||Click [Cancel] to abort changing the key.||Clique [Cancelar] para abortar mudança da chave.||Clipboard behavior:||Comportamento da Área de Transferência||Enabled, loaded||Activado, carregado||Encryption/decryption error||Erro de encriptação/decriptação||Enhanced: allow pasting only once and protect against clipboard spies||Melhorado: permite colar apenas uma vez e protege contra espiões na área de transferência||Error code||Erro de código||Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.||Falha ao mudar a associação do ficheiro .kdb. Certifique-se que tem direitos de escrita no registo e de mudar associações de ficheiros.||Failed to create backup of this entry!||Falha ao criar backup desta entrada!||File access error: failed to open file in read mode||Erro de acesso ao ficheiro: falhou ao abrir o ficheiro em modo de leitura||File access error: failed to open file in write mode||Erro de acesso ao ficheiro: falhou ao abrir o ficheiro em modo de escrita||File error: error while reading from the file||Erro de ficheiro: erro enquanto lê o ficheiro||File error: error while writing to the file||Erro de ficheiro: erro enquanto escreve o ficheiro||Global auto-type hot key combination:||Combinação da tecla de atalho global de escrita automatica:||Help:||Ajuda:||Here you can configure all installed KeePass plugins.||Aqui você pode configurar todos as mini-aplicações instalados no KeePass.||Immediately after opening a database||Imediatamente após abrir uma base de dados||Integration||Integração||Internal error||Erro interno||Invalid parameter||Parâmetro inválido||Invalid random source||Fonte aleatória inválida||Invalid/corrupted file structure||Estrutura do ficheiro inválida/corrompida||Invalid/wrong key||Chave inválida/errada||KeePass - Save Before Close/Lock?||KeePass – Guardar antes de fechar/bloquear?||Never expires||Nunca expira||Number the TANs consecutively, starting from this value||Número de TANs consecutivas, iniciando por este valor||Plugin||Plugin|
+|Show entries that will expire soon (if any)||Mostrar entradas que expirarão em breve (se existir)||Show expired entries (if any)||Mostrar entradas expiradas (se existir)||Start KeePass at Windows startup (for current user)||Iniciar KeePass ao iniciar o Windows||Success||Sucesso|
+|Timed: copy data to the clipboard and clear it automatically after some seconds||Temporizado:copiar dados para a área de transferência e limpar automaticamente após alguns segundos|
+|Unable to create/remove the auto-start key of KeePass in the Windows registry!||Impossível de criar/remover chave de inicialização automatica do KeePass no registo do Windows!||Unknown error||Erro desconhecido|
+|Automatically resize table columns when resizing the main window||Redimensionar automaticamente colunas da tabela quando a janela for redimensionada||Display images on buttons||Mostrar imagens nos botões||Encode/replace newline characters by '\n'||Codificar/substituir caracteres newline por '\n'||Export Options||Exportar Opções||Export backup entries (entries in the 'Backup' group)||Exportar entradas backup (entradas no grupo 'Backup')||Fields to export||Campos a exportar||Group Tree||Agrupar árvore||Here you can customize the exported files.||Aqui você pode personalizar os ficheiros exportados||Icon||Ícone||Save backups of modified entries into the 'Backup' group||Guardar backups de entradas modificadas no grupo 'Backup'||Save the database now in order to get the new key applied.||Guardar a base de dados agora para obter uma nova chave.||Select a new font for the list controls:||Seleccione uma nova fonte para a lista de controles:||Start minimized and locked||Iniciar minimizado e bloqueado||&Print...|| Imprimir...||By default, new entries expire in the following number of days:||Por definição, as novas entradas expiram no seguinte número de dias:||Calculate rounds for a 1-second delay on this computer||Calcula turnos de 1 segundo de atraso neste computador||Cannot register the global hot key.||Não pode registar a tecla de atalho global.||Click to expire the entry in %u days||Clique para expirar a entrada em %u dias||Exclude entries in the '&Backup' group||Exclui entradas no grupo 'Backup'||Field has been pasted.||Campo foi colado.||Limit to single instance||Limitar a uma única instância||Most probably another application has reserved this hot key already.||É muito provavél que outra aplicação já tenha reservado esta tecla de atalho.||Paste operation completed.||Operação de colagem concluída.||Pr&int Group...|| Imprimir grupo||Single left click instead of double-click for default tray icon action||Clique no botão esquerdo ao invés do duplo-clique para ícone de acção padrão na bandeja||The program is distributed under the terms of the GNU General Public License v2 or later.||O programa é distribuído sob os termos da GNU General Public Licence v2 ou mais recente.||Use more secure password edit controls||Usar controles de edição de senha mais seguro||Waiting for paste command.||Esperando por comando colar.||Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||Sua chave é encriptada várias vezes para gerar uma chave de encriptação da base de dados final. Isto adiciona uma factor constante de tempo e faz que ataques por adivinhação e dicionário sejam muito mais difíceis.||&Donate...||Doar...||&Tray/Untray||Colocar/Tirar da Bandeja||Delete all backup entries before saving the database||Apagar todas entradas backup antes de guardar a base de dados|
+|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.||Quanto mais alto for este número, mais difíceis serão os ataques ao dicionário. No entanto, o aumento deste número deixa mais lento carregar e guardar a base de dados.||Use alternative auto-type method (minimize window)||Usar método de escrita automática alternativa (minimizar janela)||&KeePass Database...||Base de Dados KeePass...||Acknowledgements||Agradecimentos||Click [No] to set a new key for the exported file.||Clique [Não] para ajustar uma nova chave para o ficheiro exportado.||Click [Yes] to use the same key as the currently opened database.||Clique [Sim] para usar a mesma chave da base de dados aberta.||Create new IDs||Criar novas IDs||Deleting a group will delete all items and subgroups in that group, too.||Ao apagar um grupo, apagará também todos os ítens desse grupo.||Hide &User Names Behind Asterisks (***)||Esconder Nome de Utilizador atrás de asteriscos (***)||If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.||Se seleccionar esta opção, o KeePass irá criar novas IDs para todos os grupos e entradas. Consequentemente grupos e entradas inexistentes da base de dados aberta serão modificadas ou sobrescritas.||KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.||KeePass irá comparar a hora da última modificação dos grupos/entradas e substituirá os existentes apenas se encontrar mais novos.||KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.||KeePass irá substituir todos os grupos e entradas existentes por aqueles do ficheiro a ser importado se eles tiverem o mesmo ID.||Overwrite||Sobrescrever||Overwrite if newer||Sobrescrever se mais recente||Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.||Por favor escolha se o KeePass deveria usar o ficheiro da base de dados aberta ou pedir para definir uma nova chave para encriptar o ficheiro exportado.||Reuse the current key/password?||Reutilizar a chave/senha actual?||The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.||O formato do ficheiro que você seleccionou para importar suporta IDs de grupos e/ou entradas. Por favor escolha o comportamento de importação.||User Name||Nome de utilizador||Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)||Copiar URLs para área de transferência ao invés de executa-las (exceção: cmd:// URLs)||&Help||Ajuda||&TAN Wizard...||Assistente TAN||&Tools||Ferramentas||1 Month||1 Mês||1 Week||1 Semana||1 Year||1 Ano||2 Weeks||2 Semanas||3 Months||3 Meses||6 Months||6 Meses||Auto-Type Entry Selection||Selecção de entrada de escrita automatica||Click [No] to open the file in normal writing mode.||Clique [Não] para abrir o ficheiro no modo normal de escrita.||Click [Yes] to open the file in read-only mode.||Clique [Sim] para abrir o ficheiro em modo de leitura.||Click on an entry to auto-type it.||Clique numa entrada para escrever automaticamente||Exit program instead of locking the workspace after the specified time||Sair do programa ao invés de bloquear a área de trabalho depois do tempo determinado||Multiple entries exist for the current window. Please select the entry to auto-type.||Existem multiplas entradas na janela actual. Por favor seleccione a entrada para escrita automatica.||Now||Agora||Open the file in read-only mode?||Abrir o ficheiro no modo de leitura?||Password &Generator...||Gerador de Senha||Show &Toolbar||Mostrar Barra de Ferramentas|
+|TAN View &Options||Opções de Visualização TAN||The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.||O ficheiro que você está tentando abrir está bloqueado. Por exemplo, alguém o poderá ter aberto e estar a edita-lo no momento.||&Deny||Negado||&Full||Completo||&Help Contents||Conteúdo da Ajuda||&New...||Novo…||&Open...||Abrir||&Plugins...||Mini-Aplicações…||&Read-Only||Apenas Leitura||&Save||Guardar||'Keyfile' or 'preselect' option is already specified||Opção 'ficheiro-chave' ou 'Pre-selecção' já foi especificada||'Pw' option is already specified||Opção 'Pw' já foi especificada||An application requests access through inter-process communication||Uma aplicação requerer acesso através de comunicação inter-processual||An entry already exists for the current URL.||Já existe uma entrada para a URL actual.||Application||Aplicação|
+|Change &Master Key...||Mudar Chave-Mestra...||Command line argument||Argumento da linha de comando||Database is already specified||Base de dados já está especificada||Disable 'Save' button if the database hasn't been modified||Desactivar o botão 'Guardar' se a base de dados não for modificada||Do you grant the application access to your KeePass database?||Você permite que a aplicação aceda à base de dados KeePass?||Enable remote control (allow applications to communicate with KeePass)||Activar controle remoto (permitir aplicações comunicarem com o KeePass)||Fields to remember||Campos a lembrar||Filename not found||Nome de ficheiro não encontrado||Incoming IPC Request||Chegada de Requisição IPC||It contains an unmatched quote||Este contém uma aspas não encontrada.||KeePass Initialization||Inicialização do KeePass||Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).||Note que o título da aplicação foi fornecido pela aplicação requerente e talvez esteja incorrecto (um programa malicioso poderia tentar aceder à sua base de dados).||Option not recognized||Opção não reconhecida||Password is empty||Senha está vazia||Path is invalid||Caminho inválido||Plugins||Mini-Aplicações||Reason||Razão||Save &As...||Guardar Como…||Select the fields KeePass should remember||Seleccione os campos que o KeePass deverá lembrar||The following application requests access to your currently opened KeePass database:||A seguinte aplicação requer acesso à base de dados do KeePass aberta:||The group you selected cannot store entries. Please select a different group.||O grupo que seleccionou não pode armazenar entradas. Por favor seleccione um grupo diferente.||Unknown||Desconhecido||Value||Valor||You have the latest version.||Você tem a última versão.||ignored||ignorado||(Automatically generated passwords for new entries)||(Senhas automáticamente geradas para novas entradas)||(Custom)||(Personalizado)||A key file already exists on this drive. Do you want to overwrite or reuse it?||Um ficheiro-chave já existe no seu disco. Deseja sobrescreve-lo or reutiliza-lo?||All Files||Todos os ficheiros||Attachment Description||Descrição do Anexo||Brackets ([, ], {, }, (, ), <, >)||Parênteses ([, ], {, }, (, ), <, >)||CSV Files||Ficheiros CSV||Change Composite Master Key||Mudar Chave-Mestra Composta||Click [No] to reuse the selected key file for this database.||Clique [Não] para reutilizar o ficheiro-chave seleccionado para esta base de dados.||Click [Yes] to overwrite the key file.||Clique [Sim] para sobrescrever o ficheiro-chave.||Create New Password Database||Criar nova senha para a base de dados||Digits (0, 1, 2, ...)||Dígitos (0, 1, 2, ...)||EITHER enter a master password OR select a key file.||Introduza uma senha-mestra OU seleccione um ficheiro-chave.||Enter Composite Master Key||Introduza uma Chave-Mestra Composta||Enter Password:||Introduza a Senha:||Enter the composite master key.||Introduza a chave-mestra composta.||Enter the new composite master key.|| Introduza a nova chave-mestra composta.||Here you can generate a random password.||Aqui você pode gerar uma senha aleatória.||If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.||Se você notar algum problema com a melhoria deste método, volte para o método de limpeza da área de transferência por tempo.||KeePass Password Safe Files||Ficheiros KeePass Password Safe||Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).||Certifique-se que a mídia que contém o ficheiro-chave está inserida e que o KeePass tem permissão de acesso (verifique as permissões de acesso, certifique que nenhuma outra aplicações esteja bloqueando o ficheiro, ...).||Master Password:||Senha-Mestra:||Minus (-)||Menos (-)||Open Database||Abrir base de dados||Repeat Master Password||Repita Senha-Mestra||Repeat the master password for the new database.||Repita a senha-mestra para a nova base de dados.||Repeat the new master password for this database.||Repita a nova senha-mestra para esta base de dados.||Set Composite Master Key||Ajustar chave-mestra composta||Space ( )||Espaço ( )||Specify the composite master key.||Especifique a chave-mestra composta||Text Files||Ficheiros de Texto||The composite master key has been changed!||A chave-mestra composta foi alterada!||There are too few characters in the character set to build up a password matching the specified rules||Existem poucos caracteres no conjunto para criar uma senha que respeite as regras especificadas||Underline (_)||Sublinhado (_)||Use local date/time format instead of ISO notation||Usar formato de data e hora local ao invés da notação ISO||Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.||Atenção! É possível que esta opção não funcione correctamente no seu sistema, especialmente se você estiver usando ferramentas para melhoria/backup da área de transferência.||You've selected the AND key mode, so you must enter a password AND select a key file.||Você seleccionou o modo 'E'. Por isso você deve introduzir uma senha E seleccionar um ficheiro-chave|
+|&Always on Top||&Sempre Visível||&Attachment||&Anexo||&Creation Time||&Data de Criação||&Expiration Time||&Data de Expiração|
+|&Find in Database...||&Encontrar na Base de Dados...||&Get More Import Plugins...||&Obter mais Mini-Aplicações de importação...|
+|&Last Access Time||&Última Data de Acesso||&Use master password and key file||&Utilizar senha mestra e ficheiro chave|
+|(No key file selected)||(Não foi seleccionado o ficheiro chave)|
+|Also include the following characters:||Também incluir os seguintes caracteres:|
+|Arguments||Argumentos|
+|Choose an icon from the list of available entry and group icons.|
+|Escolher um ícone apartir da lista de entrada e grupo de ícones|
+|Choose an icon.||Escolher um ícone.|
+|Copy &URL to Clipboard||Copiar &URL para a Área de Transferência|
+|Create a new password entry.||Criar uma nova entrada de senha.|
+|Create a new password group.||Criar um novo grupo de senhas.|
+|Current settings||Configurações actuais|
+|Currently Used Language||Idioma utilizado actualmente|
+|Delete currently selected profile.||Apagar o perfil seleccionado.|
+|Exclude look-alike characters||Excluir caracteres idênticos|
+|Failed to save the configuration.||Falha ao guardar as configurações|
+
+|Find in t&his Group...||Encontrar neste Gr&upo|
+|Find what:||Encontrar o que:|
+|Generate using character set:||Gerar utilizando o conjunto de caracteres:|
+|Generate using pattern:||Gerar utilizando o padrão:|
+|Generated password||Senha gerada|
+|Get Random Data for Key Generation||Obter dados aleatórios na criação da senha|
+|Group name:||Nome do Grupo:|
+|Hide passwords behind asterisks (***).||Esconder senhas com asteriscos (***).|
+|High ANSI characters||Caracteres ANSI maiúsculos|
+|Language File Version||Versão do ficheiro de idioma|
+|Last &Modification Time||Última data de &Modificação|
+|Length of generated password:||Comprimento da senha gerada:|
+|Load Language File||Carregar ficheiro de idioma|
+|Load a Language File||Carregar um ficheiro de idioma|
+|Locked||Bloqueado|
+|Lower-case (a, b, c, ...)||Minúsculas (a, b, c, ...)|
+|Modify existing password entry.||Modificar entrada de senha existente.|
+|Modify existing password group.||Modificar grupo de senhas existentes.|
+|Move Entry to &Bottom||Mover entrda para o &Fim|
+|Move Entry to &Top||Mover entrada para o &Topo|
+|Move Group to &Bottom||Mover grupo para o &Fim|
+|Move Group to &Top||Mover grupo para o &Topo|
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
+|Colar suas TANs na caixa de edição de texto em baixo. Todos os caracteres que não são explicitamente especificados como caracteres TAN serão tratados como separadores, e somente as substrings consistindo de caraceteres TAN serão adicionadas como entradas TAN.|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
+|Por favor introduza um nome para o novo perfil de criação de senhas, ou seleccione um perfil existente para sobrescrevê-lo:|
+|Profile||Perfil|
+|Randomly permute characters of password||Permutar caracteres de senha aleatoriamente|
+|Repeat:||Repetir:|
+|Save as Profile||Guardar como Perfil|
+|Save current settings as a profile.||Guardar as configurações actuais como um perfil|
+|Save current settings as password generator profile.||Guardar as configurações actuais como um perfil criador de senhas|
+|Save key file manually to...||Guardar ficheiro chave em...|
+|Search Results||Resultados da Procura|
+|Select key file manually...||Seleccionar ficheiro chave manualmente...|
+|Show TAN &Indices in Entry Titles||Mostrar &Índices TAN nas Entradas de Título|
+|Show full path in the title bar (instead of file name only)||Mostrar caminho na Barra de Título (em vez de unicamente o nome do ficheiro)|
+|Special||Especial|
+|Start and exit||Iniciar e Sair|
+|TANs consist of the following characters:||TANS consiste nos seguintes caracteres:|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?|
+|O ficheiro de ajuda contém informação detalhada acerca do formato de entrada esperado. Deseja abrir o ficheiro de ajuda?|
+|Translation Author Contact||Contacto do Autor da Tradução|
+|UU&ID||UU&ID|
+|Upper-case (A, B, C, ...)||Maiúsculas (A, B, C, ...)|
+|Use &Mouse as Random Source||Utilizar &Rato como fonte aleatória|
+|Use &Simple List View for TAN-Only Groups||Utilizar Visualização de Lista &Simples para Grupos Somente-TAN|
+|User &name||&Nome de Utilizador|
+|User name:||Nome de Utilizador:|
+|&Group name||&Nome do Grupo|
+|Pick an Icon||Escolher um ícone|
+
+|Advanced Password Generator Options||Opções Avançadas do Gerador de Senhas|
+|Clear Search History||Limpar Histórico da Procura|
+|Collect additional &entropy||Recolher &entropia adicional|
+|Default user name for new entries:||Nome de utilizador padrão para novas entradas:|
+|Exclude the following characters:||Excluir os seguintes caracteres:|
+|Fields to print||Campos a imprimir|
+|Here you can customize the printed sheet.||Aqui pode configurar a folha de impressão.|
+|Key File||Ficheiro Chave|
+|Print Options||Opções de impressão|
+|Print backup entries (entries in the 'Backup' group)||Imprimir entradas de backup (entradas no grupo 'Backup')|
+|Provider||Provedor|
+
+|Regular expression||Expressão regular|
+|Search...||Procurar...|
+|TANs are imported into the currently selected group||TANS são importados para dentro do grupo actualmente seleccionado|
+|The key provider plugin did not supply a valid key||A chave providenciada pelo plugin não forneceu uma chave válida|
+|Type to search the database||Escreva para procurar na Base de Dados|
+|in "Minimal functionality" mode||em modo de "Funcionalidade Mínima"|
+|Abort specifying a new key for the current database.||Abortar especificando uma nova chave da base de dados actual.|
+|Abort the current operation.||Abortar a operação actual.|
+|Always grant full access through remote control (not recommended)||Garantir acesso total através de controlo remoto (não recomendado)|
+|An error occurred||Ocorreu um erro|
+|An error occurred while importing the file. File cannot be imported.||Um erro ocorreu durante a importação do ficheiro. O ficheiro não pode ser importado.|
+|Auto-Type: Help||Auto-Escrita: Ajuda|
+|Auto-Type: Select Target Window...||Auto-Escrita: Seleccionar Janela de Destino...|
+|Cancel||Cancelar|
+|Copy [of an item]||Cópia [de um ítem]|
+|Discard all changes made to the database and close the file.||Descartar todas as modificações feitas na base de dados e fechar o ficheiro.|
+|Discard all changes made to the database and exit KeePass.||Descartar todas as modificações feitas na base de dados e fechar o KeePass.|
+|Discard all changes made to the database and lock the KeePass workspace.||Descartar todas as modificações feitas na base de dados e bloquear a área de trabalho do KeePass.|
+|&Discard changes||&Descartar as modificações|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.||Gerar uma nova chave e sobreescrever o ficheiro com a chave existente. A chave armazenada no ficheiro será perdida.|
+|KeePass will not be closed.||KeePass não será fechado|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.||Carregar o ficheiro chave e usá-lo como a chave da base de dados actual. O ficheiro chave não será modificado.|
+|Lock workspace when locking Windows, switching user or sleeping||Bloquear o KeePass quando bloquear o Windows, trocar de utilizador ou hibernar|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.||Opções/regras marcadas com um asterísco reduz a segurança das senhas criadas. Apenas ligar se forçado a seguir essas regras pelo website, aplicação ou política de senhas.|
+|Overwrite existing key file?||Sobreescrever o ficheiro chave existente?|
+|Reuse||Reutilizar|
+|Save||Guardar|
+|Save all changes made to the database and close the file.||Guardar todas as modificações da base de dados e fechar o ficheiro.|
+|Save all changes made to the database and exit KeePass.||Guardar todas as modificações da base de dados e fechar o KeePass.|
+|Save all changes made to the database and lock the KeePass workspace.||Guardar todas as modificações da base de dados e bloquear a área de trabalho do KeePass.|
+|Save database changes before closing the file?||Guardar modificações da base de dados antes de fechar o ficheiro?|
+|Save database changes before exiting KeePass?||Guardar modificações da base de dados antes de sair do KeePass?|
+|Save database changes before locking the workspace?||Guardar modificações da base de dados antes de bloquear a área de trabalho?|
+|Select the target window for the current entry.||Seleccionar a janela de destino para a entrada actual.|
+|The KeePass workspace will not be locked.||A área de trabalho do KeePass não será bloqueada.|
+|The current database file has been modified||O ficheiro da base de dados actual foi modificado|
+|The estimated quality of the master password must be at least %u bits!||A qualidade estimada da senha mestra deverá ser de, pelo menos, %u bits!|
+|The file will not be closed.||O ficheiro não será fechado.|
+|The master password must be at least %u characters long!||A senha mestra deverá ter, pelo menos, um comprimento de %u charácteres!|
+|The selected key file already exists||O ficheiro chave seleccionado já existe|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:||Para especificar a janela de destino, seleccione uma janela aberta desde a lista, ou introduza o título da janela manualmente:|
+|URL Field: Help||Campo URL: Ajuda|
+|URL Field: Insert Placeholder||Campo URL: Introduzir um Campo|
+|URL Field: Select Application...||Campo URL: Seleccionar Aplicação...|
+|URL Field: Select Document...||Campo URL: Seleccionar Documento...|
+|Default auto-type sequence for standard entries:||Sequência padrão de escrita automática para entradas padronizadas:|
+|Drop to background when copying data to the clipboard||Deixar em fundo quando copiar dados para a área de transferência|
+|Enable auto-type features||Habilitar as capacidades de escrita automática|
+|Field to reference||Campo para referência|
+|Here you can configure auto-type.||Aqui poderá configurar a escrita automática|
+|Identify source entry by||Identificar entrada fonte por|
+|In Notes Field||No Campo das Notas|
+|In Password Field||No Campo das Palavras Passe|
+|In Title Field||No Campo do Título|
+|In URL Field||No Campo URL|
+|In User Name Field||No Campo Nome de Utilizador|
+|Insert Field Reference||Inserir Referência do Campo|
+|Multiple entries match the specified identifying field.||Múltiplas entradas coincidem com o campo de identificação especificado|
+|Prepend special initialization sequence for Internet Explorer windows||Sequência de inicialização especiais para as janelas do Internet Explorer|
+|Source field to reference||Campo fonte para a referência|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.||O ficheiro alvo pode estar num estado de corrompido. Por favor, tente guardar novamente e, se isso falhar, guarde o banco de dados para um local diferente.|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.||Para evitar equívocos, as entradas podem ser identificadas pelas suas UUIDs, que são únicos.|
+|&Modify All Selected...||&Modificar Todos os Seleccionados...|
+|Auto-Type: Customize Sequence||Auto-Escrita: Sequência Modificada|
+|Clear clipboard when closing/locking the database||Limpar Área de Transferência quando fechar/bloquear a base de dados|
+|Exclude &expired entries||Excluir entradas &expiradas|
+|Normal||Normal|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.||Abrir o ficheiro em modo de leitura. As modificações da base de dados serão guardadas num ficheiro diferente.|
+|Read-only||Modo Só de Leitura|
+|Sort items in the auto-type entry selection dialog||Mostrar items na entrada de auto-escrita no diálogo de selecção|
+|Take ownership of the file and open it in normal writing mode.||Tomar o ficheiro como proprietário e abri-lo no modo normal de escrita.|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).||O campo seleccionado, que identifica a entrada da fonte, contém carácteres não válidos (como '{', '}', de linha, ...).|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.||Pode seleccionar uma combinação diferente da chave Hot em 'Ferramentas' - 'Opções' - 'Avançadas' - 'Auto-Escrita'.|
+|Automatically save when closing/locking the database||Guardar automaticamente ao fechar/bloquear a base de dados|
+|&Delete Group...||&Apagar Grupo...|
+|Add &Group...||Adicionar &Grupo...|
+|Add Su&bgroup...||Adicionar Su&bgrupo...|
+|Choose between local help and online help center.||Escolha entre Centro de Ajuda Local ou Centro de Ajuda Online|
+|Copy &Password||Copiar &Senha|
+|Copy User &Name||Copiar &Nome de Utilizador|
+|Ed&it Group...||Ed&itar Grupo...|
+|Get more plugins...||Obtenha mais mini-aplicações...|
+|Help &Source...||Ajuda &Fonte...|
+|Help Source||Fonte da Ajuda|
+|Local help file||Ficheiro de Ajuda Local|
+|Online help center||Centro de Ajuda Online|
+|Show &Expired Entries||Mostrar as Entradas &Caducadas|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.||O ficheiro de ajuda local é uma amostra da documentação do produto na altura em que a versão é publicada. Não actualiza automaticamente.|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.||O centro de ajuda online contém a última versão da documentação do produto. É necessária uma ligação à Internet.|
+|This option is disabled, because local help is not installed.||Esta opção está desligada, porque o ficheiro de ajuda local não está instalado.|
+
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)||Usar protecção avançada da memória (DPAPI, só em Windows Vista ou superior)|
+|Use the following help source when a "Help" button within KeePass is clicked:||Usar a seguinte fonte de ajuda quando clicar o botão "Ajuda":|
+|%u updates are available!||%u actualizações disponíveis|
+|1 update is available!||1 actualização disponível|
+|Available||Disponível|
+|Check For Updates||Verificar Por actualizações|
+|Check for Updates||Verificar por actualizações|
+|Check for updates at KeePass startup||Verificar por actualizações ao iniciar o KeePass|
+|Component||Componente|
+|Connect failed, cannot check for updates.||A ligação falhou, não se pode verificar as actualizações|
+|Delete TAN entries immediately after using them||Apagar entradas TAN imediatamente depois da utilização|
+|Installed||Instalado|
+|KeePass 1.x cannot open KDBX files.||KeePass 1.x não pode abrir ficheiros KBDX|
+|New version available.||Nova versão disponível|
+|No updates available.||Não há actualizações disponíveis|
+|Please choose a different name.||Por favor escolha outro nome|
+|Plugin unknown.||Mini-aplicação desconhecida|
+|Pre-release version.||Versão de prelançamento|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.||Associação do KeePass com os ficheiros .kdb! Um duplo clique no ficheiro com extensão .kdb iniciará o KeePass automaticamente.|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.||Associação removida com sucesso! KeePass não iniciará quando realizar duplo clique num ficheiro .kdb.|
+|The specified name is reserved.||O nome especificado está reservado.|
+|Up to date.||Actualizado.|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)||Use CNG/BCrypt para as transformações da chave (somente Windows Vista e superior)|
+|Use the KeePass 2.x 'Export' feature to migrate this file||Use a característica de exportação do KeePass 2.x para migrar para este ficheiro|
+|Version||Versão|
+|Workspace is locked.||Espaço de trabalho bloqueado|
+|see the <A HREF="h">help manual</A> for details.||Ver o <A HREF="h">manual de ajuda</A> para detalhes.|
+|Ctrl||Ctrl|
+|Lock workspace after the following idle time (seconds):||Bloquear a áre a trabalho após o seguinte tempo de inactividade (segundos):|
+|Sort List by &Creation Time||Ordenar Listagem por Data de &Criação|
+|Sort List by &Expiration Time||Ordenar Listagem por Data de &Expiração|
+|Sort List by &Password||Ordenar Listagem por &Senhas|
+|Sort List by &Title||Ordenar Listagem por &Título|
+|Sort List by &URL||Ordenar Listagem por &URL|
+|Sort List by Last &Access Time||Ordenar Listagem pela Última Data de &Acesso|
+|Sort List by Last &Modify Time||Ordenar Listagem pela Última Data de &Modificação|
+|Sort List by Note&s||Ordenar Listagem pelos Comentá&rios|
+|Sort List by User &Name||Ordenar Listagem por &Nome de Utilizador|
+|Use file transactions for writing databases||Utilizar ficheiro de transacções para escrever as bases de dados|
+|Minimize main window after locking the workspace||Minimizar a janela principal depois de bloquear a área de trabalho|
+|Each character must occur at most once||Cada caracter deve ocorrer no máximo uma vez|
+|KeePass &Website||&Página do KeePass|
+|KeePass Website||Página do KeePass|
+|Remember key sources (key file paths, provider names, ...)||Lembrar a origem das chaves (localização dos ficheiros chave, provedor de nomes, ...)|
+|&No||&Não|
+|&Yes||&Sim|
+|Custom database color:||Cor personalizada da Base de dados:|
+|Ensure same keyboard layouts during auto-type||Garantir o mesmo esquema de teclado durante a escrita automática|
+|Select &Notes Font||Seleccionar o tipo de letra das &Notas|
+|{PARAM} more entries||{PARAM} mais entradas|
+|The database is empty||A base de dados está vazia|
+
+|Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.||Verificações de atualização automáticas são realizadas sem intrusão em pano de fundo. A notificação só é exibida quando uma atualização estiver disponível. As atualizações não são baixadas ou instaladas automaticamente.|
+|Database files cannot be used as key files.||Ficheiros de base de dados não podem ser usados como arquivos-chave.|
+|Enable automatic update check?|| Habilitar verificação de atualização automática?|
+|Focus entry list after a successful quick search||Concentre a lista de entrada depois de uma procura rápida bem sucedida.|
+|Include backup entries in quick searches||Incluir entradas de backup nas pesquisas rápidas|
+|Include expired entries in quick searches||Incluir entradas caducadas nas pesquisas rápidas|
+|KeePass can automatically check for updates on each program start.||KeePass pode verificar automaticamente as atualizações em cada início do programa.|
+|No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.||Nenhuma informação pessoal é enviada para o servidor web do KeePass. O KeePass apenas faz o download de um pequeno arquivo de informações de versão e compara a versão disponível com a versão instalada.|
+|Quick search (toolbar)||Pesquisa rápida (barra de ferramentas)|
+|Show tray icon only if main window has been sent to tray||Mostrar ícone, da bandeja de sistema, somente se a janela principal foi enviada para a área de tarefas|
+|recommended||recomendado|
+
+|Are you sure you want to attempt to repair a database file?||Tem a certeza que quer tentar reparar o ficheiro da base de dados?|
+|In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.||No modo de reparação, a integridade dos dados não é verificada (de modo a reparar a maior quantidade de dados possível). Quando a integridade de dados não é executada, dados corrompidos/maliciosos poderão estar incorporados na base de dados.|
+|Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.||Assim, a funcionalidade de reparo só deve ser usado quando realmente não há outra solução. Se o usar, depois deve verificar cuidadosamente toda a sua base de dados para identificar dados corrompidos/maliciosos.|
+|Warning||Aviso|
+|&Export||&Exportar|
+|&Export Group||&Exportar Grupo|
+|&Import||&Importar|
+|&Repair Database File...||&Reparar Base de Dados...|
+|Press Shift+Home or Shift+End to clear this edit control||Pressione Shift+Home ou Shift+End para limpar esta edição de controlo|
+|Saving database...||Guardando a base de dados...|
+|ch.||Caract.|
+|OK||OK|
+|Select &Password Font||Selecione a fonte da &Senha|
+|Accept this password?||Aceitar esta senha?|
+|Delete &attachments||Apagar &anexos|
+|The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.||A senha gerada contém um espaço reservado. Ao utilizar esta senha (por exemplo, copiando-a para a área de transferência ou auto-digitando-a), o espaço reservado será substituído, ou seja efetivamente uma senha diferente poderá ser usada.|
+
+|Auto-&Sort Entry List||&Ordenar-Automático Lista de Entrada|
+|Auto-sorting of the entry list is enabled; you cannot move entries manually.||Ordenação automática da lista de entrada está ligado; não pode mover as entradas manualmente|
+|Auto-sorting of the entry list is enabled; you cannot sort the list manually now.||Ordenação automática da lista de entrada está ligado; não pode ordenar as listas manualmente|
+|Entry List||Lista de Entrada|
+|Find a string in the entry list.||Encontrar uma sequência na lista de entrada|
+|Group||Grupo|
+|Mark database as modified on last access time change||Marcar base de dados como modificada no último acesso de mudança de hora|
+|Show grid lines in the entry list||Mostrar linhas da grelha na lista de entrada|
+|~LANGISO6391CODE||pt|
+|The regular expression is invalid.||A expressão regular é inválida.|
+|Register Ctrl+Alt+K hot key (brings the KeePass window to front)||Registar a combinação Ctrl+Alt+K (traz a janela do KeePass para frente)|
+|Translation Information||Informação da Tradução|
+|Tray icon||Ícone da bandeja do sistema|
+
+|Failed to attach file:||Falha ao anexar o ficheiro:|
+|Out of memory||Sem memória|
+|The attachment is too large||O anexo é muito grande|
